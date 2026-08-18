@@ -1,0 +1,38 @@
+{
+  "contentRevision": 1,
+  "updatedAt": "2026-08-18T19:40:00Z",
+  "version": 5,
+  "mode": "native",
+  "viewport": {"width":360,"height":170,"source":"calc medium iPhone 16 Pro"},
+  "viewportPolicy": "bestEffort",
+  "refreshMinutes": 15,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "padding": [8,12,8,12],
+    "layoutMode": "deterministic",
+    "background": {"type":"gradient","colors":["#E8F3FF","#D4E8FF"],"start":[0,0],"end":[1,1]},
+    "root": {
+      "type":"stack","direction":"column","width":"fill","height":"fill","layoutMode":"deterministic",
+      "children": [
+        {"type":"stack","direction":"row","width":"fill","height":28,"children":[
+          {"type":"text","text":"tornado — 12:41p","font":{"size":12,"weight":"semibold"},"color":"#0F172A"},
+          {"type":"spacer"},
+          {"type":"symbol","name":"sparkles","size":14,"color":"#6366F1"}
+        ]},
+        {"type":"text","text":"feed.json live — permanent url ready","font":{"size":13,"weight":"medium"},"color":"#1E293B"},
+        {"type":"stack","direction":"row","width":"fill","height":84,"children":[
+          {"type":"stack","direction":"column","width":152,"height":84,"background":"#FFFFFF","radius":12,"padding":[8,8,8,8],"children":[
+            {"type":"text","text":"widget-feed","font":{"size":11,"weight":"bold"},"color":"#0F172A"},
+            {"type":"text","text":"public raw url","font":{"size":10},"color":"#64748B"}
+          ]},
+          {"type":"spacer"},
+          {"type":"stack","direction":"column","width":152,"height":84,"background":"#0F172A","radius":12,"padding":[8,8,8,8],"children":[
+            {"type":"text","text":"v5 ready","font":{"size":11,"weight":"bold"},"color":"#E8F3FF"},
+            {"type":"text","text":"contentRevision 1","font":{"size":10},"color":"#94A3B8"}
+          ]}
+        ]},
+        {"type":"text","text":"52% day • permanent","font":{"size":10},"color":"#64748B"}
+      ]
+    }
+  }
+}
