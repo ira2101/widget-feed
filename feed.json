@@ -1,8 +1,8 @@
 {
   "version": 5,
   "mode": "native",
-  "contentRevision": 44,
-  "updatedAt": "2026-08-19T08:41:06Z",
+  "contentRevision": 45,
+  "updatedAt": "2026-08-19T09:39:42Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "padding": [
@@ -32,7 +32,7 @@
       "direction": "column",
       "width": "fill",
       "height": "fill",
-      "gap": 10,
+      "gap": 8,
       "padding": [
         8,
         10,
@@ -44,13 +44,13 @@
           "type": "stack",
           "direction": "row",
           "width": "fill",
-          "height": 20,
+          "height": 18,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 quiet",
+              "text": "tornado \u2022 steady",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -60,7 +60,7 @@
             },
             {
               "type": "text",
-              "text": "1:38a",
+              "text": "2:38a",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -73,162 +73,103 @@
         {
           "type": "stack",
           "direction": "row",
-          "width": "fill",
-          "height": 84,
-          "gap": 10,
+          "width": 324,
+          "height": 48,
+          "radius": 12,
+          "background": {
+            "type": "color",
+            "color": "#FFFFFF"
+          },
+          "padding": [
+            10,
+            12,
+            8,
+            12
+          ],
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "gap": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "2:38a steady",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
+                  },
+                  "color": "#1F2F47",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "close & breathe",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#6B86A9",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "symbol",
+              "name": "wind",
+              "size": 14,
+              "color": "#7AA3D0"
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 36,
+          "gap": 8,
           "children": [
             {
               "type": "stack",
               "direction": "column",
               "width": 100,
-              "height": 84,
-              "gap": 8,
+              "height": 36,
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#FFFBEB"
+              },
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "gap": 1,
+              "url": "x-apple-calevent://",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 100,
-                  "height": 38,
-                  "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFBEB"
+                  "type": "text",
+                  "text": "focus now",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
                   },
-                  "url": "x-apple-calevent://",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "still here",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#1F2F47",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "now \u2022 slow",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#6B86A9",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#1F2F47",
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 100,
-                  "height": 38,
-                  "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#DCEBFF"
+                  "type": "text",
+                  "text": "one thing",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
                   },
-                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "night drift",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#2A3E5E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "wallpaper \u2192",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#5A7AA8",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 104,
-              "height": 84,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "background": {
-                    "type": "image",
-                    "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/tornado-1715.jpg"
-                  },
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "padding": [
-                        4,
-                        10,
-                        4,
-                        10
-                      ],
-                      "radius": 8,
-                      "background": {
-                        "type": "color",
-                        "color": "#00000066"
-                      },
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "night still",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "color": "#FFFFFF",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "breathe here",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "color": "#C7D9FF",
-                          "lineLimit": 1
-                        }
-                      ]
-                    }
-                  ]
+                  "color": "#7A8FB0",
+                  "lineLimit": 1
                 }
               ]
             },
@@ -236,90 +177,81 @@
               "type": "stack",
               "direction": "column",
               "width": 100,
-              "height": 84,
-              "gap": 8,
+              "height": 36,
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#DCEBFF"
+              },
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "gap": 1,
+              "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 100,
-                  "height": 38,
-                  "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF"
+                  "type": "text",
+                  "text": "calm",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
                   },
-                  "url": "https://x.com/search?q=Messenger+Android",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Messenger",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#2E4260",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "live \u2192 X",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#5A769E",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#2A3E5E",
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 100,
-                  "height": 38,
-                  "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#1A2F4F"
+                  "type": "text",
+                  "text": "wallpaper \u2192",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "9.82K",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "180 to go",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#8AA4C8",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#5A7AA8",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 108,
+              "height": 36,
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#1A2F4F"
+              },
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "gap": 1,
+              "url": "https://x.com/search?q=Messenger+Android",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Messenger",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "color": "#FFFFFF",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "live \u2192 X",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
+                  },
+                  "color": "#8AA4C8",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -329,13 +261,13 @@
           "type": "stack",
           "direction": "row",
           "width": "fill",
-          "height": 18,
+          "height": 12,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
               "type": "text",
-              "text": "night \u2022 still \u2022 near",
+              "text": "dawn \u2022 steady \u2022 near",
               "font": {
                 "size": 8,
                 "weight": "regular"
@@ -345,7 +277,7 @@
             },
             {
               "type": "symbol",
-              "name": "moon.stars",
+              "name": "sparkles",
               "size": 9,
               "color": "#7A8FB0"
             }
