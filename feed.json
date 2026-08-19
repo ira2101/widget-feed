@@ -1,1 +1,310 @@
-{"contentRevision":55,"mode":"native","version":5,"updatedAt":"2026-08-19T18:14:31.044566Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"background":{"type":"gradient","colors":["#0F1D30","#162A44"],"start":[0,0],"end":[1,1]},"layoutMode":"deterministic","padding":[8,8,8,8],"root":{"type":"stack","direction":"column","width":"fill","height":"fill","padding":[8,10,8,10],"gap":10,"children":[{"type":"stack","direction":"row","width":"fill","height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"tornado \u2022 midnight","font":{"size":10,"weight":"semibold"},"color":"#E8EEFF","lineLimit":1},{"type":"text","text":"11:14am","font":{"size":9,"weight":"medium"},"color":"#7A8AA8","lineLimit":1}]},{"type":"stack","direction":"row","width":"fill","height":84,"gap":10,"children":[{"type":"stack","width":194,"height":84,"radius":12,"background":{"type":"color","color":"#FFFFFF"},"padding":[8,12,6,12],"direction":"column","gap":3,"justifyContent":"space-between","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","width":"fill","justifyContent":"space-between","alignItems":"center","children":[{"type":"stack","direction":"column","gap":2,"children":[{"type":"text","text":"you kept me sharp","font":{"size":11,"weight":"bold"},"color":"#1A2A45","lineLimit":1},{"type":"text","text":"9.83K \u2022 170 to go","font":{"size":9,"weight":"medium"},"color":"#5B7696","lineLimit":1}]},{"type":"symbol","name":"sparkles","size":12,"color":"#5A7FCC"}]},{"type":"stack","direction":"row","width":"fill","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"midnight edit \u2022 thx","font":{"size":8,"weight":"medium"},"color":"#8AA0BE","lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":9,"color":"#8AA0BE"}]}]},{"type":"stack","direction":"column","width":120,"height":84,"gap":8,"children":[{"type":"stack","width":120,"height":38,"radius":11,"background":{"type":"color","color":"#FFEED5"},"padding":[6,10,4,10],"direction":"column","gap":2,"justifyContent":"center","url":"https://maps.apple.com/?q=Bamboo+Massage+2286+Union+St+San+Francisco","children":[{"type":"text","text":"Map Bamboo","font":{"size":9,"weight":"bold"},"color":"#3A2A1F","lineLimit":1},{"type":"text","text":"\u2192 2286 Union","font":{"size":8,"weight":"medium"},"color":"#8A7A6A","lineLimit":1}]},{"type":"stack","width":120,"height":38,"radius":11,"background":{"type":"color","color":"#22345A"},"padding":[6,10,4,10],"direction":"column","gap":2,"justifyContent":"center","url":"https://x.com/search?q=Messenger+Android","children":[{"type":"text","text":"Quiet boards","font":{"size":9,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"Clean \u2022 X","font":{"size":8,"weight":"medium"},"color":"#9AB0D0","lineLimit":1}]}]}]},{"type":"stack","direction":"row","width":"fill","height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"dark allowed \u2022 sharp now","font":{"size":8,"weight":"medium"},"color":"#9AB0D0","lineLimit":1},{"type":"text","text":"\u2192 Cal \u2022 X \u2022 Map","font":{"size":8,"weight":"medium"},"color":"#7A8AA8","lineLimit":1}]}]}}}
+{
+  "contentRevision": 56,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-19T18:40:09Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": [
+        "#FFF6E5",
+        "#FFEED5"
+      ],
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    "layoutMode": "deterministic",
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": "fill",
+      "height": "fill",
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "gap": 10,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado \u2022 light",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#3A2A1F",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "11:38a",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#8A7A6A",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "column",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 38,
+              "radius": 12,
+              "background": {
+                "type": "color",
+                "color": "#FFFFFF"
+              },
+              "padding": [
+                8,
+                12,
+                6,
+                12
+              ],
+              "direction": "column",
+              "gap": 2,
+              "justifyContent": "center",
+              "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "width": "fill",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "midday holds you",
+                      "font": {
+                        "size": 11,
+                        "weight": "semibold"
+                      },
+                      "color": "#2B2118",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "sun.max",
+                      "size": 11,
+                      "color": "#D4A574"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "light stays \u2022 breathe now",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#8A7A6A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "width": 324,
+              "height": 36,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#EAF2FF"
+                  },
+                  "padding": [
+                    6,
+                    10,
+                    4,
+                    10
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://calendar.apple.com",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "now slow",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#324766",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "one thing",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#6A86A8",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF"
+                  },
+                  "padding": [
+                    6,
+                    10,
+                    4,
+                    10
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.83K",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#2B2118",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "170 to go",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#8A7A6A",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#22345A"
+                  },
+                  "padding": [
+                    6,
+                    10,
+                    4,
+                    10
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://x.com/search?q=Messenger+Android",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Quiet",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "\u2192 X clean",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#9AB0D0",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "warm peach \u2022 useful",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "color": "#9A8A7A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Cal \u2022 Exit \u2022 X",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "color": "#8A7A6A",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
