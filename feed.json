@@ -1,8 +1,8 @@
 {
   "version": 5,
   "mode": "native",
-  "contentRevision": 38,
-  "updatedAt": "2026-08-19T06:05:44.230789Z",
+  "contentRevision": 39,
+  "updatedAt": "2026-08-19T06:13:53.651905Z",
   "widgetURL": "https://maps.apple.com/?q=Bamboo+Massage+Union+St",
   "native": {
     "padding": [
@@ -15,8 +15,8 @@
     "background": {
       "type": "gradient",
       "colors": [
-        "#FEF9E8",
-        "#DCEFFF"
+        "#FFF6D8",
+        "#D9ECFF"
       ],
       "start": [
         0,
@@ -50,22 +50,22 @@
           "children": [
             {
               "type": "text",
-              "text": "tama \u2022 farm bigger",
+              "text": "farm \u2022 two friends",
               "font": {
                 "size": 10,
                 "weight": "semibold"
               },
-              "color": "#4A3A2A",
+              "color": "#5A4A2A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "11:06p",
+              "text": "11:14p",
               "font": {
                 "size": 9,
                 "weight": "medium"
               },
-              "color": "#8AA4C8",
+              "color": "#7A8FB0",
               "lineLimit": 1
             }
           ]
@@ -82,37 +82,37 @@
               "direction": "column",
               "width": 157,
               "height": 84,
-              "gap": 5,
+              "gap": 4,
               "padding": [
+                6,
+                10,
                 4,
-                8,
-                4,
-                8
+                10
               ],
-              "radius": 12,
+              "radius": 14,
               "background": {
                 "type": "color",
-                "color": "#FFFFFF"
+                "color": "#FFFBEB"
               },
-              "url": "x-apple-calevent://",
               "alignItems": "center",
               "justifyContent": "center",
+              "url": "x-apple-calevent://",
               "children": [
                 {
                   "type": "image",
                   "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/sheep-tama-2237.jpg",
-                  "width": 58,
-                  "height": 58,
-                  "radius": 29
+                  "width": 62,
+                  "height": 62,
+                  "radius": 31
                 },
                 {
                   "type": "text",
-                  "text": "tama slow \u2022 180 left",
+                  "text": "tama sheep",
                   "font": {
                     "size": 9,
                     "weight": "bold"
                   },
-                  "color": "#2A3E5E",
+                  "color": "#3A2E1A",
                   "lineLimit": 1
                 }
               ]
@@ -122,32 +122,32 @@
               "direction": "column",
               "width": 157,
               "height": 84,
-              "gap": 5,
+              "gap": 4,
               "padding": [
+                6,
+                10,
                 4,
-                8,
-                4,
-                8
+                10
               ],
-              "radius": 12,
+              "radius": 14,
               "background": {
                 "type": "color",
-                "color": "#FFFFFF"
+                "color": "#EEF6FF"
               },
-              "url": "https://www.google.com/maps/search/Bamboo+Massage+Union+St",
               "alignItems": "center",
               "justifyContent": "center",
+              "url": "https://x.com/search?q=Messenger+Android",
               "children": [
                 {
                   "type": "image",
-                  "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/sheep-tama-2237.jpg",
-                  "width": 56,
-                  "height": 56,
-                  "radius": 28
+                  "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/cloud-tama-2237.jpg",
+                  "width": 62,
+                  "height": 62,
+                  "radius": 31
                 },
                 {
                   "type": "text",
-                  "text": "farm calm \u2022 quiet",
+                  "text": "cloud buddy",
                   "font": {
                     "size": 9,
                     "weight": "bold"
@@ -169,12 +169,12 @@
           "children": [
             {
               "type": "text",
-              "text": "bigger tama uses space \u2022 no Kerala loop",
+              "text": "two different clips, cream + blue contrast",
               "font": {
                 "size": 8,
                 "weight": "medium"
               },
-              "color": "#7A5A3A",
+              "color": "#7A6A4A",
               "lineLimit": 1
             }
           ]
