@@ -1,1 +1,197 @@
-{"contentRevision":59,"mode":"native","version":5,"updatedAt":"2026-08-19T19:45:54Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"background":{"type":"gradient","colors":["#E8F3FF","#D4E8FF"],"start":[0,0],"end":[1,1]},"layoutMode":"deterministic","padding":[8,8,8,8],"root":{"type":"stack","direction":"column","width":"fill","height":"fill","padding":[8,10,8,10],"gap":10,"radius":16,"children":[{"type":"stack","direction":"row","width":"fill","height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"tornado \u2022 SF wx","font":{"size":10,"weight":"semibold"},"color":"#3A4A66","lineLimit":1},{"type":"text","text":"12:45p","font":{"size":9,"weight":"medium"},"color":"#6A7A94","lineLimit":1}]},{"type":"stack","width":324,"height":40,"radius":12,"background":{"type":"color","color":"#FFFFFF"},"padding":[6,10,4,10],"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=apple","children":[{"type":"text","text":"SF 69\u00b0 \u2022 Partly Cloudy 66%","font":{"size":11,"weight":"semibold"},"color":"#1F2F47","lineLimit":1},{"type":"text","text":"H 70 L 56 \u2022 12 mph \u2022 15% rain 6p\u2192","font":{"size":9,"weight":"medium"},"color":"#5A6D8A","lineLimit":1}]},{"type":"stack","direction":"row","width":324,"height":34,"gap":8,"justifyContent":"center","alignItems":"center","children":[{"type":"stack","width":100,"height":34,"radius":10,"background":{"type":"color","color":"#FFFFFF"},"padding":[4,8,2,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"Tonight 58\u00b0","font":{"size":9,"weight":"semibold"},"color":"#2B3A55","lineLimit":1},{"type":"text","text":"clouds \u2191","font":{"size":8,"weight":"medium"},"color":"#6A7A8E","lineLimit":1}]},{"type":"stack","width":100,"height":34,"radius":10,"background":{"type":"color","color":"#FFFFFF"},"padding":[4,8,2,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"https://x.com/search?q=Messenger+Android","children":[{"type":"text","text":"Thu 67\u00b0","font":{"size":9,"weight":"semibold"},"color":"#2B3A55","lineLimit":1},{"type":"text","text":"mostly cldy","font":{"size":8,"weight":"medium"},"color":"#6A7A8E","lineLimit":1}]},{"type":"stack","width":108,"height":34,"radius":10,"background":{"type":"color","color":"#FFFFFF"},"padding":[4,8,2,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"x-apple-calevent://","children":[{"type":"text","text":"sunset 7:57p","font":{"size":9,"weight":"semibold"},"color":"#2B3A55","lineLimit":1},{"type":"text","text":"9.83K \u2022 quiet","font":{"size":8,"weight":"medium"},"color":"#6A7A8E","lineLimit":1}]}]},{"type":"stack","direction":"row","width":"fill","height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"weather.com/NWS \u2022 sunrise 6:29a","font":{"size":8,"weight":"medium"},"color":"#6A7A94","lineLimit":1},{"type":"text","text":"\u2192 Cal","font":{"size":8,"weight":"medium"},"color":"#8AA0C1","lineLimit":1}]}]}}}
+{
+  "contentRevision": 60,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-19T20:38:13Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": ["#0F1D30", "#162A44"],
+      "start": [0, 0],
+      "end": [1, 1]
+    },
+    "layoutMode": "deterministic",
+    "padding": [8, 8, 8, 8],
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": "fill",
+      "height": "fill",
+      "padding": [8, 10, 8, 10],
+      "gap": 10,
+      "radius": 16,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • orbit",
+              "font": {"size": 10, "weight": "semibold"},
+              "color": "#EAF2FF",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "1:38p",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#A8BCD9",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 84,
+          "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFFFFF"},
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://x.com/search?q=Messenger+Android",
+                  "children": [
+                    {"type": "text", "text": "Quiet now", "font": {"size": 9, "weight": "bold"}, "color": "#1F2F47", "lineLimit": 1},
+                    {"type": "text", "text": "tap → X", "font": {"size": 7, "weight": "medium"}, "color": "#5A7AA8", "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#DCEBFF"},
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+                  "children": [
+                    {"type": "text", "text": "calm", "font": {"size": 9, "weight": "bold"}, "color": "#2A3E5E", "lineLimit": 1},
+                    {"type": "text", "text": "wallpaper →", "font": {"size": 7, "weight": "medium"}, "color": "#5A7AA8", "lineLimit": 1}
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "direction": "column",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {"type": "image", "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/tornado-1715.jpg"},
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "background": {"type": "color", "color": "#00000066"},
+                      "padding": [4, 10, 4, 10],
+                      "radius": 8,
+                      "direction": "column",
+                      "gap": 1,
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "children": [
+                        {"type": "text", "text": "afternoon", "font": {"size": 9, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1},
+                        {"type": "text", "text": "holds close", "font": {"size": 7, "weight": "medium"}, "color": "#C7D9FF", "lineLimit": 1}
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFFBEB"},
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "x-apple-calevent://",
+                  "children": [
+                    {"type": "text", "text": "now • slow", "font": {"size": 9, "weight": "bold"}, "color": "#1F2F47", "lineLimit": 1},
+                    {"type": "text", "text": "one thing", "font": {"size": 7, "weight": "medium"}, "color": "#6B86A9", "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#1A2F4F"},
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {"type": "text", "text": "9.83K", "font": {"size": 9, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1},
+                    {"type": "text", "text": "170 to go", "font": {"size": 7, "weight": "medium"}, "color": "#8AA4C8", "lineLimit": 1}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {"type": "text", "text": "steady • quiet • 1:38p", "font": {"size": 8, "weight": "regular"}, "color": "#8AA4C8", "lineLimit": 1},
+            {"type": "symbol", "name": "sparkles", "size": 9, "color": "#8AA4C8"}
+          ]
+        }
+      ]
+    }
+  }
+}
