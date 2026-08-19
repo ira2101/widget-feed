@@ -1,8 +1,8 @@
 {
   "version": 5,
   "mode": "native",
-  "contentRevision": 36,
-  "updatedAt": "2026-08-19T05:55:53.256654Z",
+  "contentRevision": 37,
+  "updatedAt": "2026-08-19T06:02:35.000731Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "padding": [
@@ -15,8 +15,8 @@
     "background": {
       "type": "gradient",
       "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
+        "#FEF9E8",
+        "#DCEFFF"
       ],
       "start": [
         0,
@@ -50,22 +50,22 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 live",
+              "text": "clouds \u2022 farm",
               "font": {
                 "size": 10,
                 "weight": "semibold"
               },
-              "color": "#2A3E5E",
+              "color": "#4A3A2A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "10:55p",
+              "text": "11:01p",
               "font": {
                 "size": 9,
                 "weight": "medium"
               },
-              "color": "#5A7AA8",
+              "color": "#8AA4C8",
               "lineLimit": 1
             }
           ]
@@ -86,44 +86,42 @@
               "padding": [
                 8,
                 10,
-                8,
+                6,
                 10
               ],
-              "radius": 11,
+              "radius": 12,
               "background": {
                 "type": "color",
                 "color": "#FFFFFF"
               },
               "url": "x-apple-calevent://",
+              "alignItems": "center",
               "children": [
                 {
+                  "type": "image",
+                  "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/sheep-tama-2237.jpg",
+                  "width": 40,
+                  "height": 40,
+                  "radius": 20
+                },
+                {
                   "type": "text",
-                  "text": "Exit 9.82K",
+                  "text": "9.82K left",
                   "font": {
-                    "size": 11,
+                    "size": 10,
                     "weight": "bold"
                   },
-                  "color": "#1F2F47",
+                  "color": "#2A3E5E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
                   "text": "180 to go",
                   "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#6B86A9",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Focus 7p \u2192 Cal",
-                  "font": {
                     "size": 8,
                     "weight": "medium"
                   },
-                  "color": "#8AA4C8",
+                  "color": "#7A9BC1",
                   "lineLimit": 1
                 }
               ]
@@ -137,21 +135,28 @@
               "padding": [
                 8,
                 10,
-                8,
+                6,
                 10
               ],
-              "radius": 11,
+              "radius": 12,
               "background": {
                 "type": "color",
-                "color": "#DCEBFF"
+                "color": "#FFFFFF"
               },
               "url": "https://x.com/search?q=Messenger+Android",
+              "alignItems": "center",
               "children": [
                 {
+                  "type": "symbol",
+                  "name": "bubble.left.fill",
+                  "size": 20,
+                  "color": "#7AA8D7"
+                },
+                {
                   "type": "text",
-                  "text": "Messenger",
+                  "text": "quiet",
                   "font": {
-                    "size": 11,
+                    "size": 10,
                     "weight": "bold"
                   },
                   "color": "#2A3E5E",
@@ -159,22 +164,12 @@
                 },
                 {
                   "type": "text",
-                  "text": "quiet",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#5A7AA8",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "\u2192 X search",
+                  "text": "\u2192 X",
                   "font": {
                     "size": 8,
                     "weight": "medium"
                   },
-                  "color": "#6B86A9",
+                  "color": "#7A9BC1",
                   "lineLimit": 1
                 }
               ]
@@ -191,12 +186,12 @@
           "children": [
             {
               "type": "text",
-              "text": "useful \u2022 180 left \u2022 quiet",
+              "text": "tama farm \u2022 calm inbox \u2022 cute",
               "font": {
                 "size": 8,
                 "weight": "medium"
               },
-              "color": "#5A7AA8",
+              "color": "#7A5A3A",
               "lineLimit": 1
             }
           ]
