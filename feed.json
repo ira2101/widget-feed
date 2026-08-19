@@ -1,9 +1,9 @@
 {
   "version": 5,
   "mode": "native",
-  "contentRevision": 42,
-  "updatedAt": "2026-08-19T07:42:55Z",
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "contentRevision": 43,
+  "updatedAt": "2026-08-19T07:44:08.422844Z",
+  "widgetURL": "https://maps.apple.com/?q=Bamboo+Massage+Union+St",
   "native": {
     "padding": [
       8,
@@ -15,8 +15,8 @@
     "background": {
       "type": "gradient",
       "colors": [
-        "#0F1D30",
-        "#162A44"
+        "#FFF6D8",
+        "#D9ECFF"
       ],
       "start": [
         0,
@@ -32,7 +32,7 @@
       "direction": "column",
       "width": "fill",
       "height": "fill",
-      "gap": 8,
+      "gap": 10,
       "padding": [
         8,
         10,
@@ -50,22 +50,22 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 drift",
+              "text": "farm \u2022 two friends",
               "font": {
                 "size": 10,
                 "weight": "semibold"
               },
-              "color": "#E8F3FF",
+              "color": "#5A4A2A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "12:38a",
+              "text": "12:43a",
               "font": {
                 "size": 9,
                 "weight": "medium"
               },
-              "color": "#8AA0C8",
+              "color": "#7A8FB0",
               "lineLimit": 1
             }
           ]
@@ -80,41 +80,39 @@
             {
               "type": "stack",
               "direction": "column",
-              "width": 194,
+              "width": 157,
               "height": 84,
-              "radius": 12,
-              "background": {
-                "type": "image",
-                "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-0038-midnight.jpg"
-              },
+              "gap": 4,
               "padding": [
-                8,
-                12,
-                8,
-                12
+                6,
+                10,
+                4,
+                10
               ],
-              "justifyContent": "space-between",
-              "alignItems": "flex-start",
-              "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-0038-midnight.jpg",
+              "radius": 14,
+              "background": {
+                "type": "color",
+                "color": "#FFFBEB"
+              },
+              "alignItems": "center",
+              "justifyContent": "center",
+              "url": "x-apple-calevent://",
               "children": [
                 {
-                  "type": "text",
-                  "text": "midnight hums",
-                  "font": {
-                    "size": 11,
-                    "weight": "bold"
-                  },
-                  "color": "#FFFFFF",
-                  "lineLimit": 1
+                  "type": "image",
+                  "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/sheep-tama-2237.jpg",
+                  "width": 62,
+                  "height": 62,
+                  "radius": 31
                 },
                 {
                   "type": "text",
-                  "text": "you're here \u2022 breathe",
+                  "text": "tama sheep",
                   "font": {
                     "size": 9,
-                    "weight": "medium"
+                    "weight": "bold"
                   },
-                  "color": "#D8E8FF",
+                  "color": "#3A2E1A",
                   "lineLimit": 1
                 }
               ]
@@ -122,73 +120,40 @@
             {
               "type": "stack",
               "direction": "column",
-              "width": 120,
+              "width": 157,
               "height": 84,
-              "gap": 10,
+              "gap": 4,
+              "padding": [
+                6,
+                10,
+                4,
+                10
+              ],
+              "radius": 14,
+              "background": {
+                "type": "color",
+                "color": "#EEF6FF"
+              },
+              "alignItems": "center",
+              "justifyContent": "center",
+              "url": "https://x.com/search?q=Messenger+Android",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#1E324F"
-                  },
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "url": "https://x.com/search?q=Messenger+Android",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "live \u2192 X",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
-                      "color": "#E8F3FF",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "image",
+                  "src": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/cloud-tama-2237.jpg",
+                  "width": 62,
+                  "height": 62,
+                  "radius": 31
                 },
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#EAF2FF"
+                  "type": "text",
+                  "text": "cloud buddy",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
                   },
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-0038-midnight.jpg",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "calm",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
-                      "color": "#1A2E4E",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#2A3E5E",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -204,12 +169,12 @@
           "children": [
             {
               "type": "text",
-              "text": "drift \u2022 midnight \u2022 12:38a",
+              "text": "fixed again \u2022 43 \u2022 cute safe",
               "font": {
                 "size": 8,
                 "weight": "medium"
               },
-              "color": "#7FA0C9",
+              "color": "#7A6A4A",
               "lineLimit": 1
             }
           ]
