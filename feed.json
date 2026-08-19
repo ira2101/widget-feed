@@ -1,1 +1,274 @@
-{"contentRevision":65,"mode":"native","version":5,"updatedAt":"2026-08-19T21:54:39Z","widgetURL":"https://maps.apple.com/?q=Nara+Sushi+1515+Polk+St+SF","native":{"background":{"type":"gradient","colors":["#FFF6E5","#FFEED5"],"start":[0,0],"end":[1,1]},"layoutMode":"deterministic","padding":[8,8,8,8],"root":{"type":"stack","direction":"column","width":"fill","height":"fill","padding":[8,10,8,10],"gap":10,"radius":16,"children":[{"type":"stack","direction":"row","width":324,"height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"dinner \u2022 tonight","font":{"size":10,"weight":"semibold"},"color":"#4A2A12","lineLimit":1},{"type":"text","text":"7:57p","font":{"size":9,"weight":"medium"},"color":"#8A6A4A","lineLimit":1}]},{"type":"stack","direction":"column","width":324,"height":84,"gap":8,"children":[{"type":"stack","direction":"row","width":324,"height":40,"gap":10,"children":[{"type":"stack","width":212,"height":40,"radius":11,"background":{"type":"color","color":"#FFFFFF"},"padding":[6,10,4,10],"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","url":"https://weather.com/weather/today/l/San+Francisco+CA","children":[{"type":"text","text":"SF 58\u00b0 clouds \u2022 23% 9p","font":{"size":9,"weight":"bold"},"color":"#3A2A1A","lineLimit":1},{"type":"text","text":"Sunset 7:57p \u2022 layer \u2022 tonight","font":{"size":7,"weight":"medium"},"color":"#7A6A5A","lineLimit":1}]},{"type":"stack","width":102,"height":40,"radius":11,"background":{"type":"color","color":"#1F2F47"},"padding":[6,8,4,8],"direction":"column","gap":2,"justifyContent":"center","alignItems":"center","url":"https://www.mlb.com/giants/schedule","children":[{"type":"text","text":"Giants 3:40p","font":{"size":9,"weight":"bold"},"color":"#FFEED5","lineLimit":1},{"type":"text","text":"ends 6:30p \u2022 dinner","font":{"size":7,"weight":"medium"},"color":"#A9BCD9","lineLimit":1}]}]},{"type":"stack","direction":"row","width":324,"height":36,"gap":8,"children":[{"type":"stack","width":100,"height":36,"radius":11,"background":{"type":"color","color":"#FFD8A0"},"padding":[5,8,3,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"https://maps.apple.com/?q=Nara+Sushi+1515+Polk+St+SF","children":[{"type":"text","text":"Nara 1515 Polk","font":{"size":9,"weight":"bold"},"color":"#4A2A12","lineLimit":1},{"type":"text","text":"\u2192 sushi \u2022 map","font":{"size":7,"weight":"medium"},"color":"#7A4A2A","lineLimit":1}]},{"type":"stack","width":100,"height":36,"radius":11,"background":{"type":"color","color":"#D6FFEE"},"padding":[5,8,3,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"shortcuts://x-callback-url/run-shortcut?name=Energy","children":[{"type":"text","text":"Ready?","font":{"size":9,"weight":"bold"},"color":"#1A4A3A","lineLimit":1},{"type":"text","text":"playlist \u2022 light","font":{"size":7,"weight":"medium"},"color":"#4A7A6A","lineLimit":1}]},{"type":"stack","width":108,"height":36,"radius":11,"background":{"type":"color","color":"#E8D4FF"},"padding":[5,8,3,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"https://x.com/search?q=SF+dinner+tonight","children":[{"type":"text","text":"Octagon plate","font":{"size":9,"weight":"bold"},"color":"#3A2A6A","lineLimit":1},{"type":"text","text":"fun \u2022 8 sides \u2022 yum","font":{"size":7,"weight":"medium"},"color":"#6A4A8A","lineLimit":1}]}]}]},{"type":"stack","direction":"row","width":324,"height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"dinner at 7:57p sunset \u2022 58\u00b0","font":{"size":8,"weight":"medium"},"color":"#8A6A4A","lineLimit":1},{"type":"text","text":"ready?","font":{"size":8,"weight":"semibold"},"color":"#4A2A12","lineLimit":1}]}]}}}
+{
+  "contentRevision": 66,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-19T21:56:17.821519Z",
+  "widgetURL": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ],
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    "layoutMode": "deterministic",
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": "fill",
+      "height": "fill",
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "gap": 10,
+      "radius": 16,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "Palette Tea Garden \u2022 5:30p",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#EAF2FF",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "11ppl \u2022 San Mateo",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#A8BCD9",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#FFFBEB"
+              },
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "direction": "column",
+              "gap": 3,
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Team dinner \u2022 11 \u2022 5:30p",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "color": "#4A2A12",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "320 S B St \u2022 San Mateo",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#7A6A5A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Leave 4:45p \u2022 35 min SF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#4A2A12",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Sunset 7:57p \u2022 58\u00b0 \u2022 23% rain",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
+                  },
+                  "color": "#8A6A4A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "gap": 8,
+              "direction": "column",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#FD5A1E"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Mgr Steven \u2022 set menu",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "confirm custom",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#FFEED5",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#EAF2FF"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.mlb.com/giants/schedule",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Giants 3:40p \u2022 ends",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "6:30p \u2022 phone OK",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#5A7AAC",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "checklist \u2022 headcount \u2022 diet \u2022 budget \u2022 set menu",
+              "font": {
+                "size": 7,
+                "weight": "medium"
+              },
+              "color": "#A8BCD9",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Map",
+              "font": {
+                "size": 7,
+                "weight": "bold"
+              },
+              "color": "#EAF2FF",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
