@@ -1,1 +1,207 @@
-{"contentRevision":35,"mode":"native","native":{"background":{"colors":["#0F1D30","#162A44"],"end":[1,1],"start":[0,0],"type":"gradient"},"layoutMode":"deterministic","padding":[8,8,8,8],"root":{"children":[{"alignItems":"center","children":[{"color":"#C7D9FF","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • night","type":"text"},{"color":"#8AA4C8","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"10:38p","type":"text"}],"direction":"row","height":20,"justifyContent":"space-between","type":"stack","width":"fill"},{"children":[{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"still here","type":"text"},{"color":"#6B86A9","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"now • slow","type":"text"}],"gap":2,"height":38,"padding":[6,8,4,8],"radius":11,"type":"stack","url":"x-apple-calevent://","width":100},{"background":{"color":"#DCEBFF","type":"color"},"children":[{"color":"#2A3E5E","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"night drift","type":"text"},{"color":"#5A7AA8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"wallpaper →","type":"text"}],"gap":2,"height":38,"padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2238-night.jpg","width":100}],"direction":"column","gap":8,"height":84,"type":"stack","width":100},{"alignItems":"center","children":[{"alignItems":"center","background":{"type":"image","url":"https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2238-night.jpg"},"children":[{"background":{"color":"#00000066","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"night gathers","type":"text"},{"color":"#C7D9FF","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"soft & near","type":"text"}],"gap":1,"padding":[4,10,4,10],"radius":8,"type":"stack"}],"height":84,"justifyContent":"center","radius":42,"type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":84}],"height":84,"justifyContent":"center","type":"stack","width":104},{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4260","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Messenger","type":"text"},{"color":"#5A769E","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"live → X","type":"text"}],"gap":2,"height":38,"padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://x.com/search?q=Messenger+Android","width":100},{"background":{"color":"#1A2F4F","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"9.82K","type":"text"},{"color":"#8AA4C8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"drift quiet","type":"text"}],"gap":2,"height":38,"padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":100}],"direction":"column","gap":8,"height":84,"type":"stack","width":100}],"direction":"row","gap":10,"height":84,"type":"stack","width":"fill"},{"alignItems":"center","children":[{"color":"#8AA4C8","font":{"size":8,"weight":"regular"},"lineLimit":1,"text":"night • soft • near","type":"text"},{"color":"#8AA4C8","name":"moon.stars","size":9,"type":"symbol"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":"fill"}],"direction":"column","gap":8,"height":"fill","padding":[8,10,8,10],"type":"stack","width":"fill"}},"updatedAt":"2026-08-19T05:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "version": 5,
+  "mode": "native",
+  "contentRevision": 36,
+  "updatedAt": "2026-08-19T05:55:53.256654Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "layoutMode": "deterministic",
+    "background": {
+      "type": "gradient",
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ],
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": "fill",
+      "height": "fill",
+      "gap": 10,
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 20,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado \u2022 live",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#2A3E5E",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "10:55p",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#5A7AA8",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 157,
+              "height": 84,
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#FFFFFF"
+              },
+              "url": "x-apple-calevent://",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Exit 9.82K",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
+                  },
+                  "color": "#1F2F47",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "180 to go",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#6B86A9",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Focus 7p \u2192 Cal",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#8AA4C8",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 157,
+              "height": 84,
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "radius": 11,
+              "background": {
+                "type": "color",
+                "color": "#DCEBFF"
+              },
+              "url": "https://x.com/search?q=Messenger+Android",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Messenger",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
+                  },
+                  "color": "#2A3E5E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "quiet",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#5A7AA8",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "\u2192 X search",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#6B86A9",
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "useful \u2022 180 left \u2022 quiet",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "color": "#5A7AA8",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
