@@ -1,8 +1,8 @@
 {
   "version": 5,
   "mode": "native",
-  "contentRevision": 45,
-  "updatedAt": "2026-08-19T09:39:42Z",
+  "contentRevision": 46,
+  "updatedAt": "2026-08-19T10:40:25Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "padding": [
@@ -44,13 +44,13 @@
           "type": "stack",
           "direction": "row",
           "width": "fill",
-          "height": 18,
+          "height": 20,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 steady",
+              "text": "tornado \u2022 quiet",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -60,7 +60,7 @@
             },
             {
               "type": "text",
-              "text": "2:38a",
+              "text": "3:38a",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -74,184 +74,169 @@
           "type": "stack",
           "direction": "row",
           "width": 324,
-          "height": 48,
-          "radius": 12,
-          "background": {
-            "type": "color",
-            "color": "#FFFFFF"
-          },
-          "padding": [
-            10,
-            12,
-            8,
-            12
-          ],
-          "alignItems": "center",
-          "justifyContent": "space-between",
-          "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+          "height": 84,
+          "gap": 10,
           "children": [
             {
               "type": "stack",
               "direction": "column",
-              "gap": 2,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "2:38a steady",
-                  "font": {
-                    "size": 11,
-                    "weight": "bold"
-                  },
-                  "color": "#1F2F47",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "close & breathe",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#6B86A9",
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "symbol",
-              "name": "wind",
-              "size": 14,
-              "color": "#7AA3D0"
-            }
-          ]
-        },
-        {
-          "type": "stack",
-          "direction": "row",
-          "width": 324,
-          "height": 36,
-          "gap": 8,
-          "children": [
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 100,
-              "height": 36,
-              "radius": 11,
+              "width": 194,
+              "height": 84,
+              "radius": 12,
               "background": {
                 "type": "color",
-                "color": "#FFFBEB"
+                "color": "#FFFFFF"
               },
               "padding": [
-                6,
+                10,
+                12,
                 8,
-                4,
-                8
+                12
               ],
-              "gap": 1,
-              "url": "x-apple-calevent://",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "focus now",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
-                  },
-                  "color": "#1F2F47",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "one thing",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "color": "#7A8FB0",
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 100,
-              "height": 36,
-              "radius": 11,
-              "background": {
-                "type": "color",
-                "color": "#DCEBFF"
-              },
-              "padding": [
-                6,
-                8,
-                4,
-                8
-              ],
-              "gap": 1,
+              "justifyContent": "space-between",
               "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
               "children": [
                 {
-                  "type": "text",
-                  "text": "calm",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
-                  },
-                  "color": "#2A3E5E",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "early light",
+                      "font": {
+                        "size": 11,
+                        "weight": "bold"
+                      },
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "close & steady",
+                      "font": {
+                        "size": 9,
+                        "weight": "medium"
+                      },
+                      "color": "#5A7AA8",
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "wallpaper \u2192",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "color": "#5A7AA8",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "row",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "breathe slow",
+                      "font": {
+                        "size": 8,
+                        "weight": "regular"
+                      },
+                      "color": "#7A8FB0",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "wind",
+                      "size": 12,
+                      "color": "#7AA3D0"
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
               "direction": "column",
-              "width": 108,
-              "height": 36,
-              "radius": 11,
-              "background": {
-                "type": "color",
-                "color": "#1A2F4F"
-              },
-              "padding": [
-                6,
-                8,
-                4,
-                8
-              ],
-              "gap": 1,
-              "url": "https://x.com/search?q=Messenger+Android",
+              "width": 120,
+              "height": 84,
+              "gap": 10,
               "children": [
                 {
-                  "type": "text",
-                  "text": "Messenger",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#1A2F4F"
                   },
-                  "color": "#FFFFFF",
-                  "lineLimit": 1
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "gap": 1,
+                  "url": "https://x.com/search?q=Messenger+Android",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "live \u2192 X",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Messenger",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#8AA4C8",
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "live \u2192 X",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#EAF2FF"
                   },
-                  "color": "#8AA4C8",
-                  "lineLimit": 1
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "gap": 1,
+                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "calm",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#2A3E5E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "wallpaper \u2192",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#5A7AA8",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -261,13 +246,13 @@
           "type": "stack",
           "direction": "row",
           "width": "fill",
-          "height": 12,
+          "height": 18,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
               "type": "text",
-              "text": "dawn \u2022 steady \u2022 near",
+              "text": "quiet \u2022 close \u2022 breathe",
               "font": {
                 "size": 8,
                 "weight": "regular"
