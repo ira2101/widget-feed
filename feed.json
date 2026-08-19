@@ -1,1 +1,358 @@
-{"contentRevision":68,"mode":"native","version":5,"updatedAt":"2026-08-19T22:00:06.985Z","widgetURL":"https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo","native":{"background":{"type":"gradient","colors":["#FFF6E5","#FFEED5"],"start":[0,0],"end":[1,1]},"layoutMode":"deterministic","padding":[8,8,8,8],"root":{"type":"stack","direction":"column","width":"fill","height":"fill","padding":[8,10,8,10],"gap":10,"radius":16,"children":[{"type":"stack","direction":"row","width":324,"height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"pottery \u2192 Palette \u2022 5:30p","font":{"size":10,"weight":"semibold"},"color":"#4A2A12","lineLimit":1},{"type":"text","text":"11ppl \u2022 San Mateo","font":{"size":9,"weight":"medium"},"color":"#8A6A4A","lineLimit":1}]},{"type":"stack","direction":"column","width":324,"height":84,"gap":8,"children":[{"type":"stack","direction":"row","width":324,"height":44,"gap":10,"children":[{"type":"stack","width":212,"height":44,"radius":11,"background":{"type":"color","color":"#EAF2FF"},"padding":[8,10,6,10],"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","url":"https://www.google.com/maps/search/pottery+San+Mateo","children":[{"type":"text","text":"Pottery \u2022 San Mateo \u2022 before","font":{"size":10,"weight":"bold"},"color":"#1F2F47","lineLimit":1},{"type":"text","text":"finish \u2192 short hop to Palette","font":{"size":8,"weight":"medium"},"color":"#5A7AAC","lineLimit":1}]},{"type":"stack","width":102,"height":44,"radius":11,"background":{"type":"color","color":"#FD5A1E"},"padding":[8,8,6,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","url":"https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo","children":[{"type":"text","text":"Palette 5:30p","font":{"size":9,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"320 S B St","font":{"size":7,"weight":"medium"},"color":"#FFEED5","lineLimit":1}]}]},{"type":"stack","direction":"row","width":324,"height":32,"gap":8,"children":[{"type":"stack","width":100,"height":32,"radius":10,"background":{"type":"color","color":"#FFFFFF"},"padding":[6,8,4,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"Steven \u2022 set menu","font":{"size":8,"weight":"bold"},"color":"#4A2A12","lineLimit":1},{"type":"text","text":"11ppl \u2022 confirm","font":{"size":7,"weight":"medium"},"color":"#8A6A4A","lineLimit":1}]},{"type":"stack","width":100,"height":32,"radius":10,"background":{"type":"color","color":"#FFFBEB"},"padding":[6,8,4,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"Leave SF 4p early","font":{"size":8,"weight":"medium"},"color":"#4A2A12","lineLimit":1},{"type":"text","text":"Pottery \u2192 dinner","font":{"size":7,"weight":"medium"},"color":"#7A6A5A","lineLimit":1}]},{"type":"stack","width":108,"height":32,"radius":10,"background":{"type":"color","color":"#1F2F47"},"padding":[6,8,4,8],"direction":"column","gap":1,"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"Sunset 7:57p \u2022 58\u00b0","font":{"size":8,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"23% rain \u2022 layer","font":{"size":7,"weight":"medium"},"color":"#A8BCD9","lineLimit":1}]}]}]},{"type":"stack","direction":"row","width":324,"height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"flow \u2022 pottery \u2192 Palette \u2022 diet \u2022 budget \u2022 check","font":{"size":7,"weight":"medium"},"color":"#8A6A4A","lineLimit":1},{"type":"text","text":"pottery \u2192 Map \u2192 Palette","font":{"size":7,"weight":"bold"},"color":"#4A2A12","lineLimit":1}]}]}}}
+{
+  "contentRevision": 69,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-19T22:40:41Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ],
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    "layoutMode": "deterministic",
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": "fill",
+      "height": "fill",
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "gap": 10,
+      "radius": 16,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "pottery \u2192 Palette \u2022 5:30p",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#1F2F47",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "3:38p \u2022 steady",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#5A7AAC",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.google.com/maps/search/pottery+San+Mateo",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Pottery now",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "before Palette",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#5A7AAC",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#FD5A1E"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Palette 5:30p",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "320 S B St",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#FFEED5",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "image",
+                    "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/tornado-1715.jpg"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "radius": 8,
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "padding": [
+                        3,
+                        8,
+                        3,
+                        8
+                      ],
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "you close",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "color": "#FFFFFF",
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://x.com/search?q=Messenger+Android",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Live \u2192 X",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Quiet now",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#5A7AAC",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {
+                    "type": "color",
+                    "color": "#1F2F47"
+                  },
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.83K \u2022 170",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "to 10k close",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#A8BCD9",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "afternoon \u2022 steady \u2022 pottery \u2192 din",
+              "font": {
+                "size": 7,
+                "weight": "medium"
+              },
+              "color": "#5A7AAC",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Map \u2022 Cal \u2022 \u266a",
+              "font": {
+                "size": 7,
+                "weight": "bold"
+              },
+              "color": "#1F2F47",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
