@@ -1,43 +1,24 @@
 {
-  "contentRevision": 69,
+  "contentRevision": 70,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-19T22:40:41Z",
+  "updatedAt": "2026-08-19T23:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ],
-      "start": [
-        0,
-        0
-      ],
-      "end": [
-        1,
-        1
-      ]
+      "colors": ["#FFF6E5", "#FFEED5"],
+      "start": [0, 0],
+      "end": [1, 1]
     },
     "layoutMode": "deterministic",
-    "padding": [
-      8,
-      8,
-      8,
-      8
-    ],
+    "padding": [8, 8, 8, 8],
     "root": {
       "type": "stack",
       "direction": "column",
       "width": "fill",
       "height": "fill",
-      "padding": [
-        8,
-        10,
-        8,
-        10
-      ],
+      "padding": [8, 10, 8, 10],
       "gap": 10,
       "radius": 16,
       "children": [
@@ -51,22 +32,16 @@
           "children": [
             {
               "type": "text",
-              "text": "pottery \u2192 Palette \u2022 5:30p",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "pottery → Palette • 5:30p",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1F2F47",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "3:38p \u2022 steady",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
-              "color": "#5A7AAC",
+              "text": "4:38p • drift",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#8A6A4A",
               "lineLimit": 1
             }
           ]
@@ -81,68 +56,53 @@
             {
               "type": "stack",
               "direction": "column",
-              "width": 100,
+              "width": 194,
               "height": 84,
-              "gap": 8,
+              "radius": 12,
+              "background": {"type": "color", "color": "#FFFFFF"},
+              "padding": [8, 10, 6, 10],
+              "gap": 2,
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "evening folds",
+                  "font": {"size": 10, "weight": "bold"},
+                  "color": "#1F2F47",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "you're close — breathe",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#8A6A4A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "4:38p glow",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#B89A7A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 120,
+              "height": 84,
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 38,
+                  "width": 120,
+                  "height": 37,
                   "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF"
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 1,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "url": "https://www.google.com/maps/search/pottery+San+Mateo",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Pottery now",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#1F2F47",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "before Palette",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#5A7AAC",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 38,
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#FD5A1E"
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "background": {"type": "color", "color": "#1F2F47"},
+                  "padding": [6, 8, 4, 8],
                   "direction": "column",
                   "gap": 1,
                   "justifyContent": "center",
@@ -152,101 +112,26 @@
                     {
                       "type": "text",
                       "text": "Palette 5:30p",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
+                      "font": {"size": 8, "weight": "bold"},
                       "color": "#FFFFFF",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
                       "text": "320 S B St",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 7, "weight": "medium"},
                       "color": "#FFEED5",
                       "lineLimit": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "justifyContent": "center",
-              "alignItems": "center",
-              "children": [
+                },
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "background": {
-                    "type": "image",
-                    "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/tornado-1715.jpg"
-                  },
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/mesh-2338-night.jpg",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "radius": 8,
-                      "background": {
-                        "type": "color",
-                        "color": "#00000066"
-                      },
-                      "padding": [
-                        3,
-                        8,
-                        3,
-                        8
-                      ],
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "you close",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "color": "#FFFFFF",
-                          "lineLimit": 1
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 100,
-              "height": 84,
-              "gap": 8,
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 38,
+                  "width": 120,
+                  "height": 37,
                   "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF"
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "background": {"type": "color", "color": "#FFFFFF"},
+                  "padding": [6, 8, 4, 8],
                   "direction": "column",
                   "gap": 1,
                   "justifyContent": "center",
@@ -255,65 +140,16 @@
                   "children": [
                     {
                       "type": "text",
-                      "text": "Live \u2192 X",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
+                      "text": "Live → X",
+                      "font": {"size": 8, "weight": "bold"},
                       "color": "#1F2F47",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
                       "text": "Quiet now",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#5A7AAC",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 38,
-                  "radius": 11,
-                  "background": {
-                    "type": "color",
-                    "color": "#1F2F47"
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 1,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "9.83K \u2022 170",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "to 10k close",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#A8BCD9",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#8A6A4A",
                       "lineLimit": 1
                     }
                   ]
@@ -332,21 +168,15 @@
           "children": [
             {
               "type": "text",
-              "text": "afternoon \u2022 steady \u2022 pottery \u2192 din",
-              "font": {
-                "size": 7,
-                "weight": "medium"
-              },
-              "color": "#5A7AAC",
+              "text": "afternoon • steady • palette ready",
+              "font": {"size": 7, "weight": "medium"},
+              "color": "#8A6A4A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 Map \u2022 Cal \u2022 \u266a",
-              "font": {
-                "size": 7,
-                "weight": "bold"
-              },
+              "text": "→ Map • Cal • ♪",
+              "font": {"size": 7, "weight": "bold"},
               "color": "#1F2F47",
               "lineLimit": 1
             }
