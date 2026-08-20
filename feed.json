@@ -1,8 +1,8 @@
 {
   "mode": "native",
   "version": 5,
-  "contentRevision": 88,
-  "updatedAt": "2026-08-20T12:42:15Z",
+  "contentRevision": 89,
+  "updatedAt": "2026-08-20T13:38:13Z",
   "outer": {
     "padding": [
       8,
@@ -23,8 +23,8 @@
     "background": {
       "type": "gradient",
       "colors": [
-        "#0F1D30",
-        "#162A44"
+        "#E8F3FF",
+        "#D4E8FF"
       ],
       "angle": 135
     },
@@ -32,9 +32,9 @@
     "children": [
       {
         "type": "text",
-        "text": "tornado \u2022 5:38a \u2022 early wrap",
+        "text": "tornado \u2022 6:38a \u2022 morning light",
         "fontSize": 10,
-        "color": "#C9D6F0",
+        "color": "#3A4E72",
         "align": "left"
       },
       {
@@ -46,11 +46,11 @@
         "children": [
           {
             "type": "container",
-            "width": 100,
+            "width": 194,
             "height": 84,
             "background": {
               "type": "color",
-              "color": "#FFFBEB"
+              "color": "#FFFFFF"
             },
             "radius": 12,
             "padding": [
@@ -62,93 +62,35 @@
             "children": [
               {
                 "type": "text",
-                "text": "Palette wrap",
+                "text": "Palette \u2022 wrap",
                 "fontSize": 11,
                 "weight": "bold",
-                "color": "#7A3E0A"
+                "color": "#5A3E18"
               },
               {
                 "type": "text",
-                "text": "320 S B St \u2022 11",
+                "text": "11 at 320 S B St",
                 "fontSize": 9,
-                "color": "#7A3E0A"
+                "color": "#7A5A32"
               },
               {
                 "type": "text",
-                "text": "pottery \u2192 pics soon",
+                "text": "pottery \u2192 frames soon",
                 "fontSize": 8,
-                "color": "#7A3E0A"
+                "color": "#8B735A"
               }
             ],
             "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo"
           },
           {
             "type": "container",
-            "width": 104,
-            "height": 84,
-            "background": {
-              "type": "color",
-              "color": "#00000000"
-            },
-            "radius": 12,
-            "padding": [
-              4,
-              14,
-              4,
-              14
-            ],
-            "children": [
-              {
-                "type": "container",
-                "width": 76,
-                "height": 76,
-                "radius": 38,
-                "background": {
-                  "type": "gradient",
-                  "colors": [
-                    "#E8F3FF",
-                    "#D4E8FF"
-                  ],
-                  "angle": 135
-                },
-                "children": [
-                  {
-                    "type": "container",
-                    "background": {
-                      "type": "color",
-                      "color": "#00000066"
-                    },
-                    "radius": 8,
-                    "padding": [
-                      3,
-                      8,
-                      3,
-                      8
-                    ],
-                    "children": [
-                      {
-                        "type": "text",
-                        "text": "dawn 58\u00b0",
-                        "fontSize": 10,
-                        "weight": "bold",
-                        "color": "#FFFFFF",
-                        "align": "center"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "container",
-            "width": 100,
+            "width": 120,
             "height": 84,
             "gap": 8,
             "children": [
               {
                 "type": "container",
-                "width": 100,
+                "width": 120,
                 "height": 38,
                 "background": {
                   "type": "color",
@@ -157,9 +99,9 @@
                 "radius": 10,
                 "padding": [
                   6,
-                  8,
+                  10,
                   4,
-                  8
+                  10
                 ],
                 "children": [
                   {
@@ -171,7 +113,7 @@
                   },
                   {
                     "type": "text",
-                    "text": "160 \u2192 10k",
+                    "text": "160 to 10k",
                     "fontSize": 8,
                     "color": "#5A7AA8"
                   }
@@ -180,7 +122,7 @@
               },
               {
                 "type": "container",
-                "width": 100,
+                "width": 120,
                 "height": 38,
                 "background": {
                   "type": "color",
@@ -189,9 +131,9 @@
                 "radius": 10,
                 "padding": [
                   6,
-                  8,
+                  10,
                   4,
-                  8
+                  10
                 ],
                 "children": [
                   {
@@ -203,7 +145,7 @@
                   },
                   {
                     "type": "text",
-                    "text": "quiet green",
+                    "text": "quiet \u2022 live",
                     "fontSize": 8,
                     "color": "#0A3D1A"
                   }
@@ -232,9 +174,9 @@
         "children": [
           {
             "type": "text",
-            "text": "58\u00b0 clouds \u2022 23% rain 9p \u2022 wrap pics \u2022 160 left",
+            "text": "58\u00b0 morning \u2022 wrap done \u2022 160 left",
             "fontSize": 9,
-            "color": "#C9D6F0"
+            "color": "#D6E6FF"
           }
         ]
       }
