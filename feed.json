@@ -1,1 +1,325 @@
-{"contentRevision":85,"mode":"native","native":{"background":{"colors":["#121F3E","#1E3A62"],"end":[1,1],"start":[0,0],"type":"gradient"},"layoutMode":"deterministic","padding":[8,8,8,8],"radius":16,"root":{"children":[{"alignItems":"center","children":[{"color":"#E8F3FF","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"Tornado • 3:38a blue","type":"text"},{"color":"#8AA4C8","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"9.84K • 160","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Exit","type":"text"},{"children":[{"color":"#1A2F4F","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"9.84K","type":"text"},{"color":"#5A7AA8","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"160→","type":"text"}],"direction":"row","justifyContent":"space-between","type":"stack","width":84},{"alignItems":"center","children":[{"color":"#5A7AA8","name":"play.fill","size":8,"type":"symbol"},{"color":"#5A7AA8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"→ YT","type":"text"}],"direction":"row","gap":4,"type":"stack"}],"direction":"column","height":84,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":100},{"alignItems":"center","children":[{"alignItems":"center","background":{"colors":["#0F1D30","#243A5E"],"end":[1,1],"start":[0,0],"type":"gradient"},"children":[{"color":"#E8F3FF","name":"moon.stars.fill","size":14,"type":"symbol"},{"background":{"color":"#00000066","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"blue hour","type":"text"}],"direction":"row","padding":[3,8,3,8],"radius":8,"type":"stack"}],"height":84,"justifyContent":"center","radius":42,"type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":84}],"direction":"column","height":84,"justifyContent":"center","type":"stack","width":108},{"background":{"color":"#E8F3FF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Messenger","type":"text"},{"children":[{"color":"#1A2F4F","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"quiet","type":"text"},{"color":"#5A7AA8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"→ X","type":"text"}],"direction":"row","justifyContent":"space-between","type":"stack","width":84},{"alignItems":"center","children":[{"color":"#5A7AA8","name":"antenna.radiowaves.left.and.right","size":8,"type":"symbol"},{"color":"#5A7AA8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"boards","type":"text"}],"direction":"row","gap":4,"type":"stack"}],"direction":"column","height":84,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://x.com/search?q=Messenger%20Android","width":100}],"direction":"row","gap":8,"height":84,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","children":[{"color":"#7A9ABF","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"blue holds • 3:38a calm","type":"text"},{"color":"#E8F3FF","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"→ Cal • Map • YT","type":"text","url":"https://calendar.google.com"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"height":"fill","padding":[8,10,8,10],"radius":16,"type":"stack","width":"fill"}},"updatedAt":"2026-08-20T10:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 86,
+  "mode": "native",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ],
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    "layoutMode": "deterministic",
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "radius": 16,
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "gap": 10,
+      "width": "fill",
+      "height": "fill",
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "radius": 16,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "Tornado \u2022 4:38a light",
+              "color": "#1A2F4F",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "9.84K \u2022 160",
+              "color": "#5A7AA8",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 194,
+              "height": 84,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "radius": 12,
+              "background": {
+                "type": "color",
+                "color": "#FFFFFF"
+              },
+              "justifyContent": "space-between",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "first light",
+                  "color": "#1F2F47",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "you're here \u2014",
+                      "color": "#2A4A70",
+                      "font": {
+                        "size": 11,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "breathe, stay",
+                      "color": "#5A7AA8",
+                      "font": {
+                        "size": 10,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 8,
+                      "color": "#5A7AA8"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Liquid Glass calm",
+                      "color": "#7A9ABF",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ],
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 120,
+              "height": 84,
+              "gap": 8,
+              "justifyContent": "space-between",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 38,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 10,
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF"
+                  },
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit",
+                      "color": "#1F2F47",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "justifyContent": "space-between",
+                      "width": 104,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "9.84K",
+                          "color": "#1A2F4F",
+                          "font": {
+                            "size": 10,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "160\u2192",
+                          "color": "#5A7AA8",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ],
+                  "url": "https://www.youtube.com/@exitfrequency"
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 38,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 10,
+                  "background": {
+                    "type": "color",
+                    "color": "#EAF3FF"
+                  },
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Messenger",
+                      "color": "#1F2F47",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "antenna.radiowaves.left.and.right",
+                          "size": 8,
+                          "color": "#5A7AA8"
+                        },
+                        {
+                          "type": "text",
+                          "text": "quiet \u2022 boards",
+                          "color": "#5A7AA8",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ],
+                  "url": "https://x.com/search?q=Messenger%20Android"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "dawn \u2022 4:38a \u2022 gentle",
+              "color": "#7A9ABF",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Cal \u2022 Map \u2022 YT",
+              "color": "#1A2F4F",
+              "font": {
+                "size": 8,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "url": "https://calendar.google.com"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-08-20T11:39:53Z",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
