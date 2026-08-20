@@ -1,1 +1,190 @@
-{"contentRevision":90,"mode":"native","outer":{"padding":[8,8,8,8]},"root":{"background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"align":"left","color":"#3A4E72","fontSize":10,"text":"tornado • 7:38a • morning wrap","type":"text"},{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#5A3E18","fontSize":11,"text":"Palette • wrap done","type":"text","weight":"bold"},{"color":"#7A5A32","fontSize":9,"text":"11 at 320 S B • pottery → frames","type":"text"}],"height":42,"padding":[6,10,4,10],"radius":12,"type":"container","url":"https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo","width":324},{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#0F1D30","fontSize":10,"text":"Exit 9.84K","type":"text","weight":"bold"},{"color":"#5A7AA8","fontSize":8,"text":"160 to go","type":"text"}],"height":36,"padding":[6,8,4,8],"radius":11,"type":"container","url":"https://www.youtube.com/@exitfrequency","width":100},{"background":{"color":"#D9F5E4","type":"color"},"children":[{"color":"#0A3D1A","fontSize":9,"text":"Boards","type":"text","weight":"bold"},{"color":"#0A3D1A","fontSize":8,"text":"quiet • live","type":"text"}],"height":36,"padding":[6,8,4,8],"radius":11,"type":"container","url":"https://x.com/search?q=Messenger%20Android%20feedback","width":100},{"background":{"color":"#FFF6E5","type":"color"},"children":[{"color":"#5A3E18","fontSize":9,"text":"58° tonight","type":"text","weight":"bold"},{"color":"#8B735A","fontSize":8,"text":"clouds • 23pct","type":"text"}],"height":36,"padding":[6,8,4,8],"radius":11,"type":"container","url":"https://www.google.com/maps/search/2265+Larkin+St+San+Francisco","width":108}],"gap":8,"height":36,"layout":"row","type":"container","width":324}],"gap":6,"height":84,"layout":"column","type":"container","width":324},{"background":{"color":"#1C2F4F","type":"color"},"children":[{"color":"#D6E6FF","fontSize":9,"text":"morning light • wrap done • 160 left","type":"text"}],"height":18,"padding":[4,10,4,10],"radius":10,"type":"container","width":324}],"gap":10,"padding":[8,10,8,10],"radius":16,"type":"container"},"updatedAt":"2026-08-20T14:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 91,
+  "mode": "native",
+  "version": 5,
+  "outer": {
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "root": {
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#FFF6E5",
+        "#FFEED5"
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "radius": 16,
+    "gap": 10,
+    "type": "container",
+    "children": [
+      {
+        "type": "text",
+        "text": "tornado \u2022 8:38a \u2022 morning light",
+        "color": "#5A3E18",
+        "fontSize": 10,
+        "align": "left"
+      },
+      {
+        "type": "container",
+        "layout": "row",
+        "gap": 10,
+        "width": 324,
+        "height": 84,
+        "children": [
+          {
+            "type": "container",
+            "width": 194,
+            "height": 84,
+            "radius": 12,
+            "padding": [
+              8,
+              10,
+              6,
+              10
+            ],
+            "background": {
+              "type": "color",
+              "color": "#FFFFFF"
+            },
+            "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
+            "children": [
+              {
+                "type": "text",
+                "text": "Palette \u2022 done",
+                "color": "#5A3E18",
+                "fontSize": 11,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "11 at 320 S B \u2022 wrap",
+                "color": "#7A5A32",
+                "fontSize": 9
+              },
+              {
+                "type": "text",
+                "text": "pottery \u2192 pics soon",
+                "color": "#8B735A",
+                "fontSize": 8
+              }
+            ],
+            "gap": 3
+          },
+          {
+            "type": "container",
+            "layout": "column",
+            "width": 120,
+            "height": 84,
+            "gap": 8,
+            "children": [
+              {
+                "type": "container",
+                "width": 120,
+                "height": 38,
+                "radius": 11,
+                "padding": [
+                  6,
+                  8,
+                  4,
+                  8
+                ],
+                "background": {
+                  "type": "color",
+                  "color": "#FFFFFF"
+                },
+                "url": "https://www.youtube.com/@exitfrequency",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Exit 9.84K",
+                    "color": "#0F1D30",
+                    "fontSize": 10,
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "text",
+                    "text": "160 to go",
+                    "color": "#5A7AA8",
+                    "fontSize": 8
+                  }
+                ],
+                "gap": 2
+              },
+              {
+                "type": "container",
+                "width": 120,
+                "height": 38,
+                "radius": 11,
+                "padding": [
+                  6,
+                  8,
+                  4,
+                  8
+                ],
+                "background": {
+                  "type": "color",
+                  "color": "#D9F5E4"
+                },
+                "url": "https://x.com/search?q=Messenger%20Android%20feedback",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Boards",
+                    "color": "#0A3D1A",
+                    "fontSize": 9,
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "text",
+                    "text": "quiet \u2022 live",
+                    "color": "#0A3D1A",
+                    "fontSize": 8
+                  }
+                ],
+                "gap": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "container",
+        "width": 324,
+        "height": 18,
+        "radius": 10,
+        "padding": [
+          4,
+          10,
+          4,
+          10
+        ],
+        "background": {
+          "type": "color",
+          "color": "#1C2F4F"
+        },
+        "children": [
+          {
+            "type": "text",
+            "text": "wrap done \u2022 58\u00b0 \u2022 160 left",
+            "color": "#D6E6FF",
+            "fontSize": 9
+          }
+        ]
+      }
+    ]
+  },
+  "updatedAt": "2026-08-20T15:41:53Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
