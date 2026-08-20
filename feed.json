@@ -1,1 +1,224 @@
-{"contentRevision":101,"version":5,"mode":"native","refreshMinutes":15,"updatedAt":"2026-08-20T19:36:28.242220Z","viewport":{"width":338,"height":158},"viewportPolicy":"bestEffort","outer":{"padding":[8,8,8,8]},"native":{"padding":[8,8,8,8],"background":{"type":"gradient","colors":["#0F1D30","#1A3D5D","#2A5A8A"],"angle":135},"root":{"type":"stack","direction":"column","background":{"type":"gradient","colors":["#0F1D30","#1A3D5D","#2A5A8A"],"angle":135},"radius":16,"padding":[8,10,8,10],"gap":10,"children":[{"type":"text","text":"tornado \u2022 12:36pm \u2022 feed + capybara","fontSize":10,"color":"#E8F3FF","align":"left"},{"type":"stack","direction":"row","width":324,"height":88,"gap":10,"children":[{"type":"stack","direction":"column","width":100,"height":88,"background":{"type":"color","color":"#FFFFFF"},"radius":12,"padding":[8,8,6,8],"children":[{"type":"text","text":"Messenger","fontSize":9,"color":"#6B7280"},{"type":"text","text":"Green","fontSize":12,"weight":"bold","color":"#0A7A3E"},{"type":"text","text":"All clear","fontSize":10,"weight":"bold","color":"#0F1D30"},{"type":"text","text":"0 bugs 48h","fontSize":8,"color":"#6B7280"}]},{"type":"stack","direction":"column","width":104,"height":88,"background":{"type":"color","color":"#FFFFFF"},"radius":40,"padding":[2,2,2,2],"gap":2,"children":[{"type":"image","src":"https://raw.githubusercontent.com/ira2101/widget-feed/main/images/capybara-fun-1787254576.jpg","width":84,"height":84}]},{"type":"stack","direction":"column","width":100,"height":88,"background":{"type":"color","color":"#D9F5E4"},"radius":12,"padding":[8,8,6,8],"children":[{"type":"text","text":"Exit","fontSize":9,"color":"#6B7280"},{"type":"text","text":"9.85K","fontSize":13,"weight":"bold","color":"#0F1D30"},{"type":"text","text":"150 to go","fontSize":9,"color":"#0F1D30"},{"type":"text","text":"+10 today","fontSize":8,"color":"#0A7A3E"}]}]},{"type":"stack","direction":"column","width":324,"height":20,"background":{"type":"color","color":"#FFFFFF22"},"radius":10,"padding":[4,10,4,10],"children":[{"type":"text","text":"Feed quiet worldwide incl SEA \u2022 capybara chill \u2022 Teleferic Thu 12:30p","fontSize":9,"color":"#E8F3FF"}]}]}},"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 102,
+  "version": 5,
+  "mode": "native",
+  "refreshMinutes": 15,
+  "updatedAt": "2026-08-20T19:42:18.593937Z",
+  "viewport": {
+    "width": 360,
+    "height": 170,
+    "source": "server-calc medium iPhone 16 Pro 360x170"
+  },
+  "viewportPolicy": "bestEffort",
+  "outer": {
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "native": {
+    "padding": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#FFF6E5",
+        "#FFEED5"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "radius": 16,
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#FFF6E5",
+          "#FFEED5"
+        ]
+      },
+      "children": [
+        {
+          "type": "text",
+          "text": "tornado \u2022 12:38p \u2022 pottery evening",
+          "fontSize": 10,
+          "color": "#7A6740",
+          "align": "left"
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "background": {
+                "type": "color",
+                "color": "#FFFFFF"
+              },
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
+              "gap": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Palette \u2022 wrap done",
+                  "fontSize": 10,
+                  "weight": "bold",
+                  "color": "#1B2A44"
+                },
+                {
+                  "type": "text",
+                  "text": "11 at 320 S B \u2022 pics soon",
+                  "fontSize": 8,
+                  "color": "#5A708F"
+                },
+                {
+                  "type": "text",
+                  "text": "pottery San Mateo \u2022 nice",
+                  "fontSize": 8,
+                  "color": "#7A90B0"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 120,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "color",
+                    "color": "#0F1D30"
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit 9.85K",
+                      "fontSize": 9,
+                      "weight": "bold",
+                      "color": "#D6E6FF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "150 to 10K",
+                      "fontSize": 8,
+                      "color": "#8AA6C8"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF"
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Messenger",
+                      "fontSize": 8,
+                      "color": "#6B7280"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Quiet \u2022 live",
+                      "fontSize": 9,
+                      "weight": "bold",
+                      "color": "#0A3D1A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "0 bugs 48h",
+                      "fontSize": 8,
+                      "color": "#2A6A3A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "column",
+          "width": 324,
+          "height": 18,
+          "radius": 10,
+          "padding": [
+            4,
+            10,
+            4,
+            10
+          ],
+          "background": {
+            "type": "color",
+            "color": "#FFFFFFCC"
+          },
+          "children": [
+            {
+              "type": "text",
+              "text": "wrap \u2022 58\u00b0 tonite \u2022 150 left \u2022 wind down",
+              "fontSize": 9,
+              "color": "#5A4320"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
