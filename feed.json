@@ -1,38 +1,25 @@
 {
-  "contentRevision": 92,
+  "contentRevision": 93,
   "mode": "native",
   "version": 5,
   "outer": {
-    "padding": [
-      8,
-      8,
-      8,
-      8
-    ]
+    "padding": [8, 8, 8, 8]
   },
   "root": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#FFF6E5", "#FFEED5"]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "radius": 16,
     "gap": 10,
     "type": "container",
     "children": [
       {
         "type": "text",
-        "text": "tornado \u2022 9:38a \u2022 morning wrap",
-        "color": "#CBDDF3",
+        "text": "tornado \u2022 10:38a \u2022 late morn",
+        "color": "#6B5A45",
         "fontSize": 10,
         "align": "left"
       },
@@ -45,179 +32,100 @@
         "children": [
           {
             "type": "container",
-            "width": 100,
+            "width": 194,
             "height": 84,
             "radius": 12,
-            "padding": [
-              8,
-              10,
-              6,
-              10
-            ],
+            "padding": [8, 10, 6, 10],
             "background": {
               "type": "color",
               "color": "#FFFFFF"
             },
             "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
+            "gap": 3,
             "children": [
               {
                 "type": "text",
-                "text": "Palette \u2022 done",
+                "text": "Palette \u2022 wrap done",
                 "color": "#1B2A44",
                 "fontSize": 10,
                 "weight": "bold"
               },
               {
                 "type": "text",
-                "text": "11 at 320 S B \u2022 wrap",
+                "text": "11 at 320 S B \u2022 pics soon",
                 "color": "#5A708F",
                 "fontSize": 8
               },
               {
                 "type": "text",
-                "text": "pottery \u2192 pics soon",
+                "text": "pottery San Mateo \u2022 nice",
                 "color": "#7A90B0",
                 "fontSize": 8
-              }
-            ],
-            "gap": 3
-          },
-          {
-            "type": "container",
-            "width": 104,
-            "height": 84,
-            "radius": 12,
-            "padding": [
-              4,
-              14,
-              4,
-              14
-            ],
-            "background": {
-              "type": "color",
-              "color": "#1E3356"
-            },
-            "children": [
-              {
-                "type": "container",
-                "width": 76,
-                "height": 76,
-                "radius": 38,
-                "padding": [
-                  24,
-                  8,
-                  24,
-                  8
-                ],
-                "background": {
-                  "type": "gradient",
-                  "angle": 135,
-                  "colors": [
-                    "#E8F3FF",
-                    "#D4E8FF"
-                  ]
-                },
-                "children": [
-                  {
-                    "type": "container",
-                    "background": {
-                      "type": "color",
-                      "color": "#00000066"
-                    },
-                    "radius": 8,
-                    "padding": [
-                      3,
-                      8,
-                      3,
-                      8
-                    ],
-                    "children": [
-                      {
-                        "type": "text",
-                        "text": "58\u00b0 \u2022 calm",
-                        "color": "#FFFFFF",
-                        "fontSize": 9,
-                        "weight": "bold",
-                        "align": "center"
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           },
           {
             "type": "container",
             "layout": "column",
-            "width": 100,
+            "width": 120,
             "height": 84,
             "gap": 8,
             "children": [
               {
                 "type": "container",
-                "width": 100,
+                "width": 120,
                 "height": 38,
                 "radius": 11,
-                "padding": [
-                  6,
-                  8,
-                  4,
-                  8
-                ],
+                "padding": [6, 8, 4, 8],
                 "background": {
                   "type": "color",
-                  "color": "#FFFFFF"
+                  "color": "#0F1D30"
                 },
                 "url": "https://www.youtube.com/@exitfrequency",
+                "gap": 2,
                 "children": [
                   {
                     "type": "text",
                     "text": "Exit 9.84K",
-                    "color": "#0F1D30",
+                    "color": "#D6E6FF",
                     "fontSize": 10,
                     "weight": "bold"
                   },
                   {
                     "type": "text",
-                    "text": "160 to 10k",
-                    "color": "#5A7AA8",
+                    "text": "160 to 10K",
+                    "color": "#8AA6C8",
                     "fontSize": 8
                   }
-                ],
-                "gap": 2
+                ]
               },
               {
                 "type": "container",
-                "width": 100,
+                "width": 120,
                 "height": 38,
                 "radius": 11,
-                "padding": [
-                  6,
-                  8,
-                  4,
-                  8
-                ],
+                "padding": [6, 8, 4, 8],
                 "background": {
                   "type": "color",
                   "color": "#D9F5E4"
                 },
                 "url": "https://x.com/search?q=Messenger%20Android",
+                "gap": 2,
                 "children": [
                   {
                     "type": "text",
-                    "text": "Boards",
+                    "text": "Boards quiet",
                     "color": "#0A3D1A",
                     "fontSize": 9,
                     "weight": "bold"
                   },
                   {
                     "type": "text",
-                    "text": "quiet \u2022 live",
-                    "color": "#0A3D1A",
+                    "text": "live \u2022 calm",
+                    "color": "#2A6A3A",
                     "fontSize": 8
                   }
-                ],
-                "gap": 2
+                ]
               }
             ]
           }
@@ -228,27 +136,22 @@
         "width": 324,
         "height": 18,
         "radius": 10,
-        "padding": [
-          4,
-          10,
-          4,
-          10
-        ],
+        "padding": [4, 10, 4, 10],
         "background": {
           "type": "color",
-          "color": "#1C2F4F"
+          "color": "#FFFFFFCC"
         },
         "children": [
           {
             "type": "text",
-            "text": "wrap done \u2022 58\u00b0 \u2022 160 left",
-            "color": "#D6E6FF",
+            "text": "wrap \u2022 58\u00b0 tonite \u2022 160 left",
+            "color": "#5A4A35",
             "fontSize": 9
           }
         ]
       }
     ]
   },
-  "updatedAt": "2026-08-20T16:38:13Z",
+  "updatedAt": "2026-08-20T17:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
 }
