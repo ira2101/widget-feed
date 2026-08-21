@@ -1,1 +1,233 @@
-{"contentRevision":124,"mode":"native","native":{"background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,8,8,8],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#FFF6E5"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#2A3E5E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado \u2022 6:38a \u2022 orbit","type":"text"},{"color":"#7A8FB0","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF 58\u00b0 \u2022 9% \u2022 7:57p","type":"text"}],"direction":"row","height":20,"justifyContent":"space-between","type":"stack","width":"fill"},{"children":[{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"9.85K","type":"text"},{"color":"#2F6B45","font":{"size":7,"weight":"semibold"},"lineLimit":1,"text":"150 to go","type":"text"}],"direction":"column","gap":1,"height":38,"justifyContent":"space-between","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":100},{"background":{"color":"#1A2F4F","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"live \u2192 X","type":"text"},{"color":"#8AA4C8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Messenger","type":"text"}],"direction":"column","gap":1,"height":38,"justifyContent":"space-between","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://x.com/search?q=Messenger%20Android","width":100}],"direction":"column","gap":8,"height":84,"type":"stack","width":100},{"alignItems":"center","background":{"color":"#E8F3FF","type":"color"},"children":[{"background":{"color":"#1A2F4F","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":11,"weight":"bold"},"lineLimit":1,"text":"6:38a","type":"text"},{"color":"#8AA4C8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"dawn glow","type":"text"}],"direction":"column","height":72,"justifyContent":"center","radius":36,"type":"stack","width":72,"alignItems":"center"}],"direction":"column","height":84,"justifyContent":"center","padding":[4,4,4,4],"radius":12,"type":"stack","width":104,"alignItems":"center"},{"children":[{"background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Palette 11","type":"text"},{"color":"#5A7AA8","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"pics soon","type":"text"}],"direction":"column","gap":1,"height":38,"justifyContent":"space-between","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo","width":100},{"background":{"color":"#E8F3FF","type":"color"},"children":[{"color":"#1F2F47","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"now \u2022 slow","type":"text"},{"color":"#7A8FB0","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"11p wind","type":"text"}],"direction":"column","gap":1,"height":38,"justifyContent":"space-between","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://calendar.google.com","width":100}],"direction":"column","gap":8,"height":84,"type":"stack","width":100}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#7A8FB0","font":{"size":8,"weight":"regular"},"lineLimit":1,"text":"morning \u2022 150 left \u2022 quiet \u2022 58\u00b0","type":"text"},{"color":"#7A8FB0","font":{"size":7,"weight":"semibold"},"lineLimit":1,"text":"\u2192 Map \u2022 Cal \u2022 \u266b","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":"fill"}],"direction":"column","gap":8,"height":"fill","padding":[8,10,8,10],"radius":16,"type":"stack","width":"fill"}},"updatedAt":"2026-08-21T13:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 125,
+  "mode": "native",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-21T14:38:13Z",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": ["#E8F3FF", "#D4E8FF"]
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8]
+    },
+    "padding": [8, 8, 8, 8],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": ["#FFFFFF", "#FFF6E5"]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 7:38a • swell",
+              "font": {"size": 10, "weight": "semibold"},
+              "color": "#2A3E5E",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "SF 58° • 23% 9p",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#7A8FB0",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "column",
+          "width": "fill",
+          "height": 46,
+          "gap": 2,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "padding": [6, 10, 6, 10],
+          "radius": 12,
+          "background": {
+            "type": "gradient",
+            "angle": 135,
+            "colors": ["#FFF6E5", "#FFEED5"]
+          },
+          "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
+          "children": [
+            {
+              "type": "stack",
+              "direction": "row",
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "sun.max.fill",
+                  "size": 10,
+                  "color": "#8A6A20"
+                },
+                {
+                  "type": "text",
+                  "text": "Palette 11 wrap • pics soon",
+                  "font": {"size": 10, "weight": "bold"},
+                  "color": "#1F2F47",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "pottery San Mateo → tea done",
+              "font": {"size": 8, "weight": "medium"},
+              "color": "#5A3F2A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "Steven set • 11 pals • 7:57p sunset",
+              "font": {"size": 7, "weight": "medium"},
+              "color": "#8A7A60",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 38,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 38,
+              "gap": 0,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "padding": [4, 8, 3, 8],
+              "radius": 11,
+              "background": {"type": "color", "color": "#FFFFFF"},
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Exit 9.85K",
+                  "font": {"size": 9, "weight": "bold"},
+                  "color": "#1F4A2F",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "150 to go",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#2F6B45",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 104,
+              "height": 38,
+              "gap": 0,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "padding": [4, 8, 3, 8],
+              "radius": 11,
+              "background": {"type": "color", "color": "#E8F3FF"},
+              "url": "https://weather.com/weather/today/l/San+Francisco+CA",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SF 58°",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#2A5A8A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "23% • 9p • eve",
+                  "font": {"size": 8, "weight": "bold"},
+                  "color": "#1F2F47",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 38,
+              "gap": 0,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "padding": [4, 8, 3, 8],
+              "radius": 11,
+              "background": {"type": "color", "color": "#D9F5E4"},
+              "url": "https://x.com/search?q=Messenger%20Android",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Messenger",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#1F4A2F",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "quiet • live",
+                  "font": {"size": 8, "weight": "bold"},
+                  "color": "#2F6B45",
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 14,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "morning • 150 left • quiet",
+              "font": {"size": 8, "weight": "regular"},
+              "color": "#7A8FB0",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "→ Map • Cal • ♫",
+              "font": {"size": 7, "weight": "semibold"},
+              "color": "#8AA0C8",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ],
+      "direction": "column",
+      "gap": 8,
+      "height": "fill",
+      "width": "fill",
+      "padding": [8, 10, 8, 10],
+      "radius": 16
+    }
+  }
+}
