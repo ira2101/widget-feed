@@ -1,1 +1,330 @@
-{"contentRevision":114,"mode":"native","native":{"background":{"angle":135,"colors":["#FFE9F0","#FFF6E5","#E8F3FF"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,8,8,8],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#4A3D2A","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 10:38p • cutie week","type":"text"},{"color":"#8A7A60","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF 7-day","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":"fill"},{"alignItems":"center","background":{"type":"image","url":"https://raw.githubusercontent.com/ira2101/widget-feed/main/images/capybara-fun-1787254576.jpg"},"children":[{"alignItems":"center","background":{"color":"#00000066","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"capybara says hi • 7-day","type":"text"},{"color":"#FF9DBA","name":"heart.fill","size":9,"type":"symbol"}],"direction":"row","gap":6,"padding":[3,8,3,8],"radius":8,"type":"stack"}],"direction":"column","height":46,"justifyContent":"center","padding":[6,10,6,10],"radius":12,"type":"stack","url":"https://weather.com/weather/tenday/l/San+Francisco+CA","width":324},{"children":[{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.sun.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Thu","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"70°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-21","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Fri","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"68°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-22","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.sun.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Sat","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"70°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-23","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Sun","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"68°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-24","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Mon","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"67°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-25","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.sun.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Tue","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"68°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-26","width":42},{"alignItems":"center","background":{"color":"#FFFFFF","type":"color"},"children":[{"color":"#2E4A7A","name":"cloud.sun.fill","size":12,"type":"symbol"},{"color":"#1F2F47","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"Wed","type":"text"},{"color":"#1F2F47","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"70°","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[2,4,2,4],"radius":11,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-27","width":42}],"direction":"row","gap":5,"height":36,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6B5A40","font":{"size":8,"weight":"regular"},"lineLimit":1,"text":"SF • Partly Cloudy • tap day","type":"text"},{"color":"#8A7A60","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"cute • not chopped","type":"text"}],"direction":"row","height":14,"justifyContent":"space-between","type":"stack","width":"fill"}],"direction":"column","gap":8,"height":"fill","padding":[8,10,8,10],"radius":16,"type":"stack","width":"fill"}},"updatedAt":"2026-08-21T05:38:00Z","version":5,"widgetURL":"https://weather.com/weather/tenday/l/San+Francisco+CA"}
+{
+  "contentRevision": 115,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-21T05:40:27Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
+    },
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#162A44",
+          "#1E385E"
+        ]
+      },
+      "direction": "column",
+      "gap": 10,
+      "height": "fill",
+      "width": "fill",
+      "padding": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "radius": 16,
+      "type": "stack",
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 18,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado \u2022 10:38p \u2022 late",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#EAF2FF",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "wrap \u2022 SF",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#9AB0D0",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 120,
+                "colors": [
+                  "#223A5E",
+                  "#1A2F52"
+                ]
+              },
+              "justifyContent": "center",
+              "url": "https://www.google.com/maps/search/?api=1&query=320+S+B+St+San+Mateo+CA",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "photo.on.rectangle.angled",
+                      "size": 11,
+                      "color": "#FFD9A0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Palette after dark",
+                      "font": {
+                        "size": 11,
+                        "weight": "bold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "11 pals, set menu done",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#C9D8F0",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 8,
+                      "color": "#9AB0D0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "sunset 7:57p \u2022 58\u00b0 now",
+                      "font": {
+                        "size": 8,
+                        "weight": "regular"
+                      },
+                      "color": "#9AB0D0",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 120,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "direction": "row",
+                  "gap": 6,
+                  "padding": [
+                    6,
+                    10,
+                    4,
+                    10
+                  ],
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF14"
+                  },
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "58\u00b0 clouds",
+                          "font": {
+                            "size": 9,
+                            "weight": "semibold"
+                          },
+                          "color": "#EAF2FF",
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "rain 23% \u2022 9p",
+                          "font": {
+                            "size": 8,
+                            "weight": "regular"
+                          },
+                          "color": "#9AB0D0",
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "cloud.moon.fill",
+                      "size": 14,
+                      "color": "#C9D8F0"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "direction": "row",
+                  "gap": 6,
+                  "padding": [
+                    6,
+                    10,
+                    4,
+                    10
+                  ],
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF12"
+                  },
+                  "url": "x-apple-calevent://",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "pottery \u2192 tea",
+                          "font": {
+                            "size": 9,
+                            "weight": "semibold"
+                          },
+                          "color": "#FFD9A0",
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "San Mateo day",
+                          "font": {
+                            "size": 8,
+                            "weight": "regular"
+                          },
+                          "color": "#9AB0D0",
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "paintpalette.fill",
+                      "size": 12,
+                      "color": "#FFD9A0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": "fill",
+          "height": 16,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado made this \u2022 late vibes",
+              "font": {
+                "size": 8,
+                "weight": "regular"
+              },
+              "color": "#7F9ABF",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "tap \u2192 maps \u2022 music",
+              "font": {
+                "size": 7,
+                "weight": "medium"
+              },
+              "color": "#6B8AB0",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
