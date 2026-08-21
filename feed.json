@@ -1,293 +1,127 @@
 {
-  "contentRevision": 115,
+  "contentRevision": 116,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-21T05:40:27Z",
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-21T05:41:50Z",
+  "widgetURL": "https://weather.com/weather/tenday/l/San+Francisco+CA",
   "native": {
-    "background": {
-      "type": "gradient",
-      "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
-    },
-    "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
-    },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
-    "refreshMinutes": 15,
+    "background": {"type":"gradient","angle":135,"colors":["#FFE9F0","#FFF6E5","#E8F3FF"]},
+    "outer": {"padding":[8,8,8,8]},
+    "padding":[8,8,8,8],
+    "refreshMinutes":15,
     "root": {
-      "background": {
-        "type": "gradient",
-        "angle": 135,
-        "colors": [
-          "#162A44",
-          "#1E385E"
-        ]
-      },
-      "direction": "column",
-      "gap": 10,
-      "height": "fill",
-      "width": "fill",
-      "padding": [
-        8,
-        10,
-        8,
-        10
-      ],
-      "radius": 16,
-      "type": "stack",
-      "children": [
+      "type":"stack",
+      "direction":"column",
+      "width":"fill",
+      "height":"fill",
+      "gap":8,
+      "padding":[8,10,8,10],
+      "radius":16,
+      "background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},
+      "children":[
         {
-          "type": "stack",
-          "direction": "row",
-          "width": "fill",
-          "height": 18,
-          "alignItems": "center",
-          "justifyContent": "space-between",
-          "children": [
-            {
-              "type": "text",
-              "text": "tornado \u2022 10:38p \u2022 late",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
-              "color": "#EAF2FF",
-              "lineLimit": 1
-            },
-            {
-              "type": "text",
-              "text": "wrap \u2022 SF",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
-              "color": "#9AB0D0",
-              "lineLimit": 1
-            }
+          "type":"stack",
+          "direction":"row",
+          "width":"fill",
+          "height":18,
+          "justifyContent":"space-between",
+          "alignItems":"center",
+          "children":[
+            {"type":"text","text":"tornado • 10:41p • cutie stays","font":{"size":10,"weight":"semibold"},"color":"#4A3D2A","lineLimit":1},
+            {"type":"text","text":"SF 7-day","font":{"size":9,"weight":"medium"},"color":"#8A7A60","lineLimit":1}
           ]
         },
         {
-          "type": "stack",
-          "direction": "row",
-          "width": 324,
-          "height": 84,
-          "gap": 10,
-          "children": [
+          "type":"stack",
+          "direction":"row",
+          "width":324,
+          "height":84,
+          "gap":10,
+          "children":[
             {
-              "type": "stack",
-              "width": 194,
-              "height": 84,
-              "radius": 12,
-              "direction": "column",
-              "gap": 4,
-              "padding": [
-                8,
-                10,
-                6,
-                10
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 120,
-                "colors": [
-                  "#223A5E",
-                  "#1A2F52"
-                ]
-              },
-              "justifyContent": "center",
-              "url": "https://www.google.com/maps/search/?api=1&query=320+S+B+St+San+Mateo+CA",
-              "children": [
+              "type":"stack",
+              "direction":"column",
+              "width":100,
+              "height":84,
+              "radius":12,
+              "background":{"type":"color","color":"#FFFFFF"},
+              "padding":[6,8,4,8],
+              "justifyContent":"center",
+              "gap":2,
+              "url":"https://www.youtube.com/@exitfrequency",
+              "children":[
+                {"type":"text","text":"Exit 9.85K","font":{"size":9,"weight":"bold"},"color":"#1F2F47","lineLimit":1},
+                {"type":"text","text":"150 to 10K","font":{"size":7,"weight":"medium"},"color":"#8A7A60","lineLimit":1},
+                {"type":"text","text":"live now","font":{"size":7,"weight":"medium"},"color":"#2E4A7A","lineLimit":1}
+              ]
+            },
+            {
+              "type":"stack",
+              "direction":"column",
+              "width":104,
+              "height":84,
+              "alignItems":"center",
+              "justifyContent":"center",
+              "children":[
                 {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
+                  "type":"stack",
+                  "width":84,
+                  "height":84,
+                  "radius":42,
+                  "background":{"type":"image","url":"https://raw.githubusercontent.com/ira2101/widget-feed/main/images/capybara-fun-1787254576.jpg"},
+                  "alignItems":"center",
+                  "justifyContent":"center",
+                  "children":[
                     {
-                      "type": "symbol",
-                      "name": "photo.on.rectangle.angled",
-                      "size": 11,
-                      "color": "#FFD9A0"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Palette after dark",
-                      "font": {
-                        "size": 11,
-                        "weight": "bold"
-                      },
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "11 pals, set menu done",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#C9D8F0",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 8,
-                      "color": "#9AB0D0"
-                    },
-                    {
-                      "type": "text",
-                      "text": "sunset 7:57p \u2022 58\u00b0 now",
-                      "font": {
-                        "size": 8,
-                        "weight": "regular"
-                      },
-                      "color": "#9AB0D0",
-                      "lineLimit": 1
+                      "type":"stack",
+                      "background":{"type":"color","color":"#00000066"},
+                      "padding":[3,8,3,8],
+                      "radius":8,
+                      "children":[
+                        {"type":"text","text":"capy • cute","font":{"size":8,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1}
+                      ]
                     }
                   ]
                 }
               ]
             },
             {
-              "type": "stack",
-              "direction": "column",
-              "width": 120,
-              "height": 84,
-              "gap": 8,
-              "children": [
+              "type":"stack",
+              "direction":"column",
+              "width":100,
+              "height":84,
+              "gap":8,
+              "children":[
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 10,
-                  "direction": "row",
-                  "gap": 6,
-                  "padding": [
-                    6,
-                    10,
-                    4,
-                    10
-                  ],
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF14"
-                  },
-                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "58\u00b0 clouds",
-                          "font": {
-                            "size": 9,
-                            "weight": "semibold"
-                          },
-                          "color": "#EAF2FF",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "rain 23% \u2022 9p",
-                          "font": {
-                            "size": 8,
-                            "weight": "regular"
-                          },
-                          "color": "#9AB0D0",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "cloud.moon.fill",
-                      "size": 14,
-                      "color": "#C9D8F0"
-                    }
+                  "type":"stack",
+                  "direction":"column",
+                  "width":100,
+                  "height":38,
+                  "radius":11,
+                  "background":{"type":"color","color":"#E8F3FF"},
+                  "padding":[4,8,3,8],
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "url":"https://weather.com/weather/today/l/San+Francisco+CA?par=google&date=2026-08-21",
+                  "children":[
+                    {"type":"text","text":"Thu 70°","font":{"size":9,"weight":"bold"},"color":"#1F2F47","lineLimit":1},
+                    {"type":"text","text":"P.Cloudy","font":{"size":7,"weight":"medium"},"color":"#3A5A8A","lineLimit":1}
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 10,
-                  "direction": "row",
-                  "gap": 6,
-                  "padding": [
-                    6,
-                    10,
-                    4,
-                    10
-                  ],
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF12"
-                  },
-                  "url": "x-apple-calevent://",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "pottery \u2192 tea",
-                          "font": {
-                            "size": 9,
-                            "weight": "semibold"
-                          },
-                          "color": "#FFD9A0",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "San Mateo day",
-                          "font": {
-                            "size": 8,
-                            "weight": "regular"
-                          },
-                          "color": "#9AB0D0",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "paintpalette.fill",
-                      "size": 12,
-                      "color": "#FFD9A0"
-                    }
+                  "type":"stack",
+                  "direction":"column",
+                  "width":100,
+                  "height":38,
+                  "radius":11,
+                  "background":{"type":"color","color":"#D9F5E4"},
+                  "padding":[4,8,3,8],
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "url":"https://x.com/search?q=Messenger%20Android",
+                  "children":[
+                    {"type":"text","text":"Messenger","font":{"size":8,"weight":"medium"},"color":"#1F4A2F","lineLimit":1},
+                    {"type":"text","text":"quiet • live","font":{"size":8,"weight":"bold"},"color":"#1F4A2F","lineLimit":1}
                   ]
                 }
               ]
@@ -295,33 +129,15 @@
           ]
         },
         {
-          "type": "stack",
-          "direction": "row",
-          "width": "fill",
-          "height": 16,
-          "alignItems": "center",
-          "justifyContent": "space-between",
-          "children": [
-            {
-              "type": "text",
-              "text": "tornado made this \u2022 late vibes",
-              "font": {
-                "size": 8,
-                "weight": "regular"
-              },
-              "color": "#7F9ABF",
-              "lineLimit": 1
-            },
-            {
-              "type": "text",
-              "text": "tap \u2192 maps \u2022 music",
-              "font": {
-                "size": 7,
-                "weight": "medium"
-              },
-              "color": "#6B8AB0",
-              "lineLimit": 1
-            }
+          "type":"stack",
+          "direction":"row",
+          "width":"fill",
+          "height":14,
+          "justifyContent":"space-between",
+          "alignItems":"center",
+          "children":[
+            {"type":"text","text":"cute gradient • capy • not chopped","font":{"size":8,"weight":"regular"},"color":"#6B5A40","lineLimit":1},
+            {"type":"text","text":"→ weather","font":{"size":7,"weight":"semibold"},"color":"#8A7A60","lineLimit":1}
           ]
         }
       ]
