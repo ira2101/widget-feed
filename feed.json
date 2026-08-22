@@ -1,10 +1,10 @@
 {
-  "contentRevision": 148,
+  "contentRevision": 149,
   "mode": "native",
   "native": {
     "background": {
       "angle": 135,
-      "colors": ["#E8F3FF", "#D4E8FF"],
+      "colors": ["#FFEED5", "#E8F3FF"],
       "type": "gradient"
     },
     "outer": {
@@ -26,14 +26,14 @@
               "color": "#2A4A7A",
               "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1,
-              "text": "tornado \u2022 5:38a \u2022 dawn",
+              "text": "tornado \u2022 6:38a \u2022 sat",
               "type": "text"
             },
             {
               "color": "#6A8ABB",
               "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1,
-              "text": "Palette \u2022 done",
+              "text": "Palette \u2022 wrapped",
               "type": "text"
             }
           ],
@@ -44,142 +44,129 @@
           "width": 324
         },
         {
-          "background": {
-            "angle": 135,
-            "colors": ["#FFF6E5", "#FFEED5"],
-            "type": "gradient"
-          },
-          "children": [
-            {
-              "children": [
-                {
-                  "color": "#2A3147",
-                  "font": {"size": 10, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "early light lifts",
-                  "type": "text"
-                },
-                {
-                  "color": "#7A6A4A",
-                  "font": {"size": 8, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "Palette 11 wrap \u2022 soft glow",
-                  "type": "text"
-                }
-              ],
-              "direction": "column",
-              "gap": 2,
-              "type": "stack"
-            },
-            {
-              "color": "#E8A85A",
-              "name": "sunrise.fill",
-              "size": 14,
-              "type": "symbol"
-            }
-          ],
           "direction": "row",
-          "height": 48,
-          "justifyContent": "space-between",
-          "alignItems": "center",
-          "padding": [8, 12, 8, 12],
-          "radius": 12,
+          "gap": 10,
+          "height": 84,
           "type": "stack",
           "width": 324,
-          "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA"
-        },
-        {
           "children": [
             {
-              "alignItems": "center",
-              "background": {"color": "#E8F3FF", "type": "color"},
+              "background": {
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"],
+                "type": "gradient"
+              },
               "children": [
                 {
-                  "color": "#1F2F47",
-                  "font": {"size": 9, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "SF 58\u00b0 \u2022 morn",
-                  "type": "text"
+                  "children": [
+                    {
+                      "color": "#2A3147",
+                      "font": {"size": 10, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "morning lifts soft",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#7A6A4A",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "Palette 11 \u2022 done glow",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 2,
+                  "type": "stack"
                 },
                 {
-                  "color": "#5A6A8A",
-                  "font": {"size": 7, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "23% \u2022 9p \u2022 fog",
-                  "type": "text"
+                  "color": "#E8A85A",
+                  "name": "sunrise.fill",
+                  "size": 14,
+                  "type": "symbol"
                 }
               ],
-              "direction": "column",
-              "height": 36,
-              "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
-              "radius": 11,
+              "direction": "row",
+              "height": 84,
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "padding": [8, 12, 8, 12],
+              "radius": 12,
               "type": "stack",
-              "url": "https://weather.com/weather/today/l/San+Francisco+CA?par=google",
-              "width": 100
+              "width": 194,
+              "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA"
             },
             {
-              "alignItems": "center",
-              "background": {"angle": 135, "colors": ["#FFFFFF", "#EAF2FF"], "type": "gradient"},
               "children": [
                 {
-                  "color": "#2A3147",
-                  "font": {"size": 9, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "pottery \u2192 tea",
-                  "type": "text"
+                  "alignItems": "center",
+                  "background": {
+                    "color": "#E8F3FF",
+                    "type": "color"
+                  },
+                  "children": [
+                    {
+                      "color": "#1F2F47",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "SF 58\u00b0 \u2022 morn",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#5A6A8A",
+                      "font": {"size": 7, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "23% \u2022 9p \u2022 fog",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "height": 38,
+                  "justifyContent": "center",
+                  "padding": [3, 8, 3, 8],
+                  "radius": 11,
+                  "type": "stack",
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA?par=google",
+                  "width": 120
                 },
                 {
-                  "color": "#7A6A4A",
-                  "font": {"size": 7, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "eve \u2022 done",
-                  "type": "text"
+                  "alignItems": "center",
+                  "background": {
+                    "color": "#1E324F",
+                    "type": "color"
+                  },
+                  "children": [
+                    {
+                      "color": "#E8F3FF",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "Exit 9.87K",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#AAB8D0",
+                      "font": {"size": 7, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "130 to go",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "height": 38,
+                  "justifyContent": "center",
+                  "padding": [3, 8, 3, 8],
+                  "radius": 11,
+                  "type": "stack",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "width": 120
                 }
               ],
               "direction": "column",
-              "height": 36,
-              "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
-              "radius": 11,
+              "gap": 8,
+              "height": 84,
               "type": "stack",
-              "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
-              "width": 100
-            },
-            {
-              "alignItems": "center",
-              "background": {"color": "#1E324F", "type": "color"},
-              "children": [
-                {
-                  "color": "#E8F3FF",
-                  "font": {"size": 9, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "Exit 9.87K",
-                  "type": "text"
-                },
-                {
-                  "color": "#AAB8D0",
-                  "font": {"size": 7, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "130 to go",
-                  "type": "text"
-                }
-              ],
-              "direction": "column",
-              "height": 36,
-              "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
-              "radius": 11,
-              "type": "stack",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "width": 108
+              "width": 120
             }
-          ],
-          "direction": "row",
-          "gap": 8,
-          "height": 36,
-          "type": "stack",
-          "width": 324
+          ]
         },
         {
           "alignItems": "center",
@@ -188,24 +175,24 @@
               "color": "#7A8AAA",
               "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1,
-              "text": "dawn 5:38 \u2022 58\u00b0 \u2022 9.87K \u2022 calm",
+              "text": "6:38a \u2022 58\u00b0 \u2022 9.87K \u2022 quiet",
               "type": "text"
             }
           ],
           "direction": "row",
-          "height": 12,
+          "height": 16,
           "justifyContent": "center",
           "type": "stack",
           "width": 324
         }
       ],
       "direction": "column",
-      "gap": 8,
+      "gap": 10,
       "radius": 16,
       "type": "stack"
     }
   },
-  "updatedAt": "2026-08-22T12:38:13Z",
+  "updatedAt": "2026-08-22T13:38:13Z",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
 }
