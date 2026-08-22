@@ -1,1 +1,187 @@
-{"contentRevision":134,"mode":"native","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-08-21T23:40:29Z","native":{"background":{"type":"gradient","colors":["#E8F3FF","#D4E8FF"],"angle":135},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"type":"gradient","colors":["#FFFFFF","#F8FBFF"],"angle":135},"radius":16,"direction":"column","gap":10,"children":[{"type":"stack","direction":"row","width":324,"height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"tornado \u2022 4:38p \u2022 swell","font":{"size":10,"weight":"semibold"},"color":"#2A4A7A","lineLimit":1},{"type":"text","text":"SF 58\u00b0 \u2022 eve","font":{"size":9,"weight":"medium"},"color":"#6A8ABB","lineLimit":1}]},{"type":"stack","direction":"column","width":324,"height":84,"gap":8,"children":[{"type":"stack","width":324,"height":40,"radius":12,"background":{"type":"gradient","colors":["#FFF6E5","#FFEED5"],"angle":135},"padding":[6,12,6,12],"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA","children":[{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"Palette wrap \u2022 11 done","font":{"size":9,"weight":"bold"},"color":"#5A3F2A","lineLimit":1},{"type":"text","text":"pottery \u2192 tea \u2022 pics soon","font":{"size":8,"weight":"medium"},"color":"#8A6A20","lineLimit":1}]},{"type":"text","text":"sunset 7:57p","font":{"size":8,"weight":"semibold"},"color":"#2A4A7A","lineLimit":1}]},{"type":"stack","direction":"row","width":324,"height":36,"gap":10,"children":[{"type":"stack","width":100,"height":36,"radius":11,"background":{"type":"color","color":"#E8F3FF"},"padding":[4,8,3,8],"alignItems":"center","justifyContent":"center","direction":"column","gap":0,"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"Exit 9.85K","font":{"size":9,"weight":"bold"},"color":"#1F4A2F","lineLimit":1},{"type":"text","text":"150 left","font":{"size":7,"weight":"medium"},"color":"#2F6B45","lineLimit":1}]},{"type":"stack","width":100,"height":36,"radius":11,"background":{"type":"color","color":"#FFFFFF"},"padding":[4,8,3,8],"alignItems":"center","justifyContent":"center","direction":"column","gap":0,"url":"https://x.com/search?q=Messenger%20Android%20crash&f=live","children":[{"type":"text","text":"Messenger","font":{"size":8,"weight":"semibold"},"color":"#2A4A7A","lineLimit":1},{"type":"text","text":"quiet now","font":{"size":7,"weight":"medium"},"color":"#6A8ABB","lineLimit":1}]},{"type":"stack","width":104,"height":36,"radius":11,"background":{"type":"color","color":"#FFF6E5"},"padding":[4,8,3,8],"alignItems":"center","justifyContent":"center","direction":"column","gap":0,"url":"https://weather.com/weather/today/l/San+Francisco+CA","children":[{"type":"text","text":"SF 58\u00b0 eve","font":{"size":8,"weight":"semibold"},"color":"#2A4A7A","lineLimit":1},{"type":"text","text":"sunset 7:57p","font":{"size":7,"weight":"medium"},"color":"#6A8ABB","lineLimit":1}]}]}]},{"type":"stack","direction":"row","width":324,"height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"swell \u2022 wrap \u2022 58\u00b0","font":{"size":8,"weight":"medium"},"color":"#6A8ABB","lineLimit":1},{"type":"text","text":"\u2192 Map \u2022 Cal \u2022 \u266a","font":{"size":8,"weight":"medium"},"color":"#6A8ABB","lineLimit":1}]}]}}}
+{
+  "contentRevision": 135,
+  "mode": "native",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-22T00:34:34Z",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "colors": ["#FFE9F0", "#FFF6E5", "#E8F3FF"],
+      "angle": 135
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8]
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack",
+      "background": {
+        "type": "gradient",
+        "colors": ["#FFFFFF", "#FFF6E5"],
+        "angle": 135
+      },
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 5:34p • cute",
+              "font": {"size": 10, "weight": "semibold"},
+              "color": "#2A4A7A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "SF 58° • eve",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#6A8ABB",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "column",
+          "width": 324,
+          "height": 84,
+          "gap": 8,
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 46,
+              "radius": 12,
+              "background": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/ira2101/widget-feed/main/images/capybara-fun-1787254576.jpg"
+              },
+              "padding": [6, 12, 6, 12],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "children": [
+                {
+                  "type": "stack",
+                  "background": {"type": "color", "color": "#00000066"},
+                  "radius": 8,
+                  "padding": [3, 8, 3, 8],
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "capy says hi • fixed!",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "♥",
+                  "font": {"size": 10, "weight": "bold"},
+                  "color": "#FFFFFF",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "width": 324,
+              "height": 30,
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFE9F0"},
+                  "padding": [3, 8, 2, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "direction": "column",
+                  "gap": 0,
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {"type": "text", "text": "Exit 9.86K", "font": {"size": 9, "weight": "bold"}, "color": "#5A2A4A", "lineLimit": 1},
+                    {"type": "text", "text": "140 to go", "font": {"size": 7, "weight": "medium"}, "color": "#8A5A7A", "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#E8F3FF"},
+                  "padding": [3, 8, 2, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "direction": "column",
+                  "gap": 0,
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live",
+                  "children": [
+                    {"type": "text", "text": "Messenger", "font": {"size": 8, "weight": "semibold"}, "color": "#2A4A7A", "lineLimit": 1},
+                    {"type": "text", "text": "quiet now", "font": {"size": 7, "weight": "medium"}, "color": "#6A8ABB", "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 104,
+                  "height": 30,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFF6E5"},
+                  "padding": [3, 8, 2, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "direction": "column",
+                  "gap": 0,
+                  "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
+                  "children": [
+                    {"type": "text", "text": "Palette 11", "font": {"size": 8, "weight": "bold"}, "color": "#5A3F2A", "lineLimit": 1},
+                    {"type": "text", "text": "pics soon", "font": {"size": 7, "weight": "medium"}, "color": "#8A6A20", "lineLimit": 1}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "cute fix • 5:34p • not chopped",
+              "font": {"size": 8, "weight": "medium"},
+              "color": "#6A8ABB",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "→ Map • Cal • ♪",
+              "font": {"size": 8, "weight": "medium"},
+              "color": "#6A8ABB",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
