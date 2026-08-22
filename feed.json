@@ -1,9 +1,9 @@
 {
-  "contentRevision": 142,
+  "contentRevision": 143,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-22T06:38:13Z",
+  "updatedAt": "2026-08-22T07:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -36,14 +36,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 11:38p • night",
+              "text": "tornado • 12:38a • night",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#2A4A7A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "Palette 11 • done",
+              "text": "Palette 11 • wrap",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8ABB",
               "lineLimit": 1
@@ -52,82 +52,23 @@
         },
         {
           "type": "stack",
-          "direction": "column",
+          "direction": "row",
           "width": 324,
           "height": 84,
-          "gap": 8,
+          "gap": 10,
+          "justifyContent": "space-between",
           "children": [
             {
               "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 40,
-              "radius": 12,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
-              },
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "padding": [6, 12, 6, 12],
-              "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Palette 11 • wrap done",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#1F2F47",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "pottery → tea • 7:57p set",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#6A5A3A",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 10,
-                      "color": "#8A6A4A"
-                    },
-                    {
-                      "type": "text",
-                      "text": "58° eve • 23% 9p",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#5A4A3A",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 36,
+              "direction": "column",
+              "width": 100,
+              "height": 84,
               "gap": 8,
               "children": [
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 36,
+                  "height": 38,
                   "radius": 11,
                   "background": {"type": "color", "color": "#E8F3FF"},
                   "direction": "column",
@@ -155,35 +96,91 @@
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 36,
+                  "height": 38,
                   "radius": 11,
                   "background": {"type": "color", "color": "#FFFFFF"},
                   "direction": "column",
                   "alignItems": "center",
                   "justifyContent": "center",
                   "padding": [4, 8, 3, 8],
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
                   "children": [
                     {
                       "type": "text",
-                      "text": "Exit 9.87K",
+                      "text": "Palette 11",
                       "font": {"size": 9, "weight": "bold"},
-                      "color": "#1F4A2F",
+                      "color": "#1F2F47",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "130 to go",
+                      "text": "wrap done",
                       "font": {"size": 7, "weight": "medium"},
-                      "color": "#2F6B45",
+                      "color": "#6A5A3A",
                       "lineLimit": 1
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
                 {
                   "type": "stack",
-                  "width": 108,
-                  "height": 36,
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1A2F4F", "#243A5E"]
+                  },
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 6,
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 14,
+                      "color": "#E8F3FF"
+                    },
+                    {
+                      "type": "stack",
+                      "background": {"type": "color", "color": "#00000066"},
+                      "radius": 8,
+                      "padding": [3, 8, 3, 8],
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "night hum",
+                          "font": {"size": 8, "weight": "semibold"},
+                          "color": "#FFFFFF",
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
                   "radius": 11,
                   "background": {"type": "color", "color": "#E8F3FF"},
                   "direction": "column",
@@ -204,6 +201,34 @@
                       "text": "boards calm",
                       "font": {"size": 7, "weight": "medium"},
                       "color": "#5A6A8A",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFFFFF"},
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit 9.87K",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#1F4A2F",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "130 to go",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#2F6B45",
                       "lineLimit": 1
                     }
                   ]
@@ -229,10 +254,11 @@
             },
             {
               "type": "text",
-              "text": "→ Map • YouTube • ♪",
+              "text": "→ Map • YT • ♪",
               "font": {"size": 8, "weight": "semibold"},
               "color": "#6A8ABB",
-              "lineLimit": 1
+              "lineLimit": 1,
+              "url": "https://calendar.google.com"
             }
           ]
         }
