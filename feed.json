@@ -1,11 +1,14 @@
 {
-  "contentRevision": 141,
+  "contentRevision": 142,
   "mode": "native",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-22T06:38:13Z",
   "native": {
     "background": {
+      "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"],
-      "type": "gradient"
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
       "padding": [8, 8, 8, 8]
@@ -13,308 +16,227 @@
     "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
+      "type": "stack",
       "background": {
+        "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#FFF6E5"],
-        "type": "gradient"
+        "colors": ["#FFFFFF", "#FFF6E5"]
       },
-      "children": [
-        {
-          "alignItems": "center",
-          "children": [
-            {
-              "color": "#2A4A7A",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
-              "lineLimit": 1,
-              "text": "tornado • 10:38p • night",
-              "type": "text"
-            },
-            {
-              "color": "#6A8ABB",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
-              "lineLimit": 1,
-              "text": "Palette • 11 done",
-              "type": "text"
-            }
-          ],
-          "direction": "row",
-          "height": 18,
-          "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "alignItems": "center",
-                  "background": {
-                    "color": "#E8F3FF",
-                    "type": "color"
-                  },
-                  "children": [
-                    {
-                      "color": "#1F2F47",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1,
-                      "text": "Palette 11",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#5A6A8A",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "wrap • done",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "height": 38,
-                  "justifyContent": "center",
-                  "padding": [4, 8, 3, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
-                  "width": 100
-                },
-                {
-                  "alignItems": "center",
-                  "background": {
-                    "color": "#FFFFFF",
-                    "type": "color"
-                  },
-                  "children": [
-                    {
-                      "color": "#1F2F47",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1,
-                      "text": "SF 58° eve",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#6A5A3A",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "23% at 9p",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "height": 38,
-                  "justifyContent": "center",
-                  "padding": [4, 8, 3, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://weather.com/weather/today/l/San+Francisco+CA?par=google",
-                  "width": 100
-                }
-              ],
-              "direction": "column",
-              "gap": 8,
-              "height": 84,
-              "type": "stack",
-              "width": 100
-            },
-            {
-              "alignItems": "center",
-              "children": [
-                {
-                  "alignItems": "center",
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#6A5A3A",
-                      "name": "moon.stars.fill",
-                      "size": 12,
-                      "type": "symbol"
-                    },
-                    {
-                      "color": "#1F2F47",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1,
-                      "text": "eve hum",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#5A3F2A",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "pottery → tea",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 84,
-                  "justifyContent": "center",
-                  "radius": 42,
-                  "type": "stack",
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "width": 84
-                }
-              ],
-              "height": 84,
-              "justifyContent": "center",
-              "type": "stack",
-              "width": 104
-            },
-            {
-              "children": [
-                {
-                  "alignItems": "center",
-                  "background": {
-                    "color": "#E8F3FF",
-                    "type": "color"
-                  },
-                  "children": [
-                    {
-                      "color": "#1F4A2F",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1,
-                      "text": "Exit 9.87K",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#2F6B45",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "130 to go",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "height": 38,
-                  "justifyContent": "center",
-                  "padding": [4, 8, 3, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "width": 100
-                },
-                {
-                  "alignItems": "center",
-                  "background": {
-                    "color": "#FFFFFF",
-                    "type": "color"
-                  },
-                  "children": [
-                    {
-                      "color": "#6A8ABB",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "quiet now",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#5A6A8A",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "boards calm",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "height": 38,
-                  "justifyContent": "center",
-                  "padding": [4, 8, 3, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "width": 100
-                }
-              ],
-              "direction": "column",
-              "gap": 8,
-              "height": 84,
-              "type": "stack",
-              "width": 100
-            }
-          ],
-          "direction": "row",
-          "gap": 10,
-          "height": 84,
-          "type": "stack",
-          "width": 324
-        },
-        {
-          "alignItems": "center",
-          "children": [
-            {
-              "color": "#5A6A8A",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
-              "lineLimit": 1,
-              "text": "night wrap • 58° • eve",
-              "type": "text"
-            },
-            {
-              "color": "#6A8ABB",
-              "font": {
-                "size": 8,
-                "weight": "semibold"
-              },
-              "lineLimit": 1,
-              "text": "→ Map • YouTube • ♪",
-              "type": "text"
-            }
-          ],
-          "direction": "row",
-          "height": 16,
-          "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
-        }
-      ],
+      "radius": 16,
       "direction": "column",
       "gap": 10,
-      "radius": 16,
-      "type": "stack"
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 11:38p • night",
+              "font": {"size": 10, "weight": "semibold"},
+              "color": "#2A4A7A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "Palette 11 • done",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#6A8ABB",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "column",
+          "width": 324,
+          "height": 84,
+          "gap": 8,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "row",
+              "width": 324,
+              "height": 40,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "padding": [6, 12, 6, 12],
+              "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo+CA",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Palette 11 • wrap done",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "pottery → tea • 7:57p set",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#6A5A3A",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 10,
+                      "color": "#8A6A4A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "58° eve • 23% 9p",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#5A4A3A",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "width": 324,
+              "height": 36,
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#E8F3FF"},
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA?par=google",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SF 58° eve",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#1F2F47",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "23% at 9p",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#5A6A8A",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#FFFFFF"},
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit 9.87K",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#1F4A2F",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "130 to go",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#2F6B45",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 36,
+                  "radius": 11,
+                  "background": {"type": "color", "color": "#E8F3FF"},
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "url": "https://x.com/search?q=Messenger%20Android",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "quiet now",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6A8ABB",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "boards calm",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#5A6A8A",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "night wrap • 58° • eve",
+              "font": {"size": 8, "weight": "medium"},
+              "color": "#5A6A8A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "→ Map • YouTube • ♪",
+              "font": {"size": 8, "weight": "semibold"},
+              "color": "#6A8ABB",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
     }
-  },
-  "updatedAt": "2026-08-22T05:38:13Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
 }
