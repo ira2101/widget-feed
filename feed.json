@@ -1,42 +1,24 @@
 {
-  "contentRevision": 157,
+  "contentRevision": 158,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-22T21:38:13Z",
+  "updatedAt": "2026-08-22T22:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
-    "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
-    },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "outer": { "padding": [8, 8, 8, 8] },
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#FFF6E5"
-        ]
+        "colors": ["#FFFFFF", "#FFF6E5"]
       },
       "radius": 16,
       "direction": "column",
@@ -52,175 +34,155 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 2:38p \u2022 sat",
+              "text": "tornado \u2022 3:38p \u2022 sat",
               "color": "#2A4A7A",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "font": { "size": 10, "weight": "semibold" },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 soft light",
+              "text": "SF 58\u00b0 \u2022 airy hum",
               "color": "#6A8ABB",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "font": { "size": 9, "weight": "medium" },
               "lineLimit": 1
             }
           ]
         },
         {
           "type": "stack",
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "width": 324,
           "height": 84,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "width": 324,
+              "height": 40,
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "radius": 11,
+              "radius": 12,
+              "direction": "row",
               "alignItems": "center",
               "justifyContent": "center",
-              "direction": "column",
-              "gap": 3,
-              "padding": [
-                8,
-                10,
-                8,
-                10
-              ],
-              "url": "https://www.google.com/maps/search/?api=1&query=San+Francisco+CA",
+              "gap": 8,
+              "padding": [8, 10, 6, 10],
+              "url": "https://www.google.com/maps/search/?api=1&query=Palette+Tea+Garden+San+Mateo",
               "children": [
                 {
                   "type": "symbol",
                   "name": "sun.max.fill",
-                  "size": 16,
+                  "size": 14,
                   "color": "#E8A85A"
                 },
                 {
                   "type": "text",
-                  "text": "sat drifts",
+                  "text": "sat drifts \u2014 light on bay",
                   "color": "#3A2A1A",
-                  "font": {
-                    "size": 10,
-                    "weight": "semibold"
-                  },
+                  "font": { "size": 10, "weight": "semibold" },
                   "lineLimit": 1
                 },
                 {
-                  "type": "text",
-                  "text": "light on bay",
-                  "color": "#8A7A5A",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "type": "symbol",
+                  "name": "sparkles",
+                  "size": 10,
+                  "color": "#D4A05A"
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
+              "direction": "row",
               "gap": 8,
+              "width": 324,
+              "height": 36,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "background": {
-                    "type": "color",
-                    "color": "#EAF2FF"
-                  },
+                  "width": 100,
+                  "height": 36,
+                  "background": { "type": "color", "color": "#EAF2FF" },
                   "radius": 11,
                   "alignItems": "center",
                   "justifyContent": "center",
                   "direction": "column",
                   "gap": 1,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "padding": [5, 8, 3, 8],
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
                   "children": [
                     {
                       "type": "text",
-                      "text": "9.88K",
+                      "text": "SF 58\u00b0",
                       "color": "#2A4A7A",
-                      "font": {
-                        "size": 10,
-                        "weight": "semibold"
-                      },
+                      "font": { "size": 9, "weight": "semibold" },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "120 to go",
+                      "text": "23% 9p",
                       "color": "#6A8ABB",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": { "size": 7, "weight": "medium" },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "background": {
-                    "type": "color",
-                    "color": "#F0F6FF"
-                  },
+                  "width": 100,
+                  "height": 36,
+                  "background": { "type": "color", "color": "#FFF0D5" },
                   "radius": 11,
                   "alignItems": "center",
                   "justifyContent": "center",
                   "direction": "column",
                   "gap": 1,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "url": "https://x.com/search?q=Messenger+Android",
+                  "padding": [5, 8, 3, 8],
+                  "url": "https://www.google.com/maps/search/?api=1&query=320+S+B+St+San+Mateo",
                   "children": [
                     {
                       "type": "text",
-                      "text": "quiet now",
-                      "color": "#3A4A6A",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
+                      "text": "Palette 11",
+                      "color": "#5A3A1A",
+                      "font": { "size": 9, "weight": "semibold" },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "boards calm",
+                      "text": "wrap done",
+                      "color": "#8A6A4A",
+                      "font": { "size": 7, "weight": "medium" },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 36,
+                  "background": { "type": "color", "color": "#E8F0FF" },
+                  "radius": 11,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "direction": "column",
+                  "gap": 1,
+                  "padding": [5, 8, 3, 8],
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.88K \u2022 120 to go",
+                      "color": "#2A4A7A",
+                      "font": { "size": 8, "weight": "semibold" },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet hum",
                       "color": "#6A8ABB",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
+                      "font": { "size": 7, "weight": "medium" },
                       "lineLimit": 1
                     }
                   ]
@@ -239,22 +201,16 @@
           "children": [
             {
               "type": "text",
-              "text": "2:38p \u2022 58\u00b0 \u2022 9.88K \u2022 calm",
+              "text": "3:38p \u2022 58\u00b0 \u2022 9.88K \u2022 calm",
               "color": "#7A8AAA",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": { "size": 8, "weight": "medium" },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "Map YT \u266b \u2192",
+              "text": "Map Weather YT \u266b \u2192",
               "color": "#6A8ABB",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": { "size": 8, "weight": "medium" },
               "lineLimit": 1
             }
           ]
