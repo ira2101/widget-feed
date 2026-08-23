@@ -1,14 +1,14 @@
 {
-  "contentRevision": 180,
+  "contentRevision": 181,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-23T21:38:13Z",
+  "updatedAt": "2026-08-23T22:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#E8F3FF", "#D4E8FF"]
+      "colors": ["#FFF6E5", "#FFEED5"]
     },
     "outer": {
       "padding": [8, 8, 8, 8]
@@ -24,7 +24,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#F9FDFF", "#E4EFFF"]
+        "colors": ["#FFFFFF", "#FFFAF0"]
       },
       "children": [
         {
@@ -37,15 +37,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 2:38p • Sun",
-              "font": { "size": 10, "weight": "semibold" },
+              "text": "tornado • 3:38p • Sun",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#2A4A7A",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • 58° • soft hum",
-              "font": { "size": 9, "weight": "medium" },
+              "text": "SF • 58° • glow",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -55,19 +55,17 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
-          "justifyContent": "center",
-          "alignItems": "center",
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "width": 324,
+              "height": 46,
               "radius": 12,
               "direction": "column",
-              "gap": 4,
-              "padding": [10, 12, 8, 12],
+              "gap": 2,
+              "padding": [8, 12, 6, 12],
               "alignItems": "flex-start",
               "justifyContent": "center",
               "background": {
@@ -85,14 +83,14 @@
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "sun.max.fill",
+                      "name": "sun.haze.fill",
                       "size": 11,
                       "color": "#E8F3FF"
                     },
                     {
                       "type": "text",
-                      "text": "Sunday drifts",
-                      "font": { "size": 10, "weight": "semibold" },
+                      "text": "Sunday hums, Larkin warm",
+                      "font": {"size": 10, "weight": "semibold"},
                       "color": "#E8F3FF",
                       "lineLimit": 1
                     }
@@ -100,35 +98,30 @@
                 },
                 {
                   "type": "text",
-                  "text": "Larkin light, tea done",
-                  "font": { "size": 11, "weight": "semibold" },
+                  "text": "Palette tea done • pics soon",
+                  "font": {"size": 10, "weight": "semibold"},
                   "color": "#FFFFFF",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Palette 11 • pics soon",
-                  "font": { "size": 9, "weight": "regular" },
-                  "color": "#A8C0E0",
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 8,
+              "width": 324,
+              "height": 30,
+              "direction": "row",
+              "gap": 10,
+              "alignItems": "center",
+              "justifyContent": "center",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
                   "direction": "column",
                   "gap": 1,
-                  "padding": [6, 8, 5, 8],
+                  "padding": [4, 8, 3, 8],
                   "alignItems": "center",
                   "justifyContent": "center",
                   "background": {
@@ -145,8 +138,8 @@
                     },
                     {
                       "type": "text",
-                      "text": "9.89K • 111 to go",
-                      "font": { "size": 8, "weight": "semibold" },
+                      "text": "9.89K • 111",
+                      "font": {"size": 8, "weight": "semibold"},
                       "color": "#3A2A1A",
                       "lineLimit": 1
                     }
@@ -154,12 +147,12 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
+                  "width": 104,
+                  "height": 30,
+                  "radius": 10,
                   "direction": "column",
                   "gap": 1,
-                  "padding": [6, 8, 5, 8],
+                  "padding": [4, 8, 3, 8],
                   "alignItems": "center",
                   "justifyContent": "center",
                   "background": {
@@ -177,7 +170,38 @@
                     {
                       "type": "text",
                       "text": "quiet boards",
-                      "font": { "size": 8, "weight": "medium" },
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#2A4A7A",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "direction": "column",
+                  "gap": 1,
+                  "padding": [4, 8, 3, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#E8F3FF"
+                  },
+                  "url": "https://maps.apple.com/?q=Bamboo+Massage+Union+St",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "mappin.and.ellipse",
+                      "size": 10,
+                      "color": "#2A4A7A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Larkin • SF",
+                      "font": {"size": 8, "weight": "medium"},
                       "color": "#2A4A7A",
                       "lineLimit": 1
                     }
@@ -197,15 +221,15 @@
           "children": [
             {
               "type": "text",
-              "text": "pottery → tea • 58° eve • wrap",
-              "font": { "size": 9, "weight": "regular" },
+              "text": "pottery → tea • 58° • wrap",
+              "font": {"size": 9, "weight": "regular"},
               "color": "#5A7AA8",
               "lineLimit": 1
             },
             {
               "type": "text",
               "text": "→ YT • Map • ♫",
-              "font": { "size": 8, "weight": "medium" },
+              "font": {"size": 8, "weight": "medium"},
               "color": "#7FA0C8",
               "lineLimit": 1
             }
