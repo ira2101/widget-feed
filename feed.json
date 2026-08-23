@@ -1,19 +1,32 @@
 {
-  "contentRevision": 181,
+  "contentRevision": 182,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-23T22:38:13Z",
+  "updatedAt": "2026-08-23T23:39:26Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#FFF6E5", "#FFEED5"]
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8]
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -24,7 +37,10 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#FFFAF0"]
+        "colors": [
+          "#FFFFFF",
+          "#F5F9FF"
+        ]
       },
       "children": [
         {
@@ -37,15 +53,21 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 3:38p • Sun",
-              "font": {"size": 10, "weight": "semibold"},
-              "color": "#2A4A7A",
+              "text": "tornado \u2022 4:38p \u2022 Sun",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • 58° • glow",
-              "font": {"size": 9, "weight": "medium"},
+              "text": "SF \u2022 58\u00b0 \u2022 dusk",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -55,51 +77,59 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
+          "alignItems": "center",
+          "justifyContent": "center",
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 46,
+              "width": 100,
+              "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 2,
-              "padding": [8, 12, 6, 12],
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
               "alignItems": "flex-start",
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#13233F", "#1E365E"]
+                "colors": [
+                  "#13233F",
+                  "#1E365E"
+                ]
               },
               "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "sun.haze.fill",
-                      "size": 11,
-                      "color": "#E8F3FF"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Sunday hums, Larkin warm",
-                      "font": {"size": 10, "weight": "semibold"},
-                      "color": "#E8F3FF",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "moon.stars.fill",
+                  "size": 12,
+                  "color": "#E8F3FF"
                 },
                 {
                   "type": "text",
-                  "text": "Palette tea done • pics soon",
-                  "font": {"size": 10, "weight": "semibold"},
+                  "text": "Larkin hum",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "color": "#E8F3FF",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "tea done \u2713",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
                   "color": "#FFFFFF",
                   "lineLimit": 1
                 }
@@ -107,105 +137,126 @@
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 30,
-              "direction": "row",
-              "gap": 10,
+              "width": 104,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
               "alignItems": "center",
               "justifyContent": "center",
+              "background": {
+                "type": "color",
+                "color": "#EAF2FF"
+              },
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 30,
-                  "radius": 10,
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
                   "direction": "column",
-                  "gap": 1,
-                  "padding": [4, 8, 3, 8],
                   "alignItems": "center",
                   "justifyContent": "center",
                   "background": {
-                    "type": "color",
-                    "color": "#FFF6E5"
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E8F3FF",
+                      "#C8DDFF"
+                    ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "play.circle.fill",
-                      "size": 10,
-                      "color": "#3A2A1A"
+                      "name": "sparkles",
+                      "size": 12,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 62,
+                      "height": 18,
+                      "radius": 8,
+                      "direction": "column",
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "9.89K \u2022 111",
+                          "font": {
+                            "size": 8,
+                            "weight": "semibold"
+                          },
+                          "color": "#FFFFFF",
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
                       "type": "text",
-                      "text": "9.89K • 111",
-                      "font": {"size": 8, "weight": "semibold"},
-                      "color": "#3A2A1A",
+                      "text": "Sunday holds",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#1E365E",
                       "lineLimit": 1
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "background": {
+                "type": "color",
+                "color": "#FFF6E5"
+              },
+              "url": "https://x.com/search?q=Messenger%20Android",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "bell.slash.fill",
+                  "size": 12,
+                  "color": "#3A2A1A"
                 },
                 {
-                  "type": "stack",
-                  "width": 104,
-                  "height": 30,
-                  "radius": 10,
-                  "direction": "column",
-                  "gap": 1,
-                  "padding": [4, 8, 3, 8],
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "color",
-                    "color": "#EAF2FF"
+                  "type": "text",
+                  "text": "quiet boards",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "bell.slash.fill",
-                      "size": 10,
-                      "color": "#2A4A7A"
-                    },
-                    {
-                      "type": "text",
-                      "text": "quiet boards",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#2A4A7A",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#3A2A1A",
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 30,
-                  "radius": 10,
-                  "direction": "column",
-                  "gap": 1,
-                  "padding": [4, 8, 3, 8],
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "color",
-                    "color": "#E8F3FF"
+                  "type": "text",
+                  "text": "SF \u2022 calm",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
                   },
-                  "url": "https://maps.apple.com/?q=Bamboo+Massage+Union+St",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "mappin.and.ellipse",
-                      "size": 10,
-                      "color": "#2A4A7A"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Larkin • SF",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#2A4A7A",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#6A5A3A",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -221,15 +272,21 @@
           "children": [
             {
               "type": "text",
-              "text": "pottery → tea • 58° • wrap",
-              "font": {"size": 9, "weight": "regular"},
+              "text": "pottery \u2192 tea \u2022 58\u00b0 \u2022 wrap",
+              "font": {
+                "size": 9,
+                "weight": "regular"
+              },
               "color": "#5A7AA8",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ YT • Map • ♫",
-              "font": {"size": 8, "weight": "medium"},
+              "text": "\u2192 YT \u2022 Map \u2022 \u266b",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
               "color": "#7FA0C8",
               "lineLimit": 1
             }
