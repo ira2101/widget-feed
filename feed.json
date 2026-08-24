@@ -1,26 +1,42 @@
 {
-  "contentRevision": 195,
+  "contentRevision": 196,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-24T12:38:13Z",
+  "updatedAt": "2026-08-24T13:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
+      "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"],
-      "type": "gradient"
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8]
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
       "background": {
+        "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F6F9FF"],
-        "type": "gradient"
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ]
       },
       "radius": 16,
       "direction": "column",
@@ -36,16 +52,22 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 5:38a • Mon",
+              "text": "tornado \u2022 6:38a \u2022 Mon",
               "color": "#1E365E",
-              "font": {"size": 10, "weight": "semibold"},
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58° • early glass",
+              "text": "SF 58\u00b0 \u2022 glass orbit",
               "color": "#6A8AB5",
-              "font": {"size": 9, "weight": "medium"},
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "lineLimit": 1
             }
           ]
@@ -56,113 +78,203 @@
           "height": 84,
           "direction": "row",
           "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 4,
+              "gap": 3,
               "justifyContent": "center",
-              "padding": [8, 10, 6, 10],
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
               "background": {
+                "type": "gradient",
                 "angle": 135,
-                "colors": ["#13233F", "#1E3A65"],
-                "type": "gradient"
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ]
               },
-              "url": "https://calendar.google.com",
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
                   "direction": "row",
-                  "gap": 5,
+                  "gap": 4,
                   "alignItems": "center",
                   "children": [
-                    {"type": "symbol", "name": "sparkles", "size": 9, "color": "#A8C6FF"},
-                    {"type": "text", "text": "liquid glass dawn", "color": "#A8C6FF", "font": {"size": 9, "weight": "semibold"}, "lineLimit": 1}
+                    {
+                      "type": "symbol",
+                      "name": "play.fill",
+                      "size": 7,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exit",
+                      "color": "#1E365E",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "city hums low, light lifts",
-                  "color": "#E8F3FF",
-                  "font": {"size": 10, "weight": "bold"},
+                  "text": "9.89K",
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
+                  },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "Mon begins • soft depth",
-                  "color": "#8AA8D8",
-                  "font": {"size": 8, "weight": "medium"},
+                  "text": "111 to go",
+                  "color": "#4A6A9A",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
               "height": 84,
               "direction": "column",
-              "gap": 8,
+              "alignItems": "center",
+              "justifyContent": "center",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
                   "direction": "column",
-                  "gap": 2,
+                  "alignItems": "center",
                   "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
+                  "gap": 3,
                   "background": {
+                    "type": "gradient",
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"],
-                    "type": "gradient"
+                    "colors": [
+                      "#13233F",
+                      "#2A5A9A"
+                    ]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://calendar.google.com",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 4,
-                      "alignItems": "center",
-                      "children": [
-                        {"type": "symbol", "name": "play.fill", "size": 7, "color": "#1E365E"},
-                        {"type": "text", "text": "Exit", "color": "#1E365E", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
-                      ]
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 12,
+                      "color": "#A8C6FF"
                     },
-                    {"type": "text", "text": "9.89K • 111 to go", "color": "#1E365E", "font": {"size": 8, "weight": "bold"}, "lineLimit": 1}
+                    {
+                      "type": "text",
+                      "text": "Mon light",
+                      "color": "#E8F3FF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "soft lift",
+                      "color": "#8AA8D8",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 3,
+              "justifyContent": "center",
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android%20crash",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.shield.fill",
+                      "size": 7,
+                      "color": "#7A4A2A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet",
+                      "color": "#7A4A2A",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"],
-                    "type": "gradient"
+                  "type": "text",
+                  "text": "boards calm",
+                  "color": "#7A4A2A",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 4,
-                      "alignItems": "center",
-                      "children": [
-                        {"type": "symbol", "name": "checkmark.shield.fill", "size": 7, "color": "#7A4A2A"},
-                        {"type": "text", "text": "quiet", "color": "#7A4A2A", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
-                      ]
-                    },
-                    {"type": "text", "text": "boards calm • 3h", "color": "#7A4A2A", "font": {"size": 8, "weight": "medium"}, "lineLimit": 1}
-                  ]
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "3h scan \u2022 ok",
+                  "color": "#9A7A5A",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             }
@@ -178,9 +290,12 @@
           "children": [
             {
               "type": "text",
-              "text": "useful • 111 left • glassy",
+              "text": "glass orbit \u2022 111 left \u2022 dawn",
               "color": "#6A8AB5",
-              "font": {"size": 8, "weight": "medium"},
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
               "lineLimit": 1
             },
             {
@@ -189,8 +304,22 @@
               "gap": 4,
               "alignItems": "center",
               "children": [
-                {"type": "symbol", "name": "music.note", "size": 7, "color": "#6A8AB5"},
-                {"type": "text", "text": "→ Kerala", "color": "#1E365E", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
+                {
+                  "type": "symbol",
+                  "name": "music.note",
+                  "size": 7,
+                  "color": "#6A8AB5"
+                },
+                {
+                  "type": "text",
+                  "text": "\u2192 Kerala",
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
               ]
             }
           ]
