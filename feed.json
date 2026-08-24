@@ -1,1 +1,216 @@
-{"contentRevision":205,"mode":"native","native":{"background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F9FCFF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 3:38p • Mon","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"warm • glow • lift","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#A9C8FF","name":"sparkles","size":11,"type":"symbol"},{"color":"#FFFFFF","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"late light • soft lift","type":"text"}],"direction":"row","gap":6,"type":"stack"},{"color":"#C7D9F5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"Larkin hum • 68° • airy","type":"text"},{"color":"#A9C8FF","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"you've got room • SF now","type":"text"}],"direction":"column","gap":4,"height":84,"justifyContent":"center","padding":[10,12,8,12],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=2265+Larkin+St+SF","width":194},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#7A5A2E","name":"play.fill","size":9,"type":"symbol"},{"color":"#5A3F1E","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"Exit 9.9K","type":"text"},{"color":"#8A6A4A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"100 to go → YT","type":"text"}],"direction":"column","height":38,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":120},{"alignItems":"center","background":{"angle":135,"colors":["#E8F3FF","#F6F9FF"],"type":"gradient"},"children":[{"color":"#1E365E","name":"waveform","size":9,"type":"symbol"},{"color":"#1E365E","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"quiet • calm","type":"text"},{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"all good • now","type":"text"}],"direction":"column","height":38,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://x.com/search?q=Messenger%20Android","width":120}],"direction":"column","gap":8,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"diagonal 194+120 • glow • SF","type":"text"},{"color":"#1E365E","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"→ YT • → X • ♫ Kerala","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"padding":[0,0,0,0],"radius":16,"type":"stack","width":324},"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"},"updatedAt":"2026-08-24T22:39:30Z","version":5}
+{
+  "contentRevision": 206,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": ["#E8F3FF", "#D4E8FF"],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8]
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F9FCFF"],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#1E365E",
+              "font": {"size": 10, "weight": "semibold"},
+              "lineLimit": 1,
+              "text": "tornado • 4:38p • Mon",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "orbit • airy",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 18,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "alignItems": "center",
+              "background": {
+                "angle": 135,
+                "colors": ["#0F1D30", "#162A44"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#A9C8FF",
+                  "name": "sparkles",
+                  "size": 11,
+                  "type": "symbol"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "font": {"size": 9, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "Larkin hum",
+                  "type": "text"
+                },
+                {
+                  "color": "#C7D9F5",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "68° • clear",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 4,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
+              "width": 100
+            },
+            {
+              "alignItems": "center",
+              "children": [
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "color": "#1E365E",
+                      "font": {"size": 10, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "SF now",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#6A8AB5",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "warm lift",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#1E365E",
+                      "name": "circle.dotted",
+                      "size": 8,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 2,
+                  "height": 84,
+                  "justifyContent": "center",
+                  "radius": 42,
+                  "type": "stack",
+                  "width": 84
+                }
+              ],
+              "direction": "column",
+              "height": 84,
+              "justifyContent": "center",
+              "type": "stack",
+              "width": 104
+            },
+            {
+              "alignItems": "center",
+              "background": {
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#7A5A2E",
+                  "name": "play.fill",
+                  "size": 9,
+                  "type": "symbol"
+                },
+                {
+                  "color": "#5A3F1E",
+                  "font": {"size": 9, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "Exit 9.9K",
+                  "type": "text"
+                },
+                {
+                  "color": "#8A6A4A",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "100 to YT",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 3,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
+              "radius": 11,
+              "type": "stack",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 100
+            }
+          ],
+          "direction": "row",
+          "gap": 10,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#6A8AB5",
+              "font": {"size": 8, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "orbit • glow • SF • 4:38p",
+              "type": "text"
+            },
+            {
+              "color": "#1E365E",
+              "font": {"size": 8, "weight": "semibold"},
+              "lineLimit": 1,
+              "text": "→ Map • → YT • ♫ Kerala",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        }
+      ],
+      "direction": "column",
+      "gap": 10,
+      "padding": [0, 0, 0, 0],
+      "radius": 16,
+      "type": "stack",
+      "width": 324
+    },
+    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  },
+  "updatedAt": "2026-08-24T23:38:13Z",
+  "version": 5
+}
