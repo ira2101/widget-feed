@@ -1,16 +1,16 @@
 {
-  "contentRevision": 196,
+  "contentRevision": 197,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-24T13:38:13Z",
+  "updatedAt": "2026-08-24T14:40:05Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#0F1D30",
-        "#162A44"
+        "#E8F3FF",
+        "#D4E8FF"
       ]
     },
     "outer": {
@@ -52,7 +52,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 6:38a \u2022 Mon",
+              "text": "tornado \u2022 7:38a \u2022 Mon",
               "color": "#1E365E",
               "font": {
                 "size": 10,
@@ -62,7 +62,7 @@
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 glass orbit",
+              "text": "SF 58\u00b0 \u2022 drift",
               "color": "#6A8AB5",
               "font": {
                 "size": 9,
@@ -83,24 +83,24 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 3,
+              "gap": 4,
               "justifyContent": "center",
               "padding": [
-                6,
                 8,
-                4,
-                8
+                10,
+                6,
+                10
               ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
                 "colors": [
-                  "#E8F3FF",
-                  "#D4E8FF"
+                  "#FFF6E5",
+                  "#FFEED5"
                 ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
@@ -108,19 +108,19 @@
                 {
                   "type": "stack",
                   "direction": "row",
-                  "gap": 4,
+                  "gap": 5,
                   "alignItems": "center",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "play.fill",
-                      "size": 7,
-                      "color": "#1E365E"
+                      "name": "sparkles",
+                      "size": 8,
+                      "color": "#7A5A2E"
                     },
                     {
                       "type": "text",
-                      "text": "Exit",
-                      "color": "#1E365E",
+                      "text": "morning \u2022 Mon",
+                      "color": "#7A5A2E",
                       "font": {
                         "size": 8,
                         "weight": "semibold"
@@ -131,73 +131,40 @@
                 },
                 {
                   "type": "text",
-                  "text": "9.89K",
-                  "color": "#1E365E",
+                  "text": "hey, new light",
+                  "color": "#2E1E0A",
                   "font": {
-                    "size": 11,
+                    "size": 12,
                     "weight": "bold"
                   },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "111 to go",
-                  "color": "#4A6A9A",
+                  "text": "9.89K \u2022 111 to go",
+                  "color": "#8A6A4A",
                   "font": {
-                    "size": 8,
+                    "size": 9,
                     "weight": "medium"
                   },
                   "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
+                },
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "direction": "column",
+                  "direction": "row",
+                  "gap": 4,
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 3,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#13233F",
-                      "#2A5A9A"
-                    ]
-                  },
-                  "url": "https://calendar.google.com",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "sparkles",
-                      "size": 12,
-                      "color": "#A8C6FF"
+                      "name": "play.fill",
+                      "size": 7,
+                      "color": "#9A7A5A"
                     },
                     {
                       "type": "text",
-                      "text": "Mon light",
-                      "color": "#E8F3FF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "soft lift",
-                      "color": "#8AA8D8",
+                      "text": "Exit \u2022 glass drift",
+                      "color": "#6A5A4A",
                       "font": {
                         "size": 7,
                         "weight": "medium"
@@ -210,71 +177,130 @@
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
-              "radius": 12,
               "direction": "column",
-              "gap": 3,
-              "justifyContent": "center",
-              "padding": [
-                6,
-                8,
-                4,
-                8
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
-              },
-              "url": "https://x.com/search?q=Messenger%20Android%20crash",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "gap": 4,
-                  "alignItems": "center",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E8F3FF",
+                      "#D4E8FF"
+                    ]
+                  },
+                  "url": "https://calendar.google.com",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "checkmark.shield.fill",
-                      "size": 7,
-                      "color": "#7A4A2A"
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "calendar",
+                          "size": 7,
+                          "color": "#1E365E"
+                        },
+                        {
+                          "type": "text",
+                          "text": "today",
+                          "color": "#1E365E",
+                          "font": {
+                            "size": 8,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
                       "type": "text",
-                      "text": "quiet",
-                      "color": "#7A4A2A",
+                      "text": "Mon open \u2022 SF",
+                      "color": "#4A6A9A",
                       "font": {
                         "size": 8,
-                        "weight": "semibold"
+                        "weight": "medium"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "boards calm",
-                  "color": "#7A4A2A",
-                  "font": {
-                    "size": 8,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E9F6EF",
+                      "#D4EEDD"
+                    ]
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "3h scan \u2022 ok",
-                  "color": "#9A7A5A",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "checkmark.shield.fill",
+                          "size": 7,
+                          "color": "#2E5A3E"
+                        },
+                        {
+                          "type": "text",
+                          "text": "quiet",
+                          "color": "#2E5A3E",
+                          "font": {
+                            "size": 8,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "boards calm \u2022 ok",
+                      "color": "#5A8A6A",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -290,7 +316,7 @@
           "children": [
             {
               "type": "text",
-              "text": "glass orbit \u2022 111 left \u2022 dawn",
+              "text": "drift \u2022 111 left \u2022 dawn",
               "color": "#6A8AB5",
               "font": {
                 "size": 8,
