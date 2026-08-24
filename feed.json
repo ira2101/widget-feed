@@ -1,16 +1,16 @@
 {
-  "contentRevision": 182,
+  "contentRevision": 183,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-23T23:39:26Z",
+  "updatedAt": "2026-08-24T00:39:24Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#0F1D30",
-        "#162A44"
+        "#FFF6E5",
+        "#FFEED5"
       ]
     },
     "outer": {
@@ -39,7 +39,7 @@
         "angle": 135,
         "colors": [
           "#FFFFFF",
-          "#F5F9FF"
+          "#FFFAF0"
         ]
       },
       "children": [
@@ -53,7 +53,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 4:38p \u2022 Sun",
+              "text": "tornado \u2022 5:38p \u2022 Sun",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -63,7 +63,7 @@
             },
             {
               "type": "text",
-              "text": "SF \u2022 58\u00b0 \u2022 dusk",
+              "text": "SF \u2022 58\u00b0 \u2022 eve",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -79,12 +79,10 @@
           "height": 84,
           "direction": "row",
           "gap": 10,
-          "alignItems": "center",
-          "justifyContent": "center",
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 12,
               "direction": "column",
@@ -109,15 +107,15 @@
               "children": [
                 {
                   "type": "symbol",
-                  "name": "moon.stars.fill",
+                  "name": "sun.haze.fill",
                   "size": 12,
                   "color": "#E8F3FF"
                 },
                 {
                   "type": "text",
-                  "text": "Larkin hum",
+                  "text": "Sunday hums",
                   "font": {
-                    "size": 9,
+                    "size": 11,
                     "weight": "semibold"
                   },
                   "color": "#E8F3FF",
@@ -125,138 +123,118 @@
                 },
                 {
                   "type": "text",
-                  "text": "tea done \u2713",
+                  "text": "Larkin glow \u2022 tea \u2713",
                   "font": {
                     "size": 9,
                     "weight": "medium"
                   },
-                  "color": "#FFFFFF",
+                  "color": "#AFC8E8",
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 104,
+              "width": 120,
               "height": 84,
-              "radius": 12,
               "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "color",
-                "color": "#EAF2FF"
-              },
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 2,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "alignItems": "flex-start",
                   "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#E8F3FF",
-                      "#C8DDFF"
+                      "#FFF6E5",
+                      "#FFEED5"
                     ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "sparkles",
-                      "size": 12,
-                      "color": "#1E365E"
-                    },
-                    {
-                      "type": "stack",
-                      "width": 62,
-                      "height": 18,
-                      "radius": 8,
-                      "direction": "column",
-                      "alignItems": "center",
-                      "justifyContent": "center",
-                      "background": {
-                        "type": "color",
-                        "color": "#00000066"
-                      },
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "9.89K \u2022 111",
-                          "font": {
-                            "size": 8,
-                            "weight": "semibold"
-                          },
-                          "color": "#FFFFFF",
-                          "lineLimit": 1
-                        }
-                      ]
+                      "name": "play.circle.fill",
+                      "size": 10,
+                      "color": "#7A5A2E"
                     },
                     {
                       "type": "text",
-                      "text": "Sunday holds",
+                      "text": "9.89K \u2022 111 left",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "color": "#7A5A2E",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#EAF2FF",
+                      "#D4E8FF"
+                    ]
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android%20quiet",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "bell.slash.fill",
+                      "size": 10,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet boards",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "calm eve",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
-                      "color": "#1E365E",
+                      "color": "#6A8AB5",
                       "lineLimit": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 12,
-              "direction": "column",
-              "gap": 4,
-              "padding": [
-                8,
-                10,
-                6,
-                10
-              ],
-              "alignItems": "flex-start",
-              "justifyContent": "center",
-              "background": {
-                "type": "color",
-                "color": "#FFF6E5"
-              },
-              "url": "https://x.com/search?q=Messenger%20Android",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "bell.slash.fill",
-                  "size": 12,
-                  "color": "#3A2A1A"
-                },
-                {
-                  "type": "text",
-                  "text": "quiet boards",
-                  "font": {
-                    "size": 9,
-                    "weight": "semibold"
-                  },
-                  "color": "#3A2A1A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "SF \u2022 calm",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#6A5A3A",
-                  "lineLimit": 1
                 }
               ]
             }
@@ -272,22 +250,22 @@
           "children": [
             {
               "type": "text",
-              "text": "pottery \u2192 tea \u2022 58\u00b0 \u2022 wrap",
+              "text": "5:38p \u2022 9.89K \u2022 tea \u2713",
               "font": {
                 "size": 9,
-                "weight": "regular"
+                "weight": "medium"
               },
-              "color": "#5A7AA8",
+              "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
               "text": "\u2192 YT \u2022 Map \u2022 \u266b",
               "font": {
-                "size": 8,
+                "size": 9,
                 "weight": "medium"
               },
-              "color": "#7FA0C8",
+              "color": "#8AA3C5",
               "lineLimit": 1
             }
           ]
