@@ -1,8 +1,8 @@
 {
-  "contentRevision": 202,
+  "contentRevision": 203,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-24T19:38:13Z",
+  "updatedAt": "2026-08-24T20:38:30Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -38,14 +38,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 12:38p • Mon",
+              "text": "tornado • 1:38p • Mon",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "glass • noon • lift",
+              "text": "diagonal • glass • lift",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -62,105 +62,59 @@
             {
               "type": "stack",
               "direction": "column",
-              "gap": 4,
-              "width": 100,
+              "gap": 6,
+              "width": 194,
               "height": 84,
-              "padding": [8, 10, 6, 10],
+              "padding": [10, 12, 8, 12],
               "radius": 12,
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
+                "colors": ["#0F1D30", "#162A44"]
               },
-              "alignItems": "center",
               "justifyContent": "center",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "sparkles",
-                  "size": 11,
-                  "color": "#7A5A2E"
-                },
-                {
-                  "type": "text",
-                  "text": "Exit 9.9K",
-                  "font": {"size": 10, "weight": "bold"},
-                  "color": "#5A3F1E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "100 to go",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#8A6A4A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "→ YT",
-                  "font": {"size": 8, "weight": "semibold"},
-                  "color": "#7A5A2E",
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 104,
-              "height": 84,
-              "alignItems": "center",
-              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
               "children": [
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#0F1D30", "#162A44"]
-                  },
+                  "direction": "row",
+                  "gap": 6,
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 2,
-                      "padding": [4, 8, 4, 8],
-                      "radius": 8,
-                      "background": {
-                        "type": "color",
-                        "color": "#00000066"
-                      },
-                      "alignItems": "center",
-                      "justifyContent": "center",
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "sun.max.fill",
-                          "size": 12,
-                          "color": "#FFFFFF"
-                        },
-                        {
-                          "type": "text",
-                          "text": "noon light",
-                          "font": {"size": 9, "weight": "bold"},
-                          "color": "#FFFFFF",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "SF 68°",
-                          "font": {"size": 8, "weight": "medium"},
-                          "color": "#E0E8F5",
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 11,
+                      "color": "#A9C8FF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "light lifts at noon",
+                      "font": {"size": 10, "weight": "bold"},
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "SF 68° • airy • liquid",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#C7D9F5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "glass swells, noon glows",
+                      "font": {"size": 8, "weight": "regular"},
+                      "color": "#9AB6E0",
+                      "lineLimit": 1
                     }
                   ]
                 }
@@ -169,46 +123,87 @@
             {
               "type": "stack",
               "direction": "column",
-              "gap": 4,
-              "width": 100,
+              "gap": 8,
+              "width": 120,
               "height": 84,
-              "padding": [8, 10, 6, 10],
-              "radius": 12,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#E8F3FF", "#F6F9FF"]
-              },
-              "alignItems": "center",
-              "justifyContent": "center",
-              "url": "https://x.com/search?q=Messenger%20Android%20crash",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "waveform",
-                  "size": 11,
-                  "color": "#1E365E"
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "width": 120,
+                  "height": 38,
+                  "padding": [6, 10, 5, 10],
+                  "radius": 12,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#FFF6E5", "#FFEED5"]
+                  },
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "play.fill",
+                      "size": 10,
+                      "color": "#7A5A2E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exit 9.9K",
+                      "font": {"size": 10, "weight": "bold"},
+                      "color": "#5A3F1E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "100 to go → YT",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#8A6A4A",
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "Messenger",
-                  "font": {"size": 9, "weight": "semibold"},
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "quiet • calm",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#6A8AB5",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "→ X",
-                  "font": {"size": 8, "weight": "semibold"},
-                  "color": "#1E365E",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "width": 120,
+                  "height": 38,
+                  "padding": [6, 10, 5, 10],
+                  "radius": 12,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#F6F9FF"]
+                  },
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform",
+                      "size": 10,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Messenger calm",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet • all good",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6A8AB5",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -224,14 +219,14 @@
           "children": [
             {
               "type": "text",
-              "text": "useful • 100 left • calm",
+              "text": "diagonal split • fresh • liquid",
               "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Cal • → Map • ♫",
+              "text": "→ Cal • → Map • ♫ Kerala",
               "font": {"size": 8, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
