@@ -1,1 +1,201 @@
-{"contentRevision":194,"mode":"native","version":5,"updatedAt":"2026-08-24T11:38:13Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"type":"stack","background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"direction":"column","gap":10,"children":[{"type":"stack","width":324,"height":18,"direction":"row","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"tornado \u2022 4:38a \u2022 Mon","color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"SF 58\u00b0 \u2022 early","color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"children":[{"type":"stack","width":100,"height":84,"direction":"column","gap":8,"children":[{"type":"stack","width":100,"height":38,"radius":11,"direction":"column","gap":3,"justifyContent":"center","padding":[6,8,4,8],"background":{"angle":135,"colors":["#13233F","#1A2F55"],"type":"gradient"},"url":"https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"moon.stars.fill","size":8,"color":"#A8C6FF"},{"type":"text","text":"Palette wrap","color":"#A8C6FF","font":{"size":9,"weight":"semibold"},"lineLimit":1}]},{"type":"text","text":"tea done \u2022 11 plates","color":"#E8F3FF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"Sunset 7:57p done","color":"#8AA8D8","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":100,"height":38,"radius":11,"direction":"column","gap":2,"justifyContent":"center","padding":[6,8,4,8],"background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"play.fill","size":7,"color":"#7A4A2A"},{"type":"text","text":"Exit","color":"#7A4A2A","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"text","text":"9.89K \u2022 111 to go","color":"#7A4A2A","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]},{"type":"stack","width":104,"height":84,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":84,"height":84,"radius":42,"alignItems":"center","justifyContent":"center","direction":"column","gap":2,"background":{"angle":135,"colors":["#13233F","#1A2F55"],"type":"gradient"},"url":"https://raw.githubusercontent.com/ira2101/widget-feed/main/feed.json","children":[{"type":"symbol","name":"sparkles","size":10,"color":"#A8C6FF"},{"type":"text","text":"early hush","color":"#E8F3FF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"Mon 4:38a","color":"#8AA8D8","font":{"size":8,"weight":"medium"},"lineLimit":1}]}]},{"type":"stack","width":100,"height":84,"direction":"column","gap":8,"children":[{"type":"stack","width":100,"height":38,"radius":11,"direction":"column","gap":2,"justifyContent":"center","padding":[6,8,4,8],"background":{"angle":135,"colors":["#E8F3FF","#F6F9FF"],"type":"gradient"},"url":"https://x.com/search?q=Messenger%20Android%20crash","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"checkmark.shield.fill","size":7,"color":"#1E365E"},{"type":"text","text":"quiet","color":"#1E365E","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"text","text":"boards calm \u2022 3h","color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":100,"height":38,"radius":11,"direction":"column","gap":2,"justifyContent":"center","padding":[6,8,4,8],"background":{"angle":135,"colors":["#EEF4FF","#E4EFFF"],"type":"gradient"},"url":"https://calendar.google.com","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"calendar","size":7,"color":"#1E365E"},{"type":"text","text":"Cal","color":"#1E365E","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"text","text":"Mon \u2022 light","color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":16,"direction":"row","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"useful \u2022 111 left \u2022 early hum","color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1},{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"music.note","size":7,"color":"#6A8AB5"},{"type":"text","text":"\u2192 Kerala","color":"#1E365E","font":{"size":8,"weight":"semibold"},"lineLimit":1}]}]}]}}}
+{
+  "contentRevision": 195,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-24T12:38:13Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": ["#0F1D30", "#162A44"],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8]
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack",
+      "background": {
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F6F9FF"],
+        "type": "gradient"
+      },
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 5:38a • Mon",
+              "color": "#1E365E",
+              "font": {"size": 10, "weight": "semibold"},
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "SF 58° • early glass",
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 4,
+              "justifyContent": "center",
+              "padding": [8, 10, 6, 10],
+              "background": {
+                "angle": 135,
+                "colors": ["#13233F", "#1E3A65"],
+                "type": "gradient"
+              },
+              "url": "https://calendar.google.com",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "children": [
+                    {"type": "symbol", "name": "sparkles", "size": 9, "color": "#A8C6FF"},
+                    {"type": "text", "text": "liquid glass dawn", "color": "#A8C6FF", "font": {"size": 9, "weight": "semibold"}, "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "city hums low, light lifts",
+                  "color": "#E8F3FF",
+                  "font": {"size": 10, "weight": "bold"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Mon begins • soft depth",
+                  "color": "#8AA8D8",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"],
+                    "type": "gradient"
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {"type": "symbol", "name": "play.fill", "size": 7, "color": "#1E365E"},
+                        {"type": "text", "text": "Exit", "color": "#1E365E", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "text", "text": "9.89K • 111 to go", "color": "#1E365E", "font": {"size": 8, "weight": "bold"}, "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#FFF6E5", "#FFEED5"],
+                    "type": "gradient"
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {"type": "symbol", "name": "checkmark.shield.fill", "size": 7, "color": "#7A4A2A"},
+                        {"type": "text", "text": "quiet", "color": "#7A4A2A", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "text", "text": "boards calm • 3h", "color": "#7A4A2A", "font": {"size": 8, "weight": "medium"}, "lineLimit": 1}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "useful • 111 left • glassy",
+              "color": "#6A8AB5",
+              "font": {"size": 8, "weight": "medium"},
+              "lineLimit": 1
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "gap": 4,
+              "alignItems": "center",
+              "children": [
+                {"type": "symbol", "name": "music.note", "size": 7, "color": "#6A8AB5"},
+                {"type": "text", "text": "→ Kerala", "color": "#1E365E", "font": {"size": 8, "weight": "semibold"}, "lineLimit": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
