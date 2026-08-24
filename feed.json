@@ -1,32 +1,19 @@
 {
-  "contentRevision": 183,
+  "contentRevision": 184,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-24T00:39:24Z",
+  "updatedAt": "2026-08-24T01:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#FFF6E5",
-        "#FFEED5"
-      ]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -37,10 +24,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#FFFAF0"
-        ]
+        "colors": ["#FFFFFF", "#F6F9FF"]
       },
       "children": [
         {
@@ -53,21 +37,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 5:38p \u2022 Sun",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 6:38p • Sun",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF \u2022 58\u00b0 \u2022 eve",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF • 58° • eve",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -82,86 +60,84 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 104,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 4,
-              "padding": [
-                8,
-                10,
-                6,
-                10
-              ],
-              "alignItems": "flex-start",
+              "alignItems": "center",
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1E365E"
-                ]
+                "colors": ["#13233F", "#1E365E"]
               },
               "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "sun.haze.fill",
-                  "size": 12,
-                  "color": "#E8F3FF"
-                },
-                {
-                  "type": "text",
-                  "text": "Sunday hums",
-                  "font": {
-                    "size": 11,
-                    "weight": "semibold"
+                  "type": "stack",
+                  "width": 64,
+                  "height": 64,
+                  "radius": 32,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"]
                   },
-                  "color": "#E8F3FF",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Larkin glow \u2022 tea \u2713",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#AFC8E8",
-                  "lineLimit": 1
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 14,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 52,
+                      "radius": 8,
+                      "padding": [2, 6, 2, 6],
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "eve hums",
+                          "font": {"size": 8, "weight": "semibold"},
+                          "color": "#FFFFFF",
+                          "lineLimit": 1,
+                          "align": "center"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 100,
               "height": 84,
               "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
                   "direction": "column",
                   "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [6, 8, 4, 8],
                   "alignItems": "flex-start",
                   "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
+                    "colors": ["#FFF6E5", "#FFEED5"]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
@@ -173,11 +149,8 @@
                     },
                     {
                       "type": "text",
-                      "text": "9.89K \u2022 111 left",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
+                      "text": "9.89K • 111 to go",
+                      "font": {"size": 9, "weight": "semibold"},
                       "color": "#7A5A2E",
                       "lineLimit": 1
                     }
@@ -185,26 +158,18 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
                   "direction": "column",
                   "gap": 2,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [6, 8, 4, 8],
                   "alignItems": "flex-start",
                   "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#EAF2FF",
-                      "#D4E8FF"
-                    ]
+                    "colors": ["#EAF2FF", "#D4E8FF"]
                   },
                   "url": "https://x.com/search?q=Messenger%20Android%20quiet",
                   "children": [
@@ -217,24 +182,64 @@
                     {
                       "type": "text",
                       "text": "quiet boards",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
+                      "font": {"size": 9, "weight": "semibold"},
                       "color": "#1E365E",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
                       "text": "calm eve",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 8, "weight": "medium"},
                       "color": "#6A8AB5",
                       "lineLimit": 1
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 4,
+              "padding": [8, 10, 6, 10],
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFFFFF", "#FFFAF0"]
+              },
+              "url": "https://photos.apple.com/",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "photo.on.rectangle.angled",
+                  "size": 11,
+                  "color": "#1E365E"
+                },
+                {
+                  "type": "text",
+                  "text": "Palette Tea ✓",
+                  "font": {"size": 10, "weight": "semibold"},
+                  "color": "#1E365E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "11ppl • done",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "sunset 7:57p",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#8AA3C5",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -250,21 +255,15 @@
           "children": [
             {
               "type": "text",
-              "text": "5:38p \u2022 9.89K \u2022 tea \u2713",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "6:38p • tea done • 58°",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 YT \u2022 Map \u2022 \u266b",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "→ YT • Map • ♫",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#8AA3C5",
               "lineLimit": 1
             }
