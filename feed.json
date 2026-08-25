@@ -1,8 +1,8 @@
 {
-  "contentRevision": 207,
+  "contentRevision": 208,
   "mode": "native",
   "native": {
-    "background": {"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+    "background": {"type":"gradient","angle":135,"colors":["#0F1D30","#162A44"]},
     "outer": {"padding":[8,8,8,8]},
     "padding": [8,10,8,10],
     "refreshMinutes": 15,
@@ -18,59 +18,61 @@
         {
           "type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between",
           "children":[
-            {"type":"text","text":"tornado • 5:38p • Mon","font":{"size":10,"weight":"semibold"},"color":"#1E365E","lineLimit":1},
-            {"type":"text","text":"evening • 58°","font":{"size":9,"weight":"medium"},"color":"#6A8AB5","lineLimit":1}
+            {"type":"text","text":"tornado • 6:38p • Mon","font":{"size":10,"weight":"semibold"},"color":"#1E365E","lineLimit":1},
+            {"type":"text","text":"evening • SF • 58°","font":{"size":9,"weight":"medium"},"color":"#6A8AB5","lineLimit":1}
           ]
         },
         {
-          "type":"stack","width":324,"height":84,"direction":"row","gap":10,
+          "type":"stack","width":324,"height":60,"radius":12,"direction":"column","gap":3,"padding":[8,12,6,12],"alignItems":"flex-start","justifyContent":"center",
+          "background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},
+          "url":"https://photos.apple.com/",
           "children":[
             {
-              "type":"stack","width":194,"height":84,"radius":12,"direction":"column","gap":4,"padding":[8,10,6,10],"alignItems":"flex-start","justifyContent":"center",
-              "background":{"type":"gradient","angle":135,"colors":["#0F1D30","#162A44"]},
-              "url":"https://maps.apple.com/?q=2265+Larkin+St+SF",
+              "type":"stack","width":300,"direction":"row","alignItems":"center","gap":6,
               "children":[
-                {"type":"symbol","name":"moon.stars.fill","size":12,"color":"#A9C8FF"},
-                {"type":"text","text":"Mon eve hums","font":{"size":11,"weight":"semibold"},"color":"#E8F3FF","lineLimit":1},
-                {"type":"text","text":"Larkin • 58° • calm","font":{"size":9,"weight":"medium"},"color":"#AFC8E8","lineLimit":1}
+                {"type":"symbol","name":"sparkles","size":11,"color":"#7A5A2E"},
+                {"type":"text","text":"eleven at table • tea glow","font":{"size":11,"weight":"semibold"},"color":"#7A5A2E","lineLimit":1}
+              ]
+            },
+            {"type":"text","text":"Palette wrap • photos later • hum low","font":{"size":9,"weight":"medium"},"color":"#9A7A4E","lineLimit":1}
+          ]
+        },
+        {
+          "type":"stack","width":324,"height":40,"direction":"row","gap":10,
+          "children":[
+            {
+              "type":"stack","width":100,"height":40,"radius":11,"direction":"column","gap":2,"padding":[6,8,4,8],"alignItems":"flex-start","justifyContent":"center",
+              "background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+              "url":"https://www.youtube.com/@exitfrequency",
+              "children":[
+                {"type":"symbol","name":"play.circle.fill","size":10,"color":"#1E365E"},
+                {"type":"text","text":"9.9K • 96 left","font":{"size":9,"weight":"semibold"},"color":"#1E365E","lineLimit":1}
               ]
             },
             {
-              "type":"stack","width":120,"height":84,"direction":"column","gap":10,
+              "type":"stack","width":100,"height":40,"radius":11,"direction":"column","gap":2,"padding":[6,8,4,8],"alignItems":"flex-start","justifyContent":"center",
+              "background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+              "url":"https://x.com/search?q=Messenger%20Android%20crash&f=latest",
               "children":[
-                {
-                  "type":"stack","width":120,"height":37,"radius":11,"direction":"column","gap":2,"padding":[6,8,4,8],"alignItems":"flex-start","justifyContent":"center",
-                  "background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},
-                  "url":"https://www.youtube.com/@exitfrequency",
-                  "children":[
-                    {"type":"symbol","name":"play.circle.fill","size":10,"color":"#7A5A2E"},
-                    {"type":"text","text":"9.9K • 100 left","font":{"size":9,"weight":"semibold"},"color":"#7A5A2E","lineLimit":1}
-                  ]
-                },
-                {
-                  "type":"stack","width":120,"height":37,"radius":11,"direction":"column","gap":2,"padding":[6,8,4,8],"alignItems":"flex-start","justifyContent":"center",
-                  "background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
-                  "url":"https://photos.apple.com/",
-                  "children":[
-                    {"type":"symbol","name":"photo.on.rectangle","size":10,"color":"#1E365E"},
-                    {"type":"text","text":"pottery • tea ✓","font":{"size":9,"weight":"semibold"},"color":"#1E365E","lineLimit":1}
-                  ]
-                }
+                {"type":"symbol","name":"antenna.radiowaves.left.and.right","size":10,"color":"#1E365E"},
+                {"type":"text","text":"boards • quiet","font":{"size":9,"weight":"semibold"},"color":"#1E365E","lineLimit":1}
+              ]
+            },
+            {
+              "type":"stack","width":104,"height":40,"radius":11,"direction":"column","gap":2,"padding":[6,8,4,8],"alignItems":"flex-start","justifyContent":"center",
+              "background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+              "url":"https://maps.apple.com/?q=2265+Larkin+St+SF",
+              "children":[
+                {"type":"symbol","name":"map.fill","size":10,"color":"#1E365E"},
+                {"type":"text","text":"Larkin • home","font":{"size":9,"weight":"semibold"},"color":"#1E365E","lineLimit":1}
               ]
             }
-          ]
-        },
-        {
-          "type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between",
-          "children":[
-            {"type":"text","text":"dark lift • glass • Mon","font":{"size":8,"weight":"medium"},"color":"#6A8AB5","lineLimit":1},
-            {"type":"text","text":"→ Map • → YT • ♫ Kerala","font":{"size":8,"weight":"semibold"},"color":"#1E365E","lineLimit":1}
           ]
         }
       ]
     },
     "widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
   },
-  "updatedAt":"2026-08-25T00:38:13Z",
+  "updatedAt":"2026-08-25T01:39:18Z",
   "version":5
 }
