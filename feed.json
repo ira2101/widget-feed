@@ -1,270 +1,269 @@
 {
-  "contentRevision": 223,
+  "contentRevision": 224,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-25T16:39:43Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-25T17:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
-      "background": {
-        "type": "gradient",
-        "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FCFF"
-        ]
-      },
       "width": 324,
       "radius": 16,
       "direction": "column",
       "gap": 10,
-      "padding": [
-        0,
-        0,
-        0,
-        0
-      ],
+      "padding": [0, 0, 0, 0],
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F6F9FF"]
+      },
       "children": [
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 18,
-          "justifyContent": "space-between",
+          "direction": "row",
           "alignItems": "center",
+          "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 9:38a \u2022 Tue",
+              "text": "tornado • 10:38a • Tue",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "morn \u2022 58\u00b0 SF",
+              "text": "SF • 62° morn",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
               "lineLimit": 1
             }
           ]
         },
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 84,
+          "direction": "row",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
+              "direction": "column",
+              "gap": 4,
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1A2F55"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "direction": "column",
-              "gap": 2,
-              "justifyContent": "center",
-              "alignItems": "flex-start",
-              "padding": [
-                6,
-                12,
-                4,
-                12
-              ],
-              "url": "https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo",
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
                   "direction": "row",
-                  "gap": 6,
                   "alignItems": "center",
+                  "gap": 4,
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "sun.horizon.fill",
-                      "size": 11,
-                      "color": "#FFFFFF"
+                      "name": "play.fill",
+                      "size": 8,
+                      "color": "#7A5A2E"
                     },
                     {
                       "type": "text",
-                      "text": "Tue morn \u2022 Larkin \u2022 58\u00b0",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
+                      "text": "Exit",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#5A3F1E",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "Palette done \u2022 11 plates \u2022 5:30p",
-                  "color": "#C9D9EE",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
+                  "text": "9.91K • 90 left",
+                  "font": {"size": 9, "weight": "bold"},
+                  "color": "#5A3F1E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "7:57p dusk \u2022 tea glow \u2022 SF eve",
-                  "color": "#8AA5C8",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
+                  "text": "to 10K",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#8A7A5E",
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "direction": "column",
-              "width": 120,
+              "width": 104,
               "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1A2F55"]
+                  },
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "sun.max.fill",
+                      "size": 14,
+                      "color": "#FFEED5"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 56,
+                      "radius": 8,
+                      "padding": [2, 6, 2, 6],
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "day hums",
+                          "font": {"size": 8, "weight": "semibold"},
+                          "color": "#FFFFFF",
+                          "lineLimit": 1,
+                          "align": "center"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
+                    "colors": ["#E8F3FF", "#D4E8FF"]
                   },
-                  "direction": "column",
-                  "gap": 1,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "padding": [
-                    3,
-                    8,
-                    2,
-                    8
-                  ],
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "sparkles",
-                      "size": 9,
-                      "color": "#7A5A2E"
+                      "type": "stack",
+                      "direction": "row",
+                      "alignItems": "center",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "antenna.radiowaves.left.and.right",
+                          "size": 8,
+                          "color": "#1E365E"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Quiet",
+                          "font": {"size": 8, "weight": "semibold"},
+                          "color": "#1E365E",
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
                       "type": "text",
-                      "text": "9.92K",
-                      "color": "#5A3F1E",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
+                      "text": "boards calm",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6A8AB5",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "88 to go",
-                      "color": "#7A5A2E",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
+                      "text": "0 bugs",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#8BB0D8",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#E8F3FF",
-                      "#D4E8FF"
-                    ]
+                    "colors": ["#FFF6E5", "#FFEED5"]
                   },
-                  "direction": "column",
-                  "gap": 1,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "padding": [
-                    3,
-                    8,
-                    2,
-                    8
-                  ],
-                  "url": "https://x.com/search?q=Messenger%20Android%20quiet",
+                  "url": "https://calendar.apple.com",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "antenna.radiowaves.left.and.right",
-                      "size": 9,
-                      "color": "#1E365E"
-                    },
-                    {
                       "type": "text",
-                      "text": "quiet",
-                      "color": "#1E365E",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
+                      "text": "Tue • 10a",
+                      "font": {"size": 8, "weight": "semibold"},
+                      "color": "#7A5A2E",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "boards calm",
-                      "color": "#5A7AB5",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
+                      "text": "Larkin light",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#5A3F1E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "SF morn",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#8A7A5E",
                       "lineLimit": 1
                     }
                   ]
@@ -275,36 +274,30 @@
         },
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 16,
-          "justifyContent": "space-between",
+          "direction": "row",
           "alignItems": "center",
+          "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "88 left \u2022 quiet \u2022 tea eve",
+              "text": "morn glow • 90 left • quiet",
+              "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 Cal \u2022 \u266b \u2022 Map",
+              "text": "→ Cal",
+              "font": {"size": 8, "weight": "semibold"},
               "color": "#1E365E",
-              "font": {
-                "size": 8,
-                "weight": "semibold"
-              },
-              "lineLimit": 1
+              "lineLimit": 1,
+              "url": "https://calendar.apple.com"
             }
           ]
         }
       ]
-    },
-    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+    }
   }
 }
