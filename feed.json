@@ -1,19 +1,32 @@
 {
-  "contentRevision": 230,
+  "contentRevision": 231,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-25T23:38:13Z",
+  "updatedAt": "2026-08-26T00:39:17Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"]
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8]
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -21,11 +34,19 @@
       "radius": 16,
       "direction": "column",
       "gap": 10,
-      "padding": [0, 0, 0, 0],
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F6F9FF"]
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ]
       },
       "children": [
         {
@@ -38,15 +59,21 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 4:38p • Tue",
-              "font": {"size": 10, "weight": "semibold"},
+              "text": "tornado \u2022 5:38p \u2022 Tue",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • 71° light • eve",
-              "font": {"size": 9, "weight": "medium"},
+              "text": "SF \u2022 66\u00b0 \u2022 eve glass",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -61,18 +88,26 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 3,
+              "gap": 4,
               "alignItems": "flex-start",
               "justifyContent": "center",
-              "padding": [8, 10, 6, 10],
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"]
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
@@ -82,83 +117,201 @@
                   "alignItems": "center",
                   "gap": 4,
                   "children": [
-                    {"type": "symbol", "name": "play.fill", "size": 8, "color": "#5A7AB5"},
-                    {"type": "text", "text": "Exit • 9.92K", "font": {"size": 9, "weight": "semibold"}, "color": "#2C4A6E", "lineLimit": 1}
+                    {
+                      "type": "symbol",
+                      "name": "play.fill",
+                      "size": 8,
+                      "color": "#C48A2A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exit \u2022 9.9k",
+                      "font": {
+                        "size": 10,
+                        "weight": "semibold"
+                      },
+                      "color": "#6B4A1E",
+                      "lineLimit": 1
+                    }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "88 to go • YT",
-                  "font": {"size": 13, "weight": "bold"},
-                  "color": "#1E365E",
+                  "text": "88 to go",
+                  "font": {
+                    "size": 12,
+                    "weight": "bold"
+                  },
+                  "color": "#3D2B10",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "glass pill drift tonight",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#6A8AB5",
+                  "text": "glass drift",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#9A7A4A",
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
               "height": 84,
+              "radius": 12,
               "direction": "column",
-              "gap": 8,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "padding": [
+                4,
+                0,
+                4,
+                0
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ]
+              },
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 10,
+                  "width": 104,
+                  "height": 76,
                   "direction": "column",
                   "alignItems": "center",
                   "justifyContent": "center",
-                  "gap": 2,
-                  "padding": [4, 4, 4, 4],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#13233F", "#1A2F55"]
-                  },
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
-                  "children": [
-                    {"type": "symbol", "name": "sun.max.fill", "size": 12, "color": "#FFEED5"},
-                    {"type": "text", "text": "4:38p • Larkin", "font": {"size": 9, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 10,
-                  "direction": "column",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 2,
-                  "padding": [4, 4, 4, 4],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
-                  },
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=latest",
                   "children": [
                     {
                       "type": "stack",
-                      "direction": "row",
+                      "width": 64,
+                      "height": 64,
+                      "radius": 32,
+                      "direction": "column",
                       "alignItems": "center",
-                      "gap": 3,
+                      "justifyContent": "center",
+                      "background": {
+                        "type": "gradient",
+                        "angle": 135,
+                        "colors": [
+                          "#0F1D30",
+                          "#162A44"
+                        ]
+                      },
                       "children": [
-                        {"type": "symbol", "name": "antenna.radiowaves.left.and.right", "size": 8, "color": "#2C4A6E"},
-                        {"type": "text", "text": "quiet", "font": {"size": 9, "weight": "semibold"}, "color": "#2C4A6E", "lineLimit": 1}
+                        {
+                          "type": "symbol",
+                          "name": "moon.stars.fill",
+                          "size": 16,
+                          "color": "#D4E8FF"
+                        },
+                        {
+                          "type": "stack",
+                          "radius": 8,
+                          "padding": [
+                            2,
+                            6,
+                            2,
+                            6
+                          ],
+                          "background": {
+                            "type": "color",
+                            "color": "#66000000"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "eve",
+                              "font": {
+                                "size": 9,
+                                "weight": "medium"
+                              },
+                              "color": "#FFFFFF",
+                              "lineLimit": 1
+                            }
+                          ]
+                        }
                       ]
-                    },
-                    {"type": "text", "text": "0 bugs • tap X", "font": {"size": 8, "weight": "medium"}, "color": "#8A7A5E", "lineLimit": 1}
+                    }
                   ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 3,
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#13233F",
+                  "#1A2F55"
+                ]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android%20crash",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "antenna.radiowaves.left.and.right",
+                      "size": 8,
+                      "color": "#8AA8D8"
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet",
+                      "font": {
+                        "size": 10,
+                        "weight": "semibold"
+                      },
+                      "color": "#D4E8FF",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "0 bugs",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
+                  },
+                  "color": "#FFFFFF",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "SF hums",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#8AA8D8",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -171,11 +324,29 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
-          "url": "https://calendar.google.com",
           "children": [
-            {"type": "text", "text": "evening ahead • 88 to go • quiet", "font": {"size": 9, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
-            {"type": "text", "text": "→ Cal", "font": {"size": 8, "weight": "semibold"}, "color": "#8A7A5E", "lineLimit": 1}
-          ]
+            {
+              "type": "text",
+              "text": "Larkin light \u2022 Tue eve \u2022 liquid",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#6A8AB5",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Cal",
+              "font": {
+                "size": 9,
+                "weight": "semibold"
+              },
+              "color": "#1E365E",
+              "lineLimit": 1
+            }
+          ],
+          "url": "https://calendar.apple.com"
         }
       ]
     }
