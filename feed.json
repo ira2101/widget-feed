@@ -1,1 +1,282 @@
-{"contentRevision":237,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 11:38p • Tue","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF • 58° • night","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#C48A2A","name":"sparkles","size":10,"type":"symbol"},{"color":"#3D2B10","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"pottery → Tea wrap","type":"text"},{"color":"#9A7A4A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"11ppl done • Steven","type":"text"},{"color":"#3D2B10","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"you were here","type":"text"}],"direction":"column","gap":3,"height":84,"justifyContent":"center","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA","width":194},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#1E365E","name":"arrow.up.right","size":9,"type":"symbol"},{"color":"#1E365E","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"Exit 9.9k","type":"text"},{"color":"#13233F","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"88 left","type":"text"}],"direction":"column","gap":1,"height":37,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":120},{"alignItems":"flex-start","background":{"angle":135,"colors":["#13233F","#1A2F55"],"type":"gradient"},"children":[{"color":"#8AA8D8","name":"checkmark.shield","size":8,"type":"symbol"},{"color":"#8AA8D8","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"quiet","type":"text"},{"color":"#D4E8FF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"0 bugs","type":"text"}],"direction":"column","gap":1,"height":37,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://x.com/search?q=Messenger%20Android%20crash","width":120}],"direction":"column","gap":10,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"night drift • 88 to go • calm","type":"text"},{"color":"#6A8AB5","name":"play.fill","size":8,"type":"symbol"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"padding":[0,0,0,0],"radius":16,"type":"stack","width":324}},"updatedAt":"2026-08-26T06:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 238,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "angle": 135,
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#1E365E",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "text": "tornado • 12:38a • Wed",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "SF • late • quiet",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 18,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "alignItems": "flex-start",
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#1E365E",
+                  "name": "moon.stars",
+                  "size": 9,
+                  "type": "symbol"
+                },
+                {
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1,
+                  "text": "late hum",
+                  "type": "text"
+                },
+                {
+                  "color": "#13233F",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1,
+                  "text": "00:38",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 2,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "radius": 11,
+              "type": "stack",
+              "url": "https://maps.apple.com/?q=Union+St+San+Francisco",
+              "width": 100
+            },
+            {
+              "alignItems": "center",
+              "children": [
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": [
+                      "#13233F",
+                      "#1A2F55"
+                    ],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "color": "#8AA8D8",
+                      "name": "sparkles",
+                      "size": 10,
+                      "type": "symbol"
+                    },
+                    {
+                      "color": "#8AA8D8",
+                      "font": {
+                        "size": 9,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1,
+                      "text": "still",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1,
+                      "text": "here",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "height": 84,
+                  "justifyContent": "center",
+                  "radius": 42,
+                  "type": "stack",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "width": 84
+                }
+              ],
+              "height": 84,
+              "justifyContent": "center",
+              "type": "stack",
+              "width": 104
+            },
+            {
+              "alignItems": "flex-start",
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#C48A2A",
+                  "name": "arrow.up.right",
+                  "size": 9,
+                  "type": "symbol"
+                },
+                {
+                  "color": "#3D2B10",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1,
+                  "text": "Exit 9.9k",
+                  "type": "text"
+                },
+                {
+                  "color": "#3D2B10",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1,
+                  "text": "88 left",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 2,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "radius": 11,
+              "type": "stack",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 100
+            }
+          ],
+          "direction": "row",
+          "gap": 10,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "orbit • 88 to go • calm",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "name": "play.fill",
+              "size": 8,
+              "type": "symbol"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        }
+      ],
+      "direction": "column",
+      "gap": 10,
+      "padding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "radius": 16,
+      "type": "stack",
+      "width": 324
+    }
+  },
+  "updatedAt": "2026-08-26T07:38:13Z",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
