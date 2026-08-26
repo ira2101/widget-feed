@@ -1,1 +1,333 @@
-{"contentRevision":243,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 5:38a • Wed","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF • 58° haze • dawn","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#7A4A1A","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"dawn hum • tea wrap done","type":"text"},{"color":"#9A7A5A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"11ppl • Steven set • 58° haze • early","type":"text"}],"direction":"column","gap":2,"height":37,"justifyContent":"center","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#13233F","#1E3A6A"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"9.9k","type":"text"},{"color":"#9FB5D6","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"88 to go","type":"text"}],"direction":"column","gap":1,"height":37,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":100},{"alignItems":"flex-start","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"quiet","type":"text"},{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"0 bugs • hum","type":"text"}],"direction":"column","gap":1,"height":37,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://x.com/search?q=Messenger%20Android%20bug%20crash","width":100},{"alignItems":"flex-start","background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"Bamboo","type":"text"},{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Union St • 1.2mi","type":"text"}],"direction":"column","gap":1,"height":37,"justifyContent":"center","padding":[6,8,4,8],"radius":11,"type":"stack","url":"https://maps.apple.com/?q=2286+Union+St+San+Francisco","width":104}],"direction":"row","gap":10,"height":37,"type":"stack","width":324}],"direction":"column","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":8,"weight":"regular"},"lineLimit":1,"text":"dawn drift • useful","type":"text"},{"color":"#8AA3C9","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"→ YT • → X • → Map","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack"}},"updatedAt":"2026-08-26T12:39:00Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 244,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-26T13:38:13Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "gap": 10,
+      "radius": 16,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado \u2022 6:38a \u2022 Wed",
+              "color": "#1E365E",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "SF \u2022 58\u00b0 morn",
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#FFF6E5",
+                      "#FFEED5"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.9k",
+                      "color": "#7A4A1A",
+                      "font": {
+                        "size": 10,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "88 to go",
+                      "color": "#9A7A5A",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#FFFFFF",
+                      "#F6F9FF"
+                    ]
+                  },
+                  "url": "https://maps.apple.com/?q=2286+Union+St+San+Francisco",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Bamboo",
+                      "color": "#1E365E",
+                      "font": {
+                        "size": 10,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Union 1.2mi",
+                      "color": "#6A8AB5",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#0F1D30",
+                      "#162A44"
+                    ]
+                  },
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "radius": 8,
+                      "padding": [
+                        3,
+                        8,
+                        3,
+                        8
+                      ],
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "morn hum",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 9,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\u2726",
+                      "color": "#9FB5D6",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 11,
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "direction": "column",
+              "gap": 1,
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android%20bug%20crash",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "quiet",
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 10,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "0 bugs \u2022 hum",
+                  "color": "#6A8AB5",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "morn drift \u2022 useful",
+              "color": "#6A8AB5",
+              "font": {
+                "size": 8,
+                "weight": "regular"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 YT \u2022 \u2192 X \u2022 \u2192 Map",
+              "color": "#8AA3C9",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
