@@ -1,32 +1,19 @@
 {
-  "contentRevision": 251,
+  "contentRevision": 252,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-26T20:39:43Z",
+  "updatedAt": "2026-08-26T21:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -37,10 +24,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FCFF"
-        ]
+        "colors": ["#FFFFFF", "#F9FCFF"]
       },
       "children": [
         {
@@ -53,21 +37,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 13:38 pdt \u2022 Wed",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 14:38 pdt • Wed",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF \u2022 59\u00b0 \u2022 airy",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF • 59° • soft",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -77,215 +55,137 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
+          "direction": "row",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 42,
+              "width": 194,
+              "height": 84,
               "radius": 12,
-              "direction": "row",
-              "gap": 10,
-              "padding": [
-                8,
-                12,
-                6,
-                12
-              ],
-              "alignItems": "center",
-              "justifyContent": "space-between",
+              "direction": "column",
+              "gap": 4,
+              "padding": [8, 10, 6, 10],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
+              "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "gap": 2,
+                  "width": 174,
+                  "height": 14,
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "sun.max.fill",
-                      "size": 11,
-                      "color": "#7A5A2E"
+                      "type": "text",
+                      "text": "leaf.fill",
+                      "font": {"size": 10, "weight": "medium"},
+                      "color": "#8A6A3A",
+                      "lineLimit": 1,
+                      "isSymbol": true
                     },
                     {
                       "type": "text",
-                      "text": "afternoon light",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "color": "#7A5A2E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "tea wrap glow \u2022 11 pals",
-                      "font": {
-                        "size": 9,
-                        "weight": "medium"
-                      },
-                      "color": "#8A6A4A",
+                      "text": "Palette • 11 pals glow",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#7A5A2A",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "soft hum",
-                  "font": {
-                    "size": 9,
-                    "weight": "semibold"
-                  },
-                  "color": "#9A7A5A",
+                  "text": "afternoon hum",
+                  "font": {"size": 11, "weight": "semibold"},
+                  "color": "#1E365E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "tea afterglow lingers",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "320 S B St • done",
+                  "font": {"size": 8, "weight": "regular"},
+                  "color": "#8AA0C0",
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 32,
-              "direction": "row",
-              "gap": 8,
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 32,
-                  "radius": 10,
-                  "direction": "row",
-                  "gap": 6,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "alignItems": "center",
-                  "justifyContent": "flex-start",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "padding": [6, 8, 4, 8],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#EAF2FF",
-                      "#D4E8FF"
-                    ]
+                    "colors": ["#13233F", "#1E365E"]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "play.circle.fill",
-                      "size": 10,
-                      "color": "#1E365E"
+                      "type": "text",
+                      "text": "9.92K • 88 left",
+                      "font": {"size": 10, "weight": "semibold"},
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "9.91k \u2022 90 left",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "color": "#1E365E",
+                      "text": "Exit → YT",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#A9C6E8",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 32,
-                  "radius": 10,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
                   "direction": "column",
-                  "gap": 1,
-                  "padding": [
-                    4,
-                    8,
-                    3,
-                    8
-                  ],
-                  "alignItems": "flex-start",
-                  "justifyContent": "center",
+                  "gap": 2,
+                  "padding": [6, 8, 4, 8],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFFFFF",
-                      "#F8FAFF"
-                    ]
+                    "colors": ["#E8F3FF", "#D4E8FF"]
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "url": "https://x.com/search?q=Messenger%20Android",
                   "children": [
-                    {
-                      "type": "text",
-                      "text": "Messenger",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "color": "#1E365E",
-                      "lineLimit": 1
-                    },
                     {
                       "type": "text",
                       "text": "quiet hum",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "color": "#6A8AB5",
+                      "font": {"size": 10, "weight": "semibold"},
+                      "color": "#1E365E",
                       "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 108,
-                  "height": 32,
-                  "radius": 10,
-                  "direction": "row",
-                  "gap": 6,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "alignItems": "center",
-                  "justifyContent": "flex-start",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#E8F5E9",
-                      "#D6EBD8"
-                    ]
-                  },
-                  "url": "https://www.google.com/maps/search/Bamboo+Massage+2286+Union+St+SF",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "leaf.fill",
-                      "size": 9,
-                      "color": "#2E5A3E"
                     },
                     {
                       "type": "text",
-                      "text": "Bamboo 0.8mi",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "color": "#2E5A3E",
+                      "text": "0 bugs → X",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6A8AB5",
                       "lineLimit": 1
                     }
                   ]
@@ -298,28 +198,29 @@
           "type": "stack",
           "width": 324,
           "height": 16,
+          "radius": 8,
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
+          "padding": [0, 8, 0, 8],
+          "background": {
+            "type": "gradient",
+            "angle": 135,
+            "colors": ["#F6F9FF", "#EEF5FF"]
+          },
           "children": [
             {
               "type": "text",
-              "text": "Wed \u2022 useful \u2022 90 to 10k",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "text": "afternoon • 9.92k • quiet",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 Cal \u2022 Map \u2022 X",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
-              "color": "#9AB5D6",
+              "text": "→ Map • Cal",
+              "font": {"size": 8, "weight": "medium"},
+              "color": "#8AA0C0",
               "lineLimit": 1
             }
           ]
