@@ -1,9 +1,9 @@
 {
-  "contentRevision": 252,
+  "contentRevision": 253,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-26T21:38:13Z",
+  "updatedAt": "2026-08-26T22:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -37,14 +37,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 14:38 pdt • Wed",
+              "text": "tornado \u2022 15:38 pdt \u2022 Wed",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • 59° • soft",
+              "text": "SF \u2022 59\u00b0 \u2022 airy",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -60,100 +60,164 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
-              "radius": 12,
               "direction": "column",
-              "gap": 4,
-              "padding": [8, 10, 6, 10],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
-              },
-              "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "width": 174,
-                  "height": 14,
-                  "direction": "row",
-                  "gap": 6,
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 0,
                   "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#FFF6E5", "#FFEED5"]
+                  },
+                  "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA",
                   "children": [
                     {
                       "type": "text",
-                      "text": "leaf.fill",
-                      "font": {"size": 10, "weight": "medium"},
-                      "color": "#8A6A3A",
-                      "lineLimit": 1,
-                      "isSymbol": true
+                      "text": "Palette wrap",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#3D2B10",
+                      "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "Palette • 11 pals glow",
-                      "font": {"size": 9, "weight": "semibold"},
-                      "color": "#7A5A2A",
+                      "text": "11 done \u2022 glow",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#8A6A20",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "afternoon hum",
-                  "font": {"size": 11, "weight": "semibold"},
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "tea afterglow lingers",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#6A8AB5",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "320 S B St • done",
-                  "font": {"size": 8, "weight": "regular"},
-                  "color": "#8AA0C0",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 0,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#F6F9FF"]
+                  },
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SF 59\u00b0 eve",
+                      "font": {"size": 8, "weight": "semibold"},
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "23% at 9p",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#6A8AB5",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
               "height": 84,
               "direction": "column",
-              "gap": 10,
+              "alignItems": "center",
+              "justifyContent": "center",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 11,
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
                   "direction": "column",
                   "gap": 2,
-                  "padding": [6, 8, 4, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#13233F", "#1E365E"]
+                    "colors": ["#0F1D30", "#162A44"]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
                   "children": [
                     {
                       "type": "text",
-                      "text": "9.92K • 88 left",
-                      "font": {"size": 10, "weight": "semibold"},
+                      "text": "moon.stars.fill",
+                      "font": {"size": 10, "weight": "medium"},
+                      "color": "#A9C8FF",
+                      "lineLimit": 1,
+                      "isSymbol": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "orbit hum",
+                      "font": {"size": 9, "weight": "bold"},
                       "color": "#FFFFFF",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "Exit → YT",
-                      "font": {"size": 8, "weight": "medium"},
+                      "text": "tea \u2192 eve",
+                      "font": {"size": 7, "weight": "medium"},
+                      "color": "#A9C8FF",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 0,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1A2F55"]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.92K \u2022 88",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exit \u2022 YT",
+                      "font": {"size": 7, "weight": "medium"},
                       "color": "#A9C6E8",
                       "lineLimit": 1
                     }
@@ -161,12 +225,14 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
+                  "width": 100,
+                  "height": 38,
                   "radius": 11,
                   "direction": "column",
-                  "gap": 2,
-                  "padding": [6, 8, 4, 8],
+                  "gap": 0,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "padding": [4, 8, 3, 8],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
@@ -177,14 +243,14 @@
                     {
                       "type": "text",
                       "text": "quiet hum",
-                      "font": {"size": 10, "weight": "semibold"},
+                      "font": {"size": 8, "weight": "semibold"},
                       "color": "#1E365E",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "0 bugs → X",
-                      "font": {"size": 8, "weight": "medium"},
+                      "text": "0 bugs \u2022 X",
+                      "font": {"size": 7, "weight": "medium"},
                       "color": "#6A8AB5",
                       "lineLimit": 1
                     }
@@ -211,14 +277,14 @@
           "children": [
             {
               "type": "text",
-              "text": "afternoon • 9.92k • quiet",
+              "text": "afternoon \u2022 9.92k \u2022 quiet",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Map • Cal",
+              "text": "\u2192 Map \u2022 Cal",
               "font": {"size": 8, "weight": "medium"},
               "color": "#8AA0C0",
               "lineLimit": 1
