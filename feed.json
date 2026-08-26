@@ -1,32 +1,19 @@
 {
-  "contentRevision": 244,
+  "contentRevision": 245,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-26T13:38:13Z",
+  "updatedAt": "2026-08-26T14:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
     "root": {
       "type": "stack",
@@ -36,10 +23,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F6F9FF"
-        ]
+        "colors": ["#FFFFFF", "#F6F9FF"]
       },
       "children": [
         {
@@ -52,22 +36,16 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 6:38a \u2022 Wed",
+              "text": "tornado • 7:38a • Wed",
               "color": "#1E365E",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF \u2022 58\u00b0 morn",
+              "text": "SF • 58° morn",
               "color": "#6A8AB5",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             }
           ]
@@ -82,216 +60,115 @@
             {
               "type": "stack",
               "direction": "column",
-              "width": 100,
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "padding": [6, 8, 4, 8],
+              "gap": 2,
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "morn hum",
+                  "color": "#7A4A1E",
+                  "font": {"size": 10, "weight": "semibold"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "tea wrap done • 11",
+                  "color": "#9A7A5A",
+                  "font": {"size": 9, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "SF 58° haze • soft",
+                  "color": "#8A7A6A",
+                  "font": {"size": 8, "weight": "regular"},
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 120,
               "height": 84,
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
+                  "direction": "column",
+                  "width": 120,
                   "height": 37,
                   "radius": 11,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "column",
+                  "padding": [6, 8, 4, 8],
                   "gap": 1,
                   "justifyContent": "center",
                   "alignItems": "flex-start",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
+                    "colors": ["#E8F3FF", "#D4E8FF"]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "text",
                       "text": "9.9k",
-                      "color": "#7A4A1A",
-                      "font": {
-                        "size": 10,
-                        "weight": "semibold"
-                      },
+                      "color": "#1E365E",
+                      "font": {"size": 10, "weight": "semibold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
                       "text": "88 to go",
-                      "color": "#9A7A5A",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "color": "#6A8AB5",
+                      "font": {"size": 9, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 100,
+                  "direction": "column",
+                  "width": 120,
                   "height": 37,
                   "radius": 11,
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "column",
+                  "padding": [6, 8, 4, 8],
                   "gap": 1,
                   "justifyContent": "center",
                   "alignItems": "flex-start",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFFFFF",
-                      "#F6F9FF"
-                    ]
+                    "colors": ["#FFFFFF", "#F6F9FF"]
                   },
-                  "url": "https://maps.apple.com/?q=2286+Union+St+San+Francisco",
+                  "url": "https://x.com/search?q=Messenger%20Android",
                   "children": [
                     {
                       "type": "text",
-                      "text": "Bamboo",
+                      "text": "quiet",
                       "color": "#1E365E",
-                      "font": {
-                        "size": 10,
-                        "weight": "semibold"
-                      },
+                      "font": {"size": 10, "weight": "semibold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "Union 1.2mi",
+                      "text": "0 bugs hum",
                       "color": "#6A8AB5",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 9, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#0F1D30",
-                      "#162A44"
-                    ]
-                  },
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "radius": 8,
-                      "padding": [
-                        3,
-                        8,
-                        3,
-                        8
-                      ],
-                      "background": {
-                        "type": "color",
-                        "color": "#00000066"
-                      },
-                      "alignItems": "center",
-                      "justifyContent": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "morn hum",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 9,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "\u2726",
-                      "color": "#9FB5D6",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 11,
-              "padding": [
-                6,
-                8,
-                4,
-                8
-              ],
-              "direction": "column",
-              "gap": 1,
-              "justifyContent": "center",
-              "alignItems": "flex-start",
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#E8F3FF",
-                  "#D4E8FF"
-                ]
-              },
-              "url": "https://x.com/search?q=Messenger%20Android%20bug%20crash",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "quiet",
-                  "color": "#1E365E",
-                  "font": {
-                    "size": 10,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "0 bugs \u2022 hum",
-                  "color": "#6A8AB5",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
                 }
               ]
             }
@@ -307,22 +184,16 @@
           "children": [
             {
               "type": "text",
-              "text": "morn drift \u2022 useful",
-              "color": "#6A8AB5",
-              "font": {
-                "size": 8,
-                "weight": "regular"
-              },
+              "text": "useful • Exit YT • quiet X • Map",
+              "color": "#8AA0C2",
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 YT \u2022 \u2192 X \u2022 \u2192 Map",
-              "color": "#8AA3C9",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "text": "→ Kerala",
+              "color": "#6A8AB5",
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
             }
           ]
