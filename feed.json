@@ -1,9 +1,9 @@
 {
-  "contentRevision": 235,
+  "contentRevision": 236,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-26T04:38:13Z",
+  "updatedAt": "2026-08-26T05:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -38,14 +38,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 9:38p • Tue",
+              "text": "tornado • 10:38p • Tue",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • night • 58°",
+              "text": "SF • 58° • haze",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -56,114 +56,66 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
+          "direction": "column",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 100,
-              "height": 84,
+              "width": 324,
+              "height": 36,
               "radius": 12,
-              "direction": "column",
-              "gap": 2,
-              "alignItems": "flex-start",
-              "justifyContent": "center",
-              "padding": [6, 8, 4, 8],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "padding": [6, 10, 6, 10],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "arrow.up.right",
-                  "size": 10,
-                  "color": "#1E365E"
-                },
-                {
-                  "type": "text",
-                  "text": "Exit 9.9k",
-                  "font": {"size": 9, "weight": "semibold"},
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "88 left",
-                  "font": {"size": 10, "weight": "bold"},
-                  "color": "#13233F",
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
+              "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA",
               "children": [
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 1,
+                  "alignItems": "flex-start",
                   "justifyContent": "center",
-                  "gap": 2,
-                  "padding": [6, 6, 6, 6],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
-                  },
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "sparkles",
-                      "size": 12,
-                      "color": "#C48A2A"
-                    },
-                    {
                       "type": "text",
-                      "text": "SF eve",
+                      "text": "pottery → Tea Garden",
                       "font": {"size": 10, "weight": "bold"},
                       "color": "#3D2B10",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "58°",
-                      "font": {"size": 9, "weight": "medium"},
+                      "text": "11 wrap • Steven set • done",
+                      "font": {"size": 8, "weight": "medium"},
                       "color": "#9A7A4A",
                       "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 10,
+                      "color": "#C48A2A"
                     },
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "justifyContent": "center",
-                      "padding": [2, 6, 2, 6],
-                      "radius": 8,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 135,
-                        "colors": ["#00000066", "#00000066"]
-                      },
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "night",
-                          "font": {"size": 8, "weight": "semibold"},
-                          "color": "#FFFFFF",
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "eve done",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#3D2B10",
+                      "lineLimit": 1
                     }
                   ]
                 }
@@ -171,40 +123,127 @@
             },
             {
               "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 12,
-              "direction": "column",
-              "gap": 2,
-              "alignItems": "flex-start",
-              "justifyContent": "center",
-              "padding": [6, 8, 4, 8],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#13233F", "#1A2F55"]
-              },
-              "url": "https://x.com/search?q=Messenger%20Android%20crash",
+              "width": 324,
+              "height": 38,
+              "direction": "row",
+              "gap": 10,
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "checkmark.shield",
-                  "size": 9,
-                  "color": "#8AA8D8"
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 10,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 9,
+                      "color": "#1E365E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exit 9.9k",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "88 left",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#13233F",
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "quiet",
-                  "font": {"size": 9, "weight": "semibold"},
-                  "color": "#8AA8D8",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 10,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1A2F55"]
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.shield",
+                      "size": 8,
+                      "color": "#8AA8D8"
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#8AA8D8",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "0 bugs",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#D4E8FF",
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "0 bugs",
-                  "font": {"size": 10, "weight": "bold"},
-                  "color": "#D4E8FF",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 104,
+                  "height": 38,
+                  "radius": 10,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#F6F9FF", "#E8EEFF"]
+                  },
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 8,
+                      "color": "#6A8AB5"
+                    },
+                    {
+                      "type": "text",
+                      "text": "SF 58°",
+                      "font": {"size": 9, "weight": "semibold"},
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "night haze",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6A8AB5",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -220,7 +259,7 @@
           "children": [
             {
               "type": "text",
-              "text": "eve drift • 88 to go • quiet",
+              "text": "night drift • 88 to go • calm",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
