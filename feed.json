@@ -1,9 +1,9 @@
 {
-  "contentRevision": 233,
+  "contentRevision": 234,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-26T02:38:13Z",
+  "updatedAt": "2026-08-26T03:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -38,7 +38,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 7:38p • Tue",
+              "text": "tornado • 8:38p • Tue",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -56,80 +56,75 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 44,
+              "width": 194,
+              "height": 84,
               "radius": 12,
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "padding": [8, 12, 8, 12],
+              "direction": "column",
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "padding": [10, 12, 8, 12],
+              "gap": 3,
               "background": {
                 "type": "gradient",
                 "angle": 135,
                 "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "gap": 2,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 4,
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 4,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "sparkles",
-                          "size": 10,
-                          "color": "#C48A2A"
-                        },
-                        {
-                          "type": "text",
-                          "text": "pottery → tea • wrap",
-                          "font": {"size": 10, "weight": "semibold"},
-                          "color": "#6B4A1E",
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 10,
+                      "color": "#C48A2A"
                     },
                     {
                       "type": "text",
-                      "text": "Palette 11 • set menu • 58°",
-                      "font": {"size": 11, "weight": "bold"},
-                      "color": "#3D2B10",
+                      "text": "evening hums",
+                      "font": {"size": 10, "weight": "semibold"},
+                      "color": "#6B4A1E",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "symbol",
-                  "name": "moon.stars.fill",
-                  "size": 14,
-                  "color": "#9A7A4A"
+                  "type": "text",
+                  "text": "you are here • SF",
+                  "font": {"size": 11, "weight": "bold"},
+                  "color": "#3D2B10",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "58° • night drift",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#9A7A4A",
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 32,
-              "direction": "row",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 32,
-                  "radius": 10,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
                   "direction": "column",
                   "gap": 1,
                   "alignItems": "flex-start",
@@ -160,9 +155,9 @@
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 32,
-                  "radius": 10,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
                   "direction": "column",
                   "gap": 1,
                   "alignItems": "flex-start",
@@ -187,39 +182,6 @@
                       "text": "0 bugs",
                       "font": {"size": 10, "weight": "bold"},
                       "color": "#D4E8FF",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 104,
-                  "height": 32,
-                  "radius": 10,
-                  "direction": "column",
-                  "gap": 1,
-                  "alignItems": "flex-start",
-                  "justifyContent": "center",
-                  "padding": [4, 8, 4, 8],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#F0F4FF", "#E6EEFF"]
-                  },
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Larkin • eve",
-                      "font": {"size": 9, "weight": "semibold"},
-                      "color": "#5A6FA0",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "58° haze",
-                      "font": {"size": 10, "weight": "bold"},
-                      "color": "#1E365E",
                       "lineLimit": 1
                     }
                   ]
