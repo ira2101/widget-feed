@@ -1,1 +1,364 @@
-{"contentRevision":261,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F9FCFF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 23:38 pdt • wed","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"night wrap • 58° • sf","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#7A5A2E","name":"photo.on.rectangle.angled","size":9,"type":"symbol"},{"color":"#5A3F1E","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"wrap","type":"text"}],"direction":"row","gap":4,"type":"stack"},{"color":"#5A3F1E","font":{"size":11,"weight":"bold"},"lineLimit":1,"text":"Palette Tea Garden","type":"text"},{"color":"#8A7A5E","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"11 pals • done • set menu","type":"text"},{"color":"#8A7A5E","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"pottery → 5:30p San Mateo","type":"text"}],"direction":"column","gap":3,"height":84,"justifyContent":"center","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://photos.apple.com/","width":194},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#13233F","#1E365E"],"type":"gradient"},"children":[{"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"10:38p Larkin","type":"text"},{"color":"#A8C4E6","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"58° eve • SF","type":"text"}],"direction":"column","gap":1,"type":"stack"},{"color":"#FFEED5","name":"moon.stars.fill","size":12,"type":"symbol"}],"direction":"row","height":37,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=2265+Larkin+St+SF","width":120},{"alignItems":"center","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"children":[{"color":"#2C4A6E","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"quiet • 0 bugs","type":"text"},{"color":"#6A8AB5","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"9.92K • 80 to go","type":"text"}],"direction":"column","gap":1,"type":"stack"},{"color":"#2C4A6E","name":"antenna.radiowaves.left.and.right","size":10,"type":"symbol"}],"direction":"row","height":37,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://x.com/search?q=Messenger%20Android%20crash&f=latest","width":120}],"direction":"column","gap":10,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"sun 7:57p ✓ • 23% rain 9p • Steven set ✓ • photos later","type":"text"},{"color":"#8A7A5E","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"→ Cal","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","url":"https://calendar.google.com","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack","width":324}},"updatedAt":"2026-08-27T06:38:59Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 262,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "angle": 135,
+        "colors": [
+          "#FFFFFF",
+          "#F9FCFF"
+        ],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#1E365E",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "text": "tornado \u2022 00:38 pdt \u2022 thu",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "late wrap \u2022 58\u00b0 \u2022 sf",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 18,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "alignItems": "center",
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "children": [
+                    {
+                      "color": "#5A3F1E",
+                      "font": {
+                        "size": 11,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1,
+                      "text": "Palette Tea Garden",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#8A7A5E",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1,
+                      "text": "11 pals \u2022 set menu \u2022 done",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "type": "stack"
+                },
+                {
+                  "color": "#7A5A2E",
+                  "name": "photo.on.rectangle.angled",
+                  "size": 12,
+                  "type": "symbol"
+                }
+              ],
+              "direction": "row",
+              "height": 38,
+              "justifyContent": "space-between",
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://photos.apple.com/",
+              "width": 324
+            },
+            {
+              "children": [
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": [
+                      "#13233F",
+                      "#1E365E"
+                    ],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1,
+                          "text": "00:38 Larkin",
+                          "type": "text"
+                        },
+                        {
+                          "color": "#A8C4E6",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1,
+                          "text": "58\u00b0 eve \u2022 SF",
+                          "type": "text"
+                        }
+                      ],
+                      "direction": "column",
+                      "gap": 1,
+                      "type": "stack"
+                    },
+                    {
+                      "color": "#FFEED5",
+                      "name": "moon.stars.fill",
+                      "size": 12,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "height": 38,
+                  "justifyContent": "space-between",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 12,
+                  "type": "stack",
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
+                  "width": 100
+                },
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": [
+                      "#E8F3FF",
+                      "#D4E8FF"
+                    ],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "color": "#2C4A6E",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1,
+                          "text": "quiet \u2022 0 bugs",
+                          "type": "text"
+                        },
+                        {
+                          "color": "#6A8AB5",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1,
+                          "text": "9.92K \u2022 80 to go",
+                          "type": "text"
+                        }
+                      ],
+                      "direction": "column",
+                      "gap": 1,
+                      "type": "stack"
+                    },
+                    {
+                      "color": "#2C4A6E",
+                      "name": "antenna.radiowaves.left.and.right",
+                      "size": 10,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "height": 38,
+                  "justifyContent": "space-between",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 12,
+                  "type": "stack",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=latest",
+                  "width": 100
+                },
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": [
+                      "#FFFFFF",
+                      "#F9FCFF"
+                    ],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "color": "#1E365E",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1,
+                          "text": "photos later",
+                          "type": "text"
+                        },
+                        {
+                          "color": "#6A8AB5",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1,
+                          "text": "wrap 11 pics",
+                          "type": "text"
+                        }
+                      ],
+                      "direction": "column",
+                      "gap": 1,
+                      "type": "stack"
+                    },
+                    {
+                      "color": "#1E365E",
+                      "name": "calendar",
+                      "size": 10,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "height": 38,
+                  "justifyContent": "space-between",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 12,
+                  "type": "stack",
+                  "url": "https://calendar.google.com",
+                  "width": 108
+                }
+              ],
+              "direction": "row",
+              "gap": 8,
+              "height": 38,
+              "type": "stack",
+              "width": 324
+            }
+          ],
+          "direction": "column",
+          "gap": 8,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "sun 7:57p \u2713 \u2022 23% rain 9p \u2022 Steven set \u2713 \u2022 pottery \u2192 tea",
+              "type": "text"
+            },
+            {
+              "color": "#8A7A5E",
+              "font": {
+                "size": 8,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "text": "\u2192 Map",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "url": "https://calendar.google.com",
+          "width": 324
+        }
+      ],
+      "direction": "column",
+      "gap": 10,
+      "radius": 16,
+      "type": "stack",
+      "width": 324
+    }
+  },
+  "updatedAt": "2026-08-27T07:39:35Z",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
