@@ -1,32 +1,19 @@
 {
-  "contentRevision": 273,
+  "contentRevision": 274,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-27T18:40:38Z",
+  "updatedAt": "2026-08-27T19:38:43Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -37,10 +24,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FCFF"
-        ]
+        "colors": ["#FFFFFF", "#F9FCFF"]
       },
       "children": [
         {
@@ -53,21 +37,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 11:38 pdt \u2022 thu",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 12:38 pdt • thu",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 mist \u2022 light",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF 58° • haze • calm",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -82,211 +60,94 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 4,
+              "gap": 3,
               "justifyContent": "center",
-              "padding": [
-                6,
-                10,
-                6,
-                10
-              ],
+              "padding": [4, 8, 4, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#1A2F4F",
-                  "#243A5E"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 6,
+                  "gap": 4,
                   "children": [
-                    {
-                      "type": "symbol",
-                      "name": "sun.haze.fill",
-                      "size": 10,
-                      "color": "#FFE8A0"
-                    },
-                    {
-                      "type": "text",
-                      "text": "larkin light \u2022 thu am",
-                      "font": {
-                        "size": 10,
-                        "weight": "semibold"
-                      },
-                      "color": "#E8F3FF",
-                      "lineLimit": 1
-                    }
+                    {"type": "symbol", "name": "play.fill", "size": 8, "color": "#7A5A2E"},
+                    {"type": "text", "text": "Exit", "font": {"size": 9, "weight": "semibold"}, "color": "#5A3F1E", "lineLimit": 1}
                   ]
                 },
+                {"type": "text", "text": "9.92K • 80 to go", "font": {"size": 9, "weight": "bold"}, "color": "#5A3F1E", "lineLimit": 1},
+                {"type": "text", "text": "to 10K • lift", "font": {"size": 8, "weight": "medium"}, "color": "#8A7A5E", "lineLimit": 1}
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
                 {
-                  "type": "text",
-                  "text": "you\u2019re here \u2022 2265 \u2022 SF 58\u00b0",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 3,
+                  "padding": [6, 8, 6, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1A2F4F", "#243A5E"]
                   },
-                  "color": "#A9C2E8",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "sky lifts soft over bay",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#C8DDFF",
-                  "lineLimit": 1
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+                  "children": [
+                    {"type": "symbol", "name": "sun.haze.fill", "size": 12, "color": "#FFE8A0"},
+                    {"type": "text", "text": "thu noon", "font": {"size": 9, "weight": "semibold"}, "color": "#E8F3FF", "lineLimit": 1},
+                    {"type": "text", "text": "light on bay", "font": {"size": 8, "weight": "medium"}, "color": "#C8DDFF", "lineLimit": 1}
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 100,
               "height": 84,
+              "radius": 12,
               "direction": "column",
-              "gap": 10,
+              "gap": 3,
+              "justifyContent": "center",
+              "padding": [4, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E9F7EF", "#D4F0E0"]
+              },
+              "url": "https://x.com/search?q=%40messenger%20android%20crash&f=live",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "padding": [
-                    4,
-                    8,
-                    4,
-                    8
-                  ],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
-                  },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 4,
                   "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 4,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "play.fill",
-                          "size": 8,
-                          "color": "#7A5A2E"
-                        },
-                        {
-                          "type": "text",
-                          "text": "Exit",
-                          "font": {
-                            "size": 9,
-                            "weight": "semibold"
-                          },
-                          "color": "#5A3F1E",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "9.92K \u2022 80 left",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "color": "#5A3F1E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "to 10K \u2022 58\u00b0",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "color": "#8A7A5E",
-                      "lineLimit": 1
-                    }
+                    {"type": "symbol", "name": "antenna.radiowaves.left.and.right", "size": 8, "color": "#2E6A4A"},
+                    {"type": "text", "text": "Quiet", "font": {"size": 9, "weight": "semibold"}, "color": "#2E5A3E", "lineLimit": 1}
                   ]
                 },
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "padding": [
-                    4,
-                    8,
-                    4,
-                    8
-                  ],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#E9F7EF",
-                      "#D4F0E0"
-                    ]
-                  },
-                  "url": "https://x.com/search?q=%40messenger%20android%20crash&f=live",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 4,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "antenna.radiowaves.left.and.right",
-                          "size": 8,
-                          "color": "#2E6A4A"
-                        },
-                        {
-                          "type": "text",
-                          "text": "Quiet",
-                          "font": {
-                            "size": 9,
-                            "weight": "semibold"
-                          },
-                          "color": "#2E5A3E",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "0 bugs \u2022 calm",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "color": "#4A7A5E",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
+                {"type": "text", "text": "0 bugs • calm", "font": {"size": 8, "weight": "medium"}, "color": "#4A7A5E", "lineLimit": 1},
+                {"type": "text", "text": "boards still", "font": {"size": 8, "weight": "medium"}, "color": "#6A9A7E", "lineLimit": 1}
               ]
             }
           ]
@@ -299,22 +160,8 @@
           "alignItems": "center",
           "justifyContent": "space-between",
           "children": [
-            {
-              "type": "text",
-              "text": "thu 11:38a \u2022 80 to go \u2022 quiet \u2022 SF",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
-              "color": "#6A8AB5",
-              "lineLimit": 1
-            },
-            {
-              "type": "symbol",
-              "name": "music.note",
-              "size": 9,
-              "color": "#6A8AB5"
-            }
+            {"type": "text", "text": "thu 12:38p • 80 to go • calm • SF", "font": {"size": 9, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+            {"type": "symbol", "name": "music.note", "size": 9, "color": "#6A8AB5"}
           ]
         }
       ]
