@@ -1,6 +1,9 @@
 {
-  "contentRevision": 263,
+  "contentRevision": 264,
   "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-27T09:39:40Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
@@ -50,7 +53,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 01:38 pdt \u2022 thu",
+              "text": "tornado \u2022 02:38 pdt \u2022 thu",
               "color": "#1E365E",
               "font": {
                 "size": 10,
@@ -60,7 +63,7 @@
             },
             {
               "type": "text",
-              "text": "late \u2022 58\u00b0 \u2022 sf",
+              "text": "late \u2022 58\u00b0 \u2022 sf eve hum",
               "color": "#6A8AB5",
               "font": {
                 "size": 9,
@@ -79,7 +82,7 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
               "background": {
@@ -99,7 +102,7 @@
               "direction": "column",
               "gap": 4,
               "justifyContent": "space-between",
-              "url": "https://photos.apple.com/",
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
               "children": [
                 {
                   "type": "stack",
@@ -111,14 +114,14 @@
                       "text": "Palette Tea Garden",
                       "color": "#5A3F1E",
                       "font": {
-                        "size": 11,
+                        "size": 10,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "11 pals \u2022 set \u2022 done",
+                      "text": "11 pals \u2022 set \u2022 done \u2713",
                       "color": "#8A7A5E",
                       "font": {
                         "size": 8,
@@ -146,7 +149,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "text": "320 S B St \u2022 Steven \u2713",
+                      "text": "320 S B \u2022 Steven \u2713",
                       "color": "#8A7A5E",
                       "font": {
                         "size": 7,
@@ -166,14 +169,86 @@
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
+              "height": 84,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#FFFFFF",
+                  "#F9FCFF"
+                ]
+              },
+              "padding": [
+                6,
+                8,
+                4,
+                8
+              ],
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 4,
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 56,
+                  "height": 56,
+                  "radius": 28,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#13233F",
+                      "#1A2F55"
+                    ]
+                  },
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 16,
+                      "color": "#FFEED5"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "night hum \u2022 wrap",
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Palette \u2022 photos next",
+                  "color": "#6A8AB5",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
               "height": 84,
               "direction": "column",
               "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 38,
                   "radius": 12,
                   "background": {
@@ -232,7 +307,7 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 38,
                   "radius": 12,
                   "background": {
@@ -300,11 +375,10 @@
           "direction": "row",
           "justifyContent": "space-between",
           "alignItems": "center",
-          "url": "https://calendar.google.com",
           "children": [
             {
               "type": "text",
-              "text": "sun 7:57p \u2713 \u2022 23% rain 9p \u2022 Steven \u2713 \u2022 pottery \u2192 tea",
+              "text": "wrap glow \u2022 sf eve \u2022 58\u00b0 23% 9p",
               "color": "#6A8AB5",
               "font": {
                 "size": 8,
@@ -313,21 +387,32 @@
               "lineLimit": 1
             },
             {
-              "type": "text",
-              "text": "\u2192 Cal",
-              "color": "#8A7A5E",
-              "font": {
-                "size": 8,
-                "weight": "semibold"
-              },
-              "lineLimit": 1
+              "type": "stack",
+              "direction": "row",
+              "gap": 6,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "music.note",
+                  "size": 9,
+                  "color": "#6A8AB5"
+                },
+                {
+                  "type": "text",
+                  "text": "\u2192 YT Map Cal",
+                  "color": "#6A8AB5",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
             }
           ]
         }
       ]
     }
-  },
-  "updatedAt": "2026-08-27T08:38:20Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
 }
