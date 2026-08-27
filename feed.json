@@ -1,9 +1,9 @@
 {
-  "contentRevision": 258,
+  "contentRevision": 259,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-27T03:38:30Z",
+  "updatedAt": "2026-08-27T04:38:30Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -37,14 +37,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 20:38 pdt • Wed",
+              "text": "tornado • 21:38 pdt • wed",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "evening wrap • 58° • sf",
+              "text": "night wrap • 58° • sf",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -58,18 +58,17 @@
           "direction": "row",
           "gap": 10,
           "alignItems": "center",
-          "justifyContent": "center",
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 11,
               "direction": "column",
-              "gap": 2,
-              "alignItems": "center",
+              "gap": 4,
+              "padding": [10, 12, 8, 12],
+              "alignItems": "flex-start",
               "justifyContent": "center",
-              "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
@@ -79,100 +78,58 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "evening hum",
-                  "font": {"size": 9, "weight": "bold"},
+                  "text": "pottery → tea garden",
+                  "font": {"size": 11, "weight": "bold"},
                   "color": "#6B4A1F",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "tea done",
-                  "font": {"size": 8, "weight": "medium"},
+                  "text": "320 S B • 11 pals • done",
+                  "font": {"size": 9, "weight": "medium"},
                   "color": "#9A7A4A",
                   "lineLimit": 1
                 },
-                {
-                  "type": "text",
-                  "text": "11 pals glow",
-                  "font": {"size": 7, "weight": "medium"},
-                  "color": "#9A7A4A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "symbol",
-                  "name": "leaf.fill",
-                  "size": 10,
-                  "color": "#6B4A1F"
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "column",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
                 {
                   "type": "stack",
-                  "width": 64,
-                  "height": 64,
-                  "radius": 32,
-                  "direction": "column",
+                  "direction": "row",
+                  "gap": 6,
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#13233F", "#1A2F55"]
-                  },
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 16,
-                      "color": "#FFFFFF"
+                      "name": "photo.on.rectangle.angled",
+                      "size": 10,
+                      "color": "#6B4A1F"
+                    },
+                    {
+                      "type": "text",
+                      "text": "wrap time • 7:57 sunset",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#6B4A1F",
+                      "lineLimit": 1
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": "night settles",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Palette wrap",
-                  "font": {"size": 7, "weight": "medium"},
-                  "color": "#6A8AB5",
-                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
               "direction": "column",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 40,
-                  "radius": 11,
-                  "direction": "column",
-                  "gap": 1,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
+                  "direction": "row",
+                  "gap": 6,
+                  "padding": [6, 8, 4, 8],
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "padding": [4, 8, 2, 8],
+                  "justifyContent": "space-between",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
@@ -181,51 +138,77 @@
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
-                      "type": "text",
-                      "text": "9.91K • 90 left",
-                      "font": {"size": 8, "weight": "bold"},
-                      "color": "#1E365E",
-                      "lineLimit": 1
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "9.92K",
+                          "font": {"size": 11, "weight": "bold"},
+                          "color": "#1E365E",
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "80 to 10k",
+                          "font": {"size": 7, "weight": "medium"},
+                          "color": "#6A8AB5",
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
-                      "type": "text",
-                      "text": "Exit → YT",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#6A8AB5",
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 10,
+                      "color": "#1E365E"
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 40,
-                  "radius": 11,
-                  "direction": "column",
-                  "gap": 1,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
+                  "direction": "row",
+                  "gap": 6,
+                  "padding": [6, 8, 4, 8],
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "padding": [4, 8, 2, 8],
+                  "justifyContent": "space-between",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
+                    "colors": ["#E9F7EF", "#D4F0E0"]
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android%20quiet",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
                   "children": [
                     {
-                      "type": "text",
-                      "text": "quiet ok",
-                      "font": {"size": 8, "weight": "bold"},
-                      "color": "#6B4A1F",
-                      "lineLimit": 1
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "quiet • ok",
+                          "font": {"size": 10, "weight": "bold"},
+                          "color": "#1F5C3A",
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "no crash",
+                          "font": {"size": 7, "weight": "medium"},
+                          "color": "#5A9A7A",
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
-                      "type": "text",
-                      "text": "boards calm",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#9A7A4A",
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "checkmark.shield.fill",
+                      "size": 10,
+                      "color": "#1F5C3A"
                     }
                   ]
                 }
@@ -236,24 +219,23 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 16,
+          "height": 18,
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "wrap done • glow • SF eve hum",
+              "text": "photos next • manager Steven set menu ✓",
               "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
-              "type": "text",
-              "text": "→ YT • Map • Cal • Music",
-              "font": {"size": 8, "weight": "regular"},
-              "color": "#8AA8D8",
-              "lineLimit": 1
+              "type": "symbol",
+              "name": "music.note",
+              "size": 9,
+              "color": "#6A8AB5"
             }
           ]
         }
