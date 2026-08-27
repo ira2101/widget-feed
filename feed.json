@@ -1,9 +1,9 @@
 {
-  "contentRevision": 276,
+  "contentRevision": 277,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-27T21:38:13Z",
+  "updatedAt": "2026-08-27T22:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -37,14 +37,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 2:38p • thu",
+              "text": "tornado • 3:38p • thu",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF • liquid • 68°",
+              "text": "SF • glass • 68°",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -62,17 +62,17 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 12,
               "direction": "column",
-              "gap": 4,
-              "padding": [8, 10, 8, 10],
+              "gap": 5,
+              "padding": [10, 12, 10, 12],
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
+                "colors": ["#0F1D30", "#162A44"]
               },
               "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
               "children": [
@@ -80,87 +80,82 @@
                   "type": "stack",
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 5,
+                  "gap": 6,
                   "children": [
-                    {"type": "symbol", "name": "sun.haze.fill", "size": 11, "color": "#7A5A2E"},
-                    {"type": "text", "text": "afternoon", "font": {"size": 11, "weight": "semibold"}, "color": "#5A3F1E", "lineLimit": 1}
+                    {"type": "symbol", "name": "sparkles", "size": 12, "color": "#A8D8FF"},
+                    {"type": "text", "text": "glass hour", "font": {"size": 11, "weight": "semibold"}, "color": "#E8F3FF", "lineLimit": 1}
                   ]
                 },
-                {"type": "text", "text": "Larkin light", "font": {"size": 9, "weight": "medium"}, "color": "#8A7A5E", "lineLimit": 1},
-                {"type": "text", "text": "2:38p • SF bay", "font": {"size": 8, "weight": "regular"}, "color": "#9A8A6E", "lineLimit": 1}
+                {"type": "text", "text": "Larkin light holds", "font": {"size": 10, "weight": "medium"}, "color": "#8BB0D6", "lineLimit": 1},
+                {"type": "text", "text": "Palette 11 wrap done", "font": {"size": 9, "weight": "regular"}, "color": "#7AA0C8", "lineLimit": 1},
+                {"type": "text", "text": "photos later • 7:57p", "font": {"size": 8, "weight": "regular"}, "color": "#5A7AA0", "lineLimit": 1}
               ]
             },
             {
               "type": "stack",
-              "width": 104,
+              "width": 120,
               "height": 84,
               "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 2,
+                  "padding": [6, 8, 4, 8],
                   "justifyContent": "center",
-                  "gap": 4,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#0F1D30", "#162A44"]
+                    "colors": ["#FFF6E5", "#FFEED5"]
                   },
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
-                    {"type": "symbol", "name": "sparkles", "size": 16, "color": "#A8D8FF"},
                     {
                       "type": "stack",
-                      "width": 58,
-                      "height": 18,
-                      "radius": 8,
                       "direction": "row",
                       "alignItems": "center",
-                      "justifyContent": "center",
-                      "background": {"type": "color", "color": "rgba(0,0,0,0.4)"},
+                      "gap": 5,
                       "children": [
-                        {"type": "text", "text": "2:38p", "font": {"size": 10, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}
+                        {"type": "symbol", "name": "play.circle.fill", "size": 10, "color": "#7A5A2E"},
+                        {"type": "text", "text": "Exit 9.92K", "font": {"size": 10, "weight": "semibold"}, "color": "#5A3F1E", "lineLimit": 1}
                       ]
                     },
-                    {"type": "text", "text": "liquid hour", "font": {"size": 8, "weight": "medium"}, "color": "#8BB0D6", "lineLimit": 1}
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 12,
-              "direction": "column",
-              "gap": 4,
-              "padding": [8, 10, 8, 10],
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "gap": 5,
-                  "children": [
-                    {"type": "symbol", "name": "play.circle.fill", "size": 11, "color": "#1E365E"},
-                    {"type": "text", "text": "Exit", "font": {"size": 11, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1}
+                    {"type": "text", "text": "80 to go • hum", "font": {"size": 8, "weight": "medium"}, "color": "#8A7A5E", "lineLimit": 1}
                   ]
                 },
-                {"type": "text", "text": "9.82K • 180 to go", "font": {"size": 9, "weight": "medium"}, "color": "#5A6E8A", "lineLimit": 1},
-                {"type": "text", "text": "quiet boards", "font": {"size": 8, "weight": "regular"}, "color": "#7A9AB5", "lineLimit": 1}
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
+                  "direction": "column",
+                  "gap": 2,
+                  "padding": [6, 8, 4, 8],
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"]
+                  },
+                  "url": "https://x.com/search?q=%22Messenger%20Android%22",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "alignItems": "center",
+                      "gap": 5,
+                      "children": [
+                        {"type": "symbol", "name": "bubble.left.fill", "size": 9, "color": "#1E365E"},
+                        {"type": "text", "text": "Messenger", "font": {"size": 9, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "text", "text": "quiet boards", "font": {"size": 8, "weight": "regular"}, "color": "#6A8AB5", "lineLimit": 1}
+                  ]
+                }
               ]
             }
           ]
@@ -173,8 +168,8 @@
           "alignItems": "center",
           "justifyContent": "space-between",
           "children": [
-            {"type": "text", "text": "tornado talks • glass pill", "font": {"size": 9, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
-            {"type": "text", "text": "→ Cal • → Map", "font": {"size": 9, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1}
+            {"type": "text", "text": "liquid depth • 18px safe", "font": {"size": 9, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+            {"type": "text", "text": "→ Map • → Cal", "font": {"size": 9, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1}
           ]
         }
       ]
