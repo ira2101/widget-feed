@@ -1,9 +1,9 @@
 {
-  "contentRevision": 259,
+  "contentRevision": 260,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-27T04:38:30Z",
+  "updatedAt": "2026-08-27T05:38:30Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -37,7 +37,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 21:38 pdt • wed",
+              "text": "tornado • 22:38 pdt • wed",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -57,18 +57,17 @@
           "height": 84,
           "direction": "row",
           "gap": 10,
-          "alignItems": "center",
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
-              "radius": 11,
+              "radius": 12,
               "direction": "column",
-              "gap": 4,
-              "padding": [10, 12, 8, 12],
+              "gap": 2,
               "alignItems": "flex-start",
               "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
@@ -77,139 +76,96 @@
               "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
               "children": [
                 {
-                  "type": "text",
-                  "text": "pottery → tea garden",
-                  "font": {"size": 11, "weight": "bold"},
-                  "color": "#6B4A1F",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "320 S B • 11 pals • done",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#9A7A4A",
-                  "lineLimit": 1
-                },
-                {
                   "type": "stack",
                   "direction": "row",
-                  "gap": 6,
                   "alignItems": "center",
+                  "gap": 4,
                   "children": [
-                    {
-                      "type": "symbol",
-                      "name": "photo.on.rectangle.angled",
-                      "size": 10,
-                      "color": "#6B4A1F"
-                    },
-                    {
-                      "type": "text",
-                      "text": "wrap time • 7:57 sunset",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#6B4A1F",
-                      "lineLimit": 1
-                    }
+                    {"type": "symbol", "name": "photo.on.rectangle.angled", "size": 9, "color": "#7A5A2E"},
+                    {"type": "text", "text": "wrap", "font": {"size": 9, "weight": "semibold"}, "color": "#5A3F1E", "lineLimit": 1}
                   ]
-                }
+                },
+                {"type": "text", "text": "tea garden", "font": {"size": 11, "weight": "bold"}, "color": "#5A3F1E", "lineLimit": 1},
+                {"type": "text", "text": "11 pals • done", "font": {"size": 8, "weight": "semibold"}, "color": "#8A7A5E", "lineLimit": 1},
+                {"type": "text", "text": "pottery → 5:30p", "font": {"size": 7, "weight": "medium"}, "color": "#8A7A5E", "lineLimit": 1}
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
               "height": 84,
+              "radius": 12,
               "direction": "column",
-              "gap": 10,
+              "gap": 6,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "padding": [4, 4, 4, 4],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#13233F", "#1E365E"]
+              },
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 10,
-                  "direction": "row",
-                  "gap": 6,
-                  "padding": [6, 8, 4, 8],
+                  "width": 64,
+                  "height": 64,
+                  "radius": 32,
+                  "direction": "column",
                   "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "justifyContent": "center",
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"]
+                    "colors": ["#1E3A5F", "#0F1D30"]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "9.92K",
-                          "font": {"size": 11, "weight": "bold"},
-                          "color": "#1E365E",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "80 to 10k",
-                          "font": {"size": 7, "weight": "medium"},
-                          "color": "#6A8AB5",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 10,
-                      "color": "#1E365E"
-                    }
+                    {"type": "symbol", "name": "moon.stars.fill", "size": 14, "color": "#FFEED5"},
+                    {"type": "text", "text": "10:38", "font": {"size": 10, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}
                   ]
                 },
+                {"type": "text", "text": "Larkin eve", "font": {"size": 8, "weight": "semibold"}, "color": "#A8C4E6", "lineLimit": 1}
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
+              "gap": 2,
+              "alignItems": "flex-start",
+              "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android%20crash&f=latest",
+              "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 10,
                   "direction": "row",
-                  "gap": 6,
-                  "padding": [6, 8, 4, 8],
                   "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E9F7EF", "#D4F0E0"]
-                  },
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "gap": 3,
                   "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "quiet • ok",
-                          "font": {"size": 10, "weight": "bold"},
-                          "color": "#1F5C3A",
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "no crash",
-                          "font": {"size": 7, "weight": "medium"},
-                          "color": "#5A9A7A",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "checkmark.shield.fill",
-                      "size": 10,
-                      "color": "#1F5C3A"
-                    }
+                    {"type": "symbol", "name": "antenna.radiowaves.left.and.right", "size": 8, "color": "#2C4A6E"},
+                    {"type": "text", "text": "quiet", "font": {"size": 9, "weight": "semibold"}, "color": "#2C4A6E", "lineLimit": 1}
+                  ]
+                },
+                {"type": "text", "text": "0 bugs", "font": {"size": 10, "weight": "bold"}, "color": "#2C4A6E", "lineLimit": 1},
+                {"type": "text", "text": "tap X", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {"type": "symbol", "name": "play.fill", "size": 7, "color": "#6A8AB5"},
+                    {"type": "text", "text": "9.92K • 80 left", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1}
                   ]
                 }
               ]
@@ -219,23 +175,25 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 18,
+          "height": 16,
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
+          "url": "https://calendar.google.com",
           "children": [
             {
               "type": "text",
-              "text": "photos next • manager Steven set menu ✓",
+              "text": "sun 7:57p • 58° eve • 23% rain 9p • Steven set ✓",
               "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
-              "type": "symbol",
-              "name": "music.note",
-              "size": 9,
-              "color": "#6A8AB5"
+              "type": "text",
+              "text": "→ Cal",
+              "font": {"size": 8, "weight": "semibold"},
+              "color": "#8A7A5E",
+              "lineLimit": 1
             }
           ]
         }
