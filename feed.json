@@ -1,32 +1,19 @@
 {
-  "contentRevision": 264,
+  "contentRevision": 265,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-27T09:39:40Z",
+  "updatedAt": "2026-08-27T10:39:09Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -35,10 +22,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FCFF"
-        ]
+        "colors": ["#FFFFFF", "#F9FCFF"]
       },
       "direction": "column",
       "gap": 10,
@@ -53,22 +37,16 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 02:38 pdt \u2022 thu",
+              "text": "tornado • 03:38 pdt • thu",
               "color": "#1E365E",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "late \u2022 58\u00b0 \u2022 sf eve hum",
+              "text": "late night • 58° • sf hum",
               "color": "#6A8AB5",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             }
           ]
@@ -82,27 +60,19 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 110,
               "height": 84,
               "radius": 12,
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
-              "padding": [
-                8,
-                10,
-                6,
-                10
-              ],
+              "padding": [8, 10, 6, 10],
               "direction": "column",
               "gap": 4,
               "justifyContent": "space-between",
-              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+320+S+B+St+San+Mateo",
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
@@ -111,32 +81,23 @@
                   "children": [
                     {
                       "type": "text",
-                      "text": "Palette Tea Garden",
+                      "text": "Exit Frequency",
                       "color": "#5A3F1E",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
+                      "font": {"size": 10, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "11 pals \u2022 set \u2022 done \u2713",
-                      "color": "#8A7A5E",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "pottery \u2192 tea \u2022 sun 7:57 \u2713",
+                      "text": "9.92K • 80 left",
                       "color": "#7A5A2E",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 9, "weight": "semibold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "25 vids • orbit vibe",
+                      "color": "#8A7A5E",
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
@@ -149,17 +110,14 @@
                   "children": [
                     {
                       "type": "text",
-                      "text": "320 S B \u2022 Steven \u2713",
+                      "text": "→ YT • tap",
                       "color": "#8A7A5E",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 7, "weight": "medium"},
                       "lineLimit": 1
                     },
                     {
                       "type": "symbol",
-                      "name": "photo.on.rectangle.angled",
+                      "name": "play.circle.fill",
                       "size": 11,
                       "color": "#7A5A2E"
                     }
@@ -169,192 +127,98 @@
             },
             {
               "type": "stack",
-              "width": 104,
+              "width": 84,
               "height": 84,
-              "radius": 12,
+              "radius": 42,
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#FFFFFF",
-                  "#F9FCFF"
-                ]
+                "colors": ["#13233F", "#1E365E"]
               },
-              "padding": [
-                6,
-                8,
-                4,
-                8
-              ],
               "direction": "column",
               "alignItems": "center",
               "justifyContent": "center",
-              "gap": 4,
+              "gap": 3,
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 56,
-                  "height": 56,
-                  "radius": 28,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#13233F",
-                      "#1A2F55"
-                    ]
-                  },
-                  "direction": "column",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 16,
-                      "color": "#FFEED5"
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "moon.stars.fill",
+                  "size": 18,
+                  "color": "#FFEED5"
                 },
                 {
                   "type": "text",
-                  "text": "night hum \u2022 wrap",
-                  "color": "#1E365E",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
+                  "text": "night hum",
+                  "color": "#FFFFFF",
+                  "font": {"size": 9, "weight": "semibold"},
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "Palette \u2022 photos next",
-                  "color": "#6A8AB5",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
+                  "text": "wrap glow • 3:38",
+                  "color": "#A8C4E6",
+                  "font": {"size": 7, "weight": "medium"},
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 110,
               "height": 84,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "padding": [8, 10, 6, 10],
               "direction": "column",
-              "gap": 8,
+              "gap": 4,
+              "justifyContent": "space-between",
+              "url": "https://x.com/search?q=Messenger%20Android%20crash&f=latest",
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 38,
-                  "radius": 12,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#13233F",
-                      "#1E365E"
-                    ]
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "row",
-                  "justifyContent": "space-between",
-                  "alignItems": "center",
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "direction": "column",
+                  "gap": 2,
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "9.92K \u2022 80 to go",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "Exit \u2022 25 vids",
-                          "color": "#A8C4E6",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "Messenger",
+                      "color": "#2C4A6E",
+                      "font": {"size": 10, "weight": "bold"},
+                      "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "play.circle.fill",
-                      "size": 11,
-                      "color": "#FFEED5"
+                      "type": "text",
+                      "text": "quiet • 0 bugs",
+                      "color": "#2C4A6E",
+                      "font": {"size": 8, "weight": "semibold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "SF eve • 58° 23%",
+                      "color": "#6A8AB5",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 38,
-                  "radius": 12,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#E8F3FF",
-                      "#D4E8FF"
-                    ]
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
                   "direction": "row",
                   "justifyContent": "space-between",
                   "alignItems": "center",
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=latest",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "quiet \u2022 0 bugs",
-                          "color": "#2C4A6E",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "Messenger \u2022 ok",
-                          "color": "#6A8AB5",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "→ X • tap",
+                      "color": "#6A8AB5",
+                      "font": {"size": 7, "weight": "medium"},
+                      "lineLimit": 1
                     },
                     {
                       "type": "symbol",
@@ -378,12 +242,9 @@
           "children": [
             {
               "type": "text",
-              "text": "wrap glow \u2022 sf eve \u2022 58\u00b0 23% 9p",
+              "text": "Palette wrap done • 11 pals • Steven ✓",
               "color": "#6A8AB5",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
             },
             {
@@ -400,12 +261,9 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u2192 YT Map Cal",
+                  "text": "→ Map Cal YT",
                   "color": "#6A8AB5",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
+                  "font": {"size": 8, "weight": "semibold"},
                   "lineLimit": 1
                 }
               ]
