@@ -1,9 +1,9 @@
 {
-  "contentRevision": 257,
+  "contentRevision": 258,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-27T02:38:30Z",
+  "updatedAt": "2026-08-27T03:38:30Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -37,7 +37,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 19:38 pdt • Wed",
+              "text": "tornado • 20:38 pdt • Wed",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -55,72 +55,118 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
+          "direction": "row",
           "gap": 10,
           "alignItems": "center",
           "justifyContent": "center",
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
-              "radius": 12,
-              "direction": "row",
+              "width": 100,
+              "height": 84,
+              "radius": 11,
+              "direction": "column",
+              "gap": 2,
               "alignItems": "center",
-              "justifyContent": "space-between",
-              "padding": [6, 10, 6, 10],
-              "gap": 10,
+              "justifyContent": "center",
+              "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#13233F", "#1A2F55"]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
               "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "alignItems": "flex-start",
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "evening hum • tea done",
-                      "font": {"size": 10, "weight": "bold"},
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "Palette • 11 pals • glow lingers",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#A9C8FF",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "text",
+                  "text": "evening hum",
+                  "font": {"size": 9, "weight": "bold"},
+                  "color": "#6B4A1F",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "tea done",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#9A7A4A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "11 pals glow",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#9A7A4A",
+                  "lineLimit": 1
                 },
                 {
                   "type": "symbol",
-                  "name": "moon.stars.fill",
-                  "size": 12,
-                  "color": "#FFFFFF"
+                  "name": "leaf.fill",
+                  "size": 10,
+                  "color": "#6B4A1F"
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
-              "direction": "row",
-              "gap": 10,
+              "width": 104,
+              "height": 84,
+              "direction": "column",
+              "gap": 4,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 64,
+                  "height": 64,
+                  "radius": 32,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1A2F55"]
+                  },
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 16,
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "night settles",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#1E365E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Palette wrap",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 4,
               "alignItems": "center",
               "justifyContent": "center",
               "children": [
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 37,
+                  "height": 40,
                   "radius": 11,
                   "direction": "column",
                   "gap": 1,
@@ -153,7 +199,7 @@
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 37,
+                  "height": 40,
                   "radius": 11,
                   "direction": "column",
                   "gap": 1,
@@ -179,39 +225,6 @@
                       "text": "boards calm",
                       "font": {"size": 7, "weight": "medium"},
                       "color": "#9A7A4A",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 104,
-                  "height": 37,
-                  "radius": 11,
-                  "direction": "column",
-                  "gap": 1,
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "padding": [4, 8, 2, 8],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E8F3FF", "#FFF6E5"]
-                  },
-                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "58° • 23% • 9p",
-                      "font": {"size": 8, "weight": "bold"},
-                      "color": "#1E365E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "SF eve → wx",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#6A8AB5",
                       "lineLimit": 1
                     }
                   ]
