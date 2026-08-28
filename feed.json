@@ -1,1 +1,193 @@
-{"contentRevision":292,"mode":"native","version":5,"updatedAt":null,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"type":"stack","width":324,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":135,"colors":["#FFFFFF","#F9FCFF"]},"children":[{"type":"stack","direction":"row","width":324,"height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"tornado \u2022 6:38a \u2022 fri","font":{"size":10,"weight":"semibold"},"color":"#1E365E","lineLimit":1},{"type":"text","text":"SF \u2022 58\u00b0 \u2022 early","font":{"size":9,"weight":"medium"},"color":"#6A8AB5","lineLimit":1}]},{"type":"stack","direction":"row","gap":10,"width":324,"height":84,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":100,"height":84,"radius":12,"padding":[6,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},"direction":"column","justifyContent":"space-between","alignItems":"flex-start","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"play.fill","size":8,"color":"#1E365E"},{"type":"text","text":"9.92K \u2022 80","font":{"size":9,"weight":"bold"},"color":"#1E365E","lineLimit":1}]},{"type":"text","text":"early drift","font":{"size":8,"weight":"medium"},"color":"#5A7FB5","lineLimit":1},{"type":"stack","direction":"row","gap":3,"alignItems":"center","children":[{"type":"symbol","name":"sparkles","size":7,"color":"#6A8AB5"},{"type":"text","text":"glass swell","font":{"size":7,"weight":"medium"},"color":"#6A8AB5","lineLimit":1}]}],"url":"https://www.youtube.com/@exitfrequency"},{"type":"stack","width":104,"height":84,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":84,"height":84,"radius":42,"background":{"type":"gradient","angle":135,"colors":["#0F1D30","#162A44"]},"direction":"column","justifyContent":"center","alignItems":"center","children":[{"type":"stack","background":{"type":"color","color":"#00000066"},"radius":8,"padding":[4,8,4,8],"direction":"column","gap":2,"alignItems":"center","children":[{"type":"text","text":"fri 6:38a","font":{"size":11,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"58\u00b0 \u2022 soft","font":{"size":8,"weight":"medium"},"color":"#D4E8FF","lineLimit":1}]}],"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]},{"type":"stack","width":100,"height":84,"radius":12,"padding":[6,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},"direction":"column","justifyContent":"space-between","alignItems":"flex-start","children":[{"type":"stack","direction":"row","gap":4,"alignItems":"center","children":[{"type":"symbol","name":"mappin.and.ellipse","size":8,"color":"#8A5A2B"},{"type":"text","text":"Larkin SF","font":{"size":9,"weight":"semibold"},"color":"#5A3D1E","lineLimit":1}]},{"type":"text","text":"dawn light","font":{"size":8,"weight":"medium"},"color":"#8A6A3A","lineLimit":1},{"type":"stack","direction":"row","gap":3,"alignItems":"center","children":[{"type":"symbol","name":"sun.max.fill","size":7,"color":"#B07A3B"},{"type":"text","text":"58\u00b0 \u2022 morn","font":{"size":7,"weight":"medium"},"color":"#8A6A3A","lineLimit":1}]}],"url":"https://maps.apple.com/?q=2265+Larkin+St+San+Francisco"}]},{"type":"stack","direction":"row","width":324,"height":16,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"circle \u2022 glass \u2022 6:38a","font":{"size":9,"weight":"medium"},"color":"#6A8AB5","lineLimit":1},{"type":"stack","direction":"row","gap":3,"alignItems":"center","children":[{"type":"symbol","name":"music.note","size":7,"color":"#6A8AB5"},{"type":"text","text":"\u2192 Music","font":{"size":8,"weight":"medium"},"color":"#6A8AB5","lineLimit":1}]}]}]}}}
+{
+  "contentRevision": 293,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-28T14:38:13Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": ["#FFF6E5", "#FFEED5"]
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8]
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F9FCFF"]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 7:38a • fri",
+              "font": {"size": 10, "weight": "semibold"},
+              "color": "#1E365E",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "SF • 58° • early",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#6A8AB5",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "gap": 10,
+          "width": 324,
+          "height": 84,
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "padding": [8, 10, 6, 10],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "direction": "column",
+              "justifyContent": "space-between",
+              "alignItems": "flex-start",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "children": [
+                    {"type": "symbol", "name": "play.fill", "size": 8, "color": "#1E365E"},
+                    {"type": "text", "text": "9.92K • 80 to go", "font": {"size": 9, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1}
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "morning lifts",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#5A7FB5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 3,
+                  "alignItems": "center",
+                  "children": [
+                    {"type": "symbol", "name": "sparkles", "size": 7, "color": "#6A8AB5"},
+                    {"type": "text", "text": "Larkin 24 hum", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1}
+                  ]
+                }
+              ],
+              "url": "https://www.youtube.com/@exitfrequency"
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 12,
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"]
+                  },
+                  "direction": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "flex-start",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {"type": "symbol", "name": "bell.slash.fill", "size": 7, "color": "#1E365E"},
+                        {"type": "text", "text": "quiet • 0", "font": {"size": 8, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "text", "text": "boards calm", "font": {"size": 7, "weight": "medium"}, "color": "#5A7FB5", "lineLimit": 1}
+                  ],
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live"
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 12,
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#0F1D30", "#162A44"]
+                  },
+                  "direction": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "flex-start",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 4,
+                      "alignItems": "center",
+                      "children": [
+                        {"type": "symbol", "name": "cloud.sun.fill", "size": 7, "color": "#FFFFFF"},
+                        {"type": "text", "text": "58° • SF", "font": {"size": 8, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "text", "text": "early light", "font": {"size": 7, "weight": "medium"}, "color": "#A8C0E0", "lineLimit": 1}
+                  ],
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {"type": "text", "text": "morning lifts • 80 left • SF hum → Music", "font": {"size": 8, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+            {"type": "symbol", "name": "music.note", "size": 8, "color": "#6A8AB5"}
+          ],
+          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+        }
+      ]
+    }
+  }
+}
