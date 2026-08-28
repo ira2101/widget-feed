@@ -1,8 +1,8 @@
 {
-  "contentRevision": 295,
+  "contentRevision": 296,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-28T16:38:13Z",
+  "updatedAt": "2026-08-28T17:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
@@ -20,7 +20,7 @@
       "width": 324,
       "radius": 16,
       "direction": "column",
-      "gap": 10,
+      "gap": 8,
       "background": {
         "type": "gradient",
         "angle": 135,
@@ -37,7 +37,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 9:38a • fri",
+              "text": "tornado • 10:38a • fri",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -53,18 +53,64 @@
         },
         {
           "type": "stack",
+          "width": 324,
+          "height": 48,
+          "radius": 12,
+          "padding": [8, 12, 8, 12],
+          "background": {
+            "type": "gradient",
+            "angle": 135,
+            "colors": ["#0F1D30", "#162A44"]
+          },
+          "direction": "row",
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "direction": "column",
+              "gap": 2,
+              "alignItems": "flex-start",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "morning light",
+                  "font": {"size": 10, "weight": "semibold"},
+                  "color": "#FFFFFF",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Palette wrap • 11 tap • 58°",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#A8C8FF",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "symbol",
+              "name": "sparkles",
+              "size": 14,
+              "color": "#A8C8FF"
+            }
+          ],
+          "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo"
+        },
+        {
+          "type": "stack",
           "direction": "row",
           "width": 324,
-          "height": 84,
-          "gap": 10,
+          "height": 36,
+          "gap": 8,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
               "type": "stack",
               "width": 100,
-              "height": 84,
-              "radius": 12,
+              "height": 36,
+              "radius": 11,
               "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
@@ -81,72 +127,19 @@
                   "gap": 4,
                   "alignItems": "center",
                   "children": [
-                    {"type": "symbol", "name": "play.fill", "size": 8, "color": "#1E365E"},
+                    {"type": "symbol", "name": "play.fill", "size": 7, "color": "#1E365E"},
                     {"type": "text", "text": "9.92K • 80 left", "font": {"size": 8, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1}
                   ]
                 },
-                {"type": "text", "text": "Exit hums", "font": {"size": 7, "weight": "medium"}, "color": "#5A7FB5", "lineLimit": 1},
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 3,
-                  "alignItems": "center",
-                  "children": [
-                    {"type": "symbol", "name": "sparkles", "size": 7, "color": "#6A8AB5"},
-                    {"type": "text", "text": "morning lift", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1}
-                  ]
-                }
+                {"type": "text", "text": "Exit hums", "font": {"size": 7, "weight": "medium"}, "color": "#5A7FB5", "lineLimit": 1}
               ],
               "url": "https://www.youtube.com/@exitfrequency"
             },
             {
               "type": "stack",
-              "width": 104,
-              "height": 84,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#0F1D30", "#162A44"]
-                  },
-                  "direction": "column",
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "gap": 4,
-                  "children": [
-                    {"type": "symbol", "name": "moon.stars.fill", "size": 14, "color": "#A8C8FF"},
-                    {
-                      "type": "stack",
-                      "background": {"type": "color", "color": "#00000066"},
-                      "radius": 8,
-                      "padding": [2, 6, 2, 6],
-                      "direction": "row",
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "width": 64,
-                      "height": 16,
-                      "children": [
-                        {"type": "text", "text": "9:38a • here", "font": {"size": 8, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}
-                      ]
-                    },
-                    {"type": "text", "text": "Larkin glow", "font": {"size": 7, "weight": "medium"}, "color": "#8AB4E8", "lineLimit": 1}
-                  ],
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco"
-                }
-              ]
-            },
-            {
-              "type": "stack",
               "width": 100,
-              "height": 84,
-              "radius": 12,
+              "height": 36,
+              "radius": 11,
               "padding": [6, 8, 4, 8],
               "background": {
                 "type": "gradient",
@@ -167,19 +160,38 @@
                     {"type": "text", "text": "quiet • 0", "font": {"size": 8, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1}
                   ]
                 },
-                {"type": "text", "text": "boards hum", "font": {"size": 7, "weight": "medium"}, "color": "#5A7FB5", "lineLimit": 1},
+                {"type": "text", "text": "boards hum", "font": {"size": 7, "weight": "medium"}, "color": "#5A7FB5", "lineLimit": 1}
+              ],
+              "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live"
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 36,
+              "radius": 11,
+              "padding": [6, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFEED5", "#FFF6E5"]
+              },
+              "direction": "column",
+              "justifyContent": "space-between",
+              "alignItems": "flex-start",
+              "children": [
                 {
                   "type": "stack",
                   "direction": "row",
-                  "gap": 3,
+                  "gap": 4,
                   "alignItems": "center",
                   "children": [
-                    {"type": "symbol", "name": "cloud.sun.fill", "size": 7, "color": "#6A8AB5"},
-                    {"type": "text", "text": "58° • SF", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1}
+                    {"type": "symbol", "name": "mappin", "size": 7, "color": "#1E365E"},
+                    {"type": "text", "text": "Larkin • here", "font": {"size": 8, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1}
                   ]
-                }
+                },
+                {"type": "text", "text": "58° • SF glow", "font": {"size": 7, "weight": "medium"}, "color": "#8A6A4A", "lineLimit": 1}
               ],
-              "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live"
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco"
             }
           ]
         },
@@ -187,7 +199,7 @@
           "type": "stack",
           "direction": "row",
           "width": 324,
-          "height": 16,
+          "height": 14,
           "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
