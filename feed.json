@@ -1,247 +1,337 @@
 {
-  "contentRevision": 318,
+  "contentRevision": 319,
   "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-29T15:39:53Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
+      "type": "gradient",
       "angle": 135,
-      "colors": ["#E8F3FF", "#D4E8FF"],
-      "type": "gradient"
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8]
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
+      "type": "stack",
       "background": {
+        "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F6F9FF"],
-        "type": "gradient"
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ]
       },
+      "radius": 16,
       "children": [
         {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
           "alignItems": "center",
+          "justifyContent": "space-between",
           "children": [
             {
+              "type": "text",
+              "text": "tornado \u2022 8:38a \u2022 sat",
               "color": "#1E365E",
-              "font": {"size": 10, "weight": "semibold"},
-              "lineLimit": 1,
-              "text": "tornado • 7:38a • sat",
-              "type": "text"
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1
             },
             {
+              "type": "text",
+              "text": "liquid glass \u2022 58\u00b0",
               "color": "#6A8AB5",
-              "font": {"size": 9, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "SF 58° • light",
-              "type": "text"
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
             }
-          ],
-          "direction": "row",
-          "height": 18,
-          "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
+          ]
         },
         {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
           "children": [
             {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
               "background": {
+                "type": "gradient",
                 "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"],
-                "type": "gradient"
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ]
               },
-              "children": [
-                {
-                  "color": "#5A3F1E",
-                  "font": {"size": 10, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "morning lifts",
-                  "type": "text"
-                },
-                {
-                  "color": "#7A5A2E",
-                  "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "soft gold on sill",
-                  "type": "text"
-                },
-                {
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "color": "#8A7A5E",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "→ Cal",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#7A5A2E",
-                      "name": "sun.max.fill",
-                      "size": 10,
-                      "type": "symbol"
-                    }
-                  ],
-                  "direction": "row",
-                  "justifyContent": "space-between",
-                  "type": "stack"
-                }
+              "padding": [
+                8,
+                10,
+                6,
+                10
               ],
               "direction": "column",
               "gap": 2,
-              "height": 84,
               "justifyContent": "space-between",
-              "padding": [8, 10, 6, 10],
-              "radius": 12,
-              "type": "stack",
-              "url": "https://calendar.apple.com",
-              "width": 157
-            },
-            {
+              "url": "https://x.com/search?q=Messenger%20Android",
               "children": [
                 {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#13233F", "#1E365E"],
-                    "type": "gradient"
+                  "type": "text",
+                  "text": "Exit \u2022 9.8K",
+                  "color": "#5A3F1E",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
                   },
-                  "children": [
-                    {
-                      "color": "#FFFFFF",
-                      "font": {"size": 10, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "Exit 9.93K",
-                      "type": "text"
-                    },
-                    {
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "color": "#A8C0E0",
-                          "font": {"size": 8, "weight": "medium"},
-                          "lineLimit": 1,
-                          "text": "70 left",
-                          "type": "text"
-                        },
-                        {
-                          "color": "#FFFFFF",
-                          "name": "play.circle.fill",
-                          "size": 9,
-                          "type": "symbol"
-                        }
-                      ],
-                      "direction": "row",
-                      "gap": 4,
-                      "justifyContent": "space-between",
-                      "type": "stack"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 3,
-                  "height": 37,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "width": 157
+                  "lineLimit": 1
                 },
                 {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"],
-                    "type": "gradient"
+                  "type": "text",
+                  "text": "180 to go",
+                  "color": "#7A5A2E",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
                   },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
                   "children": [
                     {
-                      "color": "#1E365E",
-                      "font": {"size": 10, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "Larkin 24",
-                      "type": "text"
+                      "type": "text",
+                      "text": "\u2192 X",
+                      "color": "#8A7A5E",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
                     },
                     {
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "color": "#5A7FB5",
-                          "font": {"size": 9, "weight": "medium"},
-                          "lineLimit": 1,
-                          "text": "58° • calm",
-                          "type": "text"
-                        },
-                        {
-                          "color": "#1E365E",
-                          "name": "mappin.and.ellipse",
-                          "size": 9,
-                          "type": "symbol"
-                        }
-                      ],
-                      "direction": "row",
-                      "justifyContent": "space-between",
-                      "type": "stack"
+                      "type": "symbol",
+                      "name": "chart.line.uptrend.xyaxis",
+                      "size": 10,
+                      "color": "#7A5A2E"
                     }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 37,
-                  "justifyContent": "space-between",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
-                  "width": 157
+                  ]
                 }
-              ],
-              "direction": "column",
-              "gap": 10,
-              "height": 84,
-              "type": "stack",
-              "width": 157
-            }
-          ],
-          "direction": "row",
-          "gap": 10,
-          "height": 84,
-          "type": "stack",
-          "width": 324
-        },
-        {
-          "alignItems": "center",
-          "children": [
-            {
-              "color": "#6A8AB5",
-              "font": {"size": 8, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "stacked light • 70 to go",
-              "type": "text"
+              ]
             },
             {
-              "color": "#1E365E",
-              "font": {"size": 8, "weight": "semibold"},
-              "lineLimit": 1,
-              "text": "→ Music",
-              "type": "text"
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#0F1D30",
+                      "#162A44"
+                    ]
+                  },
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "direction": "column",
+                  "gap": 3,
+                  "padding": [
+                    8,
+                    8,
+                    8,
+                    8
+                  ],
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "sparkles",
+                      "size": 12,
+                      "color": "#A9D4FF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "8:38a",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "radius": 8,
+                      "padding": [
+                        3,
+                        8,
+                        3,
+                        8
+                      ],
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "sat \u2022 soft",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ]
+              },
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "direction": "column",
+              "gap": 2,
+              "justifyContent": "space-between",
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Cal \u2022 2",
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Larkin \u2022 SF",
+                  "color": "#4A6FA5",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\u2192 Map",
+                      "color": "#6A8AB5",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "mappin.and.ellipse",
+                      "size": 10,
+                      "color": "#4A6FA5"
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "direction": "row",
-          "height": 16,
-          "justifyContent": "space-between",
+          ]
+        },
+        {
           "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "alignItems": "center",
+          "justifyContent": "space-between",
           "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-          "width": 324
+          "children": [
+            {
+              "type": "text",
+              "text": "glass \u2022 sat morn \u2022 58\u00b0",
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "\u2192 Music",
+              "color": "#8A7A5E",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
         }
-      ],
-      "direction": "column",
-      "gap": 10,
-      "radius": 16,
-      "type": "stack",
-      "width": 324
-    },
-    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
-  },
-  "updatedAt": "2026-08-29T14:38:43Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+      ]
+    }
+  }
 }
