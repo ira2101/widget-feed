@@ -1,38 +1,22 @@
 {
-  "contentRevision": 320,
+  "contentRevision": 321,
   "mode": "native",
   "native": {
     "background": {
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#D4E8FF"
-      ],
+      "colors": ["#FFF6E5", "#E8F3FF"],
       "type": "gradient"
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ],
+      "padding": [8, 8, 8, 8],
       "radius": 16
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "background": {
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F6F9FF"
-        ],
+        "colors": ["#FFFFFF", "#F8FBFF"],
         "type": "gradient"
       },
       "children": [
@@ -41,22 +25,16 @@
           "children": [
             {
               "color": "#1E365E",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1,
-              "text": "tornado \u2022 9:38a \u2022 sat",
+              "text": "tornado • 10:38a • sat",
               "type": "text"
             },
             {
               "color": "#6A8AB5",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1,
-              "text": "liquid glass \u2022 58\u00b0",
+              "text": "glass orbit • 58°",
               "type": "text"
             }
           ],
@@ -71,173 +49,132 @@
             {
               "background": {
                 "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ],
+                "colors": ["#0F1D30", "#1C3358"],
                 "type": "gradient"
               },
               "children": [
                 {
-                  "color": "#5A3F1E",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
-                  },
+                  "color": "#FFFFFF",
+                  "font": {"size": 9, "weight": "bold"},
                   "lineLimit": 1,
-                  "text": "sat morn \u2022 soft lift",
+                  "text": "Exit • 9.93K",
                   "type": "text"
                 },
                 {
-                  "color": "#7A5A2E",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
+                  "color": "#A9D4FF",
+                  "font": {"size": 8, "weight": "medium"},
                   "lineLimit": 1,
-                  "text": "Larkin 24 \u2022 light spills",
+                  "text": "70 to go • lift",
                   "type": "text"
                 },
                 {
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "color": "#8A7A5E",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "\u2192 Music",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#7A5A2E",
-                      "name": "sun.max.fill",
-                      "size": 10,
-                      "type": "symbol"
-                    }
-                  ],
-                  "direction": "row",
-                  "justifyContent": "space-between",
-                  "type": "stack"
+                  "color": "#7FB5FF",
+                  "font": {"size": 7, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "→ YT",
+                  "type": "text"
                 }
               ],
               "direction": "column",
               "gap": 2,
               "height": 84,
               "justifyContent": "space-between",
-              "padding": [
-                8,
-                10,
-                6,
-                10
-              ],
+              "padding": [6, 8, 4, 8],
               "radius": 12,
               "type": "stack",
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-              "width": 194
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 100
             },
             {
+              "alignItems": "center",
+              "height": 84,
+              "justifyContent": "center",
+              "type": "stack",
+              "width": 104,
               "children": [
                 {
+                  "alignItems": "center",
                   "background": {
                     "angle": 135,
-                    "colors": [
-                      "#0F1D30",
-                      "#162A44"
-                    ],
+                    "colors": ["#0F1D30", "#162A44"],
                     "type": "gradient"
                   },
                   "children": [
                     {
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
+                      "background": {
+                        "colors": ["#00000066"],
+                        "type": "gradient"
                       },
-                      "lineLimit": 1,
-                      "text": "Exit \u2022 9.93K",
-                      "type": "text"
+                      "children": [
+                        {
+                          "color": "#FFFFFF",
+                          "font": {"size": 9, "weight": "bold"},
+                          "lineLimit": 1,
+                          "text": "sat morn",
+                          "type": "text"
+                        }
+                      ],
+                      "padding": [3, 8, 3, 8],
+                      "radius": 8,
+                      "type": "stack"
                     },
                     {
                       "color": "#A9D4FF",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1,
-                      "text": "70 to go \u2022 orbit",
+                      "text": "soft • bright",
                       "type": "text"
                     }
                   ],
                   "direction": "column",
-                  "gap": 1,
-                  "height": 37,
-                  "justifyContent": "space-between",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 10,
+                  "gap": 4,
+                  "height": 84,
+                  "justifyContent": "center",
+                  "radius": 42,
                   "type": "stack",
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "width": 120
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "width": 84
+                }
+              ]
+            },
+            {
+              "background": {
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#1E365E",
+                  "font": {"size": 9, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "quiet 0 • calm",
+                  "type": "text"
                 },
                 {
-                  "background": {
-                    "angle": 135,
-                    "colors": [
-                      "#E8F3FF",
-                      "#D4E8FF"
-                    ],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#1E365E",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1,
-                      "text": "quiet 0 \u2022 calm",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#4A6FA5",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1,
-                      "text": "Palette 11 done",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 1,
-                  "height": 37,
-                  "justifyContent": "space-between",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "radius": 10,
-                  "type": "stack",
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "width": 120
+                  "color": "#4A6FA5",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "Palette done",
+                  "type": "text"
+                },
+                {
+                  "color": "#6A8AB5",
+                  "font": {"size": 7, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "→ search",
+                  "type": "text"
                 }
               ],
               "direction": "column",
-              "gap": 10,
+              "gap": 2,
               "height": 84,
+              "justifyContent": "space-between",
+              "padding": [6, 8, 4, 8],
+              "radius": 12,
               "type": "stack",
-              "width": 120
+              "url": "https://x.com/search?q=Messenger%20Android",
+              "width": 100
             }
           ],
           "direction": "row",
@@ -251,22 +188,16 @@
           "children": [
             {
               "color": "#6A8AB5",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1,
-              "text": "team 11 \u2022 tea wrap 7:57p \u2022 SF 58\u00b0",
+              "text": "team 11 • tea wrap • SF 58°",
               "type": "text"
             },
             {
               "color": "#8A9AB5",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1,
-              "text": "\u2192 Map",
+              "text": "→ Map",
               "type": "text"
             }
           ],
@@ -274,14 +205,15 @@
           "height": 16,
           "justifyContent": "space-between",
           "type": "stack",
-          "width": 324
+          "width": 324,
+          "url": "https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo"
         }
       ],
       "radius": 16,
       "type": "stack"
     }
   },
-  "updatedAt": "2026-08-29T16:40:01Z",
+  "updatedAt": "2026-08-29T17:38:13Z",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
 }
