@@ -1,1 +1,343 @@
-{"contentRevision":315,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8]},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 4:38a • sat","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF 58° • hush • 23%","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","children":[{"background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#5A3F1E","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"Palette • 11 ✓ wrap","type":"text"},{"color":"#7A5A2E","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"team night done, pix later","type":"text"},{"alignItems":"center","children":[{"color":"#8A7A5E","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"→ Map • 320 S B St","type":"text"},{"color":"#7A5A2E","name":"fork.knife","size":10,"type":"symbol"}],"direction":"row","justifyContent":"space-between","type":"stack"}],"direction":"column","gap":2,"height":84,"justifyContent":"space-between","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=320+S+B+St+San+Mateo","width":194},{"children":[{"background":{"angle":135,"colors":["#13233F","#1E365E"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Exit 9.93K","type":"text"},{"color":"#A8C0E0","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"70 to go • orbit","type":"text"},{"alignItems":"center","children":[{"color":"#A8C0E0","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"→ YT","type":"text"},{"color":"#FFFFFF","name":"play.circle.fill","size":9,"type":"symbol"}],"direction":"row","justifyContent":"space-between","type":"stack"}],"direction":"column","gap":2,"height":37,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":120},{"background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Larkin 24 • 58°","type":"text"},{"color":"#5A7FB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"hush night • SF","type":"text"},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":7,"weight":"medium"},"lineLimit":1,"text":"→ Map","type":"text"},{"color":"#1E365E","name":"mappin.and.ellipse","size":8,"type":"symbol"}],"direction":"row","justifyContent":"space-between","type":"stack"}],"direction":"column","gap":2,"height":37,"justifyContent":"space-between","padding":[6,8,4,8],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=2265+Larkin+St+San+Francisco","width":120}],"direction":"column","gap":10,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"liquid glass • diagonal • early","type":"text"},{"color":"#1E365E","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"→ Music","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack","width":324}},"updatedAt":"2026-08-29T11:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 316,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "angle": 135,
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#1E365E",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "text": "tornado \u2022 5:38a \u2022 sat",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "SF 58\u00b0 \u2022 early",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 18,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#5A3F1E",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1,
+                  "text": "Palette \u2713 11",
+                  "type": "text"
+                },
+                {
+                  "color": "#7A5A2E",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1,
+                  "text": "team night done",
+                  "type": "text"
+                },
+                {
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "color": "#8A7A5E",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1,
+                      "text": "\u2192 Map",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#7A5A2E",
+                      "name": "fork.knife",
+                      "size": 10,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "justifyContent": "space-between",
+                  "type": "stack"
+                }
+              ],
+              "direction": "column",
+              "gap": 2,
+              "height": 84,
+              "justifyContent": "space-between",
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
+              "width": 108
+            },
+            {
+              "alignItems": "center",
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#13233F",
+                  "#1E365E"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1,
+                  "text": "\u25d0 orbit",
+                  "type": "text"
+                },
+                {
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1,
+                  "text": "Exit 9.93K",
+                  "type": "text"
+                },
+                {
+                  "color": "#A8C0E0",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1,
+                  "text": "70 to go",
+                  "type": "text"
+                },
+                {
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "color": "#A8C0E0",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1,
+                      "text": "\u2192 YT",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#FFFFFF",
+                      "name": "play.circle.fill",
+                      "size": 9,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "gap": 4,
+                  "justifyContent": "space-between",
+                  "type": "stack"
+                }
+              ],
+              "direction": "column",
+              "gap": 3,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [
+                8,
+                8,
+                8,
+                8
+              ],
+              "radius": 42,
+              "type": "stack",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 84
+            },
+            {
+              "background": {
+                "angle": 135,
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#1E365E",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1,
+                  "text": "Larkin 24",
+                  "type": "text"
+                },
+                {
+                  "color": "#5A7FB5",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1,
+                  "text": "58\u00b0 \u2022 hush",
+                  "type": "text"
+                },
+                {
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "color": "#6A8AB5",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1,
+                      "text": "\u2192 Map",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#1E365E",
+                      "name": "mappin.and.ellipse",
+                      "size": 9,
+                      "type": "symbol"
+                    }
+                  ],
+                  "direction": "row",
+                  "justifyContent": "space-between",
+                  "type": "stack"
+                }
+              ],
+              "direction": "column",
+              "gap": 2,
+              "height": 84,
+              "justifyContent": "space-between",
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+              "width": 108
+            }
+          ],
+          "direction": "row",
+          "gap": 10,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#6A8AB5",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1,
+              "text": "liquid glass \u2022 orbit \u2022 early",
+              "type": "text"
+            },
+            {
+              "color": "#1E365E",
+              "font": {
+                "size": 8,
+                "weight": "semibold"
+              },
+              "lineLimit": 1,
+              "text": "\u2192 Music",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+          "width": 324
+        }
+      ],
+      "direction": "column",
+      "gap": 10,
+      "radius": 16,
+      "type": "stack",
+      "width": 324
+    },
+    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  },
+  "updatedAt": "2026-08-29T12:38:13Z",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
