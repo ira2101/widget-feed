@@ -1,8 +1,8 @@
 {
-  "contentRevision": 308,
+  "contentRevision": 309,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-29T04:39:31Z",
+  "updatedAt": "2026-08-29T05:40:02Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
@@ -30,10 +30,10 @@
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
+      "width": 324,
+      "radius": 16,
       "direction": "column",
       "gap": 10,
-      "radius": 16,
-      "width": 324,
       "background": {
         "type": "gradient",
         "angle": 135,
@@ -45,15 +45,15 @@
       "children": [
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 18,
-          "justifyContent": "space-between",
+          "direction": "row",
           "alignItems": "center",
+          "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 9:38p \u2022 fri",
+              "text": "tornado \u2022 10:38p \u2022 fri",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -75,167 +75,92 @@
         },
         {
           "type": "stack",
-          "direction": "column",
           "width": 324,
           "height": 84,
+          "direction": "row",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 36,
-              "radius": 12,
-              "padding": [
-                8,
-                12,
-                8,
-                12
-              ],
-              "justifyContent": "space-between",
-              "alignItems": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
-              },
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "sparkles",
-                      "size": 10,
-                      "color": "#8A5A2B"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Exit 9.93K \u2022 70 left \u2022 glow",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "color": "#5A3D1E",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 4,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "\u2192 YT",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "color": "#8A5A2B",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 7,
-                      "color": "#8A5A2B"
-                    }
-                  ]
-                }
-              ],
-              "url": "https://www.youtube.com/@exitfrequency"
-            },
-            {
-              "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 38,
+              "width": 100,
+              "height": 84,
+              "direction": "column",
               "gap": 10,
-              "justifyContent": "space-between",
               "children": [
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 38,
+                  "height": 37,
                   "radius": 12,
-                  "padding": [
-                    8,
-                    10,
-                    6,
-                    10
-                  ],
                   "direction": "column",
-                  "gap": 3,
-                  "justifyContent": "space-between",
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#E6F7F0",
-                      "#D4EFE6"
+                      "#FFF6E5",
+                      "#FFEED5"
                     ]
                   },
+                  "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
                   "children": [
                     {
                       "type": "stack",
                       "direction": "row",
-                      "gap": 5,
                       "alignItems": "center",
+                      "gap": 3,
                       "children": [
                         {
                           "type": "symbol",
-                          "name": "checkmark.seal.fill",
-                          "size": 9,
-                          "color": "#2A6B4E"
+                          "name": "fork.knife",
+                          "size": 7,
+                          "color": "#7A5A2E"
                         },
                         {
                           "type": "text",
-                          "text": "quiet \u2022 ok",
+                          "text": "Palette \u2022 11",
                           "font": {
-                            "size": 9,
+                            "size": 8,
                             "weight": "bold"
                           },
-                          "color": "#2A6B4E",
+                          "color": "#5A3F1E",
                           "lineLimit": 1
                         }
                       ]
                     },
                     {
                       "type": "text",
-                      "text": "0 boards \u2022 hum",
+                      "text": "set menu \u2022 done",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
-                      "color": "#5A7A6B",
+                      "color": "#8A6A4E",
                       "lineLimit": 1
                     }
-                  ],
-                  "url": "https://x.com/search?q=Messenger%20Android"
+                  ]
                 },
                 {
                   "type": "stack",
                   "width": 100,
-                  "height": 38,
+                  "height": 37,
                   "radius": 12,
-                  "padding": [
-                    8,
-                    10,
-                    6,
-                    10
-                  ],
                   "direction": "column",
-                  "gap": 3,
-                  "justifyContent": "space-between",
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
                   "background": {
                     "type": "gradient",
                     "angle": 135,
@@ -244,103 +169,221 @@
                       "#D4E8FF"
                     ]
                   },
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "stack",
                       "direction": "row",
-                      "gap": 5,
                       "alignItems": "center",
+                      "gap": 3,
                       "children": [
                         {
                           "type": "symbol",
-                          "name": "mappin.and.ellipse",
-                          "size": 9,
-                          "color": "#1E365E"
+                          "name": "play.fill",
+                          "size": 7,
+                          "color": "#2C4A6E"
                         },
                         {
                           "type": "text",
-                          "text": "Larkin \u2022 24",
+                          "text": "9.93K",
                           "font": {
-                            "size": 9,
+                            "size": 8,
                             "weight": "bold"
                           },
-                          "color": "#1E365E",
+                          "color": "#2C4A6E",
                           "lineLimit": 1
                         }
                       ]
                     },
                     {
                       "type": "text",
-                      "text": "SF eve \u2022 58\u00b0",
+                      "text": "70 to go",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
-                      "color": "#5A6A85",
+                      "color": "#6A8AB5",
                       "lineLimit": 1
                     }
-                  ],
-                  "url": "https://www.google.com/maps/search/2265+Larkin+St+San+Francisco"
-                },
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
                 {
                   "type": "stack",
-                  "width": 104,
-                  "height": 38,
-                  "radius": 12,
-                  "padding": [
-                    8,
-                    10,
-                    6,
-                    10
-                  ],
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
                   "direction": "column",
-                  "gap": 3,
-                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#1E3A5A",
-                      "#2A5A8A"
+                      "#13233F",
+                      "#1E365E"
                     ]
                   },
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "moon.stars.fill",
+                      "size": 14,
+                      "color": "#FFEED5"
+                    },
+                    {
+                      "type": "stack",
+                      "radius": 8,
+                      "padding": [
+                        3,
+                        8,
+                        3,
+                        8
+                      ],
+                      "background": {
+                        "type": "color",
+                        "color": "#00000066"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "fri \u2022 10:38p",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "color": "#FFFFFF",
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 12,
+                  "direction": "column",
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E6F7F0",
+                      "#D4EFE6"
+                    ]
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android&f=latest",
                   "children": [
                     {
                       "type": "stack",
                       "direction": "row",
-                      "gap": 5,
                       "alignItems": "center",
+                      "gap": 3,
                       "children": [
                         {
                           "type": "symbol",
-                          "name": "moon.stars.fill",
-                          "size": 9,
-                          "color": "#E8F3FF"
+                          "name": "bell.slash.fill",
+                          "size": 7,
+                          "color": "#2A6B4A"
                         },
                         {
                           "type": "text",
-                          "text": "fri night",
+                          "text": "quiet 0",
                           "font": {
-                            "size": 9,
+                            "size": 8,
                             "weight": "bold"
                           },
-                          "color": "#E8F3FF",
+                          "color": "#2A6B4A",
                           "lineLimit": 1
                         }
                       ]
                     },
                     {
                       "type": "text",
-                      "text": "11 wrap \u2022 7:57p",
+                      "text": "boards hum",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
-                      "color": "#A9C7E8",
+                      "color": "#4A7A5E",
                       "lineLimit": 1
                     }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 12,
+                  "direction": "column",
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
                   ],
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#EEF0FF",
+                      "#D9E0FF"
+                    ]
+                  },
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Larkin 24",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#3A4A7E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "SF \u2022 eve \u2022 58\u00b0",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "color": "#6A8AB5",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -348,27 +391,31 @@
         },
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 16,
-          "justifyContent": "space-between",
+          "direction": "row",
           "alignItems": "center",
+          "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "Palette wrap \u2022 done \u2022 SF eve",
+              "text": "Exit glow \u2022 tea wrap \u2022 done",
               "font": {
-                "size": 9,
+                "size": 8,
                 "weight": "medium"
               },
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
-              "type": "symbol",
-              "name": "sparkles",
-              "size": 9,
-              "color": "#8A7A3B"
+              "type": "text",
+              "text": "fri night \u2022 11 wrap",
+              "font": {
+                "size": 8,
+                "weight": "semibold"
+              },
+              "color": "#1E365E",
+              "lineLimit": 1
             }
           ]
         }
