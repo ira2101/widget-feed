@@ -1,8 +1,8 @@
 {
-  "contentRevision": 307,
+  "contentRevision": 308,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-29T03:38:30Z",
+  "updatedAt": "2026-08-29T04:39:31Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
@@ -53,7 +53,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 8:38p \u2022 fri",
+              "text": "tornado \u2022 9:38p \u2022 fri",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -75,32 +75,31 @@
         },
         {
           "type": "stack",
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
           "width": 324,
           "height": 84,
-          "justifyContent": "space-between",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "direction": "row",
+              "width": 324,
+              "height": 36,
               "radius": 12,
               "padding": [
-                10,
+                8,
                 12,
                 8,
                 12
               ],
-              "direction": "column",
-              "gap": 6,
               "justifyContent": "space-between",
+              "alignItems": "center",
               "background": {
                 "type": "gradient",
                 "angle": 135,
                 "colors": [
-                  "#1E3A5A",
-                  "#2A5A8A"
+                  "#FFF6E5",
+                  "#FFEED5"
                 ]
               },
               "children": [
@@ -112,31 +111,21 @@
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 11,
-                      "color": "#E8F3FF"
+                      "name": "sparkles",
+                      "size": 10,
+                      "color": "#8A5A2B"
                     },
                     {
                       "type": "text",
-                      "text": "fri night \u2022 glass",
+                      "text": "Exit 9.93K \u2022 70 left \u2022 glow",
                       "font": {
                         "size": 10,
                         "weight": "bold"
                       },
-                      "color": "#E8F3FF",
+                      "color": "#5A3D1E",
                       "lineLimit": 1
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": "Larkin hum \u2022 eve holds",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#A9C7E8",
-                  "lineLimit": 1
                 },
                 {
                   "type": "stack",
@@ -146,35 +135,36 @@
                   "children": [
                     {
                       "type": "text",
-                      "text": "\u2192 Music",
+                      "text": "\u2192 YT",
                       "font": {
                         "size": 8,
                         "weight": "semibold"
                       },
-                      "color": "#E8F3FF",
+                      "color": "#8A5A2B",
                       "lineLimit": 1
                     },
                     {
                       "type": "symbol",
                       "name": "arrow.up.right",
                       "size": 7,
-                      "color": "#E8F3FF"
+                      "color": "#8A5A2B"
                     }
                   ]
                 }
               ],
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+              "url": "https://www.youtube.com/@exitfrequency"
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 8,
+              "direction": "row",
+              "width": 324,
+              "height": 38,
+              "gap": 10,
+              "justifyContent": "space-between",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 38,
                   "radius": 12,
                   "padding": [
@@ -190,8 +180,8 @@
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
+                      "#E6F7F0",
+                      "#D4EFE6"
                     ]
                   },
                   "children": [
@@ -203,38 +193,38 @@
                       "children": [
                         {
                           "type": "symbol",
-                          "name": "sparkles",
+                          "name": "checkmark.seal.fill",
                           "size": 9,
-                          "color": "#8A5A2B"
+                          "color": "#2A6B4E"
                         },
                         {
                           "type": "text",
-                          "text": "weekend \u2022 on",
+                          "text": "quiet \u2022 ok",
                           "font": {
                             "size": 9,
                             "weight": "bold"
                           },
-                          "color": "#5A3D1E",
+                          "color": "#2A6B4E",
                           "lineLimit": 1
                         }
                       ]
                     },
                     {
                       "type": "text",
-                      "text": "SF 58\u00b0 \u2022 23% 9p",
+                      "text": "0 boards \u2022 hum",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
-                      "color": "#7A5A2E",
+                      "color": "#5A7A6B",
                       "lineLimit": 1
                     }
                   ],
-                  "url": "https://calendar.google.com/calendar/r"
+                  "url": "https://x.com/search?q=Messenger%20Android"
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 38,
                   "radius": 12,
                   "padding": [
@@ -263,13 +253,13 @@
                       "children": [
                         {
                           "type": "symbol",
-                          "name": "checkmark.seal.fill",
+                          "name": "mappin.and.ellipse",
                           "size": 9,
                           "color": "#1E365E"
                         },
                         {
                           "type": "text",
-                          "text": "quiet \u2022 ok",
+                          "text": "Larkin \u2022 24",
                           "font": {
                             "size": 9,
                             "weight": "bold"
@@ -281,7 +271,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "boards \u2022 calm",
+                      "text": "SF eve \u2022 58\u00b0",
                       "font": {
                         "size": 8,
                         "weight": "medium"
@@ -290,7 +280,67 @@
                       "lineLimit": 1
                     }
                   ],
-                  "url": "https://x.com/search?q=Messenger%20Android"
+                  "url": "https://www.google.com/maps/search/2265+Larkin+St+San+Francisco"
+                },
+                {
+                  "type": "stack",
+                  "width": 104,
+                  "height": 38,
+                  "radius": 12,
+                  "padding": [
+                    8,
+                    10,
+                    6,
+                    10
+                  ],
+                  "direction": "column",
+                  "gap": 3,
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#1E3A5A",
+                      "#2A5A8A"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 5,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "moon.stars.fill",
+                          "size": 9,
+                          "color": "#E8F3FF"
+                        },
+                        {
+                          "type": "text",
+                          "text": "fri night",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "color": "#E8F3FF",
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "11 wrap \u2022 7:57p",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#A9C7E8",
+                      "lineLimit": 1
+                    }
+                  ],
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
                 }
               ]
             }
@@ -306,12 +356,12 @@
           "children": [
             {
               "type": "text",
-              "text": "Palette 11 \u2022 wrap done \u2022 7:57p",
+              "text": "Palette wrap \u2022 done \u2022 SF eve",
               "font": {
                 "size": 9,
                 "weight": "medium"
               },
-              "color": "#5A6A85",
+              "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
