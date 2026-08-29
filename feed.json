@@ -1,32 +1,19 @@
 {
-  "contentRevision": 310,
+  "contentRevision": 311,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-29T06:39:39Z",
+  "updatedAt": "2026-08-29T07:38:30Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ]
+      "padding": [8, 8, 8, 8]
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -37,10 +24,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F6F9FF"
-        ]
+        "colors": ["#FFFFFF", "#F6F9FF"]
       },
       "children": [
         {
@@ -53,21 +37,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 11:38p \u2022 fri",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 12:38a • sat",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 night",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF 58° • night wrap • 23%",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -82,117 +60,25 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
-              "radius": 12,
-              "direction": "column",
-              "alignItems": "flex-start",
-              "justifyContent": "center",
-              "padding": [
-                10,
-                12,
-                8,
-                12
-              ],
-              "gap": 4,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1E365E"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "gap": 5,
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 10,
-                      "color": "#FFEED5"
-                    },
-                    {
-                      "type": "text",
-                      "text": "late eve \u2022 Larkin 24",
-                      "font": {
-                        "size": 9,
-                        "weight": "semibold"
-                      },
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "night hum \u2022 9.93K \u2022 70 left",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "color": "#A8C6E8",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "gap": 4,
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "play.fill",
-                      "size": 7,
-                      "color": "#8BB8E0"
-                    },
-                    {
-                      "type": "text",
-                      "text": "Exit glow \u2022 warm",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "color": "#D4E8FF",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 120,
+              "width": 100,
               "height": 84,
               "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 12,
                   "direction": "column",
                   "alignItems": "flex-start",
                   "justifyContent": "center",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [6, 8, 4, 8],
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
+                    "colors": ["#FFF6E5", "#FFEED5"]
                   },
                   "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
                   "children": [
@@ -202,94 +88,130 @@
                       "alignItems": "center",
                       "gap": 3,
                       "children": [
-                        {
-                          "type": "symbol",
-                          "name": "fork.knife",
-                          "size": 7,
-                          "color": "#7A5A2E"
-                        },
-                        {
-                          "type": "text",
-                          "text": "Palette \u2022 done",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "color": "#5A3F1E",
-                          "lineLimit": 1
-                        }
+                        {"type": "symbol", "name": "fork.knife", "size": 8, "color": "#7A5A2E"},
+                        {"type": "text", "text": "Palette • done", "font": {"size": 9, "weight": "bold"}, "color": "#5A3F1E", "lineLimit": 1}
                       ]
                     },
-                    {
-                      "type": "text",
-                      "text": "set menu \u2022 eve",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "color": "#8A6A4E",
-                      "lineLimit": 1
-                    }
+                    {"type": "text", "text": "11 pals • set", "font": {"size": 8, "weight": "medium"}, "color": "#8A6A4E", "lineLimit": 1},
+                    {"type": "text", "text": "sunset 7:57p", "font": {"size": 7, "weight": "medium"}, "color": "#9A7A5E", "lineLimit": 1}
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
+                  "height": 37,
+                  "radius": 12,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "padding": [6, 10, 6, 10],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E6F7F0", "#D4EFE6"]
+                  },
+                  "url": "https://www.weather.com/weather/today/l/San+Francisco+CA",
+                  "children": [
+                    {"type": "symbol", "name": "moon.stars.fill", "size": 10, "color": "#2A6B4A"},
+                    {"type": "text", "text": "58° night", "font": {"size": 9, "weight": "medium"}, "color": "#2A6B4A", "lineLimit": 1}
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#FFEED5", "#E8F3FF"]
+                  },
+                  "padding": [8, 8, 6, 8],
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {"type": "symbol", "name": "sparkles", "size": 14, "color": "#5A3F1E"},
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "alignItems": "center",
+                      "children": [
+                        {"type": "text", "text": "afterglow", "font": {"size": 10, "weight": "bold"}, "color": "#5A3F1E", "lineLimit": 1},
+                        {"type": "text", "text": "late light • thu", "font": {"size": 8, "weight": "medium"}, "color": "#7A5A2E", "lineLimit": 1}
+                      ]
+                    },
+                    {"type": "symbol", "name": "moon.fill", "size": 10, "color": "#7A5A2E"}
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
                   "height": 37,
                   "radius": 12,
                   "direction": "column",
                   "alignItems": "flex-start",
                   "justifyContent": "center",
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [6, 8, 4, 8],
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#E6F7F0",
-                      "#D4EFE6"
-                    ]
+                    "colors": ["#E8F3FF", "#D4E8FF"]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {"type": "text", "text": "Exit 9.93K", "font": {"size": 9, "weight": "bold"}, "color": "#1E365E", "lineLimit": 1},
+                    {"type": "text", "text": "70 to go • hum", "font": {"size": 8, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+                    {"type": "stack", "direction": "row", "alignItems": "center", "gap": 3, "children": [
+                      {"type": "text", "text": "→ YT", "font": {"size": 7, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1},
+                      {"type": "symbol", "name": "play.circle.fill", "size": 8, "color": "#1E365E"}
+                    ]}
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 12,
+                  "direction": "column",
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "gap": 2,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1E365E"]
                   },
                   "url": "https://x.com/search?q=Messenger%20Android&f=latest",
                   "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 3,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "bell.slash.fill",
-                          "size": 7,
-                          "color": "#2A6B4A"
-                        },
-                        {
-                          "type": "text",
-                          "text": "quiet 0",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "color": "#2A6B4A",
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "boards hum \u2022 SF",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "color": "#4A7A5E",
-                      "lineLimit": 1
-                    }
+                    {"type": "stack", "direction": "row", "alignItems": "center", "gap": 4, "children": [
+                      {"type": "symbol", "name": "checkmark.circle.fill", "size": 8, "color": "#7ED3A8"},
+                      {"type": "text", "text": "quiet 0", "font": {"size": 8, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}
+                    ]},
+                    {"type": "text", "text": "boards hum", "font": {"size": 8, "weight": "medium"}, "color": "#A8C6E8", "lineLimit": 1}
                   ]
                 }
               ]
@@ -306,21 +228,15 @@
           "children": [
             {
               "type": "text",
-              "text": "fri late \u2022 Exit hum \u2022 tea wrap",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "text": "fri late • Palette wrap • tea done",
+              "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "\u2192 Music \u2022 11:38p",
-              "font": {
-                "size": 8,
-                "weight": "semibold"
-              },
+              "text": "→ Music • 12:38a",
+              "font": {"size": 8, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             }
