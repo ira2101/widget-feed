@@ -162,7 +162,7 @@
                     "angle": 135,
                     "colors": ["#E6F7F0", "#D4EFE6"]
                   },
-                  "url": "https://www.youtube.com/maps?example=palette",
+                  "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
                   "children": [
                     {
                       "type": "text",
