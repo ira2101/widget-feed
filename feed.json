@@ -1,33 +1,20 @@
 {
-  "contentRevision": 346,
+  "contentRevision": 347,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-30T18:40:07Z",
+  "updatedAt": "2026-08-30T19:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#E8F3FF",
-        "#F5FAFF"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ],
+      "padding": [8, 8, 8, 8],
       "radius": 16
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -38,10 +25,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F8F3FF"
-        ]
+        "colors": ["#FFFFFF", "#F6F9FF"]
       },
       "children": [
         {
@@ -54,108 +38,88 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 11:38a \u2022 Sun",
+              "text": "tornado \u2022 12:38p \u2022 Sun",
               "color": "#1E365E",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
             },
             {
               "type": "text",
               "text": "SF 58\u00b0 \u2022 clear",
               "color": "#6A8AB8",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             }
           ]
         },
         {
           "type": "stack",
-          "direction": "column",
-          "gap": 10,
+          "direction": "row",
           "width": 324,
           "height": 84,
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 38,
+              "direction": "column",
+              "width": 194,
+              "height": 84,
               "radius": 12,
-              "padding": [
-                8,
-                12,
-                8,
-                12
-              ],
-              "alignItems": "center",
-              "justifyContent": "space-between",
+              "padding": [8, 12, 8, 12],
+              "gap": 2,
+              "alignItems": "flex-start",
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": [
-                  "#FFF6E5",
-                  "#FFEED5"
-                ]
+                "colors": ["#FFF6E5", "#FFEED5"]
               },
               "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
               "children": [
                 {
                   "type": "text",
-                  "text": "sunday light drifts",
+                  "text": "midday drifts soft",
                   "color": "#5A3E1F",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
-                  },
+                  "font": {"size": 10, "weight": "bold"},
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "58\u00b0 \u2022 you here",
+                  "text": "Larkin 24 \u2022 58\u00b0 light",
                   "color": "#8A6A4A",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
+                  "font": {"size": 9, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "sun holds you here",
+                  "color": "#8A6A4A",
+                  "font": {"size": 8, "weight": "medium"},
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "direction": "row",
-              "gap": 8,
-              "width": 324,
-              "height": 36,
+              "direction": "column",
+              "width": 120,
+              "height": 84,
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
                   "direction": "column",
-                  "gap": 1,
-                  "width": 100,
-                  "height": 36,
+                  "width": 120,
+                  "height": 37,
                   "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [5, 8, 4, 8],
+                  "gap": 1,
                   "alignItems": "flex-start",
                   "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#0F1D30",
-                      "#162A44"
-                    ]
+                    "colors": ["#0F1D30", "#162A44"]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
@@ -163,20 +127,14 @@
                       "type": "text",
                       "text": "Exit \u2022 9.92K",
                       "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "80 to go",
+                      "text": "80 to go \u2022 noon",
                       "color": "#A8C4E8",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
@@ -184,72 +142,17 @@
                 {
                   "type": "stack",
                   "direction": "column",
-                  "gap": 1,
-                  "width": 100,
-                  "height": 36,
+                  "width": 120,
+                  "height": 37,
                   "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    4,
-                    8
-                  ],
+                  "padding": [5, 8, 4, 8],
+                  "gap": 1,
                   "alignItems": "flex-start",
                   "justifyContent": "center",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": [
-                      "#E8F3FF",
-                      "#D4E8FF"
-                    ]
-                  },
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Larkin 24",
-                      "color": "#1E365E",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "calm \u2022 Sun",
-                      "color": "#4A6A9A",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "width": 108,
-                  "height": 36,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    4,
-                    8
-                  ],
-                  "alignItems": "flex-start",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#E8FFF6",
-                      "#D5FFE8"
-                    ]
+                    "colors": ["#E8FFF6", "#D5FFE8"]
                   },
                   "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo",
                   "children": [
@@ -257,20 +160,14 @@
                       "type": "text",
                       "text": "Palette \u2022 done",
                       "color": "#2A5A4A",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "11 team wrap",
+                      "text": "11 team \u2022 wrap",
                       "color": "#5A8A7A",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
@@ -291,20 +188,14 @@
               "type": "text",
               "text": "quiet \u2022 58\u00b0 \u2022 Larkin hum",
               "color": "#6A8AB8",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
             },
             {
               "type": "text",
               "text": "\u2192 Music",
               "color": "#8AA0C2",
-              "font": {
-                "size": 8,
-                "weight": "medium"
-              },
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
             }
           ]
