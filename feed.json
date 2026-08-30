@@ -1,10 +1,13 @@
 {
-  "contentRevision": 341,
+  "contentRevision": 342,
   "mode": "native",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-08-30T14:38:13Z",
   "native": {
     "background": {
       "angle": 135,
-      "colors": ["#FFF6E5", "#FFEED5"],
+      "colors": ["#E8F3FF", "#D4E8FF"],
       "type": "gradient"
     },
     "outer": {
@@ -24,17 +27,17 @@
           "alignItems": "center",
           "children": [
             {
-              "color": "#5A3E1F",
+              "color": "#1E365E",
               "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1,
-              "text": "tornado • 6:38a • sun",
+              "text": "tornado • 7:38a • sun",
               "type": "text"
             },
             {
-              "color": "#8A6A4A",
+              "color": "#6A8AB8",
               "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1,
-              "text": "SF 58° • calm light",
+              "text": "SF 58° • soft light",
               "type": "text"
             }
           ],
@@ -56,102 +59,110 @@
               "children": [
                 {
                   "color": "#1E365E",
-                  "font": {"size": 9, "weight": "bold"},
+                  "font": {"size": 10, "weight": "bold"},
                   "lineLimit": 1,
-                  "text": "Exit • 9.92K",
+                  "text": "you here now",
                   "type": "text"
                 },
                 {
                   "color": "#4A6A9A",
+                  "font": {"size": 9, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "Larkin hums • 58°",
+                  "type": "text"
+                },
+                {
+                  "color": "#7AA0C8",
                   "font": {"size": 8, "weight": "medium"},
                   "lineLimit": 1,
-                  "text": "80 to go",
+                  "text": "morning paints sky",
                   "type": "text"
                 }
               ],
               "direction": "column",
-              "gap": 1,
+              "gap": 2,
               "height": 84,
               "justifyContent": "center",
               "padding": [8, 10, 6, 10],
               "radius": 12,
               "type": "stack",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "width": 100
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+              "width": 194
             },
             {
-              "alignItems": "center",
               "children": [
                 {
-                  "alignItems": "center",
+                  "alignItems": "flex-start",
                   "background": {
                     "angle": 135,
-                    "colors": ["#13233F", "#1E365E"],
+                    "colors": ["#FFF6E5", "#FFEED5"],
                     "type": "gradient"
                   },
                   "children": [
                     {
-                      "color": "#FFFFFF",
-                      "font": {"size": 10, "weight": "bold"},
+                      "color": "#5A3E1F",
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1,
-                      "text": "you here",
+                      "text": "Exit • 9.92K",
                       "type": "text"
                     },
                     {
-                      "color": "#A8C4E8",
+                      "color": "#8A6A4A",
                       "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1,
-                      "text": "Larkin glow",
+                      "text": "80 to go • glow",
                       "type": "text"
                     }
                   ],
                   "direction": "column",
-                  "gap": 2,
-                  "height": 84,
+                  "gap": 1,
+                  "height": 37,
                   "justifyContent": "center",
-                  "radius": 42,
+                  "padding": [6, 8, 4, 8],
+                  "radius": 11,
                   "type": "stack",
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "width": 84
-                }
-              ],
-              "height": 84,
-              "justifyContent": "center",
-              "type": "stack",
-              "width": 104
-            },
-            {
-              "alignItems": "flex-start",
-              "background": {
-                "angle": 135,
-                "colors": ["#E6F7F0", "#D4EFE6"],
-                "type": "gradient"
-              },
-              "children": [
-                {
-                  "color": "#2A5A4A",
-                  "font": {"size": 9, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "Sun morn",
-                  "type": "text"
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "width": 120
                 },
                 {
-                  "color": "#4A7A6A",
-                  "font": {"size": 8, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "Larkin 24 • 58°",
-                  "type": "text"
+                  "alignItems": "flex-start",
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#E6F7F0", "#D4EFE6"],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "color": "#2A5A4A",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "Palette • done",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#4A7A6A",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "11 team • 7p wrap",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "height": 37,
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "radius": 11,
+                  "type": "stack",
+                  "url": "https://maps.apple.com/?q=320+S+B+St+San+Mateo+CA",
+                  "width": 120
                 }
               ],
               "direction": "column",
-              "gap": 1,
+              "gap": 10,
               "height": 84,
-              "justifyContent": "center",
-              "padding": [8, 10, 6, 10],
-              "radius": 12,
               "type": "stack",
-              "url": "https://www.google.com/maps/search/?api=1&query=2265+Larkin+St+San+Francisco",
-              "width": 100
+              "width": 120
             }
           ],
           "direction": "row",
@@ -164,19 +175,18 @@
           "alignItems": "center",
           "children": [
             {
-              "color": "#8A6A4A",
-              "font": {"size": 9, "weight": "medium"},
+              "color": "#6A8AB8",
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1,
-              "text": "80 left • quiet • glow",
+              "text": "quiet hum • 58° • Larkin 24",
               "type": "text"
             },
             {
-              "color": "#6A8AB5",
-              "font": {"size": 9, "weight": "semibold"},
+              "color": "#8AA0C2",
+              "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1,
-              "text": "↗ kerala • Music",
-              "type": "text",
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+              "text": "→ Music",
+              "type": "text"
             }
           ],
           "direction": "row",
@@ -192,8 +202,5 @@
       "type": "stack",
       "width": 324
     }
-  },
-  "updatedAt": "2026-08-30T13:38:13Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
 }
