@@ -1,1 +1,199 @@
-{"contentRevision":340,"mode":"native","native":{"background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F6F9FF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 5:38a • dawn","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF 58° • light early","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#5A3E1F","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"dawn paints Larkin","type":"text"},{"color":"#8A6A4A","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"58° soft • you here now","type":"text"}],"direction":"column","gap":2,"height":40,"justifyContent":"center","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://www.google.com/maps/search/?api=1&query=2265+Larkin+St+San+Francisco","width":324},{"children":[{"alignItems":"flex-start","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Exit • 9.92K","type":"text"},{"color":"#4A6A9A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"80 to go","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[6,8,4,8],"radius":10,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":100},{"alignItems":"flex-start","background":{"angle":135,"colors":["#E6F7F0","#D4EFE6"],"type":"gradient"},"children":[{"color":"#2A5A4A","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Palette done","type":"text"},{"color":"#4A7A6A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"team 11p • SF","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[6,8,4,8],"radius":10,"type":"stack","url":"https://calendar.google.com","width":100},{"alignItems":"flex-start","background":{"angle":135,"colors":["#F0F2FF","#E6E9FF"],"type":"gradient"},"children":[{"color":"#3A3E6A","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"Larkin 24","type":"text"},{"color":"#6A6E9A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"58° • quiet hum","type":"text"}],"direction":"column","gap":1,"height":36,"justifyContent":"center","padding":[6,8,4,8],"radius":10,"type":"stack","url":"https://www.google.com/maps/search/?api=1&query=Bamboo+Massage+Union+St+SF","width":108}],"direction":"row","gap":8,"height":36,"type":"stack","width":324}],"direction":"column","gap":8,"height":84,"type":"stack","width":324},{"alignItems":"center","children":[{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"80 left • quiet • glow","type":"text"},{"color":"#8AA4C8","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"↗ kerala • Music","type":"text","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack","width":324}},"updatedAt":"2026-08-30T12:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 341,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": ["#FFF6E5", "#FFEED5"],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8],
+      "radius": 16
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "background": {
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F6F9FF"],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#5A3E1F",
+              "font": {"size": 10, "weight": "semibold"},
+              "lineLimit": 1,
+              "text": "tornado • 6:38a • sun",
+              "type": "text"
+            },
+            {
+              "color": "#8A6A4A",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "SF 58° • calm light",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 18,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "alignItems": "flex-start",
+              "background": {
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#1E365E",
+                  "font": {"size": 9, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "Exit • 9.92K",
+                  "type": "text"
+                },
+                {
+                  "color": "#4A6A9A",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "80 to go",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 1,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [8, 10, 6, 10],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 100
+            },
+            {
+              "alignItems": "center",
+              "children": [
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#13233F", "#1E365E"],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "color": "#FFFFFF",
+                      "font": {"size": 10, "weight": "bold"},
+                      "lineLimit": 1,
+                      "text": "you here",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#A8C4E8",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1,
+                      "text": "Larkin glow",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 2,
+                  "height": 84,
+                  "justifyContent": "center",
+                  "radius": 42,
+                  "type": "stack",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "width": 84
+                }
+              ],
+              "height": 84,
+              "justifyContent": "center",
+              "type": "stack",
+              "width": 104
+            },
+            {
+              "alignItems": "flex-start",
+              "background": {
+                "angle": 135,
+                "colors": ["#E6F7F0", "#D4EFE6"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#2A5A4A",
+                  "font": {"size": 9, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "Sun morn",
+                  "type": "text"
+                },
+                {
+                  "color": "#4A7A6A",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "Larkin 24 • 58°",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 1,
+              "height": 84,
+              "justifyContent": "center",
+              "padding": [8, 10, 6, 10],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://www.google.com/maps/search/?api=1&query=2265+Larkin+St+San+Francisco",
+              "width": 100
+            }
+          ],
+          "direction": "row",
+          "gap": 10,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#8A6A4A",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "80 left • quiet • glow",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "semibold"},
+              "lineLimit": 1,
+              "text": "↗ kerala • Music",
+              "type": "text",
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        }
+      ],
+      "direction": "column",
+      "gap": 10,
+      "radius": 16,
+      "type": "stack",
+      "width": 324
+    }
+  },
+  "updatedAt": "2026-08-30T13:38:13Z",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
