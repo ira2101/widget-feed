@@ -1,9 +1,9 @@
 {
-  "contentRevision": 335,
+  "contentRevision": 336,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-30T07:38:13Z",
+  "updatedAt": "2026-08-30T08:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -38,7 +38,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 12:38a • sat night",
+              "text": "tornado • 1:38a • sun early",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -61,12 +61,12 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 12,
-              "padding": [6, 8, 4, 8],
+              "padding": [8, 10, 6, 10],
               "direction": "column",
-              "gap": 2,
+              "gap": 3,
               "justifyContent": "center",
               "alignItems": "flex-start",
               "background": {
@@ -74,25 +74,25 @@
                 "angle": 135,
                 "colors": ["#E8F3FF", "#D4E8FF"]
               },
-              "url": "https://www.youtube.com/@exitfrequency",
+              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
               "children": [
                 {
                   "type": "text",
-                  "text": "Exit • 9.93K",
-                  "font": {"size": 9, "weight": "bold"},
+                  "text": "sat night • you here",
+                  "font": {"size": 10, "weight": "bold"},
                   "color": "#1E365E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "70 to go",
-                  "font": {"size": 8, "weight": "medium"},
+                  "text": "Larkin hums 58° low",
+                  "font": {"size": 9, "weight": "medium"},
                   "color": "#5A8ABF",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "orbit holds",
+                  "text": "late light holds",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#7AA0C8",
                   "lineLimit": 1
@@ -101,83 +101,76 @@
             },
             {
               "type": "stack",
-              "width": 104,
+              "width": 120,
               "height": 84,
               "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 76,
-                  "height": 76,
-                  "radius": 38,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#13233F", "#1E365E"]
+                    "colors": ["#FFF6E5", "#FFEED5"]
                   },
-                  "direction": "column",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 2,
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "text",
-                      "text": "12:38a",
-                      "font": {"size": 11, "weight": "bold"},
-                      "color": "#FFFFFF",
+                      "text": "Exit • 9.93K",
+                      "font": {"size": 9, "weight": "bold"},
+                      "color": "#7A4A1F",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "you are here",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#A9D4FF",
+                      "text": "70 to go",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#A67A4A",
                       "lineLimit": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 12,
-              "padding": [6, 8, 4, 8],
-              "direction": "column",
-              "gap": 2,
-              "justifyContent": "center",
-              "alignItems": "flex-start",
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
-              },
-              "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Larkin 24 • 58°",
-                  "font": {"size": 9, "weight": "bold"},
-                  "color": "#5A3F1E",
-                  "lineLimit": 1
                 },
                 {
-                  "type": "text",
-                  "text": "quiet hum",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#8A6A4A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "night holds",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#9A7A5A",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#E6F7F0", "#D4EFE6"]
+                  },
+                  "url": "https://calendar.apple.com",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "sat eve • 11p soft",
+                      "font": {"size": 8, "weight": "semibold"},
+                      "color": "#2F5D4A",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "wrap done hum",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#5A8A7A",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -193,16 +186,16 @@
           "children": [
             {
               "type": "text",
-              "text": "useful • 70 left • quiet boards",
-              "font": {"size": 8, "weight": "medium"},
+              "text": "70 left • quiet • 58°",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Cal • → Map",
-              "font": {"size": 8, "weight": "semibold"},
-              "color": "#1E365E",
+              "text": "↗︎ kerala • Music",
+              "font": {"size": 9, "weight": "semibold"},
+              "color": "#8AA4C8",
               "lineLimit": 1
             }
           ]
