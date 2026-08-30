@@ -1,20 +1,33 @@
 {
-  "contentRevision": 329,
+  "contentRevision": 330,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-08-30T01:38:13Z",
+  "updatedAt": "2026-08-30T02:39:17Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"]
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8],
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
       "radius": 16
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -25,7 +38,10 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F6F9FF"]
+        "colors": [
+          "#FFFFFF",
+          "#F6F9FF"
+        ]
       },
       "children": [
         {
@@ -38,15 +54,21 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 6:38p • sat",
-              "font": {"size": 10, "weight": "semibold"},
+              "text": "tornado \u2022 7:38p \u2022 sat",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58° eve glow",
-              "font": {"size": 9, "weight": "medium"},
+              "text": "SF 58\u00b0 eve glow",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -61,142 +83,79 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
               "direction": "column",
-              "gap": 10,
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#0F1D30",
+                  "#1E365E"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [6, 8, 4, 8],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "alignItems": "flex-start",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
+                  "type": "text",
+                  "text": "Exit \u2022 9.93K",
+                  "font": {
+                    "size": 11,
+                    "weight": "bold"
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Exit • 9.93K",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#2E4260",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "70 to go",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#8A6A4A",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#FFFFFF",
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [6, 8, 4, 8],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "alignItems": "flex-start",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E6F7F0", "#D4EFE6"]
+                  "type": "text",
+                  "text": "70 to go \u2022 eve hums",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android%20quiet&f=live",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "quiet 0",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#2E4A3A",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "calm hum",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#5A8A6E",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "column",
-              "justifyContent": "center",
-              "alignItems": "center",
-              "children": [
+                  "color": "#A8C6E5",
+                  "lineLimit": 1
+                },
                 {
-                  "type": "stack",
-                  "width": 84,
-                  "height": 84,
-                  "radius": 42,
-                  "padding": [8, 10, 6, 10],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#13233F", "#1E365E"]
+                  "type": "text",
+                  "text": "sat night, soft light",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
                   },
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "sat eve",
-                      "font": {"size": 10, "weight": "bold"},
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "6:38p glow",
-                      "font": {"size": 9, "weight": "medium"},
-                      "color": "#A8C6E5",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "♫ → Music",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#7FB8FF",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "color": "#7FB8FF",
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
               "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
+                  "width": 120,
                   "height": 37,
                   "radius": 11,
-                  "padding": [6, 8, 4, 8],
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
                   "direction": "column",
                   "gap": 2,
                   "justifyContent": "center",
@@ -204,21 +163,30 @@
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"]
+                    "colors": [
+                      "#E8F3FF",
+                      "#D4E8FF"
+                    ]
                   },
-                  "url": "https://www.google.com/maps/search/?api=1&query=2265+Larkin+St+San+Francisco+CA",
+                  "url": "https://www.google.com/maps/search/?api=1&query=Bamboo+Massage+Union+St+SF",
                   "children": [
                     {
                       "type": "text",
-                      "text": "Larkin 24",
-                      "font": {"size": 9, "weight": "bold"},
+                      "text": "Union hum",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
                       "color": "#1E365E",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "SF 58° hush",
-                      "font": {"size": 8, "weight": "medium"},
+                      "text": "Bamboo \u2022 58\u00b0",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
                       "color": "#6A8AB5",
                       "lineLimit": 1
                     }
@@ -226,10 +194,15 @@
                 },
                 {
                   "type": "stack",
-                  "width": 100,
+                  "width": 120,
                   "height": 37,
                   "radius": 11,
-                  "padding": [6, 8, 4, 8],
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
                   "direction": "column",
                   "gap": 2,
                   "justifyContent": "center",
@@ -237,21 +210,30 @@
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
+                    "colors": [
+                      "#FFF6E5",
+                      "#FFEED5"
+                    ]
                   },
                   "url": "https://calendar.google.com/",
                   "children": [
                     {
                       "type": "text",
                       "text": "sat eve",
-                      "font": {"size": 9, "weight": "bold"},
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
                       "color": "#2E4260",
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "easy hum",
-                      "font": {"size": 8, "weight": "medium"},
+                      "text": "easy hum \u2022 11p",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
                       "color": "#8A6A4A",
                       "lineLimit": 1
                     }
@@ -271,15 +253,21 @@
           "children": [
             {
               "type": "text",
-              "text": "70 left • quiet • 58° → Music",
-              "font": {"size": 8, "weight": "medium"},
+              "text": "70 left \u2022 quiet \u2022 58\u00b0 \u2192 Music",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "♫",
-              "font": {"size": 8, "weight": "medium"},
+              "text": "\u266a",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             }
