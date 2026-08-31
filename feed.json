@@ -1,22 +1,41 @@
 {
-  "contentRevision": 370,
+  "contentRevision": 371,
   "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-08-31T19:39:29Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"],
+      "colors": [
+        "#E8F3FF",
+        "#D4E8FF"
+      ],
       "type": "gradient"
     },
     "outer": {
-      "padding": [8, 8, 8, 8],
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
       "radius": 16
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "background": {
         "angle": 135,
-        "colors": ["#FFFFFF", "#F8FCFF"],
+        "colors": [
+          "#FFFFFF",
+          "#F8FCFF"
+        ],
         "type": "gradient"
       },
       "children": [
@@ -25,16 +44,22 @@
           "children": [
             {
               "color": "#1E365E",
-              "font": {"size": 10, "weight": "semibold"},
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "lineLimit": 1,
-              "text": "tornado • 11:38a • Mon",
+              "text": "tornado \u2022 12:38p \u2022 Mon",
               "type": "text"
             },
             {
               "color": "#6A8AB5",
-              "font": {"size": 9, "weight": "medium"},
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "lineLimit": 1,
-              "text": "SF 58° • bright",
+              "text": "SF 58\u00b0 \u2022 airy",
               "type": "text"
             }
           ],
@@ -50,29 +75,47 @@
               "alignItems": "center",
               "background": {
                 "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"],
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ],
                 "type": "gradient"
               },
               "children": [
                 {
+                  "color": "#8A6A3A",
+                  "name": "sparkles",
+                  "size": 12,
+                  "type": "symbol"
+                },
+                {
                   "color": "#1E365E",
-                  "font": {"size": 10, "weight": "semibold"},
+                  "font": {
+                    "size": 11,
+                    "weight": "semibold"
+                  },
                   "lineLimit": 1,
-                  "text": "Exit 9.95K",
+                  "text": "midday hum",
                   "type": "text"
                 },
                 {
                   "color": "#8A6A3A",
-                  "font": {"size": 8, "weight": "medium"},
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1,
-                  "text": "65 to go",
+                  "text": "Palette wrap, glow on",
                   "type": "text"
                 },
                 {
                   "color": "#8A6A3A",
-                  "font": {"size": 7, "weight": "regular"},
+                  "font": {
+                    "size": 7,
+                    "weight": "regular"
+                  },
                   "lineLimit": 1,
-                  "text": "live • Mon",
+                  "text": "Exit 9.95K \u2022 65 left",
                   "type": "text"
                 }
               ],
@@ -80,95 +123,123 @@
               "gap": 4,
               "height": 84,
               "justifyContent": "center",
-              "padding": [6, 8, 4, 8],
+              "padding": [
+                8,
+                10,
+                6,
+                10
+              ],
               "radius": 12,
               "type": "stack",
-              "width": 100
+              "width": 194
             },
             {
-              "alignItems": "center",
-              "background": {
-                "angle": 135,
-                "colors": ["#13233F", "#1E365E"],
-                "type": "gradient"
-              },
               "children": [
                 {
                   "alignItems": "center",
                   "background": {
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"],
+                    "colors": [
+                      "#13233F",
+                      "#1E365E"
+                    ],
                     "type": "gradient"
                   },
                   "children": [
                     {
-                      "color": "#5A7AB0",
-                      "name": "sparkles",
-                      "size": 14,
+                      "color": "#A8C4E8",
+                      "name": "checkmark.circle.fill",
+                      "size": 10,
                       "type": "symbol"
                     },
                     {
-                      "color": "#1E365E",
-                      "font": {"size": 8, "weight": "semibold"},
+                      "color": "#E8F3FF",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
                       "lineLimit": 1,
-                      "text": "midday lift",
+                      "text": "Messenger quiet",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#A8C4E8",
+                      "font": {
+                        "size": 7,
+                        "weight": "regular"
+                      },
+                      "lineLimit": 1,
+                      "text": "all ok \u2022 Mon",
+                      "type": "text"
+                    }
+                  ],
+                  "direction": "column",
+                  "gap": 3,
+                  "height": 38,
+                  "justifyContent": "center",
+                  "padding": [
+                    4,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 10,
+                  "type": "stack",
+                  "width": 120
+                },
+                {
+                  "alignItems": "center",
+                  "background": {
+                    "angle": 135,
+                    "colors": [
+                      "#E6F7F0",
+                      "#D4EFE6"
+                    ],
+                    "type": "gradient"
+                  },
+                  "children": [
+                    {
+                      "color": "#2A6A4A",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1,
+                      "text": "SF \u2022 12:38p",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#5A8A6A",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1,
+                      "text": "58\u00b0 \u2022 airy light",
                       "type": "text"
                     }
                   ],
                   "direction": "column",
                   "gap": 2,
-                  "height": 68,
+                  "height": 38,
                   "justifyContent": "center",
-                  "radius": 34,
+                  "padding": [
+                    4,
+                    8,
+                    4,
+                    8
+                  ],
+                  "radius": 10,
                   "type": "stack",
-                  "width": 68
+                  "url": "https://maps.apple.com/?q=San+Francisco",
+                  "width": 120
                 }
               ],
               "direction": "column",
-              "gap": 4,
+              "gap": 8,
               "height": 84,
-              "justifyContent": "center",
-              "radius": 12,
               "type": "stack",
-              "width": 104
-            },
-            {
-              "alignItems": "center",
-              "background": {
-                "angle": 135,
-                "colors": ["#E6F7F0", "#D4EFE6"],
-                "type": "gradient"
-              },
-              "children": [
-                {
-                  "color": "#2A6A4A",
-                  "font": {"size": 9, "weight": "semibold"},
-                  "lineLimit": 1,
-                  "text": "Messenger",
-                  "type": "text"
-                },
-                {
-                  "color": "#5A8A6A",
-                  "font": {"size": 8, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "quiet • ok",
-                  "type": "text"
-                },
-                {
-                  "color": "#2A6A4A",
-                  "name": "checkmark.circle.fill",
-                  "size": 10,
-                  "type": "symbol"
-                }
-              ],
-              "direction": "column",
-              "gap": 3,
-              "height": 84,
-              "justifyContent": "center",
-              "padding": [6, 8, 4, 8],
-              "radius": 12,
-              "type": "stack",
-              "width": 100
+              "width": 120
             }
           ],
           "direction": "row",
@@ -184,22 +255,33 @@
               "alignItems": "center",
               "background": {
                 "angle": 135,
-                "colors": ["#E6F7F0", "#D4EFE6"],
+                "colors": [
+                  "#E6F7F0",
+                  "#D4EFE6"
+                ],
                 "type": "gradient"
               },
               "children": [
                 {
                   "color": "#2A6A4A",
-                  "font": {"size": 8, "weight": "medium"},
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1,
-                  "text": "Cal • Mon",
+                  "text": "Cal \u2022 Mon",
                   "type": "text"
                 }
               ],
               "direction": "column",
               "height": 18,
               "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
+              "padding": [
+                3,
+                8,
+                3,
+                8
+              ],
               "radius": 9,
               "type": "stack",
               "url": "https://calendar.apple.com/",
@@ -209,22 +291,33 @@
               "alignItems": "center",
               "background": {
                 "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"],
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ],
                 "type": "gradient"
               },
               "children": [
                 {
                   "color": "#5A7AB0",
-                  "font": {"size": 8, "weight": "medium"},
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1,
-                  "text": "Maps • SF",
+                  "text": "Maps \u2022 SF",
                   "type": "text"
                 }
               ],
               "direction": "column",
               "height": 18,
               "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
+              "padding": [
+                3,
+                8,
+                3,
+                8
+              ],
               "radius": 9,
               "type": "stack",
               "url": "https://maps.apple.com/?q=San+Francisco",
@@ -234,22 +327,33 @@
               "alignItems": "center",
               "background": {
                 "angle": 135,
-                "colors": ["#13233F", "#1E365E"],
+                "colors": [
+                  "#13233F",
+                  "#1E365E"
+                ],
                 "type": "gradient"
               },
               "children": [
                 {
                   "color": "#A8C4E8",
-                  "font": {"size": 8, "weight": "medium"},
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1,
-                  "text": "Kerala late • ♪",
+                  "text": "Kerala late \u2022 \u266a",
                   "type": "text"
                 }
               ],
               "direction": "column",
               "height": 18,
               "justifyContent": "center",
-              "padding": [3, 8, 3, 8],
+              "padding": [
+                3,
+                8,
+                3,
+                8
+              ],
               "radius": 9,
               "type": "stack",
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
@@ -270,8 +374,5 @@
       "type": "stack",
       "width": 324
     }
-  },
-  "updatedAt": "2026-08-31T18:38:13Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
 }
