@@ -1,33 +1,20 @@
 {
-  "contentRevision": 366,
+  "contentRevision": 367,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-31T14:39:54Z",
+  "updatedAt": "2026-08-31T15:38:30Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#E8F3FF", "#D4E8FF"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ],
+      "padding": [8, 8, 8, 8],
       "radius": 16
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -38,10 +25,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FDFF"
-        ]
+        "colors": ["#FFFFFF", "#F9FDFF"]
       },
       "children": [
         {
@@ -54,21 +38,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 7:38a \u2022 Mon",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 8:38a • Mon",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 bright \u2022 \u2600",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF 58° • bright • ☀",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -78,98 +56,90 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "radius": 12,
-          "direction": "column",
-          "gap": 6,
-          "justifyContent": "center",
-          "alignItems": "center",
-          "padding": [
-            8,
-            12,
-            8,
-            12
-          ],
-          "background": {
-            "type": "gradient",
-            "angle": 135,
-            "colors": [
-              "#FFF6E5",
-              "#FFEED5"
-            ]
-          },
-          "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "direction": "row",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "direction": "column",
               "gap": 6,
-              "alignItems": "center",
               "justifyContent": "center",
+              "alignItems": "center",
+              "padding": [8, 12, 8, 12],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "sun.haze.fill",
-                  "size": 14,
-                  "color": "#8A6A3A"
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "children": [
+                    {"type": "symbol", "name": "sun.haze.fill", "size": 14, "color": "#8A6A3A"},
+                    {"type": "text", "text": "morning lifts • Mon 8:38a", "font": {"size": 11, "weight": "semibold"}, "color": "#8A6A3A", "lineLimit": 1}
+                  ]
                 },
                 {
                   "type": "text",
-                  "text": "morning lifts \u2022 Mon 7:38a",
-                  "font": {
-                    "size": 11,
-                    "weight": "semibold"
-                  },
-                  "color": "#8A6A3A",
+                  "text": "Palette wrap • 11 pals • tea • done",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#A68A5A",
                   "lineLimit": 1
+                },
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "children": [
+                    {"type": "text", "text": "SF 58° bright • early", "font": {"size": 8, "weight": "regular"}, "color": "#6A8AB5", "lineLimit": 1},
+                    {"type": "text", "text": "•", "font": {"size": 8, "weight": "regular"}, "color": "#6A8AB5", "lineLimit": 1},
+                    {"type": "text", "text": "9.94K 66 left Exit", "font": {"size": 8, "weight": "medium"}, "color": "#1E365E", "lineLimit": 1}
+                  ]
                 }
               ]
             },
             {
-              "type": "text",
-              "text": "Palette wrap \u2022 11 pals \u2022 tea \u2022 done",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
-              "color": "#A68A5A",
-              "lineLimit": 1
-            },
-            {
               "type": "stack",
-              "direction": "row",
-              "gap": 6,
-              "alignItems": "center",
-              "justifyContent": "center",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
               "children": [
                 {
-                  "type": "text",
-                  "text": "SF 58\u00b0 bright \u2022 early",
-                  "font": {
-                    "size": 8,
-                    "weight": "regular"
-                  },
-                  "color": "#6A8AB5",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "padding": [3, 8, 3, 8],
+                  "background": {"type": "gradient", "angle": 135, "colors": ["#E6F7F0", "#D4EFE6"]},
+                  "url": "https://calendar.apple.com/",
+                  "children": [{"type": "text", "text": "Mon 8:38a • today", "font": {"size": 9, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1}]
                 },
                 {
-                  "type": "text",
-                  "text": "\u2022",
-                  "font": {
-                    "size": 8,
-                    "weight": "regular"
-                  },
-                  "color": "#6A8AB5",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "9.94K 66 left Exit",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#1E365E",
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "padding": [3, 8, 3, 8],
+                  "background": {"type": "gradient", "angle": 135, "colors": ["#E8F3FF", "#D4E8FF"]},
+                  "url": "https://x.com/search?q=Messenger%20Android",
+                  "children": [{"type": "text", "text": "quiet 0 • calm", "font": {"size": 8, "weight": "medium"}, "color": "#5A7AB0", "lineLimit": 1}]
                 }
               ]
             }
@@ -190,33 +160,10 @@
               "direction": "column",
               "justifyContent": "center",
               "alignItems": "center",
-              "padding": [
-                3,
-                8,
-                3,
-                8
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#E6F7F0",
-                  "#D4EFE6"
-                ]
-              },
-              "url": "https://calendar.apple.com/",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Mon 7:38a",
-                  "font": {
-                    "size": 9,
-                    "weight": "semibold"
-                  },
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                }
-              ]
+              "padding": [3, 8, 3, 8],
+              "background": {"type": "gradient", "angle": 135, "colors": ["#FFF6E5", "#FFEED5"]},
+              "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+              "children": [{"type": "text", "text": "Map • tea", "font": {"size": 8, "weight": "semibold"}, "color": "#8A6A3A", "lineLimit": 1}]
             },
             {
               "type": "stack",
@@ -226,33 +173,10 @@
               "direction": "column",
               "justifyContent": "center",
               "alignItems": "center",
-              "padding": [
-                3,
-                8,
-                3,
-                8
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#E8F3FF",
-                  "#D4E8FF"
-                ]
-              },
-              "url": "https://x.com/search?q=Messenger%20Android",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "quiet 0 \u2022 calm",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#5A7AB0",
-                  "lineLimit": 1
-                }
-              ]
+              "padding": [3, 8, 3, 8],
+              "background": {"type": "gradient", "angle": 135, "colors": ["#E6F7F0", "#D4EFE6"]},
+              "url": "https://calendar.apple.com/",
+              "children": [{"type": "text", "text": "Cal • Mon", "font": {"size": 8, "weight": "medium"}, "color": "#2A6A4A", "lineLimit": 1}]
             },
             {
               "type": "stack",
@@ -262,33 +186,10 @@
               "direction": "column",
               "justifyContent": "center",
               "alignItems": "center",
-              "padding": [
-                3,
-                8,
-                3,
-                8
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1E365E"
-                ]
-              },
+              "padding": [3, 8, 3, 8],
+              "background": {"type": "gradient", "angle": 135, "colors": ["#13233F", "#1E365E"]},
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Kerala late \u2022 \u266a",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#A8C4E8",
-                  "lineLimit": 1
-                }
-              ]
+              "children": [{"type": "text", "text": "Kerala late • ♪", "font": {"size": 8, "weight": "medium"}, "color": "#A8C4E8", "lineLimit": 1}]
             }
           ]
         }
