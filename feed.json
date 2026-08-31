@@ -1,43 +1,27 @@
 {
-  "contentRevision": 359,
+  "contentRevision": 360,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-08-31T07:38:13Z",
+  "updatedAt": "2026-08-31T08:38:13Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": [
-        "#0F1D30",
-        "#162A44"
-      ]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
-      "padding": [
-        8,
-        8,
-        8,
-        8
-      ],
+      "padding": [8, 8, 8, 8],
       "radius": 16
     },
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
+    "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": [
-          "#FFFFFF",
-          "#F9FDFF"
-        ]
+        "colors": ["#FFFFFF", "#F9FDFF"]
       },
       "direction": "column",
       "gap": 10,
@@ -54,21 +38,15 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado \u2022 12:38a \u2022 Mon",
-              "font": {
-                "size": 10,
-                "weight": "semibold"
-              },
+              "text": "tornado • 1:38a • Mon",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58\u00b0 \u2022 late \u2022 \u2601",
-              "font": {
-                "size": 9,
-                "weight": "medium"
-              },
+              "text": "SF 58° • late • ☁",
+              "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -84,172 +62,110 @@
             {
               "type": "stack",
               "direction": "column",
-              "width": 194,
-              "height": 84,
-              "radius": 12,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1E365E"
-                ]
-              },
-              "padding": [
-                8,
-                12,
-                6,
-                12
-              ],
-              "justifyContent": "center",
-              "gap": 4,
-              "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "moon.stars.fill",
-                      "size": 12,
-                      "color": "#7ED3F0"
-                    },
-                    {
-                      "type": "text",
-                      "text": "night hums low",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "Palette \u2022 done \u2022 11 pals",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "color": "#A8C6E0",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "tea glow \u2022 wrap \u2022 photos later",
-                  "font": {
-                    "size": 7,
-                    "weight": "regular"
-                  },
-                  "color": "#7FB8D6",
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
-              "width": 120,
+              "width": 100,
               "height": 84,
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
                   "direction": "column",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#FFF6E5",
-                      "#FFEED5"
-                    ]
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
+                  "background": {"type": "gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+                  "padding": [6,8,4,8],
                   "justifyContent": "center",
                   "alignItems": "center",
                   "gap": 1,
                   "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
                   "children": [
-                    {
-                      "type": "text",
-                      "text": "Palette \u2022 done",
-                      "font": {
-                        "size": 7,
-                        "weight": "bold"
-                      },
-                      "color": "#5A3F1E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "11 pals \u2022 glow",
-                      "font": {
-                        "size": 6,
-                        "weight": "medium"
-                      },
-                      "color": "#8A6A4A",
-                      "lineLimit": 1
-                    }
+                    {"type":"text","text":"Palette • done","font":{"size":7,"weight":"bold"},"color":"#1E365E","lineLimit":1},
+                    {"type":"text","text":"11 pals • glow","font":{"size":6,"weight":"medium"},"color":"#5A7AAA","lineLimit":1}
                   ]
                 },
                 {
                   "type": "stack",
                   "direction": "column",
-                  "width": 120,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": [
-                      "#E8F3FF",
-                      "#D4E8FF"
-                    ]
-                  },
-                  "padding": [
-                    6,
-                    8,
-                    4,
-                    8
-                  ],
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "gap": 1,
-                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "SF 58\u00b0 \u2022 eve",
-                      "font": {
-                        "size": 7,
-                        "weight": "bold"
-                      },
-                      "color": "#1E365E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "clouds 23% \u2022 9p",
-                      "font": {
-                        "size": 6,
-                        "weight": "medium"
-                      },
-                      "color": "#5A7AAA",
-                      "lineLimit": 1
-                    }
+                  "background": {"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},
+                  "padding": [6,8,4,8],
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "gap":1,
+                  "url":"https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+                  "children":[
+                    {"type":"text","text":"tea wrap • pics","font":{"size":7,"weight":"bold"},"color":"#5A3F1E","lineLimit":1},
+                    {"type":"text","text":"later • fun","font":{"size":6,"weight":"medium"},"color":"#8A6A4A","lineLimit":1}
+                  ]
+                }
+              ]
+            },
+            {
+              "type":"stack",
+              "width":104,
+              "height":84,
+              "justifyContent":"center",
+              "alignItems":"center",
+              "children":[
+                {
+                  "type":"stack",
+                  "width":84,
+                  "height":84,
+                  "radius":42,
+                  "background":{"type":"gradient","angle":135,"colors":["#13233F","#1E365E"]},
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "gap":3,
+                  "url":"https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+                  "children":[
+                    {"type":"symbol","name":"moon.stars.fill","size":12,"color":"#7ED3F0"},
+                    {"type":"text","text":"night hums","font":{"size":9,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},
+                    {"type":"text","text":"soft glow","font":{"size":7,"weight":"regular"},"color":"#A8C6E0","lineLimit":1}
+                  ]
+                }
+              ]
+            },
+            {
+              "type":"stack",
+              "direction":"column",
+              "width":100,
+              "height":84,
+              "gap":10,
+              "children":[
+                {
+                  "type":"stack",
+                  "direction":"column",
+                  "width":100,
+                  "height":37,
+                  "radius":11,
+                  "background":{"type":"gradient","angle":135,"colors":["#E6F7F0","#D4EFE6"]},
+                  "padding":[6,8,4,8],
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "gap":1,
+                  "url":"https://www.youtube.com/@exitfrequency",
+                  "children":[
+                    {"type":"text","text":"9.92K • 80 left","font":{"size":7,"weight":"bold"},"color":"#1E4A3A","lineLimit":1},
+                    {"type":"text","text":"to 10K • nice","font":{"size":6,"weight":"medium"},"color":"#3A6B5A","lineLimit":1}
+                  ]
+                },
+                {
+                  "type":"stack",
+                  "direction":"column",
+                  "width":100,
+                  "height":37,
+                  "radius":11,
+                  "background":{"type":"gradient","angle":135,"colors":["#13233F","#1E365E"]},
+                  "padding":[6,8,4,8],
+                  "justifyContent":"center",
+                  "alignItems":"center",
+                  "gap":1,
+                  "url":"https://x.com/search?q=Messenger%20Android&f=latest",
+                  "children":[
+                    {"type":"text","text":"quiet • 0 flags","font":{"size":7,"weight":"medium"},"color":"#FFFFFF","lineLimit":1},
+                    {"type":"text","text":"Mon 1:38a","font":{"size":6,"weight":"regular"},"color":"#A8C6E0","lineLimit":1}
                   ]
                 }
               ]
@@ -257,98 +173,44 @@
           ]
         },
         {
-          "type": "stack",
-          "direction": "row",
-          "width": 324,
-          "height": 18,
-          "gap": 8,
-          "children": [
+          "type":"stack",
+          "direction":"row",
+          "width":324,
+          "height":18,
+          "gap":8,
+          "children":[
             {
-              "type": "stack",
-              "width": 100,
-              "height": 18,
-              "radius": 10,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#E8F3FF",
-                  "#D4E8FF"
-                ]
-              },
-              "justifyContent": "center",
-              "alignItems": "center",
-              "url": "https://calendar.google.com",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Mon \u2022 12:38a",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "color": "#1E365E",
-                  "lineLimit": 1
-                }
-              ]
+              "type":"stack",
+              "width":100,
+              "height":18,
+              "radius":10,
+              "background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},
+              "justifyContent":"center",
+              "alignItems":"center",
+              "url":"https://calendar.google.com",
+              "children":[{"type":"text","text":"Mon • 1:38a","font":{"size":7,"weight":"medium"},"color":"#1E365E","lineLimit":1}]
             },
             {
-              "type": "stack",
-              "width": 100,
-              "height": 18,
-              "radius": 10,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#E6F7F0",
-                  "#D4EFE6"
-                ]
-              },
-              "justifyContent": "center",
-              "alignItems": "center",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "9.92K \u2022 80 left",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "color": "#1E4A3A",
-                  "lineLimit": 1
-                }
-              ]
+              "type":"stack",
+              "width":100,
+              "height":18,
+              "radius":10,
+              "background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},
+              "justifyContent":"center",
+              "alignItems":"center",
+              "url":"https://weather.com/weather/today/l/San+Francisco+CA",
+              "children":[{"type":"text","text":"SF 58° • 23% • 9p","font":{"size":7,"weight":"medium"},"color":"#5A3F1E","lineLimit":1}]
             },
             {
-              "type": "stack",
-              "width": 108,
-              "height": 18,
-              "radius": 10,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#13233F",
-                  "#1E365E"
-                ]
-              },
-              "justifyContent": "center",
-              "alignItems": "center",
-              "url": "https://x.com/search?q=Messenger%20Android&f=latest",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "quiet \u2022 0 flags",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "color": "#FFFFFF",
-                  "lineLimit": 1
-                }
-              ]
+              "type":"stack",
+              "width":108,
+              "height":18,
+              "radius":10,
+              "background":{"type":"gradient","angle":135,"colors":["#13233F","#1E365E"]},
+              "justifyContent":"center",
+              "alignItems":"center",
+              "url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children":[{"type":"text","text":"Kerala • late mix","font":{"size":7,"weight":"medium"},"color":"#FFFFFF","lineLimit":1}]
             }
           ]
         }
