@@ -1,1 +1,434 @@
-{"contentRevision":376,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F7FBFF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 5:38p • Mon","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"SF 58° • late • wrap","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#5A3F1E","name":"sun.haze.fill","size":16,"type":"symbol"},{"color":"#5A3F1E","font":{"size":11,"weight":"semibold"},"lineLimit":1,"text":"Palette • 11 • done","type":"text"},{"color":"#8A6A4A","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"Pottery → tea • Mateo","type":"text"},{"color":"#8A6A4A","font":{"size":8,"weight":"regular"},"lineLimit":1,"text":"Sunset 7:57p • 58° • tea","type":"text"}],"direction":"column","gap":4,"height":84,"justifyContent":"center","padding":[8,10,6,10],"radius":12,"type":"stack","url":"https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo","width":194},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"Exit 9.96K • 40 left","type":"text"}],"height":38,"justifyContent":"center","padding":[2,6,2,6],"radius":10,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":120},{"alignItems":"center","background":{"angle":135,"colors":["#13233F","#1E365E"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"quiet • 0 flags • Mon","type":"text"}],"height":38,"justifyContent":"center","padding":[2,6,2,6],"radius":10,"type":"stack","url":"https://x.com/search?q=Messenger%20Android","width":120}],"direction":"column","gap":8,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#E6F7F0","#D4EFE6"],"type":"gradient"},"children":[{"color":"#1E365E","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Cal • 5:38p","type":"text"}],"height":18,"justifyContent":"center","padding":[2,6,2,6],"radius":9,"type":"stack","url":"https://calendar.google.com","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#5A3F1E","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Map • Tea Garden","type":"text"}],"height":18,"justifyContent":"center","padding":[2,6,2,6],"radius":9,"type":"stack","url":"https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#F0E6FF","#E6D9FF"],"type":"gradient"},"children":[{"color":"#4A2E7A","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Kerala • Mix","type":"text"}],"height":18,"justifyContent":"center","padding":[2,6,2,6],"radius":9,"type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":108}],"direction":"row","gap":8,"height":18,"type":"stack","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack","width":324}},"updatedAt":"2026-09-01T00:38:13Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+    "contentRevision": 377,
+    "mode": "native",
+    "native": {
+        "background": {
+            "angle": 135,
+            "colors": [
+                "#0F1D30",
+                "#162A44"
+            ],
+            "type": "gradient"
+        },
+        "outer": {
+            "padding": [
+                8,
+                8,
+                8,
+                8
+            ],
+            "radius": 16
+        },
+        "padding": [
+            8,
+            10,
+            8,
+            10
+        ],
+        "refreshMinutes": 15,
+        "root": {
+            "background": {
+                "angle": 135,
+                "colors": [
+                    "#FFFFFF",
+                    "#F7FBFF"
+                ],
+                "type": "gradient"
+            },
+            "children": [
+                {
+                    "alignItems": "center",
+                    "children": [
+                        {
+                            "color": "#1E365E",
+                            "font": {
+                                "size": 10,
+                                "weight": "semibold"
+                            },
+                            "lineLimit": 1,
+                            "text": "tornado \u2022 6:38p \u2022 Mon",
+                            "type": "text"
+                        },
+                        {
+                            "color": "#6A8AB5",
+                            "font": {
+                                "size": 9,
+                                "weight": "medium"
+                            },
+                            "lineLimit": 1,
+                            "text": "SF 58\u00b0 \u2022 dusk \u2022 tea",
+                            "type": "text"
+                        }
+                    ],
+                    "direction": "row",
+                    "height": 16,
+                    "justifyContent": "space-between",
+                    "type": "stack",
+                    "width": 324
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "alignItems": "center",
+                                    "background": {
+                                        "angle": 135,
+                                        "colors": [
+                                            "#E8F3FF",
+                                            "#D4E8FF"
+                                        ],
+                                        "type": "gradient"
+                                    },
+                                    "children": [
+                                        {
+                                            "color": "#1E365E",
+                                            "font": {
+                                                "size": 8,
+                                                "weight": "bold"
+                                            },
+                                            "lineLimit": 1,
+                                            "text": "Exit 9.96K \u2022 40 left",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "height": 38,
+                                    "justifyContent": "center",
+                                    "padding": [
+                                        2,
+                                        6,
+                                        2,
+                                        6
+                                    ],
+                                    "radius": 10,
+                                    "type": "stack",
+                                    "url": "https://www.youtube.com/@exitfrequency",
+                                    "width": 100
+                                },
+                                {
+                                    "alignItems": "center",
+                                    "background": {
+                                        "angle": 135,
+                                        "colors": [
+                                            "#13233F",
+                                            "#1E365E"
+                                        ],
+                                        "type": "gradient"
+                                    },
+                                    "children": [
+                                        {
+                                            "color": "#FFFFFF",
+                                            "font": {
+                                                "size": 8,
+                                                "weight": "medium"
+                                            },
+                                            "lineLimit": 1,
+                                            "text": "quiet \u2022 0 flags \u2022 Mon",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "height": 38,
+                                    "justifyContent": "center",
+                                    "padding": [
+                                        2,
+                                        6,
+                                        2,
+                                        6
+                                    ],
+                                    "radius": 10,
+                                    "type": "stack",
+                                    "url": "https://x.com/search?q=Messenger%20Android",
+                                    "width": 100
+                                }
+                            ],
+                            "direction": "column",
+                            "gap": 8,
+                            "height": 84,
+                            "type": "stack",
+                            "width": 100
+                        },
+                        {
+                            "alignItems": "center",
+                            "height": 84,
+                            "justifyContent": "center",
+                            "type": "stack",
+                            "width": 104,
+                            "children": [
+                                {
+                                    "alignItems": "center",
+                                    "background": {
+                                        "angle": 135,
+                                        "colors": [
+                                            "#FFF6E5",
+                                            "#FFEED5"
+                                        ],
+                                        "type": "gradient"
+                                    },
+                                    "children": [
+                                        {
+                                            "color": "#5A3F1E",
+                                            "name": "moon.stars.fill",
+                                            "size": 18,
+                                            "type": "symbol"
+                                        },
+                                        {
+                                            "alignItems": "center",
+                                            "background": {
+                                                "angle": 0,
+                                                "colors": [
+                                                    "#66000000",
+                                                    "#66000000"
+                                                ],
+                                                "type": "gradient"
+                                            },
+                                            "children": [
+                                                {
+                                                    "color": "#FFFFFF",
+                                                    "font": {
+                                                        "size": 8,
+                                                        "weight": "semibold"
+                                                    },
+                                                    "lineLimit": 1,
+                                                    "text": "tea \u2022 done",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "justifyContent": "center",
+                                            "padding": [
+                                                2,
+                                                6,
+                                                2,
+                                                6
+                                            ],
+                                            "radius": 8,
+                                            "type": "stack"
+                                        }
+                                    ],
+                                    "direction": "column",
+                                    "gap": 4,
+                                    "height": 84,
+                                    "justifyContent": "center",
+                                    "padding": [
+                                        6,
+                                        8,
+                                        6,
+                                        8
+                                    ],
+                                    "radius": 42,
+                                    "type": "stack",
+                                    "width": 84
+                                }
+                            ]
+                        },
+                        {
+                            "children": [
+                                {
+                                    "alignItems": "center",
+                                    "background": {
+                                        "angle": 135,
+                                        "colors": [
+                                            "#E6F7F0",
+                                            "#D4EFE6"
+                                        ],
+                                        "type": "gradient"
+                                    },
+                                    "children": [
+                                        {
+                                            "color": "#1E365E",
+                                            "font": {
+                                                "size": 8,
+                                                "weight": "medium"
+                                            },
+                                            "lineLimit": 1,
+                                            "text": "Cal \u2022 6:38p",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "height": 38,
+                                    "justifyContent": "center",
+                                    "padding": [
+                                        2,
+                                        6,
+                                        2,
+                                        6
+                                    ],
+                                    "radius": 10,
+                                    "type": "stack",
+                                    "url": "https://calendar.google.com",
+                                    "width": 100
+                                },
+                                {
+                                    "alignItems": "center",
+                                    "background": {
+                                        "angle": 135,
+                                        "colors": [
+                                            "#FFF6E5",
+                                            "#FFEED5"
+                                        ],
+                                        "type": "gradient"
+                                    },
+                                    "children": [
+                                        {
+                                            "color": "#5A3F1E",
+                                            "font": {
+                                                "size": 8,
+                                                "weight": "medium"
+                                            },
+                                            "lineLimit": 1,
+                                            "text": "Map \u2022 Tea",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "height": 38,
+                                    "justifyContent": "center",
+                                    "padding": [
+                                        2,
+                                        6,
+                                        2,
+                                        6
+                                    ],
+                                    "radius": 10,
+                                    "type": "stack",
+                                    "url": "https://maps.apple.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
+                                    "width": 100
+                                }
+                            ],
+                            "direction": "column",
+                            "gap": 8,
+                            "height": 84,
+                            "type": "stack",
+                            "width": 100
+                        }
+                    ],
+                    "direction": "row",
+                    "gap": 10,
+                    "height": 84,
+                    "type": "stack",
+                    "width": 324
+                },
+                {
+                    "children": [
+                        {
+                            "alignItems": "center",
+                            "background": {
+                                "angle": 135,
+                                "colors": [
+                                    "#E8F3FF",
+                                    "#D4E8FF"
+                                ],
+                                "type": "gradient"
+                            },
+                            "children": [
+                                {
+                                    "color": "#1E365E",
+                                    "font": {
+                                        "size": 8,
+                                        "weight": "medium"
+                                    },
+                                    "lineLimit": 1,
+                                    "text": "Cal \u2022 6:38p",
+                                    "type": "text"
+                                }
+                            ],
+                            "height": 18,
+                            "justifyContent": "center",
+                            "padding": [
+                                2,
+                                6,
+                                2,
+                                6
+                            ],
+                            "radius": 9,
+                            "type": "stack",
+                            "url": "https://calendar.google.com",
+                            "width": 100
+                        },
+                        {
+                            "alignItems": "center",
+                            "background": {
+                                "angle": 135,
+                                "colors": [
+                                    "#FFF6E5",
+                                    "#FFEED5"
+                                ],
+                                "type": "gradient"
+                            },
+                            "children": [
+                                {
+                                    "color": "#5A3F1E",
+                                    "font": {
+                                        "size": 8,
+                                        "weight": "medium"
+                                    },
+                                    "lineLimit": 1,
+                                    "text": "Map \u2022 Tea Garden",
+                                    "type": "text"
+                                }
+                            ],
+                            "height": 18,
+                            "justifyContent": "center",
+                            "padding": [
+                                2,
+                                6,
+                                2,
+                                6
+                            ],
+                            "radius": 9,
+                            "type": "stack",
+                            "url": "https://maps.apple.com/?q=Palette+Tea+Garden+San+Mateo",
+                            "width": 100
+                        },
+                        {
+                            "alignItems": "center",
+                            "background": {
+                                "angle": 135,
+                                "colors": [
+                                    "#F0E6FF",
+                                    "#E6D9FF"
+                                ],
+                                "type": "gradient"
+                            },
+                            "children": [
+                                {
+                                    "color": "#4A2E7A",
+                                    "font": {
+                                        "size": 8,
+                                        "weight": "medium"
+                                    },
+                                    "lineLimit": 1,
+                                    "text": "Kerala \u2022 Mix",
+                                    "type": "text"
+                                }
+                            ],
+                            "height": 18,
+                            "justifyContent": "center",
+                            "padding": [
+                                2,
+                                6,
+                                2,
+                                6
+                            ],
+                            "radius": 9,
+                            "type": "stack",
+                            "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                            "width": 108
+                        }
+                    ],
+                    "direction": "row",
+                    "gap": 8,
+                    "height": 18,
+                    "type": "stack",
+                    "width": 324
+                }
+            ],
+            "direction": "column",
+            "gap": 10,
+            "radius": 16,
+            "type": "stack",
+            "width": 324
+        }
+    },
+    "updatedAt": "2026-09-01T01:39:40Z",
+    "version": 5,
+    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
