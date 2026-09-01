@@ -1,9 +1,9 @@
 {
-  "contentRevision": 382,
+  "contentRevision": 383,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-09-01T06:38:13Z",
+  "updatedAt": "2026-09-01T07:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -24,6 +24,8 @@
         "colors": ["#FFFFFF", "#F7FBFF"]
       },
       "radius": 16,
+      "direction": "column",
+      "gap": 10,
       "children": [
         {
           "type": "stack",
@@ -35,14 +37,14 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 11:38p • Mon",
+              "text": "tornado • 12:38a • Tue",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "SF 58° • night • tea wrap",
+              "text": "Sep 1 • late • SF 58°",
               "font": {"size": 9, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -51,47 +53,113 @@
         },
         {
           "type": "stack",
+          "direction": "row",
+          "gap": 10,
           "width": 324,
           "height": 84,
-          "radius": 12,
-          "background": {
-            "type": "gradient",
-            "angle": 135,
-            "colors": ["#FFF6E5", "#FFEED5"]
-          },
-          "padding": [8, 10, 8, 10],
-          "alignItems": "center",
-          "justifyContent": "center",
-          "direction": "column",
-          "gap": 4,
-          "url": "https://maps.google.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
           "children": [
             {
-              "type": "symbol",
-              "name": "moon.stars.fill",
-              "size": 18,
-              "color": "#5A3F1E"
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "padding": [8, 10, 8, 10],
+              "alignItems": "center",
+              "justifyContent": "center",
+              "direction": "column",
+              "gap": 4,
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "moon.stars.fill",
+                  "size": 18,
+                  "color": "#1E365E"
+                },
+                {
+                  "type": "text",
+                  "text": "after hours",
+                  "font": {"size": 10, "weight": "semibold"},
+                  "color": "#1E365E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Sept in • soft hum • tea was past",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#4A6A9A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "liquid glass • orbit • midnight",
+                  "font": {"size": 7, "weight": "medium"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
+                }
+              ]
             },
             {
-              "type": "text",
-              "text": "Palette Tea • done",
-              "font": {"size": 9, "weight": "semibold"},
-              "color": "#5A3F1E",
-              "lineLimit": 1
-            },
-            {
-              "type": "text",
-              "text": "11 pals • Mateo • wrap • dusk 7:57p",
-              "font": {"size": 7, "weight": "medium"},
-              "color": "#8A6A4A",
-              "lineLimit": 1
-            },
-            {
-              "type": "text",
-              "text": "pottery → tea • set menu • late hum",
-              "font": {"size": 7, "weight": "medium"},
-              "color": "#8A6A4A",
-              "lineLimit": 1
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#FFF6E5", "#FFEED5"]
+                  },
+                  "padding": [6, 8, 4, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit 9.93K • 70 to go",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#5A3F1E",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#13233F", "#1E365E"]
+                  },
+                  "padding": [6, 8, 4, 8],
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "url": "https://x.com/search?q=Messenger%20Android",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Messenger quiet",
+                      "font": {"size": 8, "weight": "medium"},
+                      "color": "#D4E8FF",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -139,11 +207,11 @@
               "padding": [2, 6, 2, 6],
               "alignItems": "center",
               "justifyContent": "center",
-              "url": "https://www.youtube.com/@exitfrequency",
+              "url": "https://calendar.google.com",
               "children": [
                 {
                   "type": "text",
-                  "text": "Exit 9.93K • 70 to go",
+                  "text": "Tue • 2 evts • easy",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#5A3F1E",
                   "lineLimit": 1
@@ -167,7 +235,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Music • Kerala • late",
+                  "text": "→ Kerala • night mix",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#FFFFFF",
                   "lineLimit": 1
