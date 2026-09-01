@@ -1,9 +1,9 @@
 {
-  "contentRevision": 381,
+  "contentRevision": 382,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-09-01T05:38:30Z",
+  "updatedAt": "2026-09-01T06:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
@@ -35,7 +35,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 10:38p • Mon",
+              "text": "tornado • 11:38p • Mon",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -51,123 +51,47 @@
         },
         {
           "type": "stack",
-          "direction": "row",
-          "gap": 10,
           "width": 324,
           "height": 84,
+          "radius": 12,
+          "background": {
+            "type": "gradient",
+            "angle": 135,
+            "colors": ["#FFF6E5", "#FFEED5"]
+          },
+          "padding": [8, 10, 8, 10],
+          "alignItems": "center",
+          "justifyContent": "center",
+          "direction": "column",
+          "gap": 4,
+          "url": "https://maps.google.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
           "children": [
             {
-              "type": "stack",
-              "width": 194,
-              "height": 84,
-              "radius": 12,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
-              },
-              "padding": [8, 10, 8, 10],
-              "alignItems": "center",
-              "justifyContent": "center",
-              "direction": "column",
-              "gap": 4,
-              "url": "https://maps.google.com/?q=Palette+Tea+Garden+320+S+B+St+San+Mateo",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "moon.stars.fill",
-                  "size": 18,
-                  "color": "#5A3F1E"
-                },
-                {
-                  "type": "text",
-                  "text": "Palette Tea • done",
-                  "font": {"size": 9, "weight": "semibold"},
-                  "color": "#5A3F1E",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "11 pals • San Mateo • wrap",
-                  "font": {"size": 7, "weight": "medium"},
-                  "color": "#8A6A4A",
-                  "lineLimit": 1
-                }
-              ]
+              "type": "symbol",
+              "name": "moon.stars.fill",
+              "size": 18,
+              "color": "#5A3F1E"
             },
             {
-              "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 11,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"]
-                  },
-                  "padding": [4, 8, 4, 8],
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "direction": "column",
-                  "gap": 2,
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "Exit 9.96K",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#1E365E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "40 left • orbit",
-                      "font": {"size": 7, "weight": "medium"},
-                      "color": "#6A8AB5",
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 11,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#13233F", "#1E365E"]
-                  },
-                  "padding": [4, 8, 4, 8],
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "direction": "column",
-                  "gap": 2,
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "antenna.radiowaves.left.and.right",
-                      "size": 10,
-                      "color": "#FFFFFF"
-                    },
-                    {
-                      "type": "text",
-                      "text": "quiet 0 • calm",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#FFFFFF",
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
+              "type": "text",
+              "text": "Palette Tea • done",
+              "font": {"size": 9, "weight": "semibold"},
+              "color": "#5A3F1E",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "11 pals • Mateo • wrap • dusk 7:57p",
+              "font": {"size": 7, "weight": "medium"},
+              "color": "#8A6A4A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "pottery → tea • set menu • late hum",
+              "font": {"size": 7, "weight": "medium"},
+              "color": "#8A6A4A",
+              "lineLimit": 1
             }
           ]
         },
@@ -195,7 +119,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "SF 58° • 23%",
+                  "text": "SF 58° • 23% • 9p",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#1E365E",
                   "lineLimit": 1
@@ -219,7 +143,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "10:38p • night",
+                  "text": "Exit 9.93K • 70 to go",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#5A3F1E",
                   "lineLimit": 1
@@ -243,7 +167,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Music • Kerala",
+                  "text": "Music • Kerala • late",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#FFFFFF",
                   "lineLimit": 1
