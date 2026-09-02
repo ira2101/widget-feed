@@ -1,20 +1,33 @@
 {
-  "contentRevision": 399,
+  "contentRevision": 400,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-09-02T00:38:13Z",
+  "updatedAt": "2026-09-02T01:39:49Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"]
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "outer": {
-      "padding": [8, 8, 8, 8],
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
       "radius": 16
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "root": {
       "type": "stack",
@@ -24,7 +37,10 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F7FBFF"]
+        "colors": [
+          "#FFFFFF",
+          "#F7FBFF"
+        ]
       },
       "width": 324,
       "children": [
@@ -38,15 +54,21 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 8:38p • Tue",
-              "font": {"size": 10, "weight": "semibold"},
+              "text": "tornado \u2022 9:38p \u2022 Tue",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "color": "#1E365E",
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "Labor dusk • 58° • SF",
-              "font": {"size": 9, "weight": "medium"},
+              "text": "Labor night \u2022 58\u00b0 \u2022 SF",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "color": "#6A8AB5",
               "lineLimit": 1
             }
@@ -62,86 +84,23 @@
             {
               "type": "stack",
               "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
-              "width": 157,
-              "height": 84,
-              "radius": 12,
-              "padding": [8, 8, 8, 8],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
-              },
-              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "width": 104,
-                  "height": 76,
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "alignItems": "center",
-                      "justifyContent": "center",
-                      "width": 84,
-                      "height": 84,
-                      "radius": 42,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 135,
-                        "colors": ["#FFD8A8", "#FFB86A"]
-                      },
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "paintbrush.fill",
-                          "size": 18,
-                          "color": "#6A4A2E"
-                        },
-                        {
-                          "type": "stack",
-                          "direction": "row",
-                          "alignItems": "center",
-                          "justifyContent": "center",
-                          "radius": 8,
-                          "padding": [3, 8, 3, 8],
-                          "background": {
-                            "type": "color",
-                            "color": "#66000000"
-                          },
-                          "children": [
-                            {
-                              "type": "text",
-                              "text": "wrap done",
-                              "font": {"size": 8, "weight": "semibold"},
-                              "color": "#FFFFFF",
-                              "lineLimit": 1
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "column",
               "gap": 6,
-              "width": 157,
+              "width": 194,
               "height": 84,
               "radius": 12,
-              "padding": [8, 10, 8, 10],
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"]
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ]
               },
               "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
               "children": [
@@ -153,39 +112,178 @@
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "fork.knife",
+                      "name": "paintbrush.fill",
                       "size": 12,
-                      "color": "#3A5A8A"
+                      "color": "#6A4A2E"
                     },
                     {
                       "type": "text",
-                      "text": "Palette wrap • 11",
-                      "font": {"size": 10, "weight": "semibold"},
-                      "color": "#3A5A8A",
+                      "text": "pottery \u2192 tea \u2022 wrap",
+                      "font": {
+                        "size": 10,
+                        "weight": "semibold"
+                      },
+                      "color": "#6A4A2E",
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "set menu • Steven",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#6A8AB5",
+                  "text": "11ppl \u2022 set menu \u2022 Steven",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "color": "#8A6A4E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "7:57p sunset • 58° eve",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#7A9AC5",
+                  "text": "sunset 7:57p \u2022 58\u00b0 eve",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "color": "#9A7A5E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "Labor hush in SF",
-                  "font": {"size": 8, "weight": "semibold"},
-                  "color": "#3A5A8A",
+                  "text": "Labor hush \u2022 SF night",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "color": "#6A4A2E",
                   "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "gap": 10,
+              "width": 120,
+              "height": 84,
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E8F3FF",
+                      "#D4E8FF"
+                    ]
+                  },
+                  "url": "https://weather.com/weather/today/l/San+Francisco+CA",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "alignItems": "center",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "moon.stars.fill",
+                          "size": 10,
+                          "color": "#3A5A8A"
+                        },
+                        {
+                          "type": "text",
+                          "text": "night \u2022 58\u00b0",
+                          "font": {
+                            "size": 9,
+                            "weight": "semibold"
+                          },
+                          "color": "#3A5A8A",
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "clouds 23% \u2022 9p \u2022 58\u00b0",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#6A8AB5",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 2,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 10,
+                  "padding": [
+                    6,
+                    8,
+                    4,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#E6F5ED",
+                      "#D4EDD8"
+                    ]
+                  },
+                  "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "alignItems": "center",
+                      "gap": 4,
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "person.3.fill",
+                          "size": 10,
+                          "color": "#3A6A4E"
+                        },
+                        {
+                          "type": "text",
+                          "text": "11 \u2022 wrap done",
+                          "font": {
+                            "size": 9,
+                            "weight": "semibold"
+                          },
+                          "color": "#3A6A4E",
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "320 S B St \u2022 done",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#5A8A6E",
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -207,24 +305,35 @@
               "width": 100,
               "height": 18,
               "radius": 10,
-              "padding": [4, 8, 4, 8],
+              "padding": [
+                4,
+                8,
+                4,
+                8
+              ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#E8F3FF", "#D4E8FF"]
+                "colors": [
+                  "#E8F3FF",
+                  "#D4E8FF"
+                ]
               },
-              "url": "https://calendar.google.com",
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
               "children": [
                 {
                   "type": "symbol",
-                  "name": "calendar",
+                  "name": "map.fill",
                   "size": 10,
                   "color": "#3A5A8A"
                 },
                 {
                   "type": "text",
-                  "text": "Tue eve",
-                  "font": {"size": 9, "weight": "semibold"},
+                  "text": "Map",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
                   "color": "#3A5A8A",
                   "lineLimit": 1
                 }
@@ -239,25 +348,36 @@
               "width": 100,
               "height": 18,
               "radius": 10,
-              "padding": [4, 8, 4, 8],
+              "padding": [
+                4,
+                8,
+                4,
+                8
+              ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"]
+                "colors": [
+                  "#FFF6E5",
+                  "#FFEED5"
+                ]
               },
-              "url": "https://m.youtube.com/results?search_query=Messenger+Android+feedback",
+              "url": "https://calendar.google.com",
               "children": [
                 {
                   "type": "symbol",
-                  "name": "bubble.left",
+                  "name": "calendar",
                   "size": 10,
-                  "color": "#8A6A4A"
+                  "color": "#6A4A2E"
                 },
                 {
                   "type": "text",
-                  "text": "quiet",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#8A6A4A",
+                  "text": "Cal",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "color": "#6A4A2E",
                   "lineLimit": 1
                 }
               ]
@@ -271,11 +391,19 @@
               "width": 104,
               "height": 18,
               "radius": 10,
-              "padding": [4, 8, 4, 8],
+              "padding": [
+                4,
+                8,
+                4,
+                8
+              ],
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#E6F4EA", "#D4E8D9"]
+                "colors": [
+                  "#E6F5ED",
+                  "#D4EDD8"
+                ]
               },
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
               "children": [
@@ -283,13 +411,16 @@
                   "type": "symbol",
                   "name": "music.note",
                   "size": 10,
-                  "color": "#2A6A4A"
+                  "color": "#3A6A4E"
                 },
                 {
                   "type": "text",
-                  "text": "Kerala • play",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#2A6A4A",
+                  "text": "Kerala",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "color": "#3A6A4E",
                   "lineLimit": 1
                 }
               ]
