@@ -1,5 +1,5 @@
 {
-  "contentRevision": 405,
+  "contentRevision": 406,
   "mode": "native",
   "native": {
     "background": {
@@ -22,161 +22,174 @@
       },
       "children": [
         {
-          "alignItems": "center",
-          "children": [
-            {
-              "color": "#1E365E",
-              "font": {"size": 10, "weight": "semibold"},
-              "lineLimit": 1,
-              "text": "tornado • 12:40a • Wed",
-              "type": "text"
-            },
-            {
-              "color": "#6A8AB5",
-              "font": {"size": 9, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "9,940 • 60 left",
-              "type": "text"
-            }
-          ],
+          "type": "stack",
           "direction": "row",
+          "width": 324,
           "height": 16,
           "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
-        },
-        {
           "alignItems": "center",
-          "background": {
-            "angle": 135,
-            "colors": ["#E8F3FF", "#D4E8FF"],
-            "type": "gradient"
-          },
           "children": [
             {
+              "type": "text",
+              "text": "tornado • 1:38a • Wed",
+              "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
-              "font": {"size": 12, "weight": "semibold"},
-              "lineLimit": 1,
-              "text": "late night • soft glow",
-              "type": "text"
+              "lineLimit": 1
             },
             {
-              "color": "#6A8AB5",
+              "type": "text",
+              "text": "9,940 • 60 left",
               "font": {"size": 9, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "quiet build • fresh hour",
-              "type": "text"
+              "color": "#6A8AB5",
+              "lineLimit": 1
             }
-          ],
-          "direction": "column",
-          "gap": 2,
-          "height": 48,
-          "justifyContent": "center",
-          "radius": 12,
-          "type": "stack",
-          "width": 324
+          ]
         },
         {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
           "children": [
             {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
               "background": {
                 "angle": 135,
                 "colors": ["#E8F3FF", "#D4E8FF"],
                 "type": "gradient"
               },
-              "children": [
-                {
-                  "color": "#1E365E",
-                  "font": {"size": 10, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "Exit",
-                  "type": "text"
-                },
-                {
-                  "color": "#3A5A8A",
-                  "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "9.94K",
-                  "type": "text"
-                }
-              ],
+              "padding": [10, 12, 8, 12],
               "direction": "column",
-              "gap": 2,
-              "height": 52,
-              "padding": [6, 8, 4, 8],
-              "radius": 10,
-              "type": "stack",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "width": 100
-            },
-            {
-              "background": {
-                "angle": 135,
-                "colors": ["#FFF6E5", "#FFEED5"],
-                "type": "gradient"
-              },
+              "gap": 4,
+              "justifyContent": "center",
               "children": [
                 {
-                  "color": "#5A3E1E",
-                  "font": {"size": 10, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "Msg",
-                  "type": "text"
-                },
-                {
-                  "color": "#8A6A3E",
-                  "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "quiet",
-                  "type": "text"
-                }
-              ],
-              "direction": "column",
-              "gap": 2,
-              "height": 52,
-              "padding": [6, 8, 4, 8],
-              "radius": 10,
-              "type": "stack",
-              "url": "https://x.com/search?q=Messenger%20Android%20crash",
-              "width": 100
-            },
-            {
-              "background": {
-                "angle": 135,
-                "colors": ["#E8F0FF", "#D4E8FF"],
-                "type": "gradient"
-              },
-              "children": [
-                {
+                  "type": "text",
+                  "text": "orbiting low",
+                  "font": {"size": 12, "weight": "semibold"},
                   "color": "#1E365E",
-                  "font": {"size": 10, "weight": "bold"},
-                  "lineLimit": 1,
-                  "text": "Cal",
-                  "type": "text"
+                  "lineLimit": 1
                 },
                 {
+                  "type": "text",
+                  "text": "soft spin • 1:38a drift",
+                  "font": {"size": 9, "weight": "medium"},
                   "color": "#5A7AB5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Exit 9.94K • 60 to go",
                   "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1,
-                  "text": "→ open",
-                  "type": "text"
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
                 }
-              ],
-              "direction": "column",
-              "gap": 2,
-              "height": 52,
-              "padding": [6, 8, 4, 8],
-              "radius": 10,
+              ]
+            },
+            {
               "type": "stack",
-              "url": "calshow://",
-              "width": 108
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#FFF6E5", "#FFEED5"],
+                    "type": "gradient"
+                  },
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Msg",
+                      "font": {"size": 10, "weight": "bold"},
+                      "color": "#5A3E1E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "quiet",
+                      "font": {"size": 9, "weight": "medium"},
+                      "color": "#8A6A3E",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 38,
+                  "radius": 10,
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#E8F0FF", "#D4E8FF"],
+                    "type": "gradient"
+                  },
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "url": "calshow://",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Cal",
+                      "font": {"size": 10, "weight": "bold"},
+                      "color": "#1E365E",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "→ open",
+                      "font": {"size": 9, "weight": "medium"},
+                      "color": "#5A7AB5",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
             }
-          ],
-          "direction": "row",
-          "gap": 8,
-          "height": 52,
+          ]
+        },
+        {
           "type": "stack",
-          "width": 324
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "useful • 60 left • quiet",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#6A8AB5",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "→ Kerala • 1:38a",
+              "font": {"size": 9, "weight": "medium"},
+              "color": "#8AA0C5",
+              "lineLimit": 1
+            }
+          ]
         }
       ],
       "gap": 10,
@@ -185,5 +198,5 @@
     "version": 5,
     "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
   },
-  "updatedAt": "2026-09-02T04:40:35Z"
+  "updatedAt": "2026-09-02T05:38:13Z"
 }
