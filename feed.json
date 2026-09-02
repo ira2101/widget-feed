@@ -1,14 +1,14 @@
 {
-  "contentRevision": 398,
+  "contentRevision": 399,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-09-01T23:38:13Z",
+  "updatedAt": "2026-09-02T00:38:13Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#1B2E4F", "#243A5E"]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
       "padding": [8, 8, 8, 8],
@@ -38,7 +38,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 4:38p • Tue",
+              "text": "tornado • 8:38p • Tue",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -62,11 +62,12 @@
             {
               "type": "stack",
               "direction": "column",
-              "gap": 6,
-              "width": 194,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "width": 157,
               "height": 84,
               "radius": 12,
-              "padding": [8, 10, 8, 10],
+              "padding": [8, 8, 8, 8],
               "background": {
                 "type": "gradient",
                 "angle": 135,
@@ -76,83 +77,115 @@
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
+                  "direction": "column",
                   "alignItems": "center",
-                  "gap": 6,
+                  "justifyContent": "center",
+                  "width": 104,
+                  "height": 76,
                   "children": [
-                    {"type": "symbol", "name": "sun.horizon.fill", "size": 12, "color": "#8A6A4A"},
-                    {"type": "text", "text": "Palette wrap • done", "font": {"size": 10, "weight": "semibold"}, "color": "#8A6A4A", "lineLimit": 1}
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "width": 84,
+                      "height": 84,
+                      "radius": 42,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 135,
+                        "colors": ["#FFD8A8", "#FFB86A"]
+                      },
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "paintbrush.fill",
+                          "size": 18,
+                          "color": "#6A4A2E"
+                        },
+                        {
+                          "type": "stack",
+                          "direction": "row",
+                          "alignItems": "center",
+                          "justifyContent": "center",
+                          "radius": 8,
+                          "padding": [3, 8, 3, 8],
+                          "background": {
+                            "type": "color",
+                            "color": "#66000000"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "wrap done",
+                              "font": {"size": 8, "weight": "semibold"},
+                              "color": "#FFFFFF",
+                              "lineLimit": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": "11 • set menu • Team",
-                  "font": {"size": 9, "weight": "medium"},
-                  "color": "#9A8A6A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "7:57p sunset • 58° eve",
-                  "font": {"size": 8, "weight": "medium"},
-                  "color": "#9A8A6A",
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Labor hush in SF",
-                  "font": {"size": 8, "weight": "semibold"},
-                  "color": "#8A6A4A",
-                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
               "direction": "column",
-              "gap": 10,
-              "width": 120,
+              "gap": 6,
+              "width": 157,
               "height": 84,
+              "radius": 12,
+              "padding": [8, 10, 8, 10],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "url": "https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
+                  "direction": "row",
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "padding": [4, 8, 4, 8],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#1E365E", "#2A4A7E"]
-                  },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "gap": 6,
                   "children": [
-                    {"type": "text", "text": "9.94K • 60 left", "font": {"size": 9, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1},
-                    {"type": "text", "text": "Exit orbit", "font": {"size": 8, "weight": "medium"}, "color": "#A8C6E8", "lineLimit": 1}
+                    {
+                      "type": "symbol",
+                      "name": "fork.knife",
+                      "size": 12,
+                      "color": "#3A5A8A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Palette wrap • 11",
+                      "font": {"size": 10, "weight": "semibold"},
+                      "color": "#3A5A8A",
+                      "lineLimit": 1
+                    }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "padding": [4, 8, 4, 8],
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"]
-                  },
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash",
-                  "children": [
-                    {"type": "text", "text": "quiet • calm", "font": {"size": 9, "weight": "semibold"}, "color": "#1E365E", "lineLimit": 1},
-                    {"type": "text", "text": "0 crash Tue", "font": {"size": 8, "weight": "medium"}, "color": "#6A8AB5", "lineLimit": 1}
-                  ]
+                  "type": "text",
+                  "text": "set menu • Steven",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "7:57p sunset • 58° eve",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#7A9AC5",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Labor hush in SF",
+                  "font": {"size": 8, "weight": "semibold"},
+                  "color": "#3A5A8A",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -161,21 +194,106 @@
         {
           "type": "stack",
           "direction": "row",
-          "alignItems": "center",
-          "justifyContent": "space-between",
+          "gap": 10,
           "width": 324,
           "height": 18,
-          "radius": 10,
-          "padding": [4, 10, 4, 10],
-          "background": {
-            "type": "gradient",
-            "angle": 135,
-            "colors": ["#E8F3FF", "#D4E8FF"]
-          },
-          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
           "children": [
-            {"type": "text", "text": "eve glow • 60 to go • quiet", "font": {"size": 9, "weight": "medium"}, "color": "#1E365E", "lineLimit": 1},
-            {"type": "symbol", "name": "music.note", "size": 10, "color": "#6A8AB5"}
+            {
+              "type": "stack",
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 4,
+              "width": 100,
+              "height": 18,
+              "radius": 10,
+              "padding": [4, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "url": "https://calendar.google.com",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "calendar",
+                  "size": 10,
+                  "color": "#3A5A8A"
+                },
+                {
+                  "type": "text",
+                  "text": "Tue eve",
+                  "font": {"size": 9, "weight": "semibold"},
+                  "color": "#3A5A8A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 4,
+              "width": 100,
+              "height": 18,
+              "radius": 10,
+              "padding": [4, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "url": "https://m.youtube.com/results?search_query=Messenger+Android+feedback",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "bubble.left",
+                  "size": 10,
+                  "color": "#8A6A4A"
+                },
+                {
+                  "type": "text",
+                  "text": "quiet",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#8A6A4A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 4,
+              "width": 104,
+              "height": 18,
+              "radius": 10,
+              "padding": [4, 8, 4, 8],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E6F4EA", "#D4E8D9"]
+              },
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "music.note",
+                  "size": 10,
+                  "color": "#2A6A4A"
+                },
+                {
+                  "type": "text",
+                  "text": "Kerala • play",
+                  "font": {"size": 9, "weight": "medium"},
+                  "color": "#2A6A4A",
+                  "lineLimit": 1
+                }
+              ]
+            }
           ]
         }
       ]
