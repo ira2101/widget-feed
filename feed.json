@@ -1,1 +1,156 @@
-{"contentRevision":402,"mode":"native","native":{"background":{"angle":135,"colors":["#0F1D30","#162A44"],"type":"gradient"},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"background":{"angle":135,"colors":["#FFFFFF","#F7FBFF"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"tornado • 8:38p • Tue","type":"text"},{"color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"Labor hush • 58°","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324},{"children":[{"background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"alignItems":"center","children":[{"color":"#6A4A2E","name":"paintbrush.fill","size":11,"type":"symbol"},{"color":"#6A4A2E","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"pottery → tea • wrap","type":"text"}],"direction":"row","gap":6,"type":"stack"},{"color":"#8A6A4E","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"11ppl • set • Steven","type":"text"},{"color":"#9A7A5E","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"sunset 7:57p • SF eve","type":"text"},{"color":"#6A4A2E","font":{"size":8,"weight":"semibold"},"lineLimit":1,"text":"night calm • 58° SF","type":"text"}],"direction":"column","gap":5,"height":84,"padding":[8,10,8,10],"radius":12,"type":"stack","url":"https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo","width":194},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#1E365E","#2A4A7E"],"type":"gradient"},"children":[{"color":"#E8F3FF","name":"moon.stars.fill","size":10,"type":"symbol"},{"color":"#E8F3FF","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"58° eve","type":"text"},{"color":"#A9C6E8","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"23% • 9p","type":"text"}],"direction":"row","gap":6,"height":37,"justifyContent":"center","padding":[6,8,6,8],"radius":10,"type":"stack","url":"https://weather.com/weather/today/l/San+Francisco+CA","width":120},{"alignItems":"center","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#3A5A8A","name":"mappin.and.ellipse","size":10,"type":"symbol"},{"color":"#3A5A8A","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"Palette • done","type":"text"}],"direction":"row","gap":6,"height":37,"justifyContent":"center","padding":[6,8,6,8],"radius":10,"type":"stack","url":"https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo","width":120}],"direction":"column","gap":10,"height":84,"type":"stack","width":120}],"direction":"row","gap":10,"height":84,"type":"stack","width":324},{"children":[{"alignItems":"center","background":{"angle":135,"colors":["#E8F3FF","#D4E8FF"],"type":"gradient"},"children":[{"color":"#3A5A8A","name":"map.fill","size":10,"type":"symbol"},{"color":"#3A5A8A","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"Map","type":"text"}],"direction":"row","gap":4,"height":18,"justifyContent":"center","padding":[4,8,4,8],"radius":10,"type":"stack","url":"https://www.google.com/maps/search/Palette+Tea+Garden+San+Mateo","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#FFF6E5","#FFEED5"],"type":"gradient"},"children":[{"color":"#6A4A2E","name":"calendar","size":10,"type":"symbol"},{"color":"#6A4A2E","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"Cal","type":"text"}],"direction":"row","gap":4,"height":18,"justifyContent":"center","padding":[4,8,4,8],"radius":10,"type":"stack","url":"https://calendar.google.com","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#E6F5ED","#D4EDD8"],"type":"gradient"},"children":[{"color":"#3A6A4E","name":"music.note","size":10,"type":"symbol"},{"color":"#3A6A4E","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"Kerala","type":"text"}],"direction":"row","gap":4,"height":18,"justifyContent":"center","padding":[4,8,4,8],"radius":10,"type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":104}],"direction":"row","gap":10,"height":18,"type":"stack","width":324}],"direction":"column","gap":10,"radius":16,"type":"stack","width":324}},"updatedAt":"2026-09-02T03:38:56Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 403,
+  "mode": "native",
+  "native": {
+    "background": {
+      "angle": 135,
+      "colors": ["#E8F3FF", "#D4E8FF"],
+      "type": "gradient"
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8],
+      "radius": 16
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack",
+      "background": {
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F7FBFF"],
+        "type": "gradient"
+      },
+      "children": [
+        {
+          "alignItems": "center",
+          "children": [
+            {
+              "color": "#1E365E",
+              "font": {"size": 10, "weight": "semibold"},
+              "lineLimit": 1,
+              "text": "tornado • 11:40p • Tue",
+              "type": "text"
+            },
+            {
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "9,940 • 60 left",
+              "type": "text"
+            }
+          ],
+          "direction": "row",
+          "height": 16,
+          "justifyContent": "space-between",
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "background": {
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#1E365E",
+                  "font": {"size": 18, "weight": "bold"},
+                  "lineLimit": 1,
+                  "text": "9,940",
+                  "type": "text"
+                },
+                {
+                  "color": "#3A5A8A",
+                  "font": {"size": 10, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "Exit • 60 to go",
+                  "type": "text"
+                },
+                {
+                  "color": "#5A7AB5",
+                  "font": {"size": 9, "weight": "regular"},
+                  "lineLimit": 1,
+                  "text": "→ YouTube",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 4,
+              "height": 84,
+              "padding": [8, 10, 6, 10],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 157
+            },
+            {
+              "background": {
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"],
+                "type": "gradient"
+              },
+              "children": [
+                {
+                  "color": "#5A3E1E",
+                  "font": {"size": 11, "weight": "semibold"},
+                  "lineLimit": 1,
+                  "text": "Messenger",
+                  "type": "text"
+                },
+                {
+                  "color": "#8A6A3E",
+                  "font": {"size": 10, "weight": "medium"},
+                  "lineLimit": 1,
+                  "text": "quiet • no wave",
+                  "type": "text"
+                },
+                {
+                  "color": "#A08050",
+                  "font": {"size": 9, "weight": "regular"},
+                  "lineLimit": 1,
+                  "text": "→ X search",
+                  "type": "text"
+                }
+              ],
+              "direction": "column",
+              "gap": 4,
+              "height": 84,
+              "padding": [8, 10, 6, 10],
+              "radius": 12,
+              "type": "stack",
+              "url": "https://x.com/search?q=Messenger%20Android%20crash",
+              "width": 157
+            }
+          ],
+          "direction": "row",
+          "gap": 10,
+          "height": 84,
+          "type": "stack",
+          "width": 324
+        },
+        {
+          "children": [
+            {
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "text": "useful • 9.94K left • quiet boards",
+              "type": "text"
+            }
+          ],
+          "height": 18,
+          "justifyContent": "center",
+          "type": "stack",
+          "width": 324
+        }
+      ],
+      "gap": 10,
+      "width": 324
+    },
+    "version": 5,
+    "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  },
+  "updatedAt": "2026-09-02T03:41:00Z"
+}
