@@ -1,5 +1,5 @@
 {
-  "contentRevision": 415,
+  "contentRevision": 416,
   "mode": "native",
   "native": {
     "background": {
@@ -33,7 +33,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 6:38a • Wed",
+              "text": "tornado • 7:38a • Wed",
               "color": "#1E365E",
               "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
@@ -49,44 +49,35 @@
         },
         {
           "type": "stack",
-          "direction": "row",
           "width": 324,
           "height": 84,
-          "gap": 10,
-          "justifyContent": "space-between",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "width": 324,
+              "height": 38,
               "radius": 12,
-              "gap": 6,
               "padding": [8, 10, 6, 10],
+              "gap": 4,
               "background": {
                 "angle": 135,
-                "colors": ["#1E365E", "#2A4A7E"],
+                "colors": ["#FFF6E5", "#FFEED5"],
                 "type": "gradient"
               },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "text",
-                  "text": "Exit • lift",
-                  "color": "#FFFFFF",
+                  "text": "morning light • soft lift",
+                  "color": "#1E365E",
                   "font": {"size": 10, "weight": "bold"},
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "9.94K • 60 left",
-                  "color": "#C8D8F0",
-                  "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "morning hums • light",
-                  "color": "#FFFFFF",
+                  "text": "Exit 9.94K • 60 left • hum ahead",
+                  "color": "#6A8AB5",
                   "font": {"size": 8, "weight": "medium"},
                   "lineLimit": 1
                 }
@@ -94,20 +85,51 @@
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 84,
+              "direction": "row",
+              "width": 324,
+              "height": 38,
               "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 100,
                   "height": 38,
                   "radius": 11,
                   "gap": 2,
                   "padding": [6, 8, 4, 8],
                   "background": {
                     "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"],
+                    "colors": ["#1E365E", "#2A4A7E"],
+                    "type": "gradient"
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Exit",
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "9.94K • 60",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 38,
+                  "radius": 11,
+                  "gap": 2,
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "angle": 135,
+                    "colors": ["#E8F3FF", "#D4E8FF"],
                     "type": "gradient"
                   },
                   "url": "https://x.com/search?q=Messenger%20Android",
@@ -130,14 +152,14 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
+                  "width": 108,
                   "height": 38,
                   "radius": 11,
                   "gap": 2,
                   "padding": [6, 8, 4, 8],
                   "background": {
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"],
+                    "colors": ["#FFFFFF", "#F7FBFF"],
                     "type": "gradient"
                   },
                   "url": "https://mail.google.com",
@@ -173,7 +195,7 @@
           "children": [
             {
               "type": "text",
-              "text": "diagonal • glass • 6:38a",
+              "text": "light swell • 7:38a hum",
               "color": "#6A8AB5",
               "font": {"size": 8, "weight": "medium"},
               "lineLimit": 1
@@ -192,5 +214,5 @@
     "version": 5,
     "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
   },
-  "updatedAt": "2026-09-02T13:38:30Z"
+  "updatedAt": "2026-09-02T14:38:13Z"
 }
