@@ -1,14 +1,14 @@
 {
-  "contentRevision": 447,
+  "contentRevision": 448,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-09-03T21:38:30Z",
+  "updatedAt": "2026-09-03T22:40:30Z",
   "native": {
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#E8F3FF", "#D4E8FF"]
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
       "padding": [8, 8, 8, 8],
@@ -21,7 +21,7 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#FFFFFF", "#F8FBFF"]
+        "colors": ["#1C3359", "#25406E"]
       },
       "width": 324,
       "height": 138,
@@ -39,64 +39,34 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 5:38p • Thu",
-              "color": "#1E365E",
-              "font": { "size": 10, "weight": "semibold" },
+              "text": "tornado \u2022 6:38p \u2022 Thu",
+              "color": "#FFFFFF",
+              "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "9.95K • 50 left",
-              "color": "#6A8AB5",
-              "font": { "size": 9, "weight": "medium" },
+              "text": "9.95K \u2022 50 left",
+              "color": "#A9C4E8",
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             }
           ]
         },
         {
           "type": "stack",
-          "direction": "column",
+          "direction": "row",
           "width": 324,
           "height": 84,
           "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
-              "radius": 12,
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": ["#1E365E", "#2A4A7E"]
-              },
-              "padding": [8, 10, 6, 10],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "text",
-                  "text": "glow holds • 50 to go",
-                  "color": "#FFFFFF",
-                  "font": { "size": 10, "weight": "bold" },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "lift rides →",
-                  "color": "#C8D8F0",
-                  "font": { "size": 9, "weight": "medium" },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "direction": "row",
-              "width": 324,
-              "height": 37,
+              "direction": "column",
+              "width": 100,
+              "height": 84,
               "gap": 10,
               "children": [
                 {
@@ -107,27 +77,26 @@
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#E8F3FF", "#D4E8FF"]
+                    "colors": ["#1E365E", "#2A4A7E"]
                   },
                   "padding": [6, 8, 4, 8],
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 2,
                   "justifyContent": "center",
-                  "gap": 1,
-                  "url": "https://x.com/search?q=Messenger%20Android",
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live",
                   "children": [
                     {
                       "type": "text",
                       "text": "quiet hum",
-                      "color": "#1E365E",
-                      "font": { "size": 9, "weight": "semibold" },
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
                       "text": "signal calm",
-                      "color": "#3A5A8A",
-                      "font": { "size": 8, "weight": "medium" },
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
@@ -140,60 +109,151 @@
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
+                    "colors": ["#1E365E", "#2A4A7E"]
                   },
                   "padding": [6, 8, 4, 8],
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 2,
                   "justifyContent": "center",
-                  "gap": 1,
-                  "url": "https://mail.google.com/",
+                  "url": "https://mail.google.com/mail/u/0/#inbox",
                   "children": [
                     {
                       "type": "text",
                       "text": "inbox calm",
-                      "color": "#7A4A20",
-                      "font": { "size": 9, "weight": "bold" },
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "19k now",
-                      "color": "#9A6A40",
-                      "font": { "size": 8, "weight": "medium" },
+                      "text": "19.3K now",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#2A4A7E", "#3B5E94"]
+                  },
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 2,
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "9.95K",
+                      "color": "#FFFFFF",
+                      "font": {"size": 11, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "background": {
+                        "type": "color",
+                        "color": "rgba(0,0,0,0.4)"
+                      },
+                      "radius": 8,
+                      "padding": [2, 6, 2, 6],
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "50 to go",
+                          "color": "#E6F0FF",
+                          "font": {"size": 8, "weight": "medium"},
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "direction": "column",
+              "width": 100,
+              "height": 84,
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1E365E", "#2A4A7E"]
+                  },
+                  "padding": [6, 8, 4, 8],
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco+CA",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SF Larkin",
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "map hop",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 104,
+                  "width": 100,
                   "height": 37,
                   "radius": 11,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#DFF5E3", "#C8EAD0"]
+                    "colors": ["#1E365E", "#2A4A7E"]
                   },
                   "padding": [6, 8, 4, 8],
                   "direction": "column",
-                  "alignItems": "center",
+                  "gap": 2,
                   "justifyContent": "center",
-                  "gap": 1,
-                  "url": "https://maps.apple.com/?q=2265+Larkin+St+San+Francisco",
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
                   "children": [
                     {
                       "type": "text",
-                      "text": "SF Larkin",
-                      "color": "#1E5A3A",
-                      "font": { "size": 9, "weight": "semibold" },
+                      "text": "Thu eve",
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "map hop",
-                      "color": "#3A7A5A",
-                      "font": { "size": 8, "weight": "medium" },
+                      "text": "soft glow",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
                       "lineLimit": 1
                     }
                   ]
@@ -209,21 +269,21 @@
           "height": 18,
           "justifyContent": "space-between",
           "alignItems": "center",
-          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
           "children": [
             {
               "type": "text",
-              "text": "afternoon glow • Thu • 50 left",
-              "color": "#6A8AB5",
-              "font": { "size": 8, "weight": "medium" },
+              "text": "orbit drift \u2022 Thu \u2022 50 left",
+              "color": "#A9C4E8",
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Music",
-              "color": "#8AA0C0",
-              "font": { "size": 8, "weight": "medium" },
-              "lineLimit": 1
+              "text": "\u2192 Music",
+              "color": "#FFFFFF",
+              "font": {"size": 9, "weight": "semibold"},
+              "lineLimit": 1,
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
             }
           ]
         }
