@@ -1,1 +1,232 @@
-{"contentRevision":437,"mode":"native","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-09-03T11:39:50Z","native":{"background":{"type":"gradient","angle":135,"colors":["#0F1D30","#162A44"]},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"type":"stack","direction":"column","width":324,"height":138,"gap":10,"background":{"type":"gradient","angle":135,"colors":["#FFFFFF","#F8FBFF"]},"radius":16,"children":[{"type":"stack","direction":"row","width":324,"height":16,"alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"tornado \u2022 7:38a \u2022 Thu","color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"9.95K \u2022 50 left","color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1}]},{"type":"stack","direction":"column","width":324,"height":84,"gap":8,"children":[{"type":"stack","direction":"row","width":324,"height":38,"alignItems":"center","justifyContent":"space-between","padding":[6,12,6,12],"radius":12,"background":{"type":"gradient","angle":135,"colors":["#1E365E","#2A4A7E"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"50 to go","color":"#FFFFFF","font":{"size":12,"weight":"bold"},"lineLimit":1},{"type":"text","text":"lift \u2022 early","color":"#C8D8F0","font":{"size":9,"weight":"medium"},"lineLimit":1},{"type":"text","text":"YT \u2192","color":"#A8C0E0","font":{"size":9,"weight":"medium"},"lineLimit":1}]},{"type":"stack","direction":"row","width":324,"height":38,"gap":10,"children":[{"type":"stack","width":100,"height":38,"alignItems":"center","justifyContent":"center","gap":1,"padding":[4,6,4,6],"radius":11,"background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},"url":"https://x.com/search?q=Messenger%20Android","children":[{"type":"text","text":"quiet hum","color":"#7A4A20","font":{"size":10,"weight":"bold"},"lineLimit":1},{"type":"text","text":"signal calm","color":"#9A6A40","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":100,"height":38,"alignItems":"center","justifyContent":"center","gap":1,"padding":[4,6,4,6],"radius":11,"background":{"type":"gradient","angle":135,"colors":["#FFFFFF","#F7FBFF"]},"url":"https://mail.google.com/mail/u/0/#inbox","children":[{"type":"text","text":"Inbox calm","color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"201 new \u2022 now","color":"#6A8AB5","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":104,"height":38,"alignItems":"center","justifyContent":"center","gap":1,"padding":[4,6,4,6],"radius":11,"background":{"type":"gradient","angle":135,"colors":["#E8F3FF","#D4E8FF"]},"url":"https://maps.apple.com/?q=2265+Larkin+St+San+Francisco","children":[{"type":"text","text":"Larkin SF","color":"#1E365E","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"now \u2022 Map \u2192","color":"#4A6FAE","font":{"size":8,"weight":"medium"},"lineLimit":1}]}]}]},{"type":"stack","direction":"row","width":324,"height":18,"alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"morning lift \u2022 Thu \u2022 50 left","color":"#6A8AB5","font":{"size":9,"weight":"medium"},"lineLimit":1},{"type":"text","text":"\u2192 Music","color":"#8AA4CC","font":{"size":9,"weight":"medium"},"lineLimit":1,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]}]}}}
+{
+  "contentRevision": 438,
+  "mode": "native",
+  "version": 5,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-09-03T12:38:13Z",
+  "native": {
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": ["#0F1D30", "#162A44"]
+    },
+    "outer": {
+      "padding": [8, 8, 8, 8],
+      "radius": 16
+    },
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": 324,
+      "height": 138,
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": ["#FFFFFF", "#F8FBFF"]
+      },
+      "radius": 16,
+      "children": [
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 16,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • 8:38a • Thu",
+              "color": "#1E365E",
+              "font": {"size": 10, "weight": "semibold"},
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "9.95K • 50 left",
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 84,
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 2,
+              "padding": [6, 8, 4, 8],
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "quiet hum",
+                  "color": "#7A4A20",
+                  "font": {"size": 10, "weight": "bold"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "signal calm",
+                  "color": "#9A6A40",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Thu • now",
+                  "color": "#B08050",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 1,
+                  "radius": 42,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1E365E", "#2A4A7E"]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "50 to go",
+                      "color": "#FFFFFF",
+                      "font": {"size": 12, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "width": 56,
+                      "height": 14,
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "radius": 8,
+                      "background": {
+                        "type": "color",
+                        "color": "#66000000"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "lift • early",
+                          "color": "#C8D8F0",
+                          "font": {"size": 8, "weight": "medium"},
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "YT →",
+                      "color": "#A8C0E0",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 1,
+              "padding": [6, 8, 4, 8],
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E8F3FF", "#D4E8FF"]
+              },
+              "url": "https://mail.google.com/mail/u/0/#inbox",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Inbox calm",
+                  "color": "#1E365E",
+                  "font": {"size": 10, "weight": "semibold"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "19k unread",
+                  "color": "#4A6FAE",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "now • Mail →",
+                  "color": "#6A8AB5",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "direction": "row",
+          "width": 324,
+          "height": 18,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "morning drift • Thu • 50 left",
+              "color": "#6A8AB5",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "→ Music",
+              "color": "#8AA4CC",
+              "font": {"size": 9, "weight": "medium"},
+              "lineLimit": 1,
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
