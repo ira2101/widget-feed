@@ -1,5 +1,5 @@
 {
-  "contentRevision": 434,
+  "contentRevision": 435,
   "mode": "native",
   "native": {
     "background": {
@@ -31,7 +31,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 4:38a • Thu",
+              "text": "tornado • 5:38a • Thu",
               "font": {"size": 10, "weight": "semibold"},
               "color": "#1E365E",
               "lineLimit": 1
@@ -54,7 +54,7 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
               "radius": 12,
               "background": {
@@ -64,27 +64,27 @@
               },
               "alignItems": "center",
               "justifyContent": "center",
-              "gap": 3,
-              "padding": [10, 12, 8, 12],
+              "gap": 2,
+              "padding": [8, 8, 6, 8],
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "text",
                   "text": "50 to go",
-                  "font": {"size": 13, "weight": "bold"},
+                  "font": {"size": 12, "weight": "bold"},
                   "color": "#1E365E",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "lift off • YT",
+                  "text": "lift off",
                   "font": {"size": 9, "weight": "medium"},
                   "color": "#4A6FAE",
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "early rise hum",
+                  "text": "YT • early",
                   "font": {"size": 8, "weight": "medium"},
                   "color": "#6A8AB5",
                   "lineLimit": 1
@@ -93,74 +93,79 @@
             },
             {
               "type": "stack",
-              "direction": "column",
-              "width": 120,
+              "width": 104,
               "height": 84,
-              "gap": 10,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#FFF6E5", "#FFEED5"]
+              },
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 2,
+              "padding": [8, 8, 6, 8],
+              "url": "https://x.com/search?q=Messenger%20Android",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#FFF6E5", "#FFEED5"]
-                  },
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 1,
-                  "padding": [6, 8, 4, 8],
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "quiet hum",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#5A4A2A",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "signal calm",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#8A7A5A",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "text",
+                  "text": "quiet hum",
+                  "font": {"size": 10, "weight": "bold"},
+                  "color": "#5A4A2A",
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 12,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#E9F3FF", "#DDEBFF"]
-                  },
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 1,
-                  "padding": [6, 8, 4, 8],
-                  "url": "https://mail.google.com/",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "inbox calm",
-                      "font": {"size": 9, "weight": "bold"},
-                      "color": "#1E365E",
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "now • mail",
-                      "font": {"size": 8, "weight": "medium"},
-                      "color": "#4A6FAE",
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "text",
+                  "text": "signal calm",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#8A7A5A",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Thu • now",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#8A7A5A",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#E9F3FF", "#DDEBFF"]
+              },
+              "alignItems": "center",
+              "justifyContent": "center",
+              "gap": 2,
+              "padding": [8, 8, 6, 8],
+              "url": "https://mail.google.com/",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "inbox calm",
+                  "font": {"size": 10, "weight": "bold"},
+                  "color": "#1E365E",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "mail • now",
+                  "font": {"size": 8, "weight": "medium"},
+                  "color": "#4A6FAE",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "→ open",
+                  "font": {"size": 8, "weight": "semibold"},
+                  "color": "#6A8AB5",
+                  "lineLimit": 1
                 }
               ]
             }
@@ -176,7 +181,7 @@
           "children": [
             {
               "type": "text",
-              "text": "early lift • Thu • 50 left",
+              "text": "morning • 50 left • hum",
               "font": {"size": 8, "weight": "medium"},
               "color": "#6A8AB5",
               "lineLimit": 1
@@ -194,11 +199,12 @@
       "direction": "column",
       "gap": 10,
       "height": 138,
-      "width": 324
+      "width": 324,
+      "type": "stack"
     },
     "version": 5,
     "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
   },
-  "updatedAt": "2026-09-03T08:38:13Z",
+  "updatedAt": "2026-09-03T09:38:13Z",
   "version": 5
 }
