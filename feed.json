@@ -1,1 +1,295 @@
-{"contentRevision":473,"mode":"native","version":5,"updatedAt":"2026-09-04T19:40:56Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":135,"colors":["#FFF6E5","#FFEED5"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":135,"colors":["#F7FBFF","#E8F3FF"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"tornado • reply ripple","color":"#203A5E","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"3:40pm","color":"#647B9E","font":{"size":9,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":324,"height":37,"radius":16,"direction":"row","alignItems":"center","justifyContent":"space-between","padding":[6,12,6,12],"background":{"type":"gradient","angle":100,"colors":["#FFD6CD","#F5B8D0"]},"url":"https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22","children":[{"type":"stack","direction":"row","alignItems":"center","gap":5,"children":[{"type":"symbol","name":"envelope.badge.fill","size":11,"color":"#73344F"},{"type":"text","text":"MOM REPLIED","color":"#73344F","font":{"size":10,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"water thread →","color":"#8A5065","font":{"size":9,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":324,"height":37,"direction":"row","gap":10,"children":[{"type":"stack","width":100,"height":37,"radius":16,"direction":"column","alignItems":"center","justifyContent":"center","gap":1,"padding":[5,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#5A50C8","#397DD2"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","alignItems":"center","justifyContent":"center","gap":3,"children":[{"type":"symbol","name":"play.fill","size":9,"color":"#FFF6DB"},{"type":"text","text":"EXIT 9.95K","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"50 left","color":"#DDEBFF","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":100,"height":37,"radius":16,"direction":"column","alignItems":"center","justifyContent":"center","gap":1,"padding":[5,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#D5ECFF","#B8DCFF"]},"url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"stack","direction":"row","alignItems":"center","justifyContent":"center","gap":3,"children":[{"type":"symbol","name":"tray.full.fill","size":9,"color":"#214C70"},{"type":"text","text":"MAIL • 10","color":"#214C70","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"fresh unread","color":"#426987","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":104,"height":37,"radius":16,"direction":"column","alignItems":"center","justifyContent":"center","gap":1,"padding":[5,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#FFF0CF","#FFD79E"]},"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"stack","direction":"row","alignItems":"center","justifyContent":"center","gap":3,"children":[{"type":"symbol","name":"music.note","size":9,"color":"#76501E"},{"type":"text","text":"KERALA","color":"#76501E","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"play it","color":"#936A32","font":{"size":8,"weight":"medium"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"Friday ping • reply landed","color":"#536B8C","font":{"size":8,"weight":"medium"},"lineLimit":1},{"type":"stack","direction":"row","alignItems":"center","gap":3,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"text","text":"Music","color":"#6B5EA3","font":{"size":8,"weight":"medium"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":8,"color":"#6B5EA3"}]}]}]}}}
+{
+  "contentRevision": 474,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-04T20:40:07Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#FFE8D9",
+        "#E4E8FF"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#17253D",
+          "#243B62"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • twin voltage",
+              "color": "#F7F9FF",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "4:40pm",
+              "color": "#C8D7F2",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 157,
+              "height": 84,
+              "radius": 16,
+              "direction": "column",
+              "justifyContent": "center",
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#FFBE96",
+                  "#F57C98"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 11,
+                      "color": "#57263B"
+                    },
+                    {
+                      "type": "text",
+                      "text": "MOM REPLIED",
+                      "color": "#57263B",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "water note",
+                  "color": "#3B1C2B",
+                  "font": {
+                    "size": 16,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "tap the thread",
+                  "color": "#6C344A",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "1:28p today",
+                  "color": "#7C4356",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 157,
+              "height": 84,
+              "radius": 16,
+              "direction": "column",
+              "justifyContent": "center",
+              "gap": 4,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#695DDB",
+                  "#338BCF"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "play.fill",
+                      "size": 10,
+                      "color": "#FFF1C9"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#EAF3FF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "9.95K",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 18,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "50 to 10K",
+                  "color": "#DDEBFF",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "almost loud",
+                  "color": "#C6DEFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "friday still has sparks",
+              "color": "#DCE7FA",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "alignItems": "center",
+              "gap": 3,
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Music",
+                  "color": "#FFCEA8",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "symbol",
+                  "name": "arrow.up.right",
+                  "size": 8,
+                  "color": "#FFCEA8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
