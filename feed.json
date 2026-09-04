@@ -1,11 +1,14 @@
 {
-  "contentRevision": 450,
+  "contentRevision": 451,
   "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-04T01:38:36Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "background": {
+      "type": "gradient",
       "angle": 135,
-      "colors": ["#E8F3FF", "#D4E8FF"],
-      "type": "gradient"
+      "colors": ["#0F1D30", "#162A44"]
     },
     "outer": {
       "padding": [8, 8, 8, 8],
@@ -14,279 +17,189 @@
     "padding": [8, 10, 8, 10],
     "refreshMinutes": 15,
     "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
       "background": {
+        "type": "gradient",
         "angle": 135,
-        "colors": ["#1E365E", "#2A4A7E"],
-        "type": "gradient"
+        "colors": ["#1E365E", "#2A4A7E"]
       },
       "children": [
         {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
+              "type": "text",
+              "text": "tornado • 9:38p • Thu",
               "color": "#FFFFFF",
               "font": {"size": 10, "weight": "semibold"},
-              "lineLimit": 1,
-              "text": "tornado • 8:38p • Thu",
-              "type": "text"
+              "lineLimit": 1
             },
             {
+              "type": "text",
+              "text": "9.95K • 50 left",
               "color": "#A9C4E8",
               "font": {"size": 9, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "9.95K • 50 left",
-              "type": "text"
+              "lineLimit": 1
             }
-          ],
-          "direction": "row",
-          "height": 16,
-          "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
+          ]
         },
         {
-          "children": [
-            {
-              "children": [
-                {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#2A4A7E", "#3B5E94"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#FFFFFF",
-                      "font": {"size": 10, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "9.95K now",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#C8D8F0",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "50 to go • Thu",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 37,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "width": 100
-                },
-                {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#1C3359", "#25406E"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "inbox calm",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#C8D8F0",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "19.3K now",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 37,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://mail.google.com/mail/u/0/#inbox",
-                  "width": 100
-                }
-              ],
-              "direction": "column",
-              "gap": 10,
-              "height": 84,
-              "type": "stack",
-              "width": 100
-            },
-            {
-              "alignItems": "center",
-              "children": [
-                {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#2F4B7A", "#4A6FA5"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "background": {
-                        "color": "rgba(0,0,0,0.35)",
-                        "type": "color"
-                      },
-                      "children": [
-                        {
-                          "color": "#E6F0FF",
-                          "font": {"size": 9, "weight": "semibold"},
-                          "lineLimit": 1,
-                          "text": "orbit hum",
-                          "type": "text"
-                        }
-                      ],
-                      "padding": [3, 8, 3, 8],
-                      "radius": 8,
-                      "type": "stack"
-                    },
-                    {
-                      "color": "#C8D8F0",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "evening light",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 4,
-                  "height": 84,
-                  "justifyContent": "center",
-                  "padding": [8, 10, 8, 10],
-                  "radius": 42,
-                  "type": "stack",
-                  "width": 84
-                }
-              ],
-              "direction": "column",
-              "gap": 0,
-              "height": 84,
-              "justifyContent": "center",
-              "type": "stack",
-              "width": 104
-            },
-            {
-              "children": [
-                {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#1C3359", "#25406E"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "quiet hum",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#C8D8F0",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "signal calm",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 37,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live",
-                  "width": 100
-                },
-                {
-                  "background": {
-                    "angle": 135,
-                    "colors": ["#1C3359", "#25406E"],
-                    "type": "gradient"
-                  },
-                  "children": [
-                    {
-                      "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "bold"},
-                      "lineLimit": 1,
-                      "text": "soft glow",
-                      "type": "text"
-                    },
-                    {
-                      "color": "#C8D8F0",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1,
-                      "text": "music • now",
-                      "type": "text"
-                    }
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "height": 37,
-                  "justifyContent": "center",
-                  "padding": [6, 8, 4, 8],
-                  "radius": 11,
-                  "type": "stack",
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-                  "width": 100
-                }
-              ],
-              "direction": "column",
-              "gap": 10,
-              "height": 84,
-              "type": "stack",
-              "width": 100
-            }
-          ],
+          "type": "stack",
+          "width": 324,
+          "height": 84,
           "direction": "row",
           "gap": 10,
-          "height": 84,
-          "type": "stack",
-          "width": 324
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 11,
+              "direction": "column",
+              "gap": 3,
+              "justifyContent": "center",
+              "padding": [8, 10, 6, 10],
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": ["#2A4A7E", "#3B5E94"]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "9.95K now",
+                  "color": "#FFFFFF",
+                  "font": {"size": 10, "weight": "bold"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "50 to go • Thu",
+                  "color": "#C8D8F0",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "lift rides",
+                  "color": "#A9C4E8",
+                  "font": {"size": 8, "weight": "medium"},
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1C3359", "#25406E"]
+                  },
+                  "url": "https://x.com/search?q=Messenger%20Android%20crash&f=live",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "quiet hum",
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "signal calm",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "padding": [6, 8, 4, 8],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": ["#1C3359", "#25406E"]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#inbox",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "inbox calm",
+                      "color": "#FFFFFF",
+                      "font": {"size": 9, "weight": "bold"},
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "19.3K now",
+                      "color": "#C8D8F0",
+                      "font": {"size": 8, "weight": "medium"},
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "justifyContent": "space-between",
           "alignItems": "center",
           "children": [
             {
+              "type": "text",
+              "text": "night drift • Thu • 50 left",
               "color": "#A9C4E8",
               "font": {"size": 9, "weight": "medium"},
-              "lineLimit": 1,
-              "text": "orbit drift • Thu • 50 left",
-              "type": "text"
+              "lineLimit": 1
             },
             {
+              "type": "text",
+              "text": "→ Music",
               "color": "#FFFFFF",
               "font": {"size": 9, "weight": "semibold"},
               "lineLimit": 1,
-              "text": "→ Music",
-              "type": "text",
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
             }
-          ],
-          "direction": "row",
-          "height": 18,
-          "justifyContent": "space-between",
-          "type": "stack",
-          "width": 324
+          ]
         }
-      ],
-      "direction": "column",
-      "gap": 10,
-      "height": 138,
-      "radius": 16,
-      "type": "stack",
-      "width": 324
+      ]
     }
-  },
-  "updatedAt": "2026-09-04T00:38:13Z",
-  "version": 5,
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
 }
