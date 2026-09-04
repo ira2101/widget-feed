@@ -1,20 +1,33 @@
 {
-  "contentRevision": 455,
+  "contentRevision": 456,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-04T05:39:50Z",
+  "updatedAt": "2026-09-04T06:40:08Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
-      "padding": [8, 8, 8, 8],
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
       "radius": 16
     },
-    "padding": [8, 10, 8, 10],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
       "angle": 135,
-      "colors": ["#0F1D30", "#162A44"]
+      "colors": [
+        "#0F1D30",
+        "#162A44"
+      ]
     },
     "root": {
       "type": "stack",
@@ -26,7 +39,10 @@
       "background": {
         "type": "gradient",
         "angle": 135,
-        "colors": ["#1E365E", "#2A4A7E"]
+        "colors": [
+          "#1E365E",
+          "#2A4A7E"
+        ]
       },
       "children": [
         {
@@ -39,16 +55,22 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 1:39a • Fri",
+              "text": "tornado \u2022 2:38a \u2022 Fri",
               "color": "#FFFFFF",
-              "font": {"size": 10, "weight": "semibold"},
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "9.95K • 50 left",
+              "text": "9.95K \u2022 50 left",
               "color": "#A9C4E8",
-              "font": {"size": 9, "weight": "medium"},
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "lineLimit": 1
             }
           ]
@@ -59,118 +81,170 @@
           "height": 84,
           "direction": "row",
           "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 100,
               "height": 84,
-              "radius": 12,
+              "radius": 11,
               "direction": "column",
               "justifyContent": "center",
-              "padding": [6, 12, 6, 12],
+              "alignItems": "center",
+              "padding": [
+                4,
+                8,
+                4,
+                8
+              ],
               "gap": 2,
               "background": {
                 "type": "gradient",
                 "angle": 135,
-                "colors": ["#2E4E86", "#4A70B2"]
+                "colors": [
+                  "#344E7A",
+                  "#4C6FA3"
+                ]
               },
-              "url": "https://www.youtube.com/@exitfrequency",
+              "url": "https://mail.google.com",
               "children": [
                 {
                   "type": "text",
-                  "text": "glass night • 50 left",
+                  "text": "inbox",
                   "color": "#FFFFFF",
-                  "font": {"size": 11, "weight": "bold"},
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "Exit 9.95K • hum low",
-                  "color": "#C8D8F0",
-                  "font": {"size": 9, "weight": "medium"},
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "orbit drift late",
+                  "text": "calm",
                   "color": "#A9C4E8",
-                  "font": {"size": 8, "weight": "regular"},
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 104,
               "height": 84,
+              "radius": 12,
               "direction": "column",
-              "gap": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "gap": 4,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#2E4E86",
+                  "#4A70B2"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
+                  "width": 64,
+                  "height": 64,
+                  "radius": 32,
                   "direction": "column",
                   "justifyContent": "center",
                   "alignItems": "center",
-                  "padding": [4, 8, 4, 8],
-                  "gap": 1,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
-                    "colors": ["#344E7A", "#4C6FA3"]
+                    "colors": [
+                      "#5A8AD0",
+                      "#7AA4E0"
+                    ]
                   },
-                  "url": "https://mail.google.com",
                   "children": [
                     {
                       "type": "text",
-                      "text": "inbox",
+                      "text": "50",
                       "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "semibold"},
+                      "font": {
+                        "size": 14,
+                        "weight": "bold"
+                      },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "calm",
-                      "color": "#A9C4E8",
-                      "font": {"size": 8, "weight": "medium"},
+                      "text": "to go",
+                      "color": "#E0ECFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 38,
-                  "radius": 11,
-                  "direction": "column",
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "padding": [4, 8, 4, 8],
-                  "gap": 1,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#3A5A8A", "#5A82B8"]
+                  "type": "text",
+                  "text": "orbit late",
+                  "color": "#A9C4E8",
+                  "font": {
+                    "size": 8,
+                    "weight": "regular"
                   },
-                  "url": "https://x.com/search?q=Messenger%20Android",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "quiet",
-                      "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "semibold"},
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "signal",
-                      "color": "#A9C4E8",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1
-                    }
-                  ]
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 11,
+              "direction": "column",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "padding": [
+                4,
+                8,
+                4,
+                8
+              ],
+              "gap": 2,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#3A5A8A",
+                  "#5A82B8"
+                ]
+              },
+              "url": "https://x.com/search?q=Messenger%20Android",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "quiet",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "signal",
+                  "color": "#A9C4E8",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             }
@@ -183,23 +257,29 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
+          "url": "https://maps.apple.com/?q=2265+Larkin+St+SF",
           "children": [
             {
               "type": "text",
-              "text": "SF • Larkin • night drift",
+              "text": "SF \u2022 Larkin \u2022 night orbit",
               "color": "#C8D8F0",
-              "font": {"size": 9, "weight": "regular"},
+              "font": {
+                "size": 9,
+                "weight": "regular"
+              },
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Maps",
+              "text": "\u2197 Maps",
               "color": "#A9C4E8",
-              "font": {"size": 9, "weight": "medium"},
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
               "lineLimit": 1
             }
-          ],
-          "url": "https://maps.apple.com/?q=2265+Larkin+St+SF"
+          ]
         }
       ]
     }
