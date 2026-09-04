@@ -1,8 +1,8 @@
 {
-  "contentRevision": 468,
+  "contentRevision": 469,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-04T16:39:31Z",
+  "updatedAt": "2026-09-04T17:39:41Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,8 +25,8 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#EDF5FF",
-        "#FFE7D8"
+        "#EAF4FF",
+        "#FFE8D7"
       ]
     },
     "root": {
@@ -40,8 +40,8 @@
         "type": "gradient",
         "angle": 140,
         "colors": [
-          "#273557",
-          "#4B4971"
+          "#12344A",
+          "#1E5664"
         ]
       },
       "children": [
@@ -55,8 +55,8 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • idea rail",
-              "color": "#FAFBFF",
+              "text": "tornado • live relay",
+              "color": "#F7FBFF",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -65,8 +65,8 @@
             },
             {
               "type": "text",
-              "text": "12:40p",
-              "color": "#D8D9F2",
+              "text": "1:39p",
+              "color": "#CDE7EB",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -79,107 +79,102 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 48,
+              "width": 194,
+              "height": 84,
               "radius": 16,
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
+              "direction": "column",
+              "alignItems": "start",
+              "justifyContent": "center",
+              "gap": 4,
               "padding": [
-                8,
+                10,
                 12,
-                8,
+                10,
                 12
               ],
               "background": {
                 "type": "gradient",
-                "angle": 110,
+                "angle": 120,
                 "colors": [
-                  "#FFD39B",
-                  "#FF9EA8"
+                  "#FFD7A3",
+                  "#FF9E91"
                 ]
               },
-              "url": "mobilenotes://",
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "alignItems": "start",
-                  "justifyContent": "center",
-                  "gap": 2,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 5,
                   "children": [
                     {
-                      "type": "text",
-                      "text": "make one odd thing",
-                      "color": "#4B2C43",
-                      "font": {
-                        "size": 15,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 10,
+                      "color": "#743E47"
                     },
                     {
                       "type": "text",
-                      "text": "the afternoon can handle it",
-                      "color": "#70455D",
+                      "text": "NEW FROM MOM",
+                      "color": "#743E47",
                       "font": {
                         "size": 9,
-                        "weight": "medium"
+                        "weight": "bold"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 30,
-                  "height": 30,
-                  "radius": 15,
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "color",
-                    "color": "#FFFFFF66"
+                  "type": "text",
+                  "text": "water results",
+                  "color": "#432D43",
+                  "font": {
+                    "size": 16,
+                    "weight": "bold"
                   },
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "wand.and.stars",
-                      "size": 14,
-                      "color": "#59354D"
-                    }
-                  ]
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "How should we proceed?",
+                  "color": "#6D4655",
+                  "font": {
+                    "size": 9,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 28,
-              "direction": "row",
-              "gap": 8,
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 28,
-                  "radius": 14,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 16,
                   "direction": "row",
                   "alignItems": "center",
                   "justifyContent": "center",
-                  "gap": 4,
+                  "gap": 5,
                   "background": {
                     "type": "gradient",
                     "angle": 120,
                     "colors": [
-                      "#CDECF7",
-                      "#A7DCEB"
+                      "#BFE8F1",
+                      "#8FD4E5"
                     ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
@@ -188,12 +183,12 @@
                       "type": "symbol",
                       "name": "play.fill",
                       "size": 8,
-                      "color": "#24576C"
+                      "color": "#1D5263"
                     },
                     {
                       "type": "text",
                       "text": "EXIT 9.95K",
-                      "color": "#234E60",
+                      "color": "#194B5A",
                       "font": {
                         "size": 9,
                         "weight": "bold"
@@ -204,56 +199,19 @@
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 28,
-                  "radius": 14,
+                  "width": 120,
+                  "height": 37,
+                  "radius": 16,
                   "direction": "row",
                   "alignItems": "center",
                   "justifyContent": "center",
-                  "gap": 4,
+                  "gap": 5,
                   "background": {
                     "type": "gradient",
                     "angle": 120,
                     "colors": [
-                      "#EEE7FF",
-                      "#D8CDFB"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#inbox",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 8,
-                      "color": "#554C87"
-                    },
-                    {
-                      "type": "text",
-                      "text": "MAIL 1",
-                      "color": "#554C87",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 108,
-                  "height": 28,
-                  "radius": 14,
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "gap": 4,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 120,
-                    "colors": [
-                      "#FFE8D2",
-                      "#FFD0BC"
+                      "#E6D9FF",
+                      "#C9BAF2"
                     ]
                   },
                   "url": "calshow://",
@@ -261,13 +219,13 @@
                     {
                       "type": "symbol",
                       "name": "calendar",
-                      "size": 8,
-                      "color": "#7B4B45"
+                      "size": 9,
+                      "color": "#4E467B"
                     },
                     {
                       "type": "text",
                       "text": "FRI • 4",
-                      "color": "#7B4B45",
+                      "color": "#4E467B",
                       "font": {
                         "size": 9,
                         "weight": "bold"
@@ -290,8 +248,8 @@
           "children": [
             {
               "type": "text",
-              "text": "three sparks • zero clutter",
-              "color": "#EDEBFA",
+              "text": "tiny storm • bright idea",
+              "color": "#D9EEF0",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -308,7 +266,7 @@
                 {
                   "type": "text",
                   "text": "Kerala",
-                  "color": "#FFDCC5",
+                  "color": "#FFD6BE",
                   "font": {
                     "size": 9,
                     "weight": "medium"
@@ -319,7 +277,7 @@
                   "type": "symbol",
                   "name": "arrow.up.right",
                   "size": 8,
-                  "color": "#FFC9AE"
+                  "color": "#FFC5A6"
                 }
               ]
             }
