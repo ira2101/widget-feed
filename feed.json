@@ -1,8 +1,8 @@
 {
-  "contentRevision": 454,
+  "contentRevision": 455,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-04T04:38:30Z",
+  "updatedAt": "2026-09-04T05:39:50Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -39,7 +39,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • 12:38a • Fri",
+              "text": "tornado • 1:39a • Fri",
               "color": "#FFFFFF",
               "font": {"size": 10, "weight": "semibold"},
               "lineLimit": 1
@@ -57,13 +57,13 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 46,
+              "width": 194,
+              "height": 84,
               "radius": 12,
               "direction": "column",
               "justifyContent": "center",
@@ -78,31 +78,38 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "liquid glass night • 50 to go",
+                  "text": "glass night • 50 left",
                   "color": "#FFFFFF",
                   "font": {"size": 11, "weight": "bold"},
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "Exit Frequency 9.95K • orbit hum low",
+                  "text": "Exit 9.95K • hum low",
                   "color": "#C8D8F0",
                   "font": {"size": 9, "weight": "medium"},
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "orbit drift late",
+                  "color": "#A9C4E8",
+                  "font": {"size": 8, "weight": "regular"},
                   "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 30,
-              "direction": "row",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
               "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 30,
+                  "width": 120,
+                  "height": 38,
                   "radius": 11,
                   "direction": "column",
                   "justifyContent": "center",
@@ -134,8 +141,8 @@
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 30,
+                  "width": 120,
+                  "height": 38,
                   "radius": 11,
                   "direction": "column",
                   "justifyContent": "center",
@@ -164,39 +171,6 @@
                       "lineLimit": 1
                     }
                   ]
-                },
-                {
-                  "type": "stack",
-                  "width": 108,
-                  "height": 30,
-                  "radius": 11,
-                  "direction": "column",
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "padding": [4, 8, 4, 8],
-                  "gap": 1,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 135,
-                    "colors": ["#465E8C", "#6B8FC0"]
-                  },
-                  "url": "https://maps.apple.com",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "SF • Larkin",
-                      "color": "#FFFFFF",
-                      "font": {"size": 9, "weight": "semibold"},
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "home",
-                      "color": "#A9C4E8",
-                      "font": {"size": 8, "weight": "medium"},
-                      "lineLimit": 1
-                    }
-                  ]
                 }
               ]
             }
@@ -212,19 +186,20 @@
           "children": [
             {
               "type": "text",
-              "text": "glass orbit • late trace • 50 left",
-              "color": "#D8E6F8",
-              "font": {"size": 8, "weight": "medium"},
+              "text": "SF • Larkin • night drift",
+              "color": "#C8D8F0",
+              "font": {"size": 9, "weight": "regular"},
               "lineLimit": 1
             },
             {
               "type": "text",
-              "text": "→ Music",
+              "text": "→ Maps",
               "color": "#A9C4E8",
-              "font": {"size": 8, "weight": "medium"},
+              "font": {"size": 9, "weight": "medium"},
               "lineLimit": 1
             }
-          ]
+          ],
+          "url": "https://maps.apple.com/?q=2265+Larkin+St+SF"
         }
       ]
     }
