@@ -1,8 +1,8 @@
 {
-  "contentRevision": 467,
+  "contentRevision": 468,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-04T15:41:23Z",
+  "updatedAt": "2026-09-04T16:39:31Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,8 +25,8 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#FFF1DD",
-        "#CFE9F5"
+        "#EDF5FF",
+        "#FFE7D8"
       ]
     },
     "root": {
@@ -38,10 +38,10 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 145,
+        "angle": 140,
         "colors": [
-          "#153A48",
-          "#245B67"
+          "#273557",
+          "#4B4971"
         ]
       },
       "children": [
@@ -55,8 +55,8 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • bright side",
-              "color": "#F8FCFF",
+              "text": "tornado • idea rail",
+              "color": "#FAFBFF",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -65,8 +65,8 @@
             },
             {
               "type": "text",
-              "text": "11:41a",
-              "color": "#C8E5EC",
+              "text": "12:40p",
+              "color": "#D8D9F2",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -79,105 +79,123 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
+              "width": 324,
+              "height": 48,
               "radius": 16,
-              "direction": "column",
-              "alignItems": "start",
-              "justifyContent": "center",
-              "gap": 5,
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "padding": [
-                10,
+                8,
                 12,
-                10,
+                8,
                 12
               ],
               "background": {
                 "type": "gradient",
-                "angle": 145,
+                "angle": 110,
                 "colors": [
-                  "#FFB878",
-                  "#FF8F83"
+                  "#FFD39B",
+                  "#FF9EA8"
                 ]
               },
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "url": "mobilenotes://",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "cloud.bolt.fill",
-                  "size": 11,
-                  "color": "#5A3140"
+                  "type": "stack",
+                  "direction": "column",
+                  "alignItems": "start",
+                  "justifyContent": "center",
+                  "gap": 2,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "make one odd thing",
+                      "color": "#4B2C43",
+                      "font": {
+                        "size": 15,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "the afternoon can handle it",
+                      "color": "#70455D",
+                      "font": {
+                        "size": 9,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "tiny thunder",
-                  "color": "#3F2531",
-                  "font": {
-                    "size": 15,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 30,
+                  "height": 30,
+                  "radius": 15,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF66"
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "build something strange",
-                  "color": "#6A3A45",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "wand.and.stars",
+                      "size": 14,
+                      "color": "#59354D"
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
-              "radius": 16,
-              "direction": "column",
-              "alignItems": "start",
-              "justifyContent": "center",
-              "gap": 4,
-              "padding": [
-                10,
-                12,
-                10,
-                12
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#D9F2F2",
-                  "#A9DCDD"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 324,
+              "height": 28,
+              "direction": "row",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
+                  "width": 100,
+                  "height": 28,
+                  "radius": 14,
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 5,
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#CDECF7",
+                      "#A7DCEB"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
                       "name": "play.fill",
-                      "size": 9,
-                      "color": "#1E5962"
+                      "size": 8,
+                      "color": "#24576C"
                     },
                     {
                       "type": "text",
-                      "text": "EXIT FREQUENCY",
-                      "color": "#2A6870",
+                      "text": "EXIT 9.95K",
+                      "color": "#234E60",
                       "font": {
-                        "size": 8,
+                        "size": 9,
                         "weight": "bold"
                       },
                       "lineLimit": 1
@@ -185,24 +203,78 @@
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "9.95K",
-                  "color": "#173F48",
-                  "font": {
-                    "size": 21,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 100,
+                  "height": 28,
+                  "radius": 14,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#EEE7FF",
+                      "#D8CDFB"
+                    ]
                   },
-                  "lineLimit": 1
+                  "url": "https://mail.google.com/mail/u/0/#inbox",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 8,
+                      "color": "#554C87"
+                    },
+                    {
+                      "type": "text",
+                      "text": "MAIL 1",
+                      "color": "#554C87",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "50 to the summit",
-                  "color": "#3E747A",
-                  "font": {
-                    "size": 9,
-                    "weight": "semibold"
+                  "type": "stack",
+                  "width": 108,
+                  "height": 28,
+                  "radius": 14,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#FFE8D2",
+                      "#FFD0BC"
+                    ]
                   },
-                  "lineLimit": 1
+                  "url": "calshow://",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "calendar",
+                      "size": 8,
+                      "color": "#7B4B45"
+                    },
+                    {
+                      "type": "text",
+                      "text": "FRI • 4",
+                      "color": "#7B4B45",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -217,29 +289,14 @@
           "justifyContent": "space-between",
           "children": [
             {
-              "type": "stack",
-              "direction": "row",
-              "alignItems": "center",
-              "gap": 4,
-              "url": "https://mail.google.com/mail/u/0/#inbox",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "envelope.badge.fill",
-                  "size": 8,
-                  "color": "#FFD6A3"
-                },
-                {
-                  "type": "text",
-                  "text": "1 important",
-                  "color": "#FCE9D3",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
-                }
-              ]
+              "type": "text",
+              "text": "three sparks • zero clutter",
+              "color": "#EDEBFA",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
             },
             {
               "type": "stack",
@@ -251,7 +308,7 @@
                 {
                   "type": "text",
                   "text": "Kerala",
-                  "color": "#C8E5EC",
+                  "color": "#FFDCC5",
                   "font": {
                     "size": 9,
                     "weight": "medium"
@@ -262,7 +319,7 @@
                   "type": "symbol",
                   "name": "arrow.up.right",
                   "size": 8,
-                  "color": "#A9D8DF"
+                  "color": "#FFC9AE"
                 }
               ]
             }
