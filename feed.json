@@ -1,8 +1,8 @@
 {
-  "contentRevision": 474,
+  "contentRevision": 475,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-04T20:40:07Z",
+  "updatedAt": "2026-09-04T21:39:46Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,8 +25,8 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#FFE8D9",
-        "#E4E8FF"
+        "#FFF0DA",
+        "#E8DFFF"
       ]
     },
     "root": {
@@ -40,8 +40,8 @@
         "type": "gradient",
         "angle": 135,
         "colors": [
-          "#17253D",
-          "#243B62"
+          "#2B1F4A",
+          "#123E4B"
         ]
       },
       "children": [
@@ -55,8 +55,8 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • twin voltage",
-              "color": "#F7F9FF",
+              "text": "tornado • sunset switchboard",
+              "color": "#FFF8F2",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -65,8 +65,8 @@
             },
             {
               "type": "text",
-              "text": "4:40pm",
-              "color": "#C8D7F2",
+              "text": "5:39p",
+              "color": "#D9D6F2",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -79,129 +79,121 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
+              "width": 324,
+              "height": 44,
               "radius": 16,
-              "direction": "column",
-              "justifyContent": "center",
-              "gap": 4,
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "padding": [
-                8,
-                10,
-                8,
-                10
+                7,
+                12,
+                7,
+                12
               ],
               "background": {
                 "type": "gradient",
-                "angle": 135,
+                "angle": 110,
                 "colors": [
-                  "#FFBE96",
-                  "#F57C98"
+                  "#FFBE7D",
+                  "#EC718C"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22",
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "gap": 5,
+                  "direction": "column",
+                  "alignItems": "start",
+                  "justifyContent": "center",
+                  "gap": 1,
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 11,
-                      "color": "#57263B"
+                      "type": "text",
+                      "text": "friday hit shuffle",
+                      "color": "#41243B",
+                      "font": {
+                        "size": 15,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "MOM REPLIED",
-                      "color": "#57263B",
+                      "text": "one ping, one climb, one song",
+                      "color": "#613B52",
                       "font": {
-                        "size": 10,
-                        "weight": "bold"
+                        "size": 8,
+                        "weight": "semibold"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "water note",
-                  "color": "#3B1C2B",
-                  "font": {
-                    "size": 16,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 30,
+                  "height": 30,
+                  "radius": 15,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#FFFFFF70"
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "tap the thread",
-                  "color": "#6C344A",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "1:28p today",
-                  "color": "#7C4356",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "shuffle",
+                      "size": 14,
+                      "color": "#512C44"
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
-              "radius": 16,
-              "direction": "column",
-              "justifyContent": "center",
-              "gap": 4,
-              "padding": [
-                8,
-                10,
-                8,
-                10
-              ],
-              "background": {
-                "type": "gradient",
-                "angle": 135,
-                "colors": [
-                  "#695DDB",
-                  "#338BCF"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
+              "width": 324,
+              "height": 32,
+              "direction": "row",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
+                  "width": 100,
+                  "height": 32,
+                  "radius": 16,
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 5,
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#BEEBD9",
+                      "#8DD6CA"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Your+AutoPay+Reminder%22",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "play.fill",
-                      "size": 10,
-                      "color": "#FFF1C9"
+                      "name": "creditcard.fill",
+                      "size": 9,
+                      "color": "#174F4A"
                     },
                     {
                       "type": "text",
-                      "text": "EXIT FREQUENCY",
-                      "color": "#EAF3FF",
+                      "text": "AUTOPAY",
+                      "color": "#174F4A",
                       "font": {
                         "size": 9,
                         "weight": "bold"
@@ -211,34 +203,78 @@
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "9.95K",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 18,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 100,
+                  "height": 32,
+                  "radius": 16,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#DCCBFF",
+                      "#B8B8FF"
+                    ]
                   },
-                  "lineLimit": 1
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "play.fill",
+                      "size": 8,
+                      "color": "#3E376D"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT 9.95K",
+                      "color": "#3E376D",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "50 to 10K",
-                  "color": "#DDEBFF",
-                  "font": {
-                    "size": 9,
-                    "weight": "semibold"
+                  "type": "stack",
+                  "width": 108,
+                  "height": 32,
+                  "radius": 16,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 4,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#FFE5C6",
+                      "#FFC9B0"
+                    ]
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "almost loud",
-                  "color": "#C6DEFF",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "music.note",
+                      "size": 9,
+                      "color": "#713E3E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "PLAY KERALA",
+                      "color": "#713E3E",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -254,8 +290,8 @@
           "children": [
             {
               "type": "text",
-              "text": "friday still has sparks",
-              "color": "#DCE7FA",
+              "text": "mail nudge • 50 left",
+              "color": "#EAE7F7",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -267,12 +303,12 @@
               "direction": "row",
               "alignItems": "center",
               "gap": 3,
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "text",
-                  "text": "Music",
-                  "color": "#FFCEA8",
+                  "text": "almost loud",
+                  "color": "#FFC98E",
                   "font": {
                     "size": 8,
                     "weight": "semibold"
@@ -283,7 +319,7 @@
                   "type": "symbol",
                   "name": "arrow.up.right",
                   "size": 8,
-                  "color": "#FFCEA8"
+                  "color": "#FFC98E"
                 }
               ]
             }
