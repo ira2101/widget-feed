@@ -1,8 +1,8 @@
 {
-  "contentRevision": 510,
+  "contentRevision": 511,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T17:42:41Z",
+  "updatedAt": "2026-09-05T18:40:03Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 138,
       "colors": [
-        "#FFF2E2",
-        "#EADFFF",
-        "#D9F2FF"
+        "#EAF7FF",
+        "#E7E0FF",
+        "#FFF0DB"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 145,
         "colors": [
-          "#18263F",
-          "#2C2A57",
-          "#4A305B"
+          "#10253B",
+          "#23365B",
+          "#49375E"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "GLASS SIGNALS",
-              "color": "#F7F9FF",
+              "text": "AFTERNOON SWITCHBOARD",
+              "color": "#F7FAFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "1:42pm et",
-              "color": "#D9DFF2",
+              "text": "2:40pm et",
+              "color": "#DCE5F4",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -81,160 +81,126 @@
           "type": "stack",
           "width": 324,
           "height": 82,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 157,
-              "height": 82,
+              "width": 324,
+              "height": 37,
               "radius": 16,
               "padding": [
-                9,
+                6,
                 10,
-                9,
+                6,
                 10
               ],
-              "direction": "column",
-              "gap": 5,
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 135,
+                "angle": 128,
                 "colors": [
-                  "#FFD6C8",
-                  "#F5A9C4",
-                  "#D99BE8"
+                  "#FFD7C8",
+                  "#F4A8C8",
+                  "#D69CEB"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22New+sign-in+to+your+OpenAI+account%22",
+              "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "direction": "column",
+                  "gap": 2,
                   "children": [
                     {
                       "type": "text",
-                      "text": "SECURITY PING",
-                      "color": "#562743",
+                      "text": "I FOUND 7 SPARKS",
+                      "color": "#3E1D3A",
                       "font": {
-                        "size": 8,
+                        "size": 10,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "lock.shield.fill",
-                      "size": 14,
-                      "color": "#66304E"
+                      "type": "text",
+                      "text": "important mail is waiting",
+                      "color": "#6A3B59",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "NEW SIGN-IN",
-                  "color": "#3E1D36",
-                  "font": {
-                    "size": 15,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "OpenAI alert in mail",
-                  "color": "#6B3B55",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "type": "symbol",
+                  "name": "tray.full.fill",
+                  "size": 15,
+                  "color": "#5B2B50"
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 157,
-              "height": 82,
+              "width": 324,
+              "height": 37,
               "radius": 16,
               "padding": [
-                9,
+                6,
                 10,
-                9,
+                6,
                 10
               ],
-              "direction": "column",
-              "gap": 4,
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 135,
+                "angle": 128,
                 "colors": [
-                  "#BFEFE6",
-                  "#85D8DB",
-                  "#8FBDF1"
+                  "#BDEFE4",
+                  "#86D9DA",
+                  "#8FBDF3"
                 ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "direction": "column",
+                  "gap": 2,
                   "children": [
                     {
                       "type": "text",
-                      "text": "EXIT FREQUENCY",
-                      "color": "#153E50",
+                      "text": "10K IS LOOMING",
+                      "color": "#143B4B",
                       "font": {
-                        "size": 8,
+                        "size": 10,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 13,
-                      "color": "#1D5261"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "9.94K",
-                  "color": "#123747",
-                  "font": {
-                    "size": 21,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "children": [
-                    {
                       "type": "text",
-                      "text": "60 to 10K",
-                      "color": "#245667",
+                      "text": "Exit 9.94K • 60 left",
+                      "color": "#28596A",
                       "font": {
                         "size": 8,
                         "weight": "medium"
                       },
                       "lineLimit": 1
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "flag.checkered",
-                      "size": 11,
-                      "color": "#245667"
                     }
                   ]
+                },
+                {
+                  "type": "symbol",
+                  "name": "flag.checkered",
+                  "size": 15,
+                  "color": "#1F5261"
                 }
               ]
             }
@@ -250,8 +216,8 @@
           "children": [
             {
               "type": "text",
-              "text": "Saturday has voltage",
-              "color": "#F2F5FF",
+              "text": "Saturday changed its outfit",
+              "color": "#F3F6FF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -260,9 +226,9 @@
             },
             {
               "type": "symbol",
-              "name": "bolt.fill",
+              "name": "sparkles",
               "size": 10,
-              "color": "#FFD591"
+              "color": "#FFD79A"
             }
           ]
         }
