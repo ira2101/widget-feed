@@ -1,8 +1,8 @@
 {
-  "contentRevision": 480,
+  "contentRevision": 481,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T00:56:08Z",
+  "updatedAt": "2026-09-05T00:57:46Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -79,24 +79,23 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 42,
+              "width": 194,
+              "height": 84,
               "radius": 16,
               "padding": [
-                7,
+                10,
                 12,
-                7,
+                10,
                 12
               ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "gap": 8,
+              "direction": "column",
+              "justifyContent": "center",
+              "gap": 4,
               "background": {
                 "type": "gradient",
                 "angle": 125,
@@ -111,72 +110,69 @@
                   "type": "stack",
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 8,
+                  "gap": 6,
                   "children": [
                     {
                       "type": "symbol",
                       "name": "airplane.departure",
-                      "size": 13,
+                      "size": 12,
                       "color": "#FFFDF8"
                     },
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "UNITED ITINERARY",
-                          "color": "#FFFDF8",
-                          "font": {
-                            "size": 10,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "new trip mail landed",
-                          "color": "#2D1E4A",
-                          "font": {
-                            "size": 8,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "UNITED ITINERARY",
+                      "color": "#FFFDF8",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "symbol",
-                  "name": "arrow.up.right",
-                  "size": 9,
-                  "color": "#FFFDF8"
+                  "type": "text",
+                  "text": "new trip mail",
+                  "color": "#2D1E4A",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "landed at 8:18p",
+                  "color": "#4B315E",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 34,
-              "direction": "row",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 157,
-                  "height": 34,
+                  "width": 120,
+                  "height": 37,
                   "radius": 16,
                   "padding": [
-                    5,
+                    6,
                     10,
-                    5,
+                    6,
                     10
                   ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "direction": "column",
+                  "justifyContent": "center",
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 120,
@@ -188,32 +184,18 @@
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 5,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "play.fill",
-                          "size": 8,
-                          "color": "#30295F"
-                        },
-                        {
-                          "type": "text",
-                          "text": "EXIT 9.95K",
-                          "color": "#30295F",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "EXIT 9.95K",
+                      "color": "#30295F",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "50 LEFT",
+                      "text": "50 left",
                       "color": "#594F8F",
                       "font": {
                         "size": 8,
@@ -225,18 +207,18 @@
                 },
                 {
                   "type": "stack",
-                  "width": 157,
-                  "height": 34,
+                  "width": 120,
+                  "height": 37,
                   "radius": 16,
                   "padding": [
-                    5,
+                    6,
                     10,
-                    5,
+                    6,
                     10
                   ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "direction": "column",
+                  "justifyContent": "center",
+                  "gap": 2,
                   "background": {
                     "type": "gradient",
                     "angle": 120,
@@ -248,32 +230,18 @@
                   "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+is%3Aunread+newer_than%3A3d+-category%3Apromotions",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "alignItems": "center",
-                      "gap": 5,
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "envelope.badge.fill",
-                          "size": 8,
-                          "color": "#174F49"
-                        },
-                        {
-                          "type": "text",
-                          "text": "15 FRESH",
-                          "color": "#174F49",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "15 fresh",
+                      "color": "#174F49",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "INBOX",
+                      "text": "inbox",
                       "color": "#36766E",
                       "font": {
                         "size": 8,
