@@ -1,8 +1,8 @@
 {
-  "contentRevision": 491,
+  "contentRevision": 492,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T06:39:43Z",
+  "updatedAt": "2026-09-05T07:40:18Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,8 +25,9 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#CBE9FF",
-        "#E8D8FF"
+        "#FFDCC8",
+        "#DCD4FF",
+        "#BFE9F0"
       ]
     },
     "root": {
@@ -40,9 +41,9 @@
         "type": "gradient",
         "angle": 140,
         "colors": [
-          "#101C38",
-          "#2C2458",
-          "#3E316F"
+          "#0F1D30",
+          "#28204D",
+          "#3B2758"
         ]
       },
       "children": [
@@ -56,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • night clerk",
-              "color": "#F5F2FF",
+              "text": "tornado • after hours",
+              "color": "#F8F3FF",
               "font": {
                 "size": 10,
                 "weight": "semibold"
@@ -66,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "2:39am",
-              "color": "#D7E7FF",
+              "text": "12:38a",
+              "color": "#CFDFFF",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -80,42 +81,42 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "width": 324,
+              "height": 44,
               "radius": 16,
               "padding": [
-                10,
+                6,
                 12,
-                10,
+                6,
                 12
               ],
-              "direction": "column",
+              "direction": "row",
+              "alignItems": "center",
               "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
                 "angle": 125,
                 "colors": [
-                  "#FF8A72",
-                  "#D455A6",
-                  "#745CE8"
+                  "#FF806C",
+                  "#CC54A8",
+                  "#6B5CE7"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/from%3Arobin.einbinder%40yale.edu+subject%3A%22Water+test+results%22",
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "direction": "column",
+                  "gap": 2,
                   "children": [
                     {
                       "type": "text",
-                      "text": "WATER TEST",
+                      "text": "SATURDAY, UNMUTED",
                       "color": "#FFFFFF",
                       "font": {
                         "size": 12,
@@ -124,32 +125,9 @@
                       "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "drop.fill",
-                      "size": 13,
-                      "color": "#FFF4F8"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 2,
-                  "children": [
-                    {
                       "type": "text",
-                      "text": "Mom replied",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 11,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "the speck case has mail",
-                      "color": "#FFF0F7",
+                      "text": "night shift found neon",
+                      "color": "#FFF1FA",
                       "font": {
                         "size": 8,
                         "weight": "medium"
@@ -157,25 +135,31 @@
                       "lineLimit": 1
                     }
                   ]
+                },
+                {
+                  "type": "symbol",
+                  "name": "bolt.fill",
+                  "size": 15,
+                  "color": "#FFF4BE"
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
+              "width": 324,
+              "height": 32,
+              "direction": "row",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
+                  "width": 100,
+                  "height": 32,
                   "radius": 16,
                   "padding": [
-                    5,
+                    4,
                     8,
-                    5,
+                    4,
                     8
                   ],
                   "direction": "row",
@@ -185,40 +169,40 @@
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#A8E7DC",
-                      "#5EB8C5"
+                      "#FFE4B8",
+                      "#FFB98F"
                     ]
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+subject%3A%222+Rental+Results%22",
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "house.fill",
+                      "name": "chart.line.uptrend.xyaxis",
                       "size": 11,
-                      "color": "#153F54"
+                      "color": "#552D44"
                     },
                     {
                       "type": "stack",
                       "direction": "column",
-                      "gap": 1,
+                      "gap": 0,
                       "children": [
                         {
                           "type": "text",
-                          "text": "2 RENTALS",
-                          "color": "#15384C",
+                          "text": "EXIT",
+                          "color": "#4B2940",
                           "font": {
-                            "size": 9,
+                            "size": 8,
                             "weight": "bold"
                           },
                           "lineLimit": 1
                         },
                         {
                           "type": "text",
-                          "text": "SF 94109",
-                          "color": "#1D4D60",
+                          "text": "9.95K",
+                          "color": "#6B3551",
                           "font": {
                             "size": 7,
-                            "weight": "medium"
+                            "weight": "semibold"
                           },
                           "lineLimit": 1
                         }
@@ -228,13 +212,13 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
+                  "width": 100,
+                  "height": 32,
                   "radius": 16,
                   "padding": [
-                    5,
+                    4,
                     8,
-                    5,
+                    4,
                     8
                   ],
                   "direction": "row",
@@ -244,40 +228,99 @@
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#C9BBFF",
-                      "#8C87F2"
+                      "#B9EDE2",
+                      "#74C8D0"
                     ]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+(is%3Aimportant+OR+is%3Astarred)+-category%3Apromotions",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "chart.line.uptrend.xyaxis",
+                      "name": "envelope.badge.fill",
                       "size": 11,
-                      "color": "#2A2465"
+                      "color": "#164454"
                     },
                     {
                       "type": "stack",
                       "direction": "column",
-                      "gap": 1,
+                      "gap": 0,
                       "children": [
                         {
                           "type": "text",
-                          "text": "EXIT 9.95K",
-                          "color": "#27205F",
+                          "text": "FLAGGED",
+                          "color": "#153F4D",
                           "font": {
-                            "size": 9,
+                            "size": 8,
                             "weight": "bold"
                           },
                           "lineLimit": 1
                         },
                         {
                           "type": "text",
-                          "text": "50 LEFT",
-                          "color": "#3E3678",
+                          "text": "10",
+                          "color": "#1E5260",
                           "font": {
                             "size": 7,
-                            "weight": "medium"
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 32,
+                  "radius": 16,
+                  "padding": [
+                    4,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 6,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#D5C6FF",
+                      "#9B8EF2"
+                    ]
+                  },
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "music.note",
+                      "size": 11,
+                      "color": "#32255F"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "KERALA",
+                          "color": "#30245C",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "PLAY",
+                          "color": "#493C79",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
                           },
                           "lineLimit": 1
                         }
@@ -299,7 +342,7 @@
           "children": [
             {
               "type": "text",
-              "text": "saturday kept the receipts",
+              "text": "50 left • saturday is humming",
               "color": "#EAF2FF",
               "font": {
                 "size": 8,
@@ -308,14 +351,10 @@
               "lineLimit": 1
             },
             {
-              "type": "text",
-              "text": "play →",
-              "color": "#FFC8DE",
-              "font": {
-                "size": 8,
-                "weight": "semibold"
-              },
-              "lineLimit": 1,
+              "type": "symbol",
+              "name": "sparkles",
+              "size": 10,
+              "color": "#FFCDE6",
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
             }
           ]
