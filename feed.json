@@ -1,8 +1,8 @@
 {
-  "contentRevision": 505,
+  "contentRevision": 506,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T14:40:19Z",
+  "updatedAt": "2026-09-05T15:40:33Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,9 +25,9 @@
       "type": "gradient",
       "angle": 132,
       "colors": [
-        "#DFF4FF",
-        "#E7E2FF",
-        "#FFE9D8"
+        "#FFF3E7",
+        "#E6EDFF",
+        "#DDF7F2"
       ]
     },
     "root": {
@@ -41,9 +41,9 @@
         "type": "gradient",
         "angle": 142,
         "colors": [
-          "#173548",
-          "#28375E",
-          "#5E3D64"
+          "#142C43",
+          "#24375F",
+          "#3E426B"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "STACKED SATURDAY",
-              "color": "#FAFCFF",
+              "text": "SATURDAY, UNMUTED",
+              "color": "#F8FCFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "10:40am et",
-              "color": "#D8EAF4",
+              "text": "11:40am et",
+              "color": "#DCEAF5",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -81,138 +81,72 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
+          "direction": "row",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
+              "width": 194,
+              "height": 84,
               "radius": 16,
               "padding": [
-                5,
                 10,
-                5,
-                10
+                12,
+                10,
+                12
               ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
+              "direction": "column",
+              "gap": 5,
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 126,
+                "angle": 128,
                 "colors": [
-                  "#FFB98E",
-                  "#E995C1",
-                  "#A78BEA"
+                  "#FFC09A",
+                  "#EE9CC6",
+                  "#B69AF2"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22New+sign-in+to+your+OpenAI+account%22",
+              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "OPENAI SIGN-IN ALERT",
-                      "color": "#38233E",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "new inbox signal",
-                      "color": "#60405B",
-                      "font": {
-                        "size": 7,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "car.side.fill",
+                  "size": 16,
+                  "color": "#3D2749"
                 },
                 {
-                  "type": "symbol",
-                  "name": "exclamationmark.shield.fill",
-                  "size": 15,
-                  "color": "#4A2A4B"
+                  "type": "text",
+                  "text": "SUNDAY NEEDS WHEELS",
+                  "color": "#31233E",
+                  "font": {
+                    "size": 12,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "airport ride is still open",
+                  "color": "#5D3B5D",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
-              "direction": "row",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 157,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    5,
-                    9,
-                    5,
-                    9
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#DDE8FF",
-                      "#B8B9F3"
-                    ]
-                  },
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "EXIT 9.94K",
-                          "color": "#30305C",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "60 TO GO",
-                          "color": "#53537A",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "chart.line.uptrend.xyaxis",
-                      "size": 13,
-                      "color": "#403E72"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 157,
+                  "width": 120,
                   "height": 37,
                   "radius": 16,
                   "padding": [
@@ -229,10 +163,10 @@
                     "angle": 132,
                     "colors": [
                       "#DDF7ED",
-                      "#9DDFD1"
+                      "#A7E2D7"
                     ]
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Re%3A+Water+test+results%22",
+                  "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+is%3Aunread+is%3Aimportant",
                   "children": [
                     {
                       "type": "stack",
@@ -241,8 +175,8 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "MOM REPLIED",
-                          "color": "#173E43",
+                          "text": "7 IMPORTANT",
+                          "color": "#173F45",
                           "font": {
                             "size": 9,
                             "weight": "bold"
@@ -251,8 +185,8 @@
                         },
                         {
                           "type": "text",
-                          "text": "water note",
-                          "color": "#315D60",
+                          "text": "unread mail",
+                          "color": "#356166",
                           "font": {
                             "size": 7,
                             "weight": "medium"
@@ -263,9 +197,68 @@
                     },
                     {
                       "type": "symbol",
-                      "name": "drop.fill",
+                      "name": "envelope.badge.fill",
                       "size": 13,
-                      "color": "#23585B"
+                      "color": "#24575C"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    5,
+                    9,
+                    5,
+                    9
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 132,
+                    "colors": [
+                      "#E4E4FF",
+                      "#BBB9F2"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT 9.94K",
+                          "color": "#30305D",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "60 left",
+                          "color": "#56567D",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "chart.line.uptrend.xyaxis",
+                      "size": 13,
+                      "color": "#403F73"
                     }
                   ]
                 }
@@ -283,7 +276,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Saturday brought a plot twist",
+              "text": "Saturday has a getaway plot",
               "color": "#EEF8FF",
               "font": {
                 "size": 8,
@@ -293,9 +286,9 @@
             },
             {
               "type": "symbol",
-              "name": "wand.and.stars",
+              "name": "sparkles",
               "size": 10,
-              "color": "#FFD6ED"
+              "color": "#FFD4EB"
             }
           ]
         }
