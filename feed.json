@@ -1,8 +1,8 @@
 {
-  "contentRevision": 496,
+  "contentRevision": 497,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T08:42:14Z",
+  "updatedAt": "2026-09-05T09:40:14Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 145,
+        "angle": 140,
         "colors": [
           "#10263B",
-          "#243D5B",
-          "#4A3456"
+          "#253C5A",
+          "#4B3457"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • signal stack",
+              "text": "dawn prism trio",
               "color": "#F7F4FF",
               "font": {
                 "size": 10,
@@ -67,7 +67,7 @@
             },
             {
               "type": "text",
-              "text": "4:39a ET",
+              "text": "5:38a ET",
               "color": "#CDE6FF",
               "font": {
                 "size": 9,
@@ -81,108 +81,175 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 10,
+          "direction": "row",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
+              "width": 100,
+              "height": 84,
               "radius": 16,
               "padding": [
-                5,
-                10,
-                5,
-                10
+                9,
+                8,
+                9,
+                8
               ],
-              "direction": "row",
-              "alignItems": "center",
+              "direction": "column",
               "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 110,
+                "angle": 145,
                 "colors": [
-                  "#FFD7BC",
-                  "#FF9E91",
+                  "#FFD9B8",
+                  "#FF9D91",
                   "#D66DB2"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22",
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22New+sign-in+to+your+OpenAI+account%22",
               "children": [
                 {
                   "type": "stack",
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 8,
+                  "justifyContent": "space-between",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "envelope.open.fill",
-                      "size": 12,
-                      "color": "#4B2146"
+                      "name": "shield.lefthalf.filled",
+                      "size": 15,
+                      "color": "#46213F"
                     },
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 0,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "MOM REPLIED",
-                          "color": "#3C1B3C",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "Water test results",
-                          "color": "#5A2850",
-                          "font": {
-                            "size": 7,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 9,
+                      "color": "#5B2A4D"
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "OPEN",
-                  "color": "#4A2145",
-                  "font": {
-                    "size": 7,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SIGN-IN",
+                      "color": "#351A35",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "OpenAI alert",
+                      "color": "#5B2A4D",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 37,
+              "width": 100,
+              "height": 84,
               "radius": 16,
               "padding": [
-                5,
-                10,
-                5,
-                10
+                9,
+                8,
+                9,
+                8
               ],
-              "direction": "row",
-              "alignItems": "center",
+              "direction": "column",
               "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 110,
+                "angle": 145,
                 "colors": [
-                  "#BDF1E4",
-                  "#83D4DA",
-                  "#7CA7ED"
+                  "#D8D7FF",
+                  "#B9A7F4",
+                  "#7D8FDB"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Travel+itinerary+from+United+Airlines%22",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "airplane",
+                      "size": 15,
+                      "color": "#24305F"
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 9,
+                      "color": "#354279"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "UNITED",
+                      "color": "#202A56",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "itinerary",
+                      "color": "#354279",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 84,
+              "radius": 16,
+              "padding": [
+                9,
+                9,
+                9,
+                9
+              ],
+              "direction": "column",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#C9F2DE",
+                  "#87D6D7",
+                  "#79A7E8"
                 ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
@@ -191,48 +258,48 @@
                   "type": "stack",
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 8,
+                  "justifyContent": "space-between",
                   "children": [
                     {
                       "type": "symbol",
                       "name": "chart.line.uptrend.xyaxis",
-                      "size": 12,
+                      "size": 15,
                       "color": "#173D58"
                     },
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 0,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "EXIT FREQUENCY",
-                          "color": "#12374E",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "9.95K • 50 LEFT",
-                          "color": "#1D526A",
-                          "font": {
-                            "size": 7,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 9,
+                      "color": "#24536B"
                     }
                   ]
                 },
                 {
-                  "type": "symbol",
-                  "name": "arrow.up.right",
-                  "size": 10,
-                  "color": "#173D58"
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT",
+                      "color": "#12374E",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "9.95K • 50",
+                      "color": "#1D526A",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -248,7 +315,7 @@
           "children": [
             {
               "type": "text",
-              "text": "before sunrise, useful sparks",
+              "text": "three sparks before sunrise",
               "color": "#EDF4FF",
               "font": {
                 "size": 8,
