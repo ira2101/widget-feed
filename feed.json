@@ -1,8 +1,8 @@
 {
-  "contentRevision": 507,
+  "contentRevision": 508,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T16:39:52Z",
+  "updatedAt": "2026-09-05T16:56:05Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -67,7 +67,7 @@
             },
             {
               "type": "text",
-              "text": "12:39pm et",
+              "text": "12:56pm et",
               "color": "#DCEAF5",
               "font": {
                 "size": 9,
