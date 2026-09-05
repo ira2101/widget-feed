@@ -1,1 +1,305 @@
-{"contentRevision":485,"mode":"native","version":5,"updatedAt":"2026-09-05T03:40:02Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":145,"colors":["#FFDCCB","#CDC7FF"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":140,"colors":["#0F1D30","#38234C"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"tornado • night watch","color":"#FFF5F7","font":{"size":10,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"11:40pm","color":"#D9E7FF","font":{"size":9,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":324,"height":47,"radius":16,"padding":[6,10,6,10],"direction":"row","alignItems":"center","gap":10,"background":{"type":"gradient","angle":135,"colors":["#FF8B79","#9B5DE5"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Anoreply%40tm.openai.com+subject%3A%22New+sign-in+to+your+OpenAI+account%22","children":[{"type":"stack","width":34,"height":34,"radius":16,"direction":"column","alignItems":"center","justifyContent":"center","background":{"type":"color","color":"#5B244A"},"children":[{"type":"symbol","name":"shield.lefthalf.filled","size":15,"color":"#FFFFFF"}]},{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"NEW SIGN-IN","color":"#FFFFFF","font":{"size":11,"weight":"bold"},"lineLimit":1},{"type":"text","text":"OpenAI • 11:29pm","color":"#FFF1F5","font":{"size":9,"weight":"semibold"},"lineLimit":1},{"type":"text","text":"check if that was you","color":"#FDE8FF","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"spacer"},{"type":"symbol","name":"arrow.up.right","size":11,"color":"#FFFFFF"}]},{"type":"stack","width":324,"height":27,"direction":"row","gap":10,"children":[{"type":"stack","width":100,"height":27,"radius":16,"direction":"row","alignItems":"center","justifyContent":"center","gap":4,"background":{"type":"gradient","angle":135,"colors":["#FFD6C9","#FFAD9D"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Anoreply%40tm.openai.com+subject%3A%22New+sign-in+to+your+OpenAI+account%22","children":[{"type":"symbol","name":"envelope.badge.fill","size":9,"color":"#63334A"},{"type":"text","text":"OPEN MAIL","color":"#63334A","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":100,"height":27,"radius":16,"direction":"row","alignItems":"center","justifyContent":"center","gap":4,"background":{"type":"gradient","angle":135,"colors":["#D8D0FF","#A995FF"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"symbol","name":"play.rectangle.fill","size":9,"color":"#352B67"},{"type":"text","text":"EXIT 9.95K","color":"#352B67","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":104,"height":27,"radius":16,"direction":"row","alignItems":"center","justifyContent":"center","gap":4,"background":{"type":"gradient","angle":135,"colors":["#BDEFE0","#79D3C2"]},"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"symbol","name":"music.note","size":9,"color":"#174C4A"},{"type":"text","text":"PLAY","color":"#174C4A","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/from%3Anoreply%40tm.openai.com+subject%3A%22New+sign-in+to+your+OpenAI+account%22","children":[{"type":"text","text":"night sent a security ping","color":"#EAF2FF","font":{"size":8,"weight":"medium"},"lineLimit":1},{"type":"stack","direction":"row","alignItems":"center","gap":3,"children":[{"type":"text","text":"check it","color":"#FFB4C5","font":{"size":8,"weight":"semibold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":8,"color":"#FFB4C5"}]}]}]}}}
+{
+  "contentRevision": 486,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-05T04:39:47Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 145,
+      "colors": [
+        "#FFD7C8",
+        "#CFC8FF"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#162A44",
+          "#49316E"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "tornado • twin sparks",
+              "color": "#FFF4F2",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "12:39am",
+              "color": "#DDE9FF",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 157,
+              "height": 84,
+              "radius": 16,
+              "padding": [
+                9,
+                10,
+                9,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "gap": 8,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#FF8A74",
+                  "#AE4D91"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Anoreply%40tm.openai.com+subject%3A%22New+sign-in+to+your+OpenAI+account%22",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 32,
+                  "height": 32,
+                  "radius": 16,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#742F68"
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "shield.lefthalf.filled",
+                      "size": 14,
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 97,
+                  "direction": "column",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "OPENAI",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "NEW SIGN-IN",
+                      "color": "#FFF1F6",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "tap to verify",
+                      "color": "#FFE0EA",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 157,
+              "height": 84,
+              "radius": 16,
+              "padding": [
+                9,
+                10,
+                9,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "gap": 8,
+              "background": {
+                "type": "gradient",
+                "angle": 135,
+                "colors": [
+                  "#59D7C4",
+                  "#4168D8"
+                ]
+              },
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 32,
+                  "height": 32,
+                  "radius": 16,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#245B90"
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform",
+                      "size": 14,
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 97,
+                  "direction": "column",
+                  "gap": 3,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "MIDNIGHT MIX",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "KERALA",
+                      "color": "#E9FBFF",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "press play",
+                      "color": "#D8F5FF",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "saturday entered loud",
+              "color": "#EAF2FF",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "stack",
+              "direction": "row",
+              "alignItems": "center",
+              "gap": 3,
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "50 to 10K",
+                  "color": "#FFB8CB",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "symbol",
+                  "name": "arrow.up.right",
+                  "size": 8,
+                  "color": "#FFB8CB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
