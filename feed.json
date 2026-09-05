@@ -1,8 +1,8 @@
 {
-  "contentRevision": 506,
+  "contentRevision": 507,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T15:40:33Z",
+  "updatedAt": "2026-09-05T16:39:52Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 138,
       "colors": [
-        "#FFF3E7",
-        "#E6EDFF",
-        "#DDF7F2"
+        "#EAF7FF",
+        "#E8E2FF",
+        "#FFF2DB"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 145,
         "colors": [
-          "#142C43",
-          "#24375F",
-          "#3E426B"
+          "#123650",
+          "#244660",
+          "#403D6B"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "SATURDAY, UNMUTED",
+              "text": "LUNCHTIME GLOW",
               "color": "#F8FCFF",
               "font": {
                 "size": 9,
@@ -67,7 +67,7 @@
             },
             {
               "type": "text",
-              "text": "11:40am et",
+              "text": "12:39pm et",
               "color": "#DCEAF5",
               "font": {
                 "size": 9,
@@ -80,45 +80,37 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 84,
+          "height": 42,
+          "radius": 16,
+          "padding": [
+            7,
+            12,
+            7,
+            12
+          ],
           "direction": "row",
-          "gap": 10,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "background": {
+            "type": "gradient",
+            "angle": 118,
+            "colors": [
+              "#5FE0C8",
+              "#77A8F6",
+              "#B985ED"
+            ]
+          },
+          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
-              "radius": 16,
-              "padding": [
-                10,
-                12,
-                10,
-                12
-              ],
               "direction": "column",
-              "gap": 5,
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 128,
-                "colors": [
-                  "#FFC09A",
-                  "#EE9CC6",
-                  "#B69AF2"
-                ]
-              },
-              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
+              "gap": 2,
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "car.side.fill",
-                  "size": 16,
-                  "color": "#3D2749"
-                },
-                {
                   "type": "text",
-                  "text": "SUNDAY NEEDS WHEELS",
-                  "color": "#31233E",
+                  "text": "NOON HAS A SOUNDTRACK",
+                  "color": "#102E46",
                   "font": {
                     "size": 12,
                     "weight": "bold"
@@ -127,8 +119,8 @@
                 },
                 {
                   "type": "text",
-                  "text": "airport ride is still open",
-                  "color": "#5D3B5D",
+                  "text": "Kerala, press play",
+                  "color": "#21445D",
                   "font": {
                     "size": 8,
                     "weight": "medium"
@@ -138,127 +130,192 @@
               ]
             },
             {
+              "type": "symbol",
+              "name": "waveform",
+              "size": 18,
+              "color": "#17354E"
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 32,
+          "direction": "row",
+          "gap": 8,
+          "children": [
+            {
               "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
+              "width": 100,
+              "height": 32,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "row",
+              "gap": 6,
+              "alignItems": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 130,
+                "colors": [
+                  "#FFD4C6",
+                  "#F7A9C3"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Water+test+results%22",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    5,
-                    9,
-                    5,
-                    9
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#DDF7ED",
-                      "#A7E2D7"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+is%3Aunread+is%3Aimportant",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "7 IMPORTANT",
-                          "color": "#173F45",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "unread mail",
-                          "color": "#356166",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 13,
-                      "color": "#24575C"
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "envelope.fill",
+                  "size": 12,
+                  "color": "#603247"
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    5,
-                    9,
-                    5,
-                    9
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#E4E4FF",
-                      "#BBB9F2"
-                    ]
-                  },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "direction": "column",
+                  "gap": 1,
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "EXIT 9.94K",
-                          "color": "#30305D",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "60 left",
-                          "color": "#56567D",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "MOM NOTE",
+                      "color": "#51263A",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "chart.line.uptrend.xyaxis",
-                      "size": 13,
-                      "color": "#403F73"
+                      "type": "text",
+                      "text": "water reply",
+                      "color": "#744658",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 32,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "row",
+              "gap": 6,
+              "alignItems": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 130,
+                "colors": [
+                  "#D7F7EE",
+                  "#9FDED3"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "chart.line.uptrend.xyaxis",
+                  "size": 12,
+                  "color": "#24544F"
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT",
+                      "color": "#173F3C",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "9.94K",
+                      "color": "#35635E",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 32,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "row",
+              "gap": 6,
+              "alignItems": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 130,
+                "colors": [
+                  "#E1DDFF",
+                  "#BAB4F2"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "flag.checkered",
+                  "size": 12,
+                  "color": "#403E70"
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "60 TO GO",
+                      "color": "#34325F",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "10K watch",
+                      "color": "#5A5780",
+                      "font": {
+                        "size": 7,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 }
@@ -276,7 +333,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Saturday has a getaway plot",
+              "text": "Saturday found its chorus",
               "color": "#EEF8FF",
               "font": {
                 "size": 8,
@@ -288,7 +345,7 @@
               "type": "symbol",
               "name": "sparkles",
               "size": 10,
-              "color": "#FFD4EB"
+              "color": "#FFD7EC"
             }
           ]
         }
