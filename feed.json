@@ -1,8 +1,8 @@
 {
-  "contentRevision": 497,
+  "contentRevision": 498,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T09:40:14Z",
+  "updatedAt": "2026-09-05T10:40:00Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,9 +25,9 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#E7F5FF",
-        "#E8E0FF",
-        "#FFE8D7"
+        "#FFF4E3",
+        "#E7DEFF",
+        "#D8F5EE"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 140,
+        "angle": 142,
         "colors": [
           "#10263B",
-          "#253C5A",
-          "#4B3457"
+          "#302953",
+          "#1D4A55"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "dawn prism trio",
+              "text": "dawn control deck",
               "color": "#F7F4FF",
               "font": {
                 "size": 10,
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "5:38a ET",
-              "color": "#CDE6FF",
+              "text": "6:40am ET",
+              "color": "#CFE9FF",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -82,18 +82,18 @@
           "width": 324,
           "height": 84,
           "direction": "row",
-          "gap": 8,
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 16,
               "padding": [
+                10,
+                11,
                 9,
-                8,
-                9,
-                8
+                11
               ],
               "direction": "column",
               "justifyContent": "space-between",
@@ -101,9 +101,9 @@
                 "type": "gradient",
                 "angle": 145,
                 "colors": [
-                  "#FFD9B8",
-                  "#FF9D91",
-                  "#D66DB2"
+                  "#FFC9A8",
+                  "#F5849D",
+                  "#9C65D9"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22New+sign-in+to+your+OpenAI+account%22",
@@ -117,38 +117,42 @@
                     {
                       "type": "symbol",
                       "name": "shield.lefthalf.filled",
-                      "size": 15,
-                      "color": "#46213F"
+                      "size": 16,
+                      "color": "#3D1E4A"
                     },
                     {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 9,
-                      "color": "#5B2A4D"
+                      "type": "text",
+                      "text": "MAIL SIGNAL",
+                      "color": "#4B234F",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 },
                 {
                   "type": "stack",
                   "direction": "column",
-                  "gap": 1,
+                  "gap": 2,
                   "children": [
                     {
                       "type": "text",
-                      "text": "SIGN-IN",
-                      "color": "#351A35",
+                      "text": "OPENAI SIGN-IN",
+                      "color": "#2C1738",
                       "font": {
-                        "size": 10,
+                        "size": 13,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "OpenAI alert",
-                      "color": "#5B2A4D",
+                      "text": "unread • tap to inspect",
+                      "color": "#512852",
                       "font": {
-                        "size": 8,
+                        "size": 9,
                         "weight": "semibold"
                       },
                       "lineLimit": 1
@@ -159,145 +163,128 @@
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
-              "radius": 16,
-              "padding": [
-                9,
-                8,
-                9,
-                8
-              ],
               "direction": "column",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 145,
-                "colors": [
-                  "#D8D7FF",
-                  "#B9A7F4",
-                  "#7D8FDB"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Travel+itinerary+from+United+Airlines%22",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    7,
+                    9,
+                    7,
+                    9
+                  ],
                   "direction": "row",
                   "alignItems": "center",
                   "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 145,
+                    "colors": [
+                      "#C8F1DE",
+                      "#82D7CF"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "airplane",
-                      "size": 15,
-                      "color": "#24305F"
+                      "name": "tray.full.fill",
+                      "size": 13,
+                      "color": "#173E46"
                     },
                     {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 9,
-                      "color": "#354279"
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "alignItems": "end",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "6 IMPORTANT",
+                          "color": "#173B43",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "unread",
+                          "color": "#285861",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "UNITED",
-                      "color": "#202A56",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "itinerary",
-                      "color": "#354279",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 108,
-              "height": 84,
-              "radius": 16,
-              "padding": [
-                9,
-                9,
-                9,
-                9
-              ],
-              "direction": "column",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 145,
-                "colors": [
-                  "#C9F2DE",
-                  "#87D6D7",
-                  "#79A7E8"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    7,
+                    9,
+                    7,
+                    9
+                  ],
                   "direction": "row",
                   "alignItems": "center",
                   "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 145,
+                    "colors": [
+                      "#DDD5FF",
+                      "#9AA7EF"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
                       "name": "chart.line.uptrend.xyaxis",
-                      "size": 15,
-                      "color": "#173D58"
+                      "size": 13,
+                      "color": "#27325F"
                     },
                     {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 9,
-                      "color": "#24536B"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "EXIT",
-                      "color": "#12374E",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "9.95K • 50",
-                      "color": "#1D526A",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "alignItems": "end",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT 9.95K",
+                          "color": "#252E5B",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "50 left",
+                          "color": "#3E4B78",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -315,8 +302,8 @@
           "children": [
             {
               "type": "text",
-              "text": "three sparks before sunrise",
-              "color": "#EDF4FF",
+              "text": "saturday arrived with receipts",
+              "color": "#EDF5FF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -327,7 +314,7 @@
               "type": "symbol",
               "name": "music.note",
               "size": 10,
-              "color": "#FFD5E9",
+              "color": "#FFD7E8",
               "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
             }
           ]
