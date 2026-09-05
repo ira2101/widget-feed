@@ -1,8 +1,8 @@
 {
-  "contentRevision": 513,
+  "contentRevision": 514,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T20:43:03Z",
+  "updatedAt": "2026-09-05T21:40:15Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 128,
+      "angle": 126,
       "colors": [
-        "#FFF3E2",
-        "#E8E4FF",
-        "#D8F2F0"
+        "#FFF0DE",
+        "#E8E2FF",
+        "#D7F1EC"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 138,
+        "angle": 136,
         "colors": [
-          "#0F1D30",
-          "#1A3152",
-          "#3A315D"
+          "#12223A",
+          "#26345A",
+          "#573C64"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "WEEKEND DISPATCH",
-              "color": "#F8FAFF",
+              "text": "SIGNAL STAIRCASE",
+              "color": "#FFF9F4",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "4:43pm et",
-              "color": "#DCE7F6",
+              "text": "5:40pm et",
+              "color": "#E6E8F5",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -81,30 +81,149 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 9,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
+              "width": 324,
+              "height": 22,
               "radius": 16,
               "padding": [
+                3,
                 12,
-                14,
-                12,
-                14
+                3,
+                12
               ],
-              "direction": "column",
-              "gap": 4,
-              "justifyContent": "center",
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 148,
+                "angle": 118,
                 "colors": [
-                  "#82DDE0",
-                  "#7199E7",
-                  "#9B73DD"
+                  "#FFD7C7",
+                  "#F1B7D3"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Arobin.einbinder%40yale.edu+subject%3A%22Water+test+results%22",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "drop.fill",
+                      "size": 11,
+                      "color": "#54283F"
+                    },
+                    {
+                      "type": "text",
+                      "text": "WATER NOTE",
+                      "color": "#54283F",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Mom replied",
+                  "color": "#54283F",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 22,
+              "radius": 16,
+              "padding": [
+                3,
+                12,
+                3,
+                12
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#C8F0E6",
+                  "#83D7D5"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "arrow.up.right.circle.fill",
+                      "size": 11,
+                      "color": "#174B54"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT 9.94K",
+                      "color": "#174B54",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "60 left",
+                  "color": "#174B54",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 22,
+              "radius": 16,
+              "padding": [
+                3,
+                12,
+                3,
+                12
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#DDD6FF",
+                  "#B8B4F5"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/from%3Aunited.com+subject%3A%22Travel+itinerary%22",
@@ -118,15 +237,15 @@
                     {
                       "type": "symbol",
                       "name": "car.fill",
-                      "size": 15,
-                      "color": "#FFFFFF"
+                      "size": 11,
+                      "color": "#302B61"
                     },
                     {
                       "type": "text",
                       "text": "SUNDAY RIDE",
-                      "color": "#FFFFFF",
+                      "color": "#302B61",
                       "font": {
-                        "size": 12,
+                        "size": 9,
                         "weight": "bold"
                       },
                       "lineLimit": 1
@@ -135,150 +254,13 @@
                 },
                 {
                   "type": "text",
-                  "text": "UA2171 • plan check",
-                  "color": "#F2F6FF",
+                  "text": "still open",
+                  "color": "#302B61",
                   "font": {
-                    "size": 9,
+                    "size": 8,
                     "weight": "medium"
                   },
                   "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "tap itinerary",
-                  "color": "#EAF4FF",
-                  "font": {
-                    "size": 7,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 120,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    6,
-                    10,
-                    6,
-                    10
-                  ],
-                  "direction": "row",
-                  "gap": 7,
-                  "alignItems": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#FFD9C8",
-                      "#F5B8D0"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 12,
-                      "color": "#5C2947"
-                    },
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "7 IMPORTANT",
-                          "color": "#48223A",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "inbox now",
-                          "color": "#70445E",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    6,
-                    10,
-                    6,
-                    10
-                  ],
-                  "direction": "row",
-                  "gap": 7,
-                  "alignItems": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#C6EEE6",
-                      "#8DD7D3"
-                    ]
-                  },
-                  "url": "https://www.youtube.com/@exitfrequency",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right.circle.fill",
-                      "size": 12,
-                      "color": "#184D57"
-                    },
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "EXIT 9.94K",
-                          "color": "#173F49",
-                          "font": {
-                            "size": 9,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "60 to 10K",
-                          "color": "#315F67",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
@@ -294,8 +276,8 @@
           "children": [
             {
               "type": "text",
-              "text": "tomorrow has wings",
-              "color": "#F3F7FF",
+              "text": "three bright breadcrumbs",
+              "color": "#F4F5FF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -304,9 +286,9 @@
             },
             {
               "type": "symbol",
-              "name": "airplane",
+              "name": "sparkles",
               "size": 11,
-              "color": "#FFD99A"
+              "color": "#FFDDA3"
             }
           ]
         }
