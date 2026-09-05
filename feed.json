@@ -1,8 +1,8 @@
 {
-  "contentRevision": 515,
+  "contentRevision": 516,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T22:39:39Z",
+  "updatedAt": "2026-09-05T23:39:39Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 128,
+      "angle": 132,
       "colors": [
-        "#FFE8D6",
-        "#E6DBFF",
-        "#C9EEE8"
+        "#FFE7D1",
+        "#E9DCFF",
+        "#CDEFE8"
       ]
     },
     "root": {
@@ -39,26 +39,26 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 132,
+        "angle": 128,
         "colors": [
-          "#0F1D30",
-          "#23355C",
-          "#563B72"
+          "#10243A",
+          "#243B63",
+          "#60466F"
         ]
       },
       "children": [
         {
           "type": "stack",
           "width": 324,
-          "height": 16,
+          "height": 18,
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "GOLDEN HOUR, IRA",
-              "color": "#FFF8F3",
+              "text": "SATURDAY NIGHT SHIFT",
+              "color": "#FFF7F2",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "6:39pm et",
-              "color": "#E7DCF7",
+              "text": "7:39pm et",
+              "color": "#E9DFF6",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -80,37 +80,45 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 42,
-          "radius": 16,
-          "padding": [
-            6,
-            12,
-            6,
-            12
-          ],
+          "height": 82,
           "direction": "row",
-          "alignItems": "center",
-          "justifyContent": "space-between",
-          "background": {
-            "type": "gradient",
-            "angle": 118,
-            "colors": [
-              "#FFB57B",
-              "#D980B8",
-              "#7E74D8"
-            ]
-          },
-          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
+              "width": 157,
+              "height": 82,
+              "radius": 16,
+              "padding": [
+                10,
+                12,
+                10,
+                12
+              ],
               "direction": "column",
-              "gap": 2,
+              "gap": 5,
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 122,
+                "colors": [
+                  "#FFC77C",
+                  "#F28E9D",
+                  "#C878C9"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Aunited.com+subject%3A%22Travel+itinerary%22",
               "children": [
                 {
+                  "type": "symbol",
+                  "name": "car.fill",
+                  "size": 15,
+                  "color": "#3C2343"
+                },
+                {
                   "type": "text",
-                  "text": "EVENING, ACTIVATED",
-                  "color": "#2D173B",
+                  "text": "SUNDAY RIDE",
+                  "color": "#34213D",
                   "font": {
                     "size": 12,
                     "weight": "bold"
@@ -119,10 +127,10 @@
                 },
                 {
                   "type": "text",
-                  "text": "Kerala is one tap away",
-                  "color": "#49244E",
+                  "text": "driver still needed",
+                  "color": "#4D2C49",
                   "font": {
-                    "size": 8,
+                    "size": 9,
                     "weight": "medium"
                   },
                   "lineLimit": 1
@@ -130,41 +138,26 @@
               ]
             },
             {
-              "type": "symbol",
-              "name": "play.circle.fill",
-              "size": 24,
-              "color": "#FFF8F3"
-            }
-          ]
-        },
-        {
-          "type": "stack",
-          "width": 324,
-          "height": 32,
-          "direction": "row",
-          "gap": 8,
-          "children": [
-            {
               "type": "stack",
-              "width": 100,
-              "height": 32,
+              "width": 157,
+              "height": 82,
               "radius": 16,
               "padding": [
-                4,
-                8,
-                4,
-                8
+                10,
+                12,
+                10,
+                12
               ],
-              "direction": "row",
-              "gap": 6,
-              "alignItems": "center",
+              "direction": "column",
+              "gap": 5,
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 118,
+                "angle": 122,
                 "colors": [
-                  "#C8F0E6",
-                  "#8ADBD3"
+                  "#BDEFE0",
+                  "#8DD8DF",
+                  "#8DA9EF"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
@@ -172,102 +165,26 @@
                 {
                   "type": "symbol",
                   "name": "envelope.badge.fill",
-                  "size": 11,
-                  "color": "#174B54"
+                  "size": 15,
+                  "color": "#183E55"
                 },
                 {
                   "type": "text",
-                  "text": "7 MAIL",
-                  "color": "#174B54",
+                  "text": "7 IMPORTANT",
+                  "color": "#173B51",
                   "font": {
-                    "size": 8,
+                    "size": 12,
                     "weight": "bold"
                   },
                   "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 32,
-              "radius": 16,
-              "padding": [
-                4,
-                8,
-                4,
-                8
-              ],
-              "direction": "row",
-              "gap": 6,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 118,
-                "colors": [
-                  "#DDD6FF",
-                  "#B8B4F5"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "arrow.up.right.circle.fill",
-                  "size": 11,
-                  "color": "#302B61"
                 },
                 {
                   "type": "text",
-                  "text": "9.94K",
-                  "color": "#302B61",
+                  "text": "inbox signals",
+                  "color": "#275269",
                   "font": {
-                    "size": 8,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 108,
-              "height": 32,
-              "radius": 16,
-              "padding": [
-                4,
-                8,
-                4,
-                8
-              ],
-              "direction": "row",
-              "gap": 6,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 118,
-                "colors": [
-                  "#FFD7C7",
-                  "#F1B7D3"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/from%3Aunited.com+subject%3A%22Travel+itinerary%22",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "car.fill",
-                  "size": 11,
-                  "color": "#54283F"
-                },
-                {
-                  "type": "text",
-                  "text": "SUN RIDE",
-                  "color": "#54283F",
-                  "font": {
-                    "size": 8,
-                    "weight": "bold"
+                    "size": 9,
+                    "weight": "medium"
                   },
                   "lineLimit": 1
                 }
@@ -279,25 +196,51 @@
           "type": "stack",
           "width": 324,
           "height": 18,
+          "radius": 16,
+          "padding": [
+            2,
+            8,
+            2,
+            8
+          ],
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
+          "background": {
+            "type": "gradient",
+            "angle": 110,
+            "colors": [
+              "#6A5A98",
+              "#3B608A"
+            ]
+          },
+          "url": "https://www.youtube.com/@exitfrequency",
           "children": [
             {
               "type": "text",
-              "text": "Saturday turns electric",
-              "color": "#F4F5FF",
+              "text": "EXIT 9.94K",
+              "color": "#FFF8F2",
               "font": {
                 "size": 8,
-                "weight": "medium"
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "60 TO GO",
+              "color": "#DFF7F4",
+              "font": {
+                "size": 8,
+                "weight": "bold"
               },
               "lineLimit": 1
             },
             {
               "type": "symbol",
-              "name": "sparkles",
-              "size": 11,
-              "color": "#FFDDA3"
+              "name": "arrow.up.right.circle.fill",
+              "size": 10,
+              "color": "#FFE2A8"
             }
           ]
         }
