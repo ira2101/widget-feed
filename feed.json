@@ -1,8 +1,8 @@
 {
-  "contentRevision": 498,
+  "contentRevision": 499,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T10:40:00Z",
+  "updatedAt": "2026-09-05T11:13:02Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -266,7 +266,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "EXIT 9.95K",
+                          "text": "EXIT 9.94K",
                           "color": "#252E5B",
                           "font": {
                             "size": 8,
@@ -276,7 +276,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "50 left",
+                          "text": "60 left",
                           "color": "#3E4B78",
                           "font": {
                             "size": 7,
