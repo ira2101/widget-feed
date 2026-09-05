@@ -1,8 +1,8 @@
 {
-  "contentRevision": 493,
+  "contentRevision": 494,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T07:48:45Z",
+  "updatedAt": "2026-09-05T07:51:44Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -25,9 +25,9 @@
       "type": "gradient",
       "angle": 135,
       "colors": [
-        "#FFDCC8",
-        "#DCD4FF",
-        "#BFE9F0"
+        "#CDEBFF",
+        "#E4D9FF",
+        "#FFD9C7"
       ]
     },
     "root": {
@@ -41,9 +41,9 @@
         "type": "gradient",
         "angle": 140,
         "colors": [
-          "#0F1D30",
-          "#28204D",
-          "#3B2758"
+          "#0B2235",
+          "#1D315B",
+          "#422A63"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "tornado • after hours",
+              "text": "tornado • neon orbit",
               "color": "#F8F3FF",
               "font": {
                 "size": 10,
@@ -67,7 +67,7 @@
             },
             {
               "type": "text",
-              "text": "12:38a",
+              "text": "12:49a",
               "color": "#CFDFFF",
               "font": {
                 "size": 9,
@@ -81,96 +81,36 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 44,
-              "radius": 16,
-              "padding": [
-                6,
-                12,
-                6,
-                12
-              ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 125,
-                "colors": [
-                  "#FF806C",
-                  "#CC54A8",
-                  "#6B5CE7"
-                ]
-              },
-              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "width": 96,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "gap": 2,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "SATURDAY, UNMUTED",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 12,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "night shift found neon",
-                      "color": "#FFF1FA",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "symbol",
-                  "name": "bolt.fill",
-                  "size": 15,
-                  "color": "#FFF4BE"
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 324,
-              "height": 32,
-              "direction": "row",
-              "gap": 8,
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 32,
+                  "width": 96,
+                  "height": 37,
                   "radius": 16,
                   "padding": [
                     4,
-                    8,
+                    7,
                     4,
-                    8
+                    7
                   ],
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 6,
+                  "gap": 5,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#FFE4B8",
-                      "#FFB98F"
+                      "#FFE2B4",
+                      "#FFB48D"
                     ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
@@ -178,7 +118,7 @@
                     {
                       "type": "symbol",
                       "name": "chart.line.uptrend.xyaxis",
-                      "size": 11,
+                      "size": 10,
                       "color": "#552D44"
                     },
                     {
@@ -189,9 +129,9 @@
                         {
                           "type": "text",
                           "text": "EXIT",
-                          "color": "#4B2940",
+                          "color": "#552D44",
                           "font": {
-                            "size": 8,
+                            "size": 7,
                             "weight": "bold"
                           },
                           "lineLimit": 1
@@ -212,33 +152,33 @@
                 },
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 32,
+                  "width": 96,
+                  "height": 37,
                   "radius": 16,
                   "padding": [
                     4,
-                    8,
+                    7,
                     4,
-                    8
+                    7
                   ],
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 6,
+                  "gap": 5,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#B9EDE2",
-                      "#74C8D0"
+                      "#D9C9FF",
+                      "#9E8EF1"
                     ]
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+(is%3Aimportant+OR+is%3Astarred)+-category%3Apromotions",
+                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 11,
-                      "color": "#164454"
+                      "name": "flag.checkered",
+                      "size": 10,
+                      "color": "#32255F"
                     },
                     {
                       "type": "stack",
@@ -247,17 +187,149 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "FLAGGED",
-                          "color": "#153F4D",
+                          "text": "GOAL",
+                          "color": "#32255F",
                           "font": {
-                            "size": 8,
+                            "size": 7,
                             "weight": "bold"
                           },
                           "lineLimit": 1
                         },
                         {
                           "type": "text",
-                          "text": "10",
+                          "text": "50 LEFT",
+                          "color": "#493C79",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 112,
+              "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 84,
+                  "height": 84,
+                  "radius": 42,
+                  "padding": [
+                    12,
+                    10,
+                    12,
+                    10
+                  ],
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": 2,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#FF7B73",
+                      "#CF4FAE",
+                      "#655DE8"
+                    ]
+                  },
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "music.note",
+                      "size": 13,
+                      "color": "#FFF3BE"
+                    },
+                    {
+                      "type": "text",
+                      "text": "KERALA",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "AFTER DARK",
+                      "color": "#FFF1FA",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 96,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 96,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    4,
+                    7,
+                    4,
+                    7
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "gap": 5,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#BCEEE2",
+                      "#76C8D0"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+(is%3Aimportant+OR+is%3Astarred)+-category%3Apromotions",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 10,
+                      "color": "#153F4D"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "MAIL",
+                          "color": "#153F4D",
+                          "font": {
+                            "size": 7,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "10 FLAGGED",
                           "color": "#1E5260",
                           "font": {
                             "size": 7,
@@ -271,33 +343,33 @@
                 },
                 {
                   "type": "stack",
-                  "width": 108,
-                  "height": 32,
+                  "width": 96,
+                  "height": 37,
                   "radius": 16,
                   "padding": [
                     4,
-                    8,
+                    7,
                     4,
-                    8
+                    7
                   ],
                   "direction": "row",
                   "alignItems": "center",
-                  "gap": 6,
+                  "gap": 5,
                   "background": {
                     "type": "gradient",
                     "angle": 135,
                     "colors": [
-                      "#D5C6FF",
-                      "#9B8EF2"
+                      "#BBDFFF",
+                      "#7FAAEF"
                     ]
                   },
-                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "url": "https://calendar.google.com/calendar/u/0/r/day",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "music.note",
-                      "size": 11,
-                      "color": "#32255F"
+                      "name": "calendar",
+                      "size": 10,
+                      "color": "#173D68"
                     },
                     {
                       "type": "stack",
@@ -306,18 +378,18 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "KERALA",
-                          "color": "#30245C",
+                          "text": "SAT",
+                          "color": "#173D68",
                           "font": {
-                            "size": 8,
+                            "size": 7,
                             "weight": "bold"
                           },
                           "lineLimit": 1
                         },
                         {
                           "type": "text",
-                          "text": "PLAY",
-                          "color": "#493C79",
+                          "text": "SEP 05",
+                          "color": "#285884",
                           "font": {
                             "size": 7,
                             "weight": "semibold"
@@ -342,7 +414,7 @@
           "children": [
             {
               "type": "text",
-              "text": "50 left • saturday is humming",
+              "text": "neon has a pulse • 50 left",
               "color": "#EAF2FF",
               "font": {
                 "size": 8,
