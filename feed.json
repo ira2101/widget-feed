@@ -1,8 +1,8 @@
 {
-  "contentRevision": 541,
+  "contentRevision": 542,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T20:39:54Z",
+  "updatedAt": "2026-09-06T21:39:28Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 128,
+      "angle": 126,
       "colors": [
-        "#FFE2C6",
-        "#DED8FF",
-        "#BDEEE4"
+        "#FFCBA8",
+        "#CFD2FF",
+        "#AEE8DF"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 148,
         "colors": [
-          "#0D2030",
-          "#25304D",
-          "#35234E"
+          "#11192B",
+          "#242543",
+          "#3A2848"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "AFTERNOON SIGNAL WAVE",
-              "color": "#FFF9F4",
+              "text": "SUNDAY EVENING BOARD",
+              "color": "#FFF7F1",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "4:39PM ET",
-              "color": "#D8E9F0",
+              "text": "5:39PM ET",
+              "color": "#D8E7F1",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,38 +81,38 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 46,
+              "width": 157,
+              "height": 84,
               "radius": 12,
               "padding": [
-                6,
                 10,
-                6,
-                10
+                11,
+                9,
+                11
               ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
+              "direction": "column",
+              "gap": 5,
               "background": {
                 "type": "gradient",
-                "angle": 108,
+                "angle": 130,
                 "colors": [
-                  "#FF8B59",
-                  "#EB4D82",
-                  "#7657D7"
+                  "#FF9662",
+                  "#EF557C",
+                  "#8D5CE6"
                 ]
               },
               "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "column",
-                  "gap": 2,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
                   "children": [
                     {
                       "type": "stack",
@@ -124,11 +124,11 @@
                           "type": "symbol",
                           "name": "car.side.fill",
                           "size": 11,
-                          "color": "#FFF1A8"
+                          "color": "#FFF2B8"
                         },
                         {
                           "type": "text",
-                          "text": "RIDE STILL OPEN",
+                          "text": "RIDE OPEN",
                           "color": "#FFFFFF",
                           "font": {
                             "size": 11,
@@ -139,123 +139,61 @@
                       ]
                     },
                     {
-                      "type": "text",
-                      "text": "UA2171 • 7:59PM",
-                      "color": "#FFF2F7",
-                      "font": {
-                        "size": 8,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 8,
+                      "color": "#FFE6ED"
                     }
                   ]
                 },
                 {
+                  "type": "text",
+                  "text": "UA2171 • 7:59PM",
+                  "color": "#FFF5F8",
+                  "font": {
+                    "size": 9,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
                   "type": "stack",
-                  "width": 82,
-                  "height": 28,
+                  "width": 135,
+                  "height": 25,
+                  "radius": 10,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
                   "direction": "row",
-                  "gap": 4,
+                  "gap": 6,
                   "alignItems": "center",
-                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 110,
+                    "colors": [
+                      "#C54A70",
+                      "#754FC0"
+                    ]
+                  },
                   "children": [
                     {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 10,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#FFF4B5",
-                          "#FFFFFF"
-                        ]
-                      }
+                      "type": "symbol",
+                      "name": "airplane.departure",
+                      "size": 9,
+                      "color": "#FFF0A8"
                     },
                     {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 20,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#BDF4E2",
-                          "#FFFFFF"
-                        ]
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 14,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#FFF4B5",
-                          "#FFFFFF"
-                        ]
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 26,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#BDF4E2",
-                          "#FFFFFF"
-                        ]
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 17,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#FFF4B5",
-                          "#FFFFFF"
-                        ]
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 23,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#BDF4E2",
-                          "#FFFFFF"
-                        ]
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 6,
-                      "height": 11,
-                      "radius": 3,
-                      "background": {
-                        "type": "gradient",
-                        "angle": 90,
-                        "colors": [
-                          "#FFF4B5",
-                          "#FFFFFF"
-                        ]
-                      }
+                      "type": "text",
+                      "text": "NEWARK TONIGHT",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 }
@@ -263,137 +201,126 @@
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 30,
-              "direction": "row",
-              "gap": 8,
+              "width": 157,
+              "height": 84,
+              "direction": "column",
+              "gap": 6,
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 30,
-                  "radius": 10,
+                  "width": 157,
+                  "height": 39,
+                  "radius": 11,
                   "padding": [
-                    5,
-                    8,
-                    5,
-                    8
+                    6,
+                    10,
+                    6,
+                    10
                   ],
                   "direction": "row",
-                  "gap": 5,
                   "alignItems": "center",
+                  "justifyContent": "space-between",
                   "background": {
                     "type": "gradient",
-                    "angle": 110,
+                    "angle": 112,
                     "colors": [
-                      "#61DFC1",
-                      "#4BA9D5"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 9,
-                      "color": "#12384A"
-                    },
-                    {
-                      "type": "text",
-                      "text": "13 MAIL",
-                      "color": "#102E43",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 30,
-                  "radius": 10,
-                  "padding": [
-                    4,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 1,
-                  "background": {
-                    "type": "gradient",
-                    "angle": 116,
-                    "colors": [
-                      "#B77AF7",
-                      "#6D6BE8"
+                      "#6B63E8",
+                      "#A35FE8"
                     ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
-                      "type": "text",
-                      "text": "EXIT 9970",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT 9970",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 10,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "30 TO 10K",
+                          "color": "#EFEAFF",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
-                      "type": "text",
-                      "text": "30 TO 10K",
-                      "color": "#F1EAFE",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "play.circle.fill",
+                      "size": 15,
+                      "color": "#FFF1C7"
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 108,
-                  "height": 30,
-                  "radius": 10,
+                  "width": 157,
+                  "height": 39,
+                  "radius": 11,
                   "padding": [
-                    5,
-                    8,
-                    5,
-                    8
+                    6,
+                    10,
+                    6,
+                    10
                   ],
                   "direction": "row",
-                  "gap": 5,
                   "alignItems": "center",
+                  "justifyContent": "space-between",
                   "background": {
                     "type": "gradient",
-                    "angle": 104,
+                    "angle": 108,
                     "colors": [
-                      "#FFB45E",
-                      "#FF7C7D"
+                      "#6DE1C4",
+                      "#61BBDD"
                     ]
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
+                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "calendar.badge.plus",
-                      "size": 9,
-                      "color": "#4D2531"
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "13 MAIL",
+                          "color": "#103548",
+                          "font": {
+                            "size": 10,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "INVITE WAITING",
+                          "color": "#17485C",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
-                      "type": "text",
-                      "text": "70TH INVITE",
-                      "color": "#4A2230",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 14,
+                      "color": "#153A50"
                     }
                   ]
                 }
@@ -412,7 +339,7 @@
           "children": [
             {
               "type": "text",
-              "text": "30 LEFT • INVITE WAITING • RIDE OPEN",
+              "text": "RIDE OPEN • 30 LEFT • 13 MAIL",
               "color": "#FFF7FB",
               "font": {
                 "size": 8,
@@ -422,9 +349,9 @@
             },
             {
               "type": "symbol",
-              "name": "waveform.path.ecg",
+              "name": "square.grid.2x2.fill",
               "size": 9,
-              "color": "#D9F4EC"
+              "color": "#DDF4EA"
             }
           ]
         }
