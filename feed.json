@@ -1,1 +1,300 @@
-{"contentRevision":539,"mode":"native","version":5,"updatedAt":"2026-09-06T18:39:34Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":138,"colors":["#FFE3C7","#E1D6FF","#B8EDE4"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":145,"colors":["#0C1730","#1E2550","#3D2B58"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"AFTERNOON FLIGHT DECK","color":"#FFF9FC","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"2:39PM ET","color":"#DED9F4","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"children":[{"type":"stack","width":194,"height":84,"radius":12,"padding":[10,12,9,12],"direction":"column","gap":4,"justifyContent":"center","background":{"type":"gradient","angle":118,"colors":["#FF8A5C","#E64C87","#765BDF"]},"url":"https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport","children":[{"type":"stack","direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"NEWARK RIDE","color":"#FFF4DE","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"car.side.fill","size":12,"color":"#FFF2B8"}]},{"type":"text","text":"STILL OPEN","color":"#FFFFFF","font":{"size":18,"weight":"bold"},"lineLimit":1},{"type":"text","text":"UA2171 • 7:59PM","color":"#FFF0F7","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":120,"height":84,"direction":"column","gap":6,"children":[{"type":"stack","width":120,"height":39,"radius":11,"padding":[5,9,5,9],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":120,"colors":["#5FE0C1","#50B4DA"]},"url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"13 MAIL","color":"#102B40","font":{"size":10,"weight":"bold"},"lineLimit":1},{"type":"text","text":"UNREAD • 24H","color":"#21475B","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"symbol","name":"envelope.badge.fill","size":11,"color":"#173D55"}]},{"type":"stack","width":120,"height":39,"radius":11,"padding":[5,9,5,9],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":120,"colors":["#A76CF3","#6D69E9"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"9960","color":"#FFFFFF","font":{"size":10,"weight":"bold"},"lineLimit":1},{"type":"text","text":"40 TO 10K","color":"#F2EAFF","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"symbol","name":"waveform.path.ecg","size":11,"color":"#FFF0A8"}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport","children":[{"type":"text","text":"DRIVER STILL NEEDS A YES","color":"#FFF4F8","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":8,"color":"#E7E1F5"}]}]}}}
+{
+  "contentRevision": 540,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-06T19:39:44Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 132,
+      "colors": [
+        "#FFD9B8",
+        "#E8D5FF",
+        "#B8F0E2"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 148,
+        "colors": [
+          "#10182F",
+          "#292047",
+          "#12364A"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "SUNDAY SIGNAL STACK",
+              "color": "#FFF9F4",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "3:39PM ET",
+              "color": "#DDD9F2",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "column",
+          "gap": 6,
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 112,
+                "colors": [
+                  "#FF9A57",
+                  "#E9507D",
+                  "#7657D7"
+                ]
+              },
+              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "car.side.fill",
+                      "size": 10,
+                      "color": "#FFF2C4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "RIDE OPEN",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "UA2171 • 7:59PM",
+                  "color": "#FFF4F8",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 108,
+                "colors": [
+                  "#68E0C1",
+                  "#58B6D6"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "calendar.badge.plus",
+                      "size": 10,
+                      "color": "#14354A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "70TH INVITE",
+                      "color": "#102B40",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "WAITING IN MAIL",
+                  "color": "#21475B",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 116,
+                "colors": [
+                  "#AF70F5",
+                  "#716BEA"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 10,
+                      "color": "#FFF0A8"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT 9960",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "40 TO 10K",
+                  "color": "#F3EBFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+          "children": [
+            {
+              "type": "text",
+              "text": "13 MAIL • TONIGHT NEEDS WHEELS",
+              "color": "#FFF6FA",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 8,
+              "color": "#E8E3F4"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
