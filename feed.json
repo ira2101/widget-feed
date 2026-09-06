@@ -1,8 +1,8 @@
 {
-  "contentRevision": 518,
+  "contentRevision": 519,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T01:40:48Z",
+  "updatedAt": "2026-09-06T02:40:28Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 136,
       "colors": [
-        "#D9ECFF",
-        "#E8DCFF",
-        "#FFE5D8"
+        "#D7EEFF",
+        "#E9DEFF",
+        "#FFE6D5"
       ]
     },
     "root": {
@@ -39,26 +39,26 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 138,
+        "angle": 132,
         "colors": [
-          "#10233D",
-          "#283A60",
-          "#563A62"
+          "#10223B",
+          "#26395F",
+          "#563B63"
         ]
       },
       "children": [
         {
           "type": "stack",
           "width": 324,
-          "height": 18,
+          "height": 16,
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
           "children": [
             {
               "type": "text",
-              "text": "LATE-NIGHT DROP",
-              "color": "#FFF8F3",
+              "text": "NIGHT SWITCHBOARD",
+              "color": "#FFF8F4",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,10 +67,10 @@
             },
             {
               "type": "text",
-              "text": "9:39pm et",
-              "color": "#E8E5FF",
+              "text": "10:40pm et",
+              "color": "#E9E5FF",
               "font": {
-                "size": 9,
+                "size": 8,
                 "weight": "medium"
               },
               "lineLimit": 1
@@ -80,99 +80,121 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 82,
-          "direction": "row",
+          "height": 84,
+          "direction": "column",
           "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 82,
+              "width": 324,
+              "height": 42,
               "radius": 16,
               "padding": [
-                10,
+                7,
                 12,
-                10,
+                7,
                 12
               ],
-              "direction": "column",
-              "gap": 4,
-              "justifyContent": "center",
+              "direction": "row",
+              "gap": 9,
+              "alignItems": "center",
+              "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 128,
+                "angle": 118,
                 "colors": [
-                  "#6A5BFF",
-                  "#B463D5",
-                  "#FF8D9E"
+                  "#7B61FF",
+                  "#C45AC8",
+                  "#FF8C9E"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+newer_than%3A1d",
               "children": [
                 {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 9,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "house.fill",
+                      "size": 15,
+                      "color": "#FFF7FB"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "3 RENTALS LANDED",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 12,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "SF 94109 • NEW TONIGHT",
+                          "color": "#FCEBFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "type": "symbol",
-                  "name": "house.fill",
-                  "size": 15,
-                  "color": "#FFF6FA"
-                },
-                {
-                  "type": "text",
-                  "text": "3 NEW RENTALS",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 15,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "SF 94109 • 9:20PM",
-                  "color": "#FCEBFF",
-                  "font": {
-                    "size": 9,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "name": "arrow.up.right",
+                  "size": 11,
+                  "color": "#FFE9F1"
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
-              "height": 82,
-              "direction": "column",
+              "width": 324,
+              "height": 32,
+              "direction": "row",
               "gap": 10,
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 36,
+                  "width": 157,
+                  "height": 32,
                   "radius": 16,
                   "padding": [
-                    6,
-                    9,
-                    6,
-                    9
+                    5,
+                    10,
+                    5,
+                    10
                   ],
                   "direction": "row",
-                  "gap": 7,
+                  "gap": 8,
                   "alignItems": "center",
                   "background": {
                     "type": "gradient",
-                    "angle": 122,
+                    "angle": 116,
                     "colors": [
-                      "#FFD5A0",
-                      "#FFACB8"
+                      "#FFD4A2",
+                      "#FFAFBF"
                     ]
                   },
-                  "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
+                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "car.fill",
+                      "name": "envelope.badge.fill",
                       "size": 12,
-                      "color": "#492B45"
+                      "color": "#4B2E47"
                     },
                     {
                       "type": "stack",
@@ -181,8 +203,8 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "RIDE OPEN",
-                          "color": "#3B253D",
+                          "text": "7 INBOX",
+                          "color": "#3E2840",
                           "font": {
                             "size": 9,
                             "weight": "bold"
@@ -191,8 +213,8 @@
                         },
                         {
                           "type": "text",
-                          "text": "SUNDAY",
-                          "color": "#5D3A54",
+                          "text": "important",
+                          "color": "#684257",
                           "font": {
                             "size": 7,
                             "weight": "medium"
@@ -205,24 +227,24 @@
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 36,
+                  "width": 157,
+                  "height": 32,
                   "radius": 16,
                   "padding": [
-                    6,
-                    9,
-                    6,
-                    9
+                    5,
+                    10,
+                    5,
+                    10
                   ],
                   "direction": "row",
-                  "gap": 7,
+                  "gap": 8,
                   "alignItems": "center",
                   "background": {
                     "type": "gradient",
-                    "angle": 122,
+                    "angle": 116,
                     "colors": [
-                      "#B9F1DF",
-                      "#8BCDF1"
+                      "#B8F0DD",
+                      "#8DCDF2"
                     ]
                   },
                   "url": "https://www.youtube.com/@exitfrequency",
@@ -240,7 +262,7 @@
                       "children": [
                         {
                           "type": "text",
-                          "text": "EXIT 9.94K",
+                          "text": "60 TO 10K",
                           "color": "#17394F",
                           "font": {
                             "size": 9,
@@ -250,7 +272,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "60 LEFT",
+                          "text": "Exit 9.94K",
                           "color": "#28566C",
                           "font": {
                             "size": 7,
@@ -284,45 +306,45 @@
             "type": "gradient",
             "angle": 108,
             "colors": [
-              "#734D91",
-              "#346784"
+              "#6D4E91",
+              "#346984"
             ]
           },
-          "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
+          "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
           "children": [
-            {
-              "type": "text",
-              "text": "8 IMPORTANT • MAIL",
-              "color": "#FFF8F3",
-              "font": {
-                "size": 8,
-                "weight": "bold"
-              },
-              "lineLimit": 1
-            },
             {
               "type": "stack",
               "direction": "row",
-              "gap": 4,
+              "gap": 5,
               "alignItems": "center",
               "children": [
                 {
+                  "type": "symbol",
+                  "name": "car.fill",
+                  "size": 9,
+                  "color": "#FFE1B1"
+                },
+                {
                   "type": "text",
-                  "text": "PLOT THICKENS",
-                  "color": "#E5F7FF",
+                  "text": "SUNDAY RIDE STILL OPEN",
+                  "color": "#FFF8F3",
                   "font": {
                     "size": 8,
                     "weight": "bold"
                   },
                   "lineLimit": 1
-                },
-                {
-                  "type": "symbol",
-                  "name": "sparkles",
-                  "size": 10,
-                  "color": "#FFE0A5"
                 }
               ]
+            },
+            {
+              "type": "text",
+              "text": "→ MAP",
+              "color": "#E6F7FF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
             }
           ]
         }
