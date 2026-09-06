@@ -1,1 +1,435 @@
-{"contentRevision":533,"mode":"native","version":5,"updatedAt":"2026-09-06T14:39:57Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":124,"colors":["#FFF7DF","#E6E2FF","#D9F5EE"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":138,"colors":["#10233C","#293B62","#533F70"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"SUNDAY PRISM ORBIT","color":"#FFF8F2","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"10:39AM ET","color":"#DCE9FF","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"alignItems":"center","children":[{"type":"stack","width":100,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":100,"height":37,"radius":16,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#FFD29A","#FF8E84"]},"url":"https://maps.apple.com/?q=Newark+Liberty+International+Airport","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"car.side.fill","size":9,"color":"#5C2B3B"},{"type":"text","text":"RIDE OPEN","color":"#5C2B3B","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"UA2171 TODAY","color":"#783C4B","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":100,"height":37,"radius":16,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#BDEFE1","#6CCCE5"]},"url":"https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions+newer_than%3A7d","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"envelope.badge.fill","size":9,"color":"#123F50"},{"type":"text","text":"12 MAIL","color":"#123F50","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"IMPORTANT","color":"#28596A","font":{"size":7,"weight":"semibold"},"lineLimit":1}]}]},{"type":"stack","width":104,"height":84,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":76,"height":76,"radius":38,"direction":"column","gap":1,"alignItems":"center","justifyContent":"center","background":{"type":"gradient","angle":146,"colors":["#FFD36E","#FF8C86","#B16CE2"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d","children":[{"type":"symbol","name":"dollarsign.circle.fill","size":14,"color":"#FFFFFF"},{"type":"text","text":"$561","color":"#FFFFFF","font":{"size":13,"weight":"bold"},"lineLimit":1},{"type":"text","text":"MOM ×3","color":"#FFF4F8","font":{"size":7,"weight":"semibold"},"lineLimit":1}]}]},{"type":"stack","width":100,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":100,"height":37,"radius":16,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#D9CCFF","#9E82EF"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"chart.line.uptrend.xyaxis","size":9,"color":"#332553"},{"type":"text","text":"9.94K","color":"#332553","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"60 TO 10K","color":"#513D70","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":100,"height":37,"radius":16,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#FFD3E7","#F49FC2"]},"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"music.note","size":9,"color":"#572942"},{"type":"text","text":"PLAY","color":"#572942","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"KERALA","color":"#743A57","font":{"size":7,"weight":"semibold"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d","children":[{"type":"text","text":"MOM'S VENMO TRILOGY WON THE MORNING","color":"#FFF5F7","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":8,"color":"#DDEAFF"}]}]}}}
+{
+  "contentRevision": 534,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-06T14:42:00Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 124,
+      "colors": [
+        "#FFF7DF",
+        "#E6E2FF",
+        "#D9F5EE"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 138,
+        "colors": [
+          "#10233C",
+          "#293B62",
+          "#533F70"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "SUNDAY PRISM ORBIT",
+              "color": "#FFF8F2",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "10:39AM ET",
+              "color": "#DCE9FF",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 128,
+                    "colors": [
+                      "#FFD29A",
+                      "#FF8E84"
+                    ]
+                  },
+                  "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 5,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "car.side.fill",
+                          "size": 9,
+                          "color": "#5C2B3B"
+                        },
+                        {
+                          "type": "text",
+                          "text": "RIDE OPEN",
+                          "color": "#5C2B3B",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "UA2171 TODAY",
+                      "color": "#783C4B",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 128,
+                    "colors": [
+                      "#BDEFE1",
+                      "#6CCCE5"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions+newer_than%3A7d",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 5,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "envelope.badge.fill",
+                          "size": 9,
+                          "color": "#123F50"
+                        },
+                        {
+                          "type": "text",
+                          "text": "12 MAIL",
+                          "color": "#123F50",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "IMPORTANT",
+                      "color": "#28596A",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 76,
+                  "height": 76,
+                  "radius": 38,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 146,
+                    "colors": [
+                      "#FFD36E",
+                      "#FF8C86",
+                      "#B16CE2"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "dollarsign.circle.fill",
+                      "size": 14,
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "$561",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 13,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "MOM ×3",
+                      "color": "#FFF4F8",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 128,
+                    "colors": [
+                      "#D9CCFF",
+                      "#9E82EF"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 5,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "chart.line.uptrend.xyaxis",
+                          "size": 9,
+                          "color": "#332553"
+                        },
+                        {
+                          "type": "text",
+                          "text": "9.96K",
+                          "color": "#332553",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "40 TO 10K",
+                      "color": "#513D70",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 16,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 128,
+                    "colors": [
+                      "#FFD3E7",
+                      "#F49FC2"
+                    ]
+                  },
+                  "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 5,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "music.note",
+                          "size": 9,
+                          "color": "#572942"
+                        },
+                        {
+                          "type": "text",
+                          "text": "PLAY",
+                          "color": "#572942",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "KERALA",
+                      "color": "#743A57",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d",
+          "children": [
+            {
+              "type": "text",
+              "text": "MOM'S VENMO TRILOGY WON THE MORNING",
+              "color": "#FFF5F7",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 8,
+              "color": "#DDEAFF"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
