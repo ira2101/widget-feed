@@ -1,8 +1,8 @@
 {
-  "contentRevision": 530,
+  "contentRevision": 531,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T11:39:43Z",
+  "updatedAt": "2026-09-06T12:40:19Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 126,
+      "angle": 118,
       "colors": [
-        "#FFF4DE",
-        "#F3E2FF",
-        "#D8EEFF"
+        "#E6F2FF",
+        "#E9E0FF",
+        "#FFF0D8"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 136,
+        "angle": 142,
         "colors": [
-          "#18304B",
-          "#40375D",
-          "#694765"
+          "#13263F",
+          "#243B61",
+          "#3C3568"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "MORNING SWITCHBOARD",
+              "text": "SUNDAY MISSION",
               "color": "#FFF8F0",
               "font": {
                 "size": 9,
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "7:39AM ET",
-              "color": "#DCEBFF",
+              "text": "8:40AM ET",
+              "color": "#DDEBFF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -82,191 +82,226 @@
           "width": 324,
           "height": 84,
           "direction": "row",
-          "gap": 8,
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 16,
               "padding": [
                 9,
+                12,
                 9,
-                8,
-                9
+                12
               ],
-              "direction": "column",
-              "gap": 4,
-              "justifyContent": "center",
+              "direction": "row",
+              "gap": 10,
+              "alignItems": "center",
               "background": {
                 "type": "gradient",
-                "angle": 145,
+                "angle": 148,
                 "colors": [
-                  "#FFD27D",
-                  "#FF8E83"
+                  "#FFCF72",
+                  "#FF8B81",
+                  "#B77BE8"
                 ]
               },
               "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "car.side.fill",
-                  "size": 14,
-                  "color": "#502539"
+                  "type": "stack",
+                  "width": 34,
+                  "height": 34,
+                  "radius": 16,
+                  "direction": "column",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#FFF4E8CC"
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "car.side.fill",
+                      "size": 15,
+                      "color": "#563050"
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "RIDE OPEN",
-                  "color": "#472033",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "UA2171",
-                  "color": "#683447",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "7:59PM",
-                  "color": "#683447",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 126,
+                  "height": 58,
+                  "direction": "column",
+                  "gap": 4,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "NEWARK RIDE",
+                      "color": "#40233F",
+                      "font": {
+                        "size": 11,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "STILL NEEDS A YES",
+                      "color": "#5C3652",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "UA2171 • 7:59PM",
+                      "color": "#6A3D56",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
-              "radius": 16,
-              "padding": [
-                9,
-                9,
-                8,
-                9
-              ],
               "direction": "column",
-              "gap": 4,
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 138,
-                "colors": [
-                  "#BDF2E2",
-                  "#72D4E7"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions+newer_than%3A7d",
+              "gap": 6,
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "envelope.badge.fill",
-                  "size": 14,
-                  "color": "#174B5A"
+                  "type": "stack",
+                  "width": 120,
+                  "height": 39,
+                  "radius": 16,
+                  "padding": [
+                    6,
+                    9,
+                    5,
+                    9
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 136,
+                    "colors": [
+                      "#C7F4E7",
+                      "#7FDBE2"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions+newer_than%3A7d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 13,
+                      "color": "#174D58"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 79,
+                      "height": 28,
+                      "direction": "column",
+                      "gap": 1,
+                      "justifyContent": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "8 MAIL",
+                          "color": "#123E48",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "FLAGGED",
+                          "color": "#2B5F68",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
-                  "type": "text",
-                  "text": "8 MAIL",
-                  "color": "#123E4B",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
+                  "type": "stack",
+                  "width": 120,
+                  "height": 39,
+                  "radius": 16,
+                  "padding": [
+                    6,
+                    9,
+                    5,
+                    9
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 132,
+                    "colors": [
+                      "#E2D2FF",
+                      "#AE94F2"
+                    ]
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "IMPORTANT",
-                  "color": "#285968",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "3 RENTALS",
-                  "color": "#285968",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 108,
-              "height": 84,
-              "radius": 16,
-              "padding": [
-                9,
-                10,
-                8,
-                10
-              ],
-              "direction": "column",
-              "gap": 4,
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 132,
-                "colors": [
-                  "#E6C8FF",
-                  "#A783F2"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "chart.line.uptrend.xyaxis",
-                  "size": 14,
-                  "color": "#3B2A5F"
-                },
-                {
-                  "type": "text",
-                  "text": "EXIT 9.96K",
-                  "color": "#342451",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "40 TO 10K",
-                  "color": "#513D70",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "ALMOST LOUD",
-                  "color": "#513D70",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "chart.line.uptrend.xyaxis",
+                      "size": 13,
+                      "color": "#433263"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 79,
+                      "height": 28,
+                      "direction": "column",
+                      "gap": 1,
+                      "justifyContent": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT 9.96K",
+                          "color": "#34264F",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "40 TO GO",
+                          "color": "#594675",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -279,12 +314,12 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
-          "url": "https://mail.google.com/mail/u/0/#search/UA2171",
+          "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
           "children": [
             {
               "type": "text",
-              "text": "SUNDAY'S MAIN PLOT: THE DRIVER",
-              "color": "#FFF4F7",
+              "text": "ONE BOSS LEVEL: DRIVER",
+              "color": "#FFF4F8",
               "font": {
                 "size": 8,
                 "weight": "bold"
@@ -295,7 +330,7 @@
               "type": "symbol",
               "name": "arrow.up.right",
               "size": 8,
-              "color": "#DCEBFF"
+              "color": "#DDEBFF"
             }
           ]
         }
