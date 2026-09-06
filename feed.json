@@ -1,8 +1,8 @@
 {
-  "contentRevision": 526,
+  "contentRevision": 527,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T07:40:10Z",
+  "updatedAt": "2026-09-06T08:40:05Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 128,
       "colors": [
-        "#DCEAFF",
-        "#EADFFF",
-        "#FFDCCB"
+        "#E8F3FF",
+        "#E8DFFF",
+        "#FFE7D4"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 138,
         "colors": [
-          "#10233D",
-          "#213A5B",
-          "#553E68"
+          "#14243D",
+          "#293A61",
+          "#6B476C"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "PRE-DAWN PORTALS",
-              "color": "#F8FAFF",
+              "text": "THE DAY NEEDS WHEELS",
+              "color": "#FFF8FC",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "3:40AM ET",
-              "color": "#D9E8FF",
+              "text": "4:40AM ET",
+              "color": "#DDE9FF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -80,187 +80,90 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 84,
+          "height": 64,
+          "radius": 16,
+          "padding": [
+            8,
+            12,
+            8,
+            12
+          ],
           "direction": "row",
-          "gap": 10,
+          "gap": 12,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "background": {
+            "type": "gradient",
+            "angle": 126,
+            "colors": [
+              "#FF9B78",
+              "#EF6FA8",
+              "#8B6FE8"
+            ]
+          },
+          "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
           "children": [
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
-              "radius": 16,
-              "padding": [
-                10,
-                12,
-                10,
-                12
-              ],
-              "direction": "row",
-              "gap": 10,
-              "alignItems": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 138,
-                "colors": [
-                  "#FF936E",
-                  "#E35F9D",
-                  "#7A61E8"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/UA2171",
+              "width": 218,
+              "height": 48,
+              "direction": "column",
+              "gap": 2,
+              "justifyContent": "center",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 52,
-                  "height": 52,
-                  "radius": 26,
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 120,
-                    "colors": [
-                      "#6C3BE0",
-                      "#B94FC4"
-                    ]
+                  "type": "text",
+                  "text": "OPEN LOOP",
+                  "color": "#FFEAF4",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
                   },
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "car.side.fill",
-                      "size": 18,
-                      "color": "#FFFFFF"
-                    }
-                  ]
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "width": 71,
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "DRIVER",
-                      "color": "#FFEAF6",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "OPEN",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 15,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "UA2171 TODAY",
-                      "color": "#FFF2F7",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "text",
+                  "text": "UA2171 RIDE",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 16,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "driver unconfirmed",
+                  "color": "#FFF3F8",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
-              "radius": 16,
-              "padding": [
-                10,
-                12,
-                10,
-                12
-              ],
-              "direction": "row",
-              "gap": 10,
+              "width": 48,
+              "height": 48,
+              "radius": 24,
               "alignItems": "center",
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 138,
+                "angle": 145,
                 "colors": [
-                  "#5DDFC9",
-                  "#5BB9EA",
-                  "#7B74EA"
+                  "#6C3EE5",
+                  "#B94FC4"
                 ]
               },
-              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 52,
-                  "height": 52,
-                  "radius": 26,
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 120,
-                    "colors": [
-                      "#DFFFEF",
-                      "#A9EAF5"
-                    ]
-                  },
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "chart.line.uptrend.xyaxis",
-                      "size": 17,
-                      "color": "#173E5C"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 71,
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "EXIT",
-                      "color": "#173E5C",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "9.96K",
-                      "color": "#123650",
-                      "font": {
-                        "size": 15,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "40 TO 10K",
-                      "color": "#1E526C",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "car.side.fill",
+                  "size": 18,
+                  "color": "#FFFFFF"
                 }
               ]
             }
@@ -269,56 +172,189 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 18,
-          "radius": 9,
-          "padding": [
-            3,
-            9,
-            3,
-            9
-          ],
+          "height": 38,
           "direction": "row",
-          "alignItems": "center",
-          "justifyContent": "space-between",
-          "background": {
-            "type": "gradient",
-            "angle": 108,
-            "colors": [
-              "#2D4768",
-              "#684F7A"
-            ]
-          },
-          "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "direction": "row",
-              "gap": 6,
-              "alignItems": "center",
+              "width": 100,
+              "height": 38,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "column",
+              "gap": 1,
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 125,
+                "colors": [
+                  "#FFD5A8",
+                  "#FF9F8D"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "envelope.badge.fill",
-                  "size": 9,
-                  "color": "#FFD49B"
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 9,
+                      "color": "#6A3044"
+                    },
+                    {
+                      "type": "text",
+                      "text": "7 MAIL",
+                      "color": "#53283B",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
                   "type": "text",
-                  "text": "8 IMPORTANT • NIGHT MAIL",
-                  "color": "#F7F3FF",
+                  "text": "IMPORTANT",
+                  "color": "#6D3649",
                   "font": {
-                    "size": 8,
-                    "weight": "bold"
+                    "size": 7,
+                    "weight": "semibold"
                   },
                   "lineLimit": 1
                 }
               ]
             },
             {
-              "type": "symbol",
-              "name": "chevron.right",
-              "size": 8,
-              "color": "#D9E8FF"
+              "type": "stack",
+              "width": 100,
+              "height": 38,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "column",
+              "gap": 1,
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 125,
+                "colors": [
+                  "#B9F3E6",
+                  "#72C9EA"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "chart.line.uptrend.xyaxis",
+                      "size": 9,
+                      "color": "#164B5E"
+                    },
+                    {
+                      "type": "text",
+                      "text": "9.96K",
+                      "color": "#123F52",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "40 TO 10K",
+                  "color": "#1B5366",
+                  "font": {
+                    "size": 7,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 38,
+              "radius": 16,
+              "padding": [
+                5,
+                8,
+                5,
+                8
+              ],
+              "direction": "column",
+              "gap": 1,
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 125,
+                "colors": [
+                  "#D9C5FF",
+                  "#A987F4"
+                ]
+              },
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "music.note",
+                      "size": 9,
+                      "color": "#39295D"
+                    },
+                    {
+                      "type": "text",
+                      "text": "PLAY",
+                      "color": "#30234F",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "KERALA",
+                  "color": "#493768",
+                  "font": {
+                    "size": 7,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
             }
           ]
         }
