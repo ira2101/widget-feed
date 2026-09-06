@@ -1,8 +1,8 @@
 {
-  "contentRevision": 516,
+  "contentRevision": 517,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-05T23:39:39Z",
+  "updatedAt": "2026-09-06T00:40:24Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 128,
       "colors": [
-        "#FFE7D1",
-        "#E9DCFF",
-        "#CDEFE8"
+        "#DCEBFF",
+        "#E8DBFF",
+        "#FFE4D6"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 128,
+        "angle": 136,
         "colors": [
-          "#10243A",
-          "#243B63",
-          "#60466F"
+          "#0F2036",
+          "#27345A",
+          "#55385F"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "SATURDAY NIGHT SHIFT",
-              "color": "#FFF7F2",
+              "text": "SATURDAY, REMIXED",
+              "color": "#FFF8F3",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "7:39pm et",
-              "color": "#E9DFF6",
+              "text": "8:40pm et",
+              "color": "#E8E4FF",
               "font": {
                 "size": 9,
                 "weight": "medium"
@@ -86,51 +86,51 @@
           "children": [
             {
               "type": "stack",
-              "width": 157,
+              "width": 100,
               "height": 82,
               "radius": 16,
               "padding": [
+                9,
                 10,
-                12,
-                10,
-                12
+                9,
+                10
               ],
               "direction": "column",
-              "gap": 5,
+              "gap": 4,
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 122,
+                "angle": 126,
                 "colors": [
-                  "#FFC77C",
-                  "#F28E9D",
-                  "#C878C9"
+                  "#FFD69B",
+                  "#FF9EA8",
+                  "#D995D4"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/from%3Aunited.com+subject%3A%22Travel+itinerary%22",
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Arobin.einbinder%40yale.edu+subject%3A%22Water+test+results%22",
               "children": [
                 {
                   "type": "symbol",
-                  "name": "car.fill",
-                  "size": 15,
-                  "color": "#3C2343"
+                  "name": "envelope.fill",
+                  "size": 14,
+                  "color": "#412645"
                 },
                 {
                   "type": "text",
-                  "text": "SUNDAY RIDE",
-                  "color": "#34213D",
+                  "text": "MOM REPLIED",
+                  "color": "#38213E",
                   "font": {
-                    "size": 12,
+                    "size": 9,
                     "weight": "bold"
                   },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "driver still needed",
-                  "color": "#4D2C49",
+                  "text": "water note",
+                  "color": "#573250",
                   "font": {
-                    "size": 9,
+                    "size": 8,
                     "weight": "medium"
                   },
                   "lineLimit": 1
@@ -139,25 +139,89 @@
             },
             {
               "type": "stack",
-              "width": 157,
+              "width": 104,
+              "height": 82,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 72,
+                  "height": 72,
+                  "radius": 36,
+                  "padding": [
+                    8,
+                    6,
+                    8,
+                    6
+                  ],
+                  "direction": "column",
+                  "gap": 2,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 145,
+                    "colors": [
+                      "#B9F4E5",
+                      "#89C9F7",
+                      "#AE8BEA"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "bolt.fill",
+                      "size": 11,
+                      "color": "#193E59"
+                    },
+                    {
+                      "type": "text",
+                      "text": "9.94K",
+                      "color": "#173750",
+                      "font": {
+                        "size": 15,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "60 LEFT",
+                      "color": "#274E67",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
               "height": 82,
               "radius": 16,
               "padding": [
+                9,
                 10,
-                12,
-                10,
-                12
+                9,
+                10
               ],
               "direction": "column",
-              "gap": 5,
+              "gap": 4,
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 122,
+                "angle": 126,
                 "colors": [
-                  "#BDEFE0",
-                  "#8DD8DF",
-                  "#8DA9EF"
+                  "#D9D1FF",
+                  "#AFC9FF",
+                  "#9FE6DD"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
@@ -165,25 +229,25 @@
                 {
                   "type": "symbol",
                   "name": "envelope.badge.fill",
-                  "size": 15,
-                  "color": "#183E55"
+                  "size": 14,
+                  "color": "#183D55"
                 },
                 {
                   "type": "text",
-                  "text": "7 IMPORTANT",
-                  "color": "#173B51",
+                  "text": "7 SIGNALS",
+                  "color": "#173A50",
                   "font": {
-                    "size": 12,
+                    "size": 9,
                     "weight": "bold"
                   },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "inbox signals",
-                  "color": "#275269",
+                  "text": "important",
+                  "color": "#28536B",
                   "font": {
-                    "size": 9,
+                    "size": 8,
                     "weight": "medium"
                   },
                   "lineLimit": 1
@@ -210,15 +274,15 @@
             "type": "gradient",
             "angle": 110,
             "colors": [
-              "#6A5A98",
-              "#3B608A"
+              "#734C92",
+              "#386486"
             ]
           },
-          "url": "https://www.youtube.com/@exitfrequency",
+          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
           "children": [
             {
               "type": "text",
-              "text": "EXIT 9.94K",
+              "text": "NIGHT HAS SPARKS",
               "color": "#FFF8F2",
               "font": {
                 "size": 8,
@@ -227,20 +291,28 @@
               "lineLimit": 1
             },
             {
-              "type": "text",
-              "text": "60 TO GO",
-              "color": "#DFF7F4",
-              "font": {
-                "size": 8,
-                "weight": "bold"
-              },
-              "lineLimit": 1
-            },
-            {
-              "type": "symbol",
-              "name": "arrow.up.right.circle.fill",
-              "size": 10,
-              "color": "#FFE2A8"
+              "type": "stack",
+              "direction": "row",
+              "gap": 4,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "PLAY KERALA",
+                  "color": "#E5F7FF",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "symbol",
+                  "name": "play.circle.fill",
+                  "size": 10,
+                  "color": "#FFE0A5"
+                }
+              ]
             }
           ]
         }
