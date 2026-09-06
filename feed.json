@@ -1,8 +1,8 @@
 {
-  "contentRevision": 525,
+  "contentRevision": 526,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T06:39:40Z",
+  "updatedAt": "2026-09-06T07:40:10Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,10 +23,10 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 128,
+      "angle": 132,
       "colors": [
-        "#DDEBFF",
-        "#E7D9FF",
+        "#DCEAFF",
+        "#EADFFF",
         "#FFDCCB"
       ]
     },
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 138,
+        "angle": 142,
         "colors": [
-          "#10213A",
-          "#1B3152",
-          "#523B65"
+          "#10233D",
+          "#213A5B",
+          "#553E68"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "TORNADO NIGHT DISPATCH",
-              "color": "#F7FAFF",
+              "text": "PRE-DAWN PORTALS",
+              "color": "#F8FAFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,7 +67,7 @@
             },
             {
               "type": "text",
-              "text": "2:39AM ET",
+              "text": "3:40AM ET",
               "color": "#D9E8FF",
               "font": {
                 "size": 8,
@@ -86,7 +86,7 @@
           "children": [
             {
               "type": "stack",
-              "width": 194,
+              "width": 157,
               "height": 84,
               "radius": 16,
               "padding": [
@@ -95,188 +95,170 @@
                 10,
                 12
               ],
-              "direction": "column",
-              "gap": 5,
-              "justifyContent": "center",
+              "direction": "row",
+              "gap": 10,
+              "alignItems": "center",
               "background": {
                 "type": "gradient",
-                "angle": 142,
+                "angle": 138,
                 "colors": [
-                  "#FF8A68",
-                  "#D95CA7",
-                  "#795DE8"
+                  "#FF936E",
+                  "#E35F9D",
+                  "#7A61E8"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/UA2171",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "gap": 7,
+                  "width": 52,
+                  "height": 52,
+                  "radius": 26,
                   "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#6C3BE0",
+                      "#B94FC4"
+                    ]
+                  },
                   "children": [
                     {
                       "type": "symbol",
                       "name": "car.side.fill",
-                      "size": 13,
+                      "size": 18,
                       "color": "#FFFFFF"
-                    },
-                    {
-                      "type": "text",
-                      "text": "UA2171 RIDE",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "STILL UNCONFIRMED",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 15,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "airport plan needs a driver",
-                  "color": "#FFEAF6",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 71,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "DRIVER",
+                      "color": "#FFEAF6",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "OPEN",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 15,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "UA2171 TODAY",
+                      "color": "#FFF2F7",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 120,
+              "width": 157,
               "height": 84,
-              "direction": "column",
+              "radius": 16,
+              "padding": [
+                10,
+                12,
+                10,
+                12
+              ],
+              "direction": "row",
               "gap": 10,
+              "alignItems": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 138,
+                "colors": [
+                  "#5DDFC9",
+                  "#5BB9EA",
+                  "#7B74EA"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    6,
-                    9,
-                    6,
-                    9
-                  ],
-                  "direction": "row",
+                  "width": 52,
+                  "height": 52,
+                  "radius": 26,
                   "alignItems": "center",
-                  "justifyContent": "space-between",
+                  "justifyContent": "center",
                   "background": {
                     "type": "gradient",
-                    "angle": 118,
+                    "angle": 120,
                     "colors": [
-                      "#55D6C2",
-                      "#4B9FE8"
+                      "#DFFFEF",
+                      "#A9EAF5"
                     ]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "9.96K",
-                          "color": "#0E3346",
-                          "font": {
-                            "size": 11,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "40 TO GO",
-                          "color": "#17455B",
-                          "font": {
-                            "size": 7,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
                       "type": "symbol",
-                      "name": "bolt.fill",
-                      "size": 11,
-                      "color": "#123C55"
+                      "name": "chart.line.uptrend.xyaxis",
+                      "size": 17,
+                      "color": "#173E5C"
                     }
                   ]
                 },
                 {
                   "type": "stack",
-                  "width": 120,
-                  "height": 37,
-                  "radius": 16,
-                  "padding": [
-                    6,
-                    9,
-                    6,
-                    9
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 118,
-                    "colors": [
-                      "#FFCB78",
-                      "#F1879F"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
+                  "width": 71,
+                  "direction": "column",
+                  "gap": 2,
+                  "justifyContent": "center",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "8 MAIL",
-                          "color": "#492D3D",
-                          "font": {
-                            "size": 10,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "IMPORTANT",
-                          "color": "#5E3B49",
-                          "font": {
-                            "size": 7,
-                            "weight": "semibold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "text",
+                      "text": "EXIT",
+                      "color": "#173E5C",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
                     },
                     {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 11,
-                      "color": "#593447"
+                      "type": "text",
+                      "text": "9.96K",
+                      "color": "#123650",
+                      "font": {
+                        "size": 15,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "40 TO 10K",
+                      "color": "#1E526C",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
                     }
                   ]
                 }
@@ -302,27 +284,41 @@
             "type": "gradient",
             "angle": 108,
             "colors": [
-              "#2B4262",
-              "#614B75"
+              "#2D4768",
+              "#684F7A"
             ]
           },
-          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+          "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
           "children": [
             {
-              "type": "text",
-              "text": "THE RIDE STILL NEEDS A NAME",
-              "color": "#F6F3FF",
-              "font": {
-                "size": 8,
-                "weight": "bold"
-              },
-              "lineLimit": 1
+              "type": "stack",
+              "direction": "row",
+              "gap": 6,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "envelope.badge.fill",
+                  "size": 9,
+                  "color": "#FFD49B"
+                },
+                {
+                  "type": "text",
+                  "text": "8 IMPORTANT • NIGHT MAIL",
+                  "color": "#F7F3FF",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
             },
             {
               "type": "symbol",
-              "name": "music.note",
-              "size": 10,
-              "color": "#FFD6A6"
+              "name": "chevron.right",
+              "size": 8,
+              "color": "#D9E8FF"
             }
           ]
         }
