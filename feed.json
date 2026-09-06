@@ -1,8 +1,8 @@
 {
-  "contentRevision": 540,
+  "contentRevision": 541,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T19:39:44Z",
+  "updatedAt": "2026-09-06T20:39:54Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 128,
       "colors": [
-        "#FFD9B8",
-        "#E8D5FF",
-        "#B8F0E2"
+        "#FFE2C6",
+        "#DED8FF",
+        "#BDEEE4"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 148,
+        "angle": 142,
         "colors": [
-          "#10182F",
-          "#292047",
-          "#12364A"
+          "#0D2030",
+          "#25304D",
+          "#35234E"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "SUNDAY SIGNAL STACK",
+              "text": "AFTERNOON SIGNAL WAVE",
               "color": "#FFF9F4",
               "font": {
                 "size": 9,
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "3:39PM ET",
-              "color": "#DDD9F2",
+              "text": "4:39PM ET",
+              "color": "#D8E9F0",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -82,78 +82,17 @@
           "width": 324,
           "height": 84,
           "direction": "column",
-          "gap": 6,
+          "gap": 8,
           "children": [
             {
               "type": "stack",
               "width": 324,
-              "height": 24,
-              "radius": 11,
+              "height": 46,
+              "radius": 12,
               "padding": [
-                4,
+                6,
                 10,
-                4,
-                10
-              ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 112,
-                "colors": [
-                  "#FF9A57",
-                  "#E9507D",
-                  "#7657D7"
-                ]
-              },
-              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "car.side.fill",
-                      "size": 10,
-                      "color": "#FFF2C4"
-                    },
-                    {
-                      "type": "text",
-                      "text": "RIDE OPEN",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 10,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "UA2171 • 7:59PM",
-                  "color": "#FFF4F8",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 324,
-              "height": 24,
-              "radius": 11,
-              "padding": [
-                4,
-                10,
-                4,
+                6,
                 10
               ],
               "direction": "row",
@@ -163,90 +102,208 @@
                 "type": "gradient",
                 "angle": 108,
                 "colors": [
-                  "#68E0C1",
-                  "#58B6D6"
+                  "#FF8B59",
+                  "#EB4D82",
+                  "#7657D7"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
+              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
+                  "direction": "column",
+                  "gap": 2,
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "calendar.badge.plus",
-                      "size": 10,
-                      "color": "#14354A"
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 6,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "car.side.fill",
+                          "size": 11,
+                          "color": "#FFF1A8"
+                        },
+                        {
+                          "type": "text",
+                          "text": "RIDE STILL OPEN",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 11,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
                       "type": "text",
-                      "text": "70TH INVITE",
-                      "color": "#102B40",
+                      "text": "UA2171 • 7:59PM",
+                      "color": "#FFF2F7",
                       "font": {
-                        "size": 10,
-                        "weight": "bold"
+                        "size": 8,
+                        "weight": "semibold"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "WAITING IN MAIL",
-                  "color": "#21475B",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "width": 82,
+                  "height": 28,
+                  "direction": "row",
+                  "gap": 4,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 10,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#FFF4B5",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 20,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#BDF4E2",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 14,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#FFF4B5",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 26,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#BDF4E2",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 17,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#FFF4B5",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 23,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#BDF4E2",
+                          "#FFFFFF"
+                        ]
+                      }
+                    },
+                    {
+                      "type": "stack",
+                      "width": 6,
+                      "height": 11,
+                      "radius": 3,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#FFF4B5",
+                          "#FFFFFF"
+                        ]
+                      }
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
               "width": 324,
-              "height": 24,
-              "radius": 11,
-              "padding": [
-                4,
-                10,
-                4,
-                10
-              ],
+              "height": 30,
               "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 116,
-                "colors": [
-                  "#AF70F5",
-                  "#716BEA"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
                   "direction": "row",
-                  "gap": 6,
+                  "gap": 5,
                   "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 110,
+                    "colors": [
+                      "#61DFC1",
+                      "#4BA9D5"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "waveform.path.ecg",
-                      "size": 10,
-                      "color": "#FFF0A8"
+                      "name": "envelope.badge.fill",
+                      "size": 9,
+                      "color": "#12384A"
                     },
                     {
                       "type": "text",
-                      "text": "EXIT 9960",
-                      "color": "#FFFFFF",
+                      "text": "13 MAIL",
+                      "color": "#102E43",
                       "font": {
-                        "size": 10,
+                        "size": 9,
                         "weight": "bold"
                       },
                       "lineLimit": 1
@@ -254,14 +311,91 @@
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "40 TO 10K",
-                  "color": "#F3EBFF",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    4,
+                    8,
+                    4,
+                    8
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "background": {
+                    "type": "gradient",
+                    "angle": 116,
+                    "colors": [
+                      "#B77AF7",
+                      "#6D6BE8"
+                    ]
                   },
-                  "lineLimit": 1
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT 9970",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "30 TO 10K",
+                      "color": "#F1EAFE",
+                      "font": {
+                        "size": 7,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 104,
+                    "colors": [
+                      "#FFB45E",
+                      "#FF7C7D"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "calendar.badge.plus",
+                      "size": 9,
+                      "color": "#4D2531"
+                    },
+                    {
+                      "type": "text",
+                      "text": "70TH INVITE",
+                      "color": "#4A2230",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 }
               ]
             }
@@ -274,12 +408,12 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
-          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+          "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
           "children": [
             {
               "type": "text",
-              "text": "13 MAIL • TONIGHT NEEDS WHEELS",
-              "color": "#FFF6FA",
+              "text": "30 LEFT • INVITE WAITING • RIDE OPEN",
+              "color": "#FFF7FB",
               "font": {
                 "size": 8,
                 "weight": "bold"
@@ -288,9 +422,9 @@
             },
             {
               "type": "symbol",
-              "name": "arrow.up.right",
-              "size": 8,
-              "color": "#E8E3F4"
+              "name": "waveform.path.ecg",
+              "size": 9,
+              "color": "#D9F4EC"
             }
           ]
         }
