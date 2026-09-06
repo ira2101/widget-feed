@@ -1,8 +1,8 @@
 {
-  "contentRevision": 522,
+  "contentRevision": 523,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T04:40:11Z",
+  "updatedAt": "2026-09-06T05:40:11Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 126,
+      "angle": 132,
       "colors": [
-        "#FBE5F1",
-        "#D9E7FF",
-        "#DCF6EE"
+        "#E6F4FF",
+        "#E8DFFF",
+        "#FFE8D6"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 134,
+        "angle": 138,
         "colors": [
-          "#12233C",
-          "#26385A",
-          "#503C63"
+          "#0F1D30",
+          "#1A3151",
+          "#443559"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "MIDNIGHT RELAY",
-              "color": "#FFF8FA",
+              "text": "SUNDAY LAUNCH STACK",
+              "color": "#F8FBFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "12:40am et",
-              "color": "#E9ECFF",
+              "text": "1:39am et",
+              "color": "#D8E8FF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -80,220 +80,227 @@
         {
           "type": "stack",
           "width": 324,
-          "height": 64,
-          "radius": 16,
-          "padding": [
-            9,
-            12,
-            9,
-            12
-          ],
-          "direction": "row",
-          "gap": 10,
-          "alignItems": "center",
-          "background": {
-            "type": "gradient",
-            "angle": 118,
-            "colors": [
-              "#FFB16F",
-              "#F56793",
-              "#8B6DE9"
-            ]
-          },
-          "url": "https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+newer_than%3A1d",
+          "height": 84,
+          "direction": "column",
+          "gap": 6,
           "children": [
             {
               "type": "stack",
-              "width": 40,
-              "height": 40,
-              "radius": 20,
-              "direction": "column",
+              "width": 324,
+              "height": 24,
+              "radius": 16,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
               "alignItems": "center",
-              "justifyContent": "center",
+              "justifyContent": "space-between",
               "background": {
-                "type": "color",
-                "color": "#4D2A55"
+                "type": "gradient",
+                "angle": 112,
+                "colors": [
+                  "#FF9B73",
+                  "#E85A92"
+                ]
               },
+              "url": "https://mail.google.com/mail/u/0/#search/UA2171",
               "children": [
                 {
-                  "type": "symbol",
-                  "name": "sparkles",
-                  "size": 17,
-                  "color": "#FFF7D7"
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "airplane.departure",
+                      "size": 11,
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "DRIVER CHECK",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "UA2171 • TODAY",
+                  "color": "#FFF3F5",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 216,
-              "direction": "column",
-              "gap": 3,
+              "width": 296,
+              "height": 24,
+              "radius": 16,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 112,
+                "colors": [
+                  "#8D75F6",
+                  "#55BCE8"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "text",
-                  "text": "THE CITY SENT 3",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 13,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "bolt.fill",
+                      "size": 10,
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT 9.95K",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
                   "type": "text",
-                  "text": "new SF rentals after dark",
-                  "color": "#FFF3F5",
+                  "text": "50 FROM 10K",
+                  "color": "#F5F3FF",
                   "font": {
-                    "size": 9,
-                    "weight": "medium"
+                    "size": 8,
+                    "weight": "semibold"
                   },
                   "lineLimit": 1
                 }
               ]
             },
             {
-              "type": "symbol",
-              "name": "arrow.up.right",
-              "size": 11,
-              "color": "#FFF7EA"
+              "type": "stack",
+              "width": 268,
+              "height": 24,
+              "radius": 16,
+              "padding": [
+                4,
+                10,
+                4,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 112,
+                "colors": [
+                  "#5FD6C8",
+                  "#63A8E9"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 10,
+                      "color": "#12374A"
+                    },
+                    {
+                      "type": "text",
+                      "text": "7 MAIL",
+                      "color": "#12374A",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "NIGHT SIGNALS",
+                  "color": "#173D50",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
             }
           ]
         },
         {
           "type": "stack",
           "width": 324,
-          "height": 38,
+          "height": 18,
+          "radius": 9,
+          "padding": [
+            3,
+            9,
+            3,
+            9
+          ],
           "direction": "row",
-          "gap": 8,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "background": {
+            "type": "color",
+            "color": "#263B5C"
+          },
+          "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
           "children": [
             {
-              "type": "stack",
-              "width": 100,
-              "height": 38,
-              "radius": 16,
-              "padding": [
-                5,
-                8,
-                5,
-                8
-              ],
-              "direction": "row",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 120,
-                "colors": [
-                  "#7FE0D1",
-                  "#5CA6E8"
-                ]
+              "type": "text",
+              "text": "NIGHT WATCH, BY TORNADO",
+              "color": "#F2F6FF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
               },
-              "url": "https://mail.google.com/mail/u/0/#search/is%3Aunread+is%3Aimportant+-category%3Apromotions",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "envelope.badge.fill",
-                  "size": 10,
-                  "color": "#12384B"
-                },
-                {
-                  "type": "text",
-                  "text": "7 MAIL",
-                  "color": "#12384B",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
+              "lineLimit": 1
             },
             {
-              "type": "stack",
-              "width": 100,
-              "height": 38,
-              "radius": 16,
-              "padding": [
-                5,
-                8,
-                5,
-                8
-              ],
-              "direction": "row",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 120,
-                "colors": [
-                  "#A98BFF",
-                  "#EA71B8"
-                ]
-              },
-              "url": "https://www.youtube.com/@exitfrequency",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "bolt.fill",
-                  "size": 10,
-                  "color": "#FFF8FA"
-                },
-                {
-                  "type": "text",
-                  "text": "EXIT 9.95K",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 8,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 108,
-              "height": 38,
-              "radius": 16,
-              "padding": [
-                5,
-                8,
-                5,
-                8
-              ],
-              "direction": "row",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 120,
-                "colors": [
-                  "#FFD07A",
-                  "#FF986C"
-                ]
-              },
-              "url": "https://maps.apple.com/?q=Newark+Liberty+International+Airport",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "car.fill",
-                  "size": 10,
-                  "color": "#4C2C27"
-                },
-                {
-                  "type": "text",
-                  "text": "RIDE OPEN",
-                  "color": "#4C2C27",
-                  "font": {
-                    "size": 8,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
+              "type": "symbol",
+              "name": "music.note",
+              "size": 10,
+              "color": "#FFD7A6"
             }
           ]
         }
