@@ -1,1 +1,306 @@
-{"contentRevision":536,"mode":"native","version":5,"updatedAt":"2026-09-06T15:40:35Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":132,"colors":["#171B36","#33224C","#6A304C"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":142,"colors":["#11172E","#2A2247","#4A2947"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"SUNDAY SIGNAL FLOW","color":"#FFF5F7","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"11:39AM ET","color":"#E8DDF8","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"children":[{"type":"stack","width":194,"height":84,"radius":14,"padding":[8,10,8,10],"direction":"column","gap":5,"justifyContent":"center","background":{"type":"gradient","angle":126,"colors":["#5C4BE8","#A553D4","#EF7188"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","width":174,"height":12,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"EXIT FREQUENCY","color":"#FFF9FF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"waveform.path.ecg","size":10,"color":"#FFF4C7"}]},{"type":"stack","width":174,"height":27,"direction":"row","alignItems":"end","justifyContent":"space-between","children":[{"type":"text","text":"9960","color":"#FFFFFF","font":{"size":22,"weight":"bold"},"lineLimit":1},{"type":"text","text":"40 TO 10K","color":"#FFF1C9","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":174,"height":10,"radius":5,"background":{"type":"color","color":"#59386D"},"children":[{"type":"stack","width":173,"height":10,"radius":5,"background":{"type":"gradient","angle":90,"colors":["#FFF2A6","#FFB26B","#FF7EAE"]}}]},{"type":"text","text":"CHECKED 9:50AM ET","color":"#F8E9FF","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":120,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":120,"height":37,"radius":12,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#FFD590","#FF9A82"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"dollarsign.circle.fill","size":9,"color":"#552E42"},{"type":"text","text":"3 VENMOS","color":"#552E42","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"$561 FROM MOM","color":"#754052","font":{"size":7,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":120,"height":37,"radius":12,"padding":[5,8,5,8],"direction":"column","gap":1,"justifyContent":"center","background":{"type":"gradient","angle":128,"colors":["#C9E8FF","#9DB6FF"]},"url":"https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22","children":[{"type":"stack","direction":"row","gap":5,"alignItems":"center","children":[{"type":"symbol","name":"calendar.badge.exclamationmark","size":9,"color":"#243459"},{"type":"text","text":"CAL INVITE","color":"#243459","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"HILLY'S 70TH","color":"#3D4E76","font":{"size":7,"weight":"semibold"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"text","text":"14 UNREAD • INVITE WAITING","color":"#FFF2F6","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":8,"color":"#E9DDF7"}]}]}}}
+{
+  "contentRevision": 537,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-06T16:40:06Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 128,
+      "colors": [
+        "#F9D8C8",
+        "#D8D3FF",
+        "#B9EBE3"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 138,
+        "colors": [
+          "#101A35",
+          "#25234A",
+          "#4B3157"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "SUNDAY STACK TRACE",
+              "color": "#FFF8FA",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "12:39PM ET",
+              "color": "#D9D9F6",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "column",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 37,
+              "radius": 12,
+              "padding": [
+                5,
+                10,
+                5,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 96,
+                "colors": [
+                  "#FF8A65",
+                  "#D860A8",
+                  "#6957D8"
+                ]
+              },
+              "url": "https://www.google.com/maps/search/?api=1&query=Newark+Liberty+International+Airport",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "RIDE STILL OPEN",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 10,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "UA2171 • 7:59PM",
+                      "color": "#FFF1F3",
+                      "font": {
+                        "size": 8,
+                        "weight": "semibold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "symbol",
+                  "name": "car.side.fill",
+                  "size": 16,
+                  "color": "#FFF7CE"
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 37,
+              "direction": "row",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 157,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    9,
+                    5,
+                    9
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 110,
+                    "colors": [
+                      "#7D68F5",
+                      "#B45CE0"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT 9960",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "40 TO 10K",
+                          "color": "#F4E9FF",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 12,
+                      "color": "#FFF3AF"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 157,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    9,
+                    5,
+                    9
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 110,
+                    "colors": [
+                      "#7DE0CA",
+                      "#59ACD8"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "3 VENMOS",
+                          "color": "#102E43",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "TOTAL $561",
+                          "color": "#21495F",
+                          "font": {
+                            "size": 7,
+                            "weight": "semibold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "dollarsign.circle.fill",
+                      "size": 12,
+                      "color": "#173D55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+          "children": [
+            {
+              "type": "text",
+              "text": "14 UNREAD • ONE RIDE TO LOCK",
+              "color": "#FFF4F7",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 8,
+              "color": "#E5E1F7"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
