@@ -1,1 +1,331 @@
-{"contentRevision":559,"mode":"native","version":5,"updatedAt":"2026-09-07T14:39:44Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":145,"colors":["#E8F4FF","#E9E5FF","#F8EAF2"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":138,"colors":["#0A2033","#293D69","#653E72"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"MONDAY PRISM STACK","color":"#F8FBFF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"10:39 AM ET","color":"#D4D9F5","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":6,"children":[{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":100,"colors":["#1FD1A5","#3478F6","#6D5CE7"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"waveform.path.ecg","size":11,"color":"#FFFFFF"},{"type":"text","text":"EXIT FREQUENCY","color":"#F4FFFF","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"9970 • 30 TO 10K","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":100,"colors":["#FFE2F0","#E4D9FF"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"checkmark.seal.fill","size":11,"color":"#A23574"},{"type":"text","text":"LYFT","color":"#592249","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"VERIFY EMAIL","color":"#744362","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":100,"colors":["#D7F5ED","#DDEBFF"]},"url":"https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+subject%3A%22New+bank+statement+available%22+newer_than%3A2d","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"doc.text.fill","size":11,"color":"#176B67"},{"type":"text","text":"AMEX","color":"#174D57","font":{"size":8,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"NEW STATEMENT","color":"#416873","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions","children":[{"type":"text","text":"10 RECENT • 30 LEFT • RECEIPT NEW","color":"#F8FBFF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"text","text":"MAIL →","color":"#CFE6F5","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]}}}
+{
+  "contentRevision": 560,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-07T15:39:32Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 145,
+      "colors": [
+        "#E8F7F3",
+        "#E6ECFF",
+        "#FAEAF2"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#092B35",
+          "#173D57",
+          "#4A315B"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "MONDAY GLASS TRIO",
+              "color": "#F7FCFF",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "11:39 AM ET",
+              "color": "#D8E7F2",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 8,
+          "children": [
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                8,
+                8,
+                8
+              ],
+              "direction": "column",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#EAF7FF",
+                  "#C9E7FA"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "MAIL",
+                      "color": "#1B4B67",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "envelope.fill",
+                      "size": 11,
+                      "color": "#3478A7"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "9",
+                  "color": "#102F45",
+                  "font": {
+                    "size": 22,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "UNREAD • 24H",
+                  "color": "#376178",
+                  "font": {
+                    "size": 7,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                8,
+                8,
+                8
+              ],
+              "direction": "column",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#1FD1A5",
+                  "#3A8BEF",
+                  "#7056D9"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT",
+                      "color": "#F2FFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 11,
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "9970",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 20,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "30 TO 10K",
+                  "color": "#E9FFFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                8,
+                8,
+                8
+              ],
+              "direction": "column",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#FFE5F1",
+                  "#E8DDFF"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "LYFT",
+                      "color": "#702A58",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 11,
+                      "color": "#B53E83"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "VERIFY",
+                  "color": "#4E2141",
+                  "font": {
+                    "size": 14,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "EMAIL • NEW",
+                  "color": "#774C68",
+                  "font": {
+                    "size": 7,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+          "children": [
+            {
+              "type": "text",
+              "text": "9 MAIL • 30 LEFT • VERIFY NEW",
+              "color": "#F7FCFF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "OPEN →",
+              "color": "#CDEBF2",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
