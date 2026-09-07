@@ -1,8 +1,8 @@
 {
-  "contentRevision": 549,
+  "contentRevision": 550,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T04:39:16Z",
+  "updatedAt": "2026-09-07T05:39:50Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 136,
+      "angle": 132,
       "colors": [
-        "#B9E7FF",
-        "#D6C3FF",
-        "#FFBDD6"
+        "#B9D8FF",
+        "#D8C6FF",
+        "#FFC7D8"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 145,
+        "angle": 142,
         "colors": [
-          "#071A2B",
-          "#172445",
-          "#3A204E"
+          "#071521",
+          "#172A45",
+          "#3B244E"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "AFTER-MIDNIGHT SIGNALS",
+              "text": "LIQUID NIGHT DECK",
               "color": "#F9FBFF",
               "font": {
                 "size": 9,
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "12:38AM ET",
-              "color": "#D4EAFF",
+              "text": "1:38AM ET",
+              "color": "#D8E8F5",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,124 +81,67 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 6,
+          "direction": "row",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 24,
-              "radius": 11,
+              "width": 100,
+              "height": 84,
+              "radius": 14,
               "padding": [
-                4,
                 9,
-                4,
+                9,
+                8,
                 9
               ],
-              "direction": "row",
+              "direction": "column",
+              "gap": 5,
               "alignItems": "center",
-              "justifyContent": "space-between",
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 118,
+                "angle": 145,
                 "colors": [
-                  "#E15A78",
-                  "#8D4FD1"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
-              "children": [
-                {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "checkmark.seal.fill",
-                      "size": 9,
-                      "color": "#FFF8FC"
-                    },
-                    {
-                      "type": "text",
-                      "text": "LYFT",
-                      "color": "#FFF8FC",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "VERIFY EMAIL",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 10,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 324,
-              "height": 24,
-              "radius": 11,
-              "padding": [
-                4,
-                9,
-                4,
-                9
-              ],
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "space-between",
-              "background": {
-                "type": "gradient",
-                "angle": 118,
-                "colors": [
-                  "#316FBD",
-                  "#6557D4"
+                  "#FF7C96",
+                  "#9E5BE7"
                 ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "play.fill",
-                      "size": 9,
-                      "color": "#FFF8FC"
-                    },
-                    {
-                      "type": "text",
-                      "text": "EXIT FREQUENCY",
-                      "color": "#FFF8FC",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "play.circle.fill",
+                  "size": 17,
+                  "color": "#FFF3C4"
                 },
                 {
                   "type": "text",
-                  "text": "9970 • 30 TO 10K",
+                  "text": "EXIT",
+                  "color": "#FFF8FC",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "9970",
                   "color": "#FFFFFF",
                   "font": {
-                    "size": 10,
+                    "size": 16,
                     "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "30 TO GO",
+                  "color": "#FFEAF3",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
                   },
                   "lineLimit": 1
                 }
@@ -206,59 +149,125 @@
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 24,
-              "radius": 11,
+              "width": 100,
+              "height": 84,
+              "radius": 14,
               "padding": [
-                4,
                 9,
-                4,
-                9
+                8,
+                8,
+                8
               ],
-              "direction": "row",
+              "direction": "column",
+              "gap": 5,
               "alignItems": "center",
-              "justifyContent": "space-between",
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 118,
+                "angle": 145,
                 "colors": [
-                  "#297E8B",
-                  "#3FAE91"
+                  "#45C7B8",
+                  "#3889D7"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "checkmark.seal.fill",
+                  "size": 17,
+                  "color": "#EFFFFA"
+                },
+                {
+                  "type": "text",
+                  "text": "LYFT",
+                  "color": "#EFFFFA",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "VERIFY",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 13,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "EMAIL",
+                  "color": "#E7FBFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 84,
+              "radius": 14,
+              "padding": [
+                9,
+                8,
+                8,
+                8
+              ],
+              "direction": "column",
+              "gap": 5,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#6E70DE",
+                  "#C25FCB"
                 ]
               },
               "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+subject%3A%22New+bank+statement+available%22+newer_than%3A1d",
               "children": [
                 {
-                  "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "doc.text.fill",
-                      "size": 9,
-                      "color": "#FFF8FC"
-                    },
-                    {
-                      "type": "text",
-                      "text": "AMEX",
-                      "color": "#FFF8FC",
-                      "font": {
-                        "size": 8,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "doc.text.fill",
+                  "size": 16,
+                  "color": "#FFF0FA"
                 },
                 {
                   "type": "text",
-                  "text": "NEW STATEMENT",
+                  "text": "AMEX",
+                  "color": "#FFF0FA",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "NEW",
                   "color": "#FFFFFF",
                   "font": {
-                    "size": 10,
+                    "size": 13,
                     "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "STATEMENT",
+                  "color": "#FBEAFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
                   },
                   "lineLimit": 1
                 }
@@ -277,7 +286,7 @@
           "children": [
             {
               "type": "text",
-              "text": "15 MAIL • LYFT VERIFY • 30 LEFT",
+              "text": "15 MAIL • 30 LEFT • NIGHT BOARD",
               "color": "#F7FBFF",
               "font": {
                 "size": 8,
@@ -289,7 +298,7 @@
               "type": "symbol",
               "name": "sparkles",
               "size": 10,
-              "color": "#C9F3E6"
+              "color": "#D6F4E7"
             }
           ]
         }
