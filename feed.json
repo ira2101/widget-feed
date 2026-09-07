@@ -1,8 +1,8 @@
 {
-  "contentRevision": 544,
+  "contentRevision": 545,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-06T23:39:49Z",
+  "updatedAt": "2026-09-07T00:39:04Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 138,
+      "angle": 145,
       "colors": [
-        "#F7C7A6",
-        "#CBC7FF",
-        "#A9EBD3"
+        "#A7F3D0",
+        "#A7C7FF",
+        "#F6C3E6"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 148,
+        "angle": 132,
         "colors": [
-          "#10182C",
-          "#25203D",
-          "#3B2344"
+          "#091623",
+          "#14253A",
+          "#2B2443"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "SUNDAY NIGHT ORBIT",
-              "color": "#FFF7F4",
+              "text": "LIVE SIGNALS",
+              "color": "#F7FBFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "7:39PM ET",
-              "color": "#DDE8F3",
+              "text": "8:38PM ET",
+              "color": "#CFE4F4",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -86,192 +86,144 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
+              "radius": 14,
+              "padding": [
+                7,
+                8,
+                7,
+                8
+              ],
               "direction": "column",
-              "gap": 10,
+              "gap": 6,
+              "background": {
+                "type": "gradient",
+                "angle": 128,
+                "colors": [
+                  "#173C55",
+                  "#245F68",
+                  "#3B7869"
+                ]
+              },
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
+                  "width": 178,
+                  "height": 32,
+                  "radius": 10,
                   "padding": [
                     5,
-                    7,
-                    4,
-                    7
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 124,
-                    "colors": [
-                      "#72E0C0",
-                      "#65BCD9",
-                      "#91C9F0"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "14 MAIL",
-                          "color": "#143346",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "UNREAD",
-                          "color": "#285469",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 7,
-                      "color": "#285469"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    7,
-                    4,
-                    7
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 124,
-                    "colors": [
-                      "#4E8DE8",
-                      "#6D71DC",
-                      "#A15AD8"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Aamericanexpress%40welcome.americanexpress.com+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "AMEX",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "STATEMENT",
-                          "color": "#FBEFFF",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 7,
-                      "color": "#FBEFFF"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "column",
-              "alignItems": "center",
-              "justifyContent": "center",
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 76,
-                  "height": 76,
-                  "radius": 38,
-                  "padding": [
-                    12,
                     8,
-                    10,
+                    5,
                     8
                   ],
-                  "direction": "column",
-                  "gap": 4,
+                  "direction": "row",
                   "alignItems": "center",
-                  "justifyContent": "center",
+                  "justifyContent": "space-between",
                   "background": {
                     "type": "gradient",
-                    "angle": 140,
+                    "angle": 120,
                     "colors": [
-                      "#FF8A61",
-                      "#E54D7D",
-                      "#8C55D9"
+                      "#347A8F",
+                      "#4A96A0",
+                      "#70B7A4"
                     ]
                   },
-                  "url": "https://www.youtube.com/@exitfrequency",
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3AReceipts%40united.com+newer_than%3A1d",
                   "children": [
                     {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "UNITED",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "PURCHASE RECEIPT",
+                          "color": "#E9FFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
                       "type": "symbol",
-                      "name": "play.circle.fill",
-                      "size": 15,
-                      "color": "#FFF1B8"
+                      "name": "airplane",
+                      "size": 11,
+                      "color": "#E9FFFF"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 178,
+                  "height": 32,
+                  "radius": 10,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#4E4D91",
+                      "#73559D",
+                      "#A262A0"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "VENMO",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "3 PAYMENTS",
+                          "color": "#F8EFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
-                      "type": "text",
-                      "text": "9970",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 13,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "30 TO 10K",
-                      "color": "#FFF0F8",
-                      "font": {
-                        "size": 7,
-                        "weight": "semibold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "dollarsign.circle.fill",
+                      "size": 11,
+                      "color": "#F8EFFF"
                     }
                   ]
                 }
@@ -279,130 +231,59 @@
             },
             {
               "type": "stack",
-              "width": 100,
+              "width": 120,
               "height": 84,
+              "radius": 14,
+              "padding": [
+                9,
+                10,
+                8,
+                10
+              ],
               "direction": "column",
-              "gap": 10,
+              "gap": 4,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 142,
+                "colors": [
+                  "#FF8E72",
+                  "#D96398",
+                  "#7D62CB"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    7,
-                    4,
-                    7
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 124,
-                    "colors": [
-                      "#F4B86D",
-                      "#EF896A",
-                      "#D95E88"
-                    ]
+                  "type": "text",
+                  "text": "EXIT FREQUENCY",
+                  "color": "#FFF0F6",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano_reply%40email.apple.com+subject%3Areceipt+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "APPLE",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "RECEIPT",
-                          "color": "#FBEFFF",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 7,
-                      "color": "#FBEFFF"
-                    }
-                  ]
+                  "lineLimit": 1
                 },
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    7,
-                    4,
-                    7
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 124,
-                    "colors": [
-                      "#9D74E5",
-                      "#C667D3",
-                      "#E170A5"
-                    ]
+                  "type": "text",
+                  "text": "9970",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 22,
+                    "weight": "bold"
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/subject%3A%22Hilly%27s+70th%22+is%3Aunread",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "70TH",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "INVITE",
-                          "color": "#FBEFFF",
-                          "font": {
-                            "size": 7,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "arrow.up.right",
-                      "size": 7,
-                      "color": "#FBEFFF"
-                    }
-                  ]
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "30 TO 10K",
+                  "color": "#FFF3C7",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
                 }
               ]
             }
@@ -419,8 +300,8 @@
           "children": [
             {
               "type": "text",
-              "text": "30 LEFT • 14 MAIL • STATEMENT NEW",
-              "color": "#FFF7FB",
+              "text": "14 MAIL • 3 PAYMENTS • 30 LEFT",
+              "color": "#F7FBFF",
               "font": {
                 "size": 8,
                 "weight": "bold"
@@ -429,9 +310,9 @@
             },
             {
               "type": "symbol",
-              "name": "circle.grid.2x2.fill",
-              "size": 9,
-              "color": "#DDF4EA"
+              "name": "arrow.up.right.circle.fill",
+              "size": 10,
+              "color": "#CFEBD9"
             }
           ]
         }
