@@ -1,1 +1,441 @@
-{"contentRevision":552,"mode":"native","version":5,"updatedAt":"2026-09-07T07:39:40Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":128,"colors":["#C8D9FF","#D7C5FF","#F2BFD9"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":138,"colors":["#061728","#172A52","#46255D"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"PRE-DAWN SIGNAL WAVE","color":"#F8FBFF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"3:39AM ET","color":"#DCEAFF","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":8,"children":[{"type":"stack","width":324,"height":50,"radius":12,"padding":[5,10,5,10],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":105,"colors":["#3949B8","#7447C5","#C94E9C"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"EXIT FREQUENCY","color":"#EFEAFF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"text","text":"9970","color":"#FFFFFF","font":{"size":20,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":104,"height":30,"direction":"row","gap":4,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":8,"height":10,"radius":4,"background":{"type":"color","color":"#7FE7FF"}},{"type":"stack","width":8,"height":18,"radius":4,"background":{"type":"color","color":"#91D4FF"}},{"type":"stack","width":8,"height":26,"radius":4,"background":{"type":"color","color":"#A9C2FF"}},{"type":"stack","width":8,"height":16,"radius":4,"background":{"type":"color","color":"#C3AFFF"}},{"type":"stack","width":8,"height":30,"radius":4,"background":{"type":"color","color":"#DF9AF5"}},{"type":"stack","width":8,"height":21,"radius":4,"background":{"type":"color","color":"#F38FD5"}},{"type":"stack","width":8,"height":13,"radius":4,"background":{"type":"color","color":"#FF9FBE"}},{"type":"stack","width":8,"height":24,"radius":4,"background":{"type":"color","color":"#FFB398"}},{"type":"stack","width":8,"height":17,"radius":4,"background":{"type":"color","color":"#FFD27C"}}]},{"type":"stack","direction":"column","gap":1,"alignItems":"end","children":[{"type":"text","text":"30","color":"#FFFFFF","font":{"size":18,"weight":"bold"},"lineLimit":1},{"type":"text","text":"TO 10K","color":"#FFE8F5","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]},{"type":"stack","width":324,"height":26,"direction":"row","gap":10,"children":[{"type":"stack","width":157,"height":26,"radius":10,"padding":[4,8,4,8],"direction":"row","gap":6,"alignItems":"center","background":{"type":"gradient","angle":110,"colors":["#10A59A","#277BC2"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d","children":[{"type":"symbol","name":"checkmark.seal.fill","size":12,"color":"#E8FFFC"},{"type":"text","text":"LYFT VERIFY","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":157,"height":26,"radius":10,"padding":[4,8,4,8],"direction":"row","gap":6,"alignItems":"center","background":{"type":"gradient","angle":110,"colors":["#6B58D7","#A953B8"]},"url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"symbol","name":"envelope.badge.fill","size":12,"color":"#F4EDFF"},{"type":"text","text":"15 UNREAD","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"text","text":"15 MAIL • 30 LEFT • LYFT WAITING","color":"#F7FBFF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":10,"color":"#DDF7FF"}]}]}}}
+{
+  "contentRevision": 553,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-07T08:39:59Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 128,
+      "colors": [
+        "#BEE7FF",
+        "#D8D2FF",
+        "#FFC8D9"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+          "#071B31",
+          "#213966",
+          "#52305F"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "DAWN SIGNAL ORBIT",
+              "color": "#F8FBFF",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "4:39AM ET",
+              "color": "#DCEAFF",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 115,
+                    "colors": [
+                      "#255AB8",
+                      "#4B6BD4"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 11,
+                      "color": "#F8FBFF"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "15 MAIL",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "UNREAD",
+                          "color": "#EAF2FF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 115,
+                    "colors": [
+                      "#078B84",
+                      "#28A6A3"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 11,
+                      "color": "#F8FBFF"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "LYFT",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "VERIFY",
+                          "color": "#EAF2FF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "direction": "column",
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 76,
+                  "height": 76,
+                  "radius": 38,
+                  "padding": [
+                    7,
+                    6,
+                    7,
+                    6
+                  ],
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 142,
+                    "colors": [
+                      "#FF7A70",
+                      "#D94BB7",
+                      "#7057DE"
+                    ]
+                  },
+                  "url": "https://www.youtube.com/@exitfrequency",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT",
+                      "color": "#FFEAF8",
+                      "font": {
+                        "size": 7,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "9970",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 19,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "30 LEFT",
+                      "color": "#FFF3FA",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 115,
+                    "colors": [
+                      "#6444B6",
+                      "#9B4CB1"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+subject%3A%22New+bank+statement+available%22+newer_than%3A2d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "doc.text.fill",
+                      "size": 11,
+                      "color": "#F8FBFF"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "AMEX",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "STATEMENT",
+                          "color": "#EAF2FF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 115,
+                    "colors": [
+                      "#B26C25",
+                      "#D48B39"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3AReceipts%40united.com+subject%3A%22Thanks+for+your+purchase+with+United%22+newer_than%3A2d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "airplane",
+                      "size": 11,
+                      "color": "#F8FBFF"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "UNITED",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "RECEIPT",
+                          "color": "#EAF2FF",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+          "children": [
+            {
+              "type": "text",
+              "text": "15 MAIL • 30 LEFT • LYFT NEW",
+              "color": "#F7FBFF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 10,
+              "color": "#DDF7FF"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
