@@ -1,8 +1,8 @@
 {
-  "contentRevision": 563,
+  "contentRevision": 564,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T18:39:33Z",
+  "updatedAt": "2026-09-07T19:39:52Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 128,
+      "angle": 132,
       "colors": [
-        "#D7F4FF",
-        "#DDD5FF",
-        "#FFD6EA"
+        "#FFE1D5",
+        "#E5D8FF",
+        "#CFEFF2"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 136,
+        "angle": 140,
         "colors": [
-          "#10152A",
-          "#20214A",
-          "#34254E"
+          "#111B35",
+          "#26305A",
+          "#183F50"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "ORBIT BOARD",
-              "color": "#FBFAFF",
+              "text": "AFTERNOON SIGNAL",
+              "color": "#FFF9FB",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "2:39 PM ET",
-              "color": "#D9DBF4",
+              "text": "3:39 PM ET",
+              "color": "#D8DDF5",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -86,171 +86,199 @@
           "children": [
             {
               "type": "stack",
-              "width": 100,
+              "width": 194,
               "height": 84,
               "radius": 12,
               "padding": [
-                8,
-                8,
-                8,
-                8
+                10,
+                12,
+                10,
+                12
               ],
               "direction": "column",
-              "gap": 4,
-              "alignItems": "center",
+              "gap": 3,
               "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 145,
+                "angle": 128,
                 "colors": [
-                  "#3459B8",
-                  "#4C7AD7",
-                  "#6EA2EC"
+                  "#FF775F",
+                  "#D9528B",
+                  "#7458D8"
                 ]
               },
-              "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "envelope.badge.fill",
-                  "size": 16,
-                  "color": "#EDF6FF"
-                },
-                {
-                  "type": "text",
-                  "text": "12 UNREAD",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "MAIL",
-                  "color": "#DCEAFF",
-                  "font": {
-                    "size": 8,
-                    "weight": "medium"
-                  },
-                  "lineLimit": 1
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 104,
-              "height": 84,
-              "direction": "row",
-              "alignItems": "center",
-              "justifyContent": "center",
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
-                  "width": 68,
-                  "height": 68,
-                  "radius": 34,
-                  "direction": "column",
-                  "gap": 0,
+                  "direction": "row",
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 148,
-                    "colors": [
-                      "#26D6C4",
-                      "#6575FF",
-                      "#D86AC8"
-                    ]
-                  },
+                  "gap": 5,
                   "children": [
                     {
-                      "type": "text",
-                      "text": "EXIT",
-                      "color": "#EFFFFC",
-                      "font": {
-                        "size": 7,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 12,
+                      "color": "#FFF7F4"
                     },
                     {
                       "type": "text",
-                      "text": "9970",
-                      "color": "#FFFFFF",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#FFF9F6",
                       "font": {
-                        "size": 16,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "30 LEFT",
-                      "color": "#FFF0FC",
-                      "font": {
-                        "size": 8,
+                        "size": 9,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "radius": 12,
-              "padding": [
-                8,
-                8,
-                8,
-                8
-              ],
-              "direction": "column",
-              "gap": 4,
-              "alignItems": "center",
-              "justifyContent": "center",
-              "background": {
-                "type": "gradient",
-                "angle": 145,
-                "colors": [
-                  "#A63C79",
-                  "#D65284",
-                  "#F37C83"
-                ]
-              },
-              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A2d",
-              "children": [
-                {
-                  "type": "symbol",
-                  "name": "checkmark.seal.fill",
-                  "size": 16,
-                  "color": "#FFF0F6"
                 },
                 {
                   "type": "text",
-                  "text": "LYFT CHECK",
+                  "text": "9970",
                   "color": "#FFFFFF",
                   "font": {
-                    "size": 9,
+                    "size": 25,
                     "weight": "bold"
                   },
                   "lineLimit": 1
                 },
                 {
                   "type": "text",
-                  "text": "EMAIL",
-                  "color": "#FFE0EE",
+                  "text": "30 TO 10K",
+                  "color": "#FFE9F3",
                   "font": {
-                    "size": 8,
-                    "weight": "medium"
+                    "size": 9,
+                    "weight": "bold"
                   },
                   "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    6,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 122,
+                    "colors": [
+                      "#D8F7F0",
+                      "#B9E7F4"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.badge.fill",
+                      "size": 13,
+                      "color": "#116C72"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "12 MAIL",
+                          "color": "#174E5B",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "UNREAD",
+                          "color": "#3E6E78",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    6,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 122,
+                    "colors": [
+                      "#F3D9FF",
+                      "#D8D7FF"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A2d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 13,
+                      "color": "#78449C"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "LYFT",
+                          "color": "#51346C",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "VERIFY EMAIL",
+                          "color": "#755B89",
+                          "font": {
+                            "size": 7,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -263,12 +291,12 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
-          "url": "https://www.youtube.com/@exitfrequency",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
           "children": [
             {
               "type": "text",
               "text": "9970 • 30 LEFT • 12 MAIL",
-              "color": "#F8F8FF",
+              "color": "#FAF8FF",
               "font": {
                 "size": 8,
                 "weight": "bold"
@@ -279,7 +307,7 @@
               "type": "symbol",
               "name": "arrow.up.right",
               "size": 10,
-              "color": "#8FF3E1"
+              "color": "#90F0DC"
             }
           ]
         }
