@@ -1,8 +1,8 @@
 {
-  "contentRevision": 562,
+  "contentRevision": 563,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T17:40:30Z",
+  "updatedAt": "2026-09-07T18:39:33Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 132,
+      "angle": 128,
       "colors": [
-        "#FFF0D7",
-        "#FFD9E8",
-        "#D8E7FF"
+        "#D7F4FF",
+        "#DDD5FF",
+        "#FFD6EA"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 136,
         "colors": [
-          "#092B34",
-          "#143B57",
-          "#4C315F"
+          "#10152A",
+          "#20214A",
+          "#34254E"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "AFTERNOON SIGNAL WAVE",
-              "color": "#F8FCFF",
+              "text": "ORBIT BOARD",
+              "color": "#FBFAFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "1:39 PM ET",
-              "color": "#D8EAF0",
+              "text": "2:39 PM ET",
+              "color": "#D9DBF4",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,46 +81,97 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "column",
-          "gap": 8,
+          "direction": "row",
+          "gap": 10,
           "children": [
             {
               "type": "stack",
-              "width": 324,
-              "height": 50,
+              "width": 100,
+              "height": 84,
               "radius": 12,
               "padding": [
-                5,
-                10,
-                5,
-                10
+                8,
+                8,
+                8,
+                8
               ],
-              "direction": "row",
+              "direction": "column",
+              "gap": 4,
               "alignItems": "center",
-              "justifyContent": "space-between",
+              "justifyContent": "center",
               "background": {
                 "type": "gradient",
-                "angle": 106,
+                "angle": 145,
                 "colors": [
-                  "#0CA8A0",
-                  "#3869D4",
-                  "#B748A9",
-                  "#F06B69"
+                  "#3459B8",
+                  "#4C7AD7",
+                  "#6EA2EC"
                 ]
               },
+              "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "envelope.badge.fill",
+                  "size": 16,
+                  "color": "#EDF6FF"
+                },
+                {
+                  "type": "text",
+                  "text": "12 UNREAD",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "MAIL",
+                  "color": "#DCEAFF",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 104,
+              "height": 84,
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "center",
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
+                  "width": 68,
+                  "height": 68,
+                  "radius": 34,
                   "direction": "column",
-                  "gap": 1,
+                  "gap": 0,
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 148,
+                    "colors": [
+                      "#26D6C4",
+                      "#6575FF",
+                      "#D86AC8"
+                    ]
+                  },
                   "children": [
                     {
                       "type": "text",
-                      "text": "EXIT FREQUENCY",
-                      "color": "#E9FFFC",
+                      "text": "EXIT",
+                      "color": "#EFFFFC",
                       "font": {
-                        "size": 8,
+                        "size": 7,
                         "weight": "bold"
                       },
                       "lineLimit": 1
@@ -130,134 +181,15 @@
                       "text": "9970",
                       "color": "#FFFFFF",
                       "font": {
-                        "size": 20,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 104,
-                  "height": 30,
-                  "direction": "row",
-                  "gap": 4,
-                  "alignItems": "center",
-                  "justifyContent": "center",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 12,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#7FF4D9"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 21,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#8BE8F8"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 28,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#9ACDFF"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 17,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#B9B3FF"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 30,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#DA9CF0"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 23,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#F38EC9"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 14,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#FF9DAD"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 25,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#FFB07F"
-                      }
-                    },
-                    {
-                      "type": "stack",
-                      "width": 8,
-                      "height": 18,
-                      "radius": 4,
-                      "background": {
-                        "type": "color",
-                        "color": "#FFD272"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "direction": "column",
-                  "gap": 1,
-                  "alignItems": "end",
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "30",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 18,
+                        "size": 16,
                         "weight": "bold"
                       },
                       "lineLimit": 1
                     },
                     {
                       "type": "text",
-                      "text": "TO 10K",
-                      "color": "#FFF0F5",
+                      "text": "30 LEFT",
+                      "color": "#FFF0FC",
                       "font": {
                         "size": 8,
                         "weight": "bold"
@@ -270,94 +202,55 @@
             },
             {
               "type": "stack",
-              "width": 324,
-              "height": 26,
-              "direction": "row",
-              "gap": 10,
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                8,
+                8,
+                8
+              ],
+              "direction": "column",
+              "gap": 4,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "background": {
+                "type": "gradient",
+                "angle": 145,
+                "colors": [
+                  "#A63C79",
+                  "#D65284",
+                  "#F37C83"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A2d",
               "children": [
                 {
-                  "type": "stack",
-                  "width": 157,
-                  "height": 26,
-                  "radius": 10,
-                  "padding": [
-                    4,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 112,
-                    "colors": [
-                      "#F07A58",
-                      "#C6468B"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40doordash.com+subject%3A%22Details+of+your+no-contact+delivery+from+Bageletto%22+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "bag.fill",
-                      "size": 12,
-                      "color": "#FFF5ED"
-                    },
-                    {
-                      "type": "text",
-                      "text": "BAGELETTO EMAIL",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "type": "symbol",
+                  "name": "checkmark.seal.fill",
+                  "size": 16,
+                  "color": "#FFF0F6"
                 },
                 {
-                  "type": "stack",
-                  "width": 157,
-                  "height": 26,
-                  "radius": 10,
-                  "padding": [
-                    4,
-                    8,
-                    4,
-                    8
-                  ],
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 112,
-                    "colors": [
-                      "#297DA7",
-                      "#4D57B8"
-                    ]
+                  "type": "text",
+                  "text": "LYFT CHECK",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
-                  "children": [
-                    {
-                      "type": "symbol",
-                      "name": "envelope.badge.fill",
-                      "size": 12,
-                      "color": "#EAF8FF"
-                    },
-                    {
-                      "type": "text",
-                      "text": "12 UNREAD",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 9,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "EMAIL",
+                  "color": "#FFE0EE",
+                  "font": {
+                    "size": 8,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
                 }
               ]
             }
@@ -370,12 +263,12 @@
           "direction": "row",
           "alignItems": "center",
           "justifyContent": "space-between",
-          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+          "url": "https://www.youtube.com/@exitfrequency",
           "children": [
             {
               "type": "text",
-              "text": "12 MAIL • 30 LEFT • BAGELETTO",
-              "color": "#F7FCFF",
+              "text": "9970 • 30 LEFT • 12 MAIL",
+              "color": "#F8F8FF",
               "font": {
                 "size": 8,
                 "weight": "bold"
@@ -386,7 +279,7 @@
               "type": "symbol",
               "name": "arrow.up.right",
               "size": 10,
-              "color": "#D7F6F2"
+              "color": "#8FF3E1"
             }
           ]
         }
