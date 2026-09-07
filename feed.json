@@ -1,8 +1,8 @@
 {
-  "contentRevision": 567,
+  "contentRevision": 568,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T22:39:26Z",
+  "updatedAt": "2026-09-07T23:39:22Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 136,
+      "angle": 138,
       "colors": [
-        "#0B1635",
-        "#272359",
-        "#164B59"
+        "#08152F",
+        "#252052",
+        "#0A5360"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 124,
+        "angle": 122,
         "colors": [
-          "#101B40",
-          "#32245A",
-          "#10545E"
+          "#0B1735",
+          "#302354",
+          "#0D5660"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "SIGNAL TWINS",
-              "color": "#FFF9FC",
+              "text": "NIGHT SIGNAL",
+              "color": "#FFF8FD",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "6:39 PM ET",
-              "color": "#DDE8FF",
+              "text": "7:39 PM ET",
+              "color": "#DDEAFF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,119 +81,153 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 8,
           "children": [
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
+              "width": 324,
+              "height": 46,
               "radius": 12,
               "padding": [
-                9,
+                7,
                 11,
-                9,
+                7,
                 11
               ],
-              "direction": "column",
+              "direction": "row",
+              "alignItems": "center",
               "justifyContent": "space-between",
               "url": "https://www.youtube.com/@exitfrequency",
               "background": {
                 "type": "gradient",
-                "angle": 118,
+                "angle": 108,
                 "colors": [
-                  "#FF7B62",
-                  "#E24D91",
-                  "#7559E6"
+                  "#FF725E",
+                  "#E04490",
+                  "#6D59E8"
                 ]
               },
               "children": [
                 {
                   "type": "stack",
-                  "direction": "row",
-                  "gap": 6,
-                  "alignItems": "center",
+                  "direction": "column",
+                  "gap": 1,
                   "children": [
                     {
-                      "type": "symbol",
-                      "name": "waveform.path.ecg",
-                      "size": 11,
-                      "color": "#FFF7F4"
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 6,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "symbol",
+                          "name": "waveform.path.ecg",
+                          "size": 10,
+                          "color": "#FFF7F4"
+                        },
+                        {
+                          "type": "text",
+                          "text": "EXIT FREQUENCY",
+                          "color": "#FFF7F4",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
                     },
                     {
                       "type": "text",
-                      "text": "EXIT",
-                      "color": "#FFF7F4",
+                      "text": "9980",
+                      "color": "#FFFFFF",
                       "font": {
-                        "size": 9,
-                        "weight": "bold"
+                        "size": 19,
+                        "weight": "heavy"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "text",
-                  "text": "9980",
-                  "color": "#FFFFFF",
-                  "font": {
-                    "size": 23,
-                    "weight": "heavy"
+                  "type": "stack",
+                  "radius": 10,
+                  "padding": [
+                    5,
+                    8,
+                    5,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "color",
+                    "color": "#4A174F"
                   },
-                  "lineLimit": 1
-                },
-                {
-                  "type": "text",
-                  "text": "20 TO 10K",
-                  "color": "#FFF0F4",
-                  "font": {
-                    "size": 9,
-                    "weight": "bold"
-                  },
-                  "lineLimit": 1
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "20 TO 10K",
+                      "color": "#FFF3FA",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "symbol",
+                      "name": "arrow.up.right",
+                      "size": 9,
+                      "color": "#FFD7EB"
+                    }
+                  ]
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 157,
-              "height": 84,
-              "radius": 12,
-              "padding": [
-                8,
-                9,
-                8,
-                9
-              ],
-              "direction": "column",
-              "gap": 5,
-              "background": {
-                "type": "gradient",
-                "angle": 126,
-                "colors": [
-                  "#DDF7F2",
-                  "#C9E8FA",
-                  "#DCD4FF"
-                ]
-              },
+              "width": 324,
+              "height": 30,
+              "direction": "row",
+              "gap": 8,
               "children": [
                 {
                   "type": "stack",
-                  "height": 10,
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    6,
+                    8,
+                    6,
+                    8
+                  ],
                   "direction": "row",
                   "gap": 5,
                   "alignItems": "center",
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+is%3Aunread",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 112,
+                    "colors": [
+                      "#E9F6FF",
+                      "#BFE8FF"
+                    ]
+                  },
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "envelope.fill",
+                      "name": "checkmark.circle.fill",
                       "size": 9,
-                      "color": "#284B68"
+                      "color": "#17628A"
                     },
                     {
                       "type": "text",
-                      "text": "MAIL CHECK",
-                      "color": "#284B68",
+                      "text": "LYFT VERIFY",
+                      "color": "#194F70",
                       "font": {
                         "size": 8,
                         "weight": "bold"
@@ -204,38 +238,38 @@
                 },
                 {
                   "type": "stack",
-                  "width": 139,
-                  "height": 24,
+                  "width": 100,
+                  "height": 30,
                   "radius": 10,
                   "padding": [
-                    4,
-                    7,
-                    4,
-                    7
+                    6,
+                    8,
+                    6,
+                    8
                   ],
                   "direction": "row",
-                  "gap": 6,
+                  "gap": 5,
                   "alignItems": "center",
                   "url": "https://mail.google.com/mail/u/0/#search/from%3Anoreply%40waymo.com+subject%3A%22Thanks+for+riding+with+Waymo%22+is%3Aunread",
                   "background": {
                     "type": "gradient",
                     "angle": 112,
                     "colors": [
-                      "#FFFFFF",
-                      "#C5F1E6"
+                      "#E6FAF4",
+                      "#BCEEDD"
                     ]
                   },
                   "children": [
                     {
                       "type": "symbol",
                       "name": "car.fill",
-                      "size": 10,
-                      "color": "#176C66"
+                      "size": 9,
+                      "color": "#17685D"
                     },
                     {
                       "type": "text",
-                      "text": "WAYMO RECEIPT",
-                      "color": "#225C62",
+                      "text": "WAYMO",
+                      "color": "#205F59",
                       "font": {
                         "size": 8,
                         "weight": "bold"
@@ -246,38 +280,38 @@
                 },
                 {
                   "type": "stack",
-                  "width": 139,
-                  "height": 24,
+                  "width": 108,
+                  "height": 30,
                   "radius": 10,
                   "padding": [
-                    4,
-                    7,
-                    4,
-                    7
+                    6,
+                    8,
+                    6,
+                    8
                   ],
                   "direction": "row",
-                  "gap": 6,
+                  "gap": 5,
                   "alignItems": "center",
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+subject%3A%22New+bank+statement+available%22+is%3Aunread",
+                  "url": "https://mail.google.com/mail/u/0/#inbox",
                   "background": {
                     "type": "gradient",
                     "angle": 112,
                     "colors": [
-                      "#FFFFFF",
-                      "#DCD7FF"
+                      "#F1ECFF",
+                      "#D7CEFF"
                     ]
                   },
                   "children": [
                     {
                       "type": "symbol",
-                      "name": "building.columns.fill",
-                      "size": 10,
-                      "color": "#615091"
+                      "name": "tray.full.fill",
+                      "size": 9,
+                      "color": "#625092"
                     },
                     {
                       "type": "text",
-                      "text": "AMEX STATEMENT",
-                      "color": "#57477A",
+                      "text": "INBOX",
+                      "color": "#57477F",
                       "font": {
                         "size": 8,
                         "weight": "bold"
@@ -301,7 +335,7 @@
           "children": [
             {
               "type": "text",
-              "text": "20 LEFT • TWO MAIL TAPS",
+              "text": "20 LEFT • MAIL READY",
               "color": "#F7F7FF",
               "font": {
                 "size": 8,
@@ -313,7 +347,7 @@
               "type": "symbol",
               "name": "arrow.up.right",
               "size": 10,
-              "color": "#8FF3DC"
+              "color": "#8EF3DD"
             }
           ]
         }
