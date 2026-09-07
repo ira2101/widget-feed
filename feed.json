@@ -1,1 +1,407 @@
-{"contentRevision":557,"mode":"native","version":5,"updatedAt":"2026-09-07T12:39:50Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":138,"colors":["#E8F7F4","#E6EDFF","#F7E9F7"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":142,"colors":["#071D28","#15364A","#3A3159"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"MORNING GLASS SPLIT","color":"#F7FCFF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"8:39 AM ET","color":"#BDD8E6","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"children":[{"type":"stack","width":194,"height":84,"radius":12,"padding":[10,12,10,12],"direction":"column","gap":3,"justifyContent":"center","background":{"type":"gradient","angle":126,"colors":["#2DD4BF","#3478F6","#7656D6"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","alignItems":"center","gap":5,"children":[{"type":"symbol","name":"chart.line.uptrend.xyaxis","size":12,"color":"#FFFFFF"},{"type":"text","text":"EXIT FREQUENCY","color":"#EFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"9970","color":"#FFFFFF","font":{"size":25,"weight":"bold"},"lineLimit":1},{"type":"text","text":"30 TO 10K","color":"#E7FBFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":120,"height":84,"direction":"column","gap":10,"children":[{"type":"stack","width":120,"height":37,"radius":11,"padding":[6,8,6,8],"direction":"row","gap":7,"alignItems":"center","background":{"type":"gradient","angle":120,"colors":["#FFE3EE","#EDC8F4"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d","children":[{"type":"symbol","name":"checkmark.seal.fill","size":13,"color":"#9A356A"},{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"LYFT","color":"#5E2148","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"VERIFY EMAIL","color":"#7A4B67","font":{"size":7,"weight":"medium"},"lineLimit":1}]}]},{"type":"stack","width":120,"height":37,"radius":11,"padding":[6,8,6,8],"direction":"row","gap":7,"alignItems":"center","background":{"type":"gradient","angle":120,"colors":["#DFF8F0","#C8E3FF"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Ainvoice%2Bstatements%40mail.anthropic.com+subject%3A%22Your+receipt+from+Anthropic%22+newer_than%3A1d","children":[{"type":"symbol","name":"doc.text.fill","size":13,"color":"#146A68"},{"type":"stack","direction":"column","gap":1,"children":[{"type":"text","text":"ANTHROPIC","color":"#174F59","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"NEW RECEIPT","color":"#43717B","font":{"size":7,"weight":"medium"},"lineLimit":1}]}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/newer_than%3A8h+is%3Aunread+-category%3Apromotions","children":[{"type":"text","text":"5 RECENT • 30 LEFT","color":"#F7FBFF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"text","text":"MAIL →","color":"#C9E9F1","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]}}}
+{
+  "contentRevision": 558,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-07T13:39:36Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 145,
+      "colors": [
+        "#E7F5FF",
+        "#E9E6FF",
+        "#F7E8F4"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 132,
+        "colors": [
+          "#081B2D",
+          "#17395B",
+          "#43365D"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "MONDAY SIGNAL SWELL",
+              "color": "#F7FBFF",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "1:39 PM ET",
+              "color": "#BDD8EA",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "column",
+          "gap": 8,
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 46,
+              "radius": 12,
+              "padding": [
+                6,
+                10,
+                6,
+                10
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#2DDAAE",
+                  "#3478F6",
+                  "#7458D8"
+                ]
+              },
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#EFFFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "row",
+                      "gap": 7,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "9970",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 19,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "30 TO 10K",
+                          "color": "#E6FAFF",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 64,
+                  "height": 32,
+                  "radius": 11,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 90,
+                    "colors": [
+                      "#FFFFFF33",
+                      "#FFFFFF17"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 20,
+                      "color": "#FFFFFF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 30,
+              "direction": "row",
+              "gap": 8,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    4,
+                    7,
+                    4,
+                    7
+                  ],
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#E4F3FF",
+                      "#CFE6FF"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "envelope.fill",
+                      "size": 11,
+                      "color": "#245A8D"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "10 RECENT",
+                          "color": "#173E63",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "UNREAD",
+                          "color": "#4D7294",
+                          "font": {
+                            "size": 6,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 100,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    4,
+                    7,
+                    4,
+                    7
+                  ],
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#FFE2EF",
+                      "#F2CCF2"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 11,
+                      "color": "#9A356A"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "LYFT",
+                          "color": "#62234B",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "VERIFY",
+                          "color": "#81526E",
+                          "font": {
+                            "size": 6,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 108,
+                  "height": 30,
+                  "radius": 10,
+                  "padding": [
+                    4,
+                    7,
+                    4,
+                    7
+                  ],
+                  "direction": "row",
+                  "gap": 5,
+                  "alignItems": "center",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 120,
+                    "colors": [
+                      "#DDF8EE",
+                      "#CBE5FF"
+                    ]
+                  },
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ainvoice%2Bstatements%40mail.anthropic.com+subject%3A%22Your+receipt+from+Anthropic%22+newer_than%3A1d",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "doc.text.fill",
+                      "size": 11,
+                      "color": "#16696A"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 0,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "RECEIPT",
+                          "color": "#174F59",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "5:04 AM",
+                          "color": "#49727B",
+                          "font": {
+                            "size": 6,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A24h+is%3Aunread+-category%3Apromotions",
+          "children": [
+            {
+              "type": "text",
+              "text": "10 RECENT • 30 LEFT • RECEIPT NEW",
+              "color": "#F7FBFF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "MAIL →",
+              "color": "#CBE6F3",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
