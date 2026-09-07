@@ -1,8 +1,8 @@
 {
-  "contentRevision": 548,
+  "contentRevision": 549,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T03:39:37Z",
+  "updatedAt": "2026-09-07T04:39:16Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 138,
+      "angle": 136,
       "colors": [
-        "#F1B8FF",
-        "#96CFFF",
-        "#A5F0D5"
+        "#B9E7FF",
+        "#D6C3FF",
+        "#FFBDD6"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 142,
+        "angle": 145,
         "colors": [
-          "#081426",
-          "#19264A",
-          "#3C2356"
+          "#071A2B",
+          "#172445",
+          "#3A204E"
         ]
       },
       "children": [
@@ -57,7 +57,7 @@
           "children": [
             {
               "type": "text",
-              "text": "MIDNIGHT GLASS COMPASS",
+              "text": "AFTER-MIDNIGHT SIGNALS",
               "color": "#F9FBFF",
               "font": {
                 "size": 9,
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "11:39PM ET",
-              "color": "#CFE6FF",
+              "text": "12:38AM ET",
+              "color": "#D4EAFF",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,322 +81,186 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 6,
           "children": [
             {
               "type": "stack",
-              "width": 100,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                9,
+                4,
+                9
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#E15A78",
+                  "#8D4FD1"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+newer_than%3A1d",
               "children": [
                 {
                   "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 118,
-                    "colors": [
-                      "#3568B8",
-                      "#645ACB"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 5,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "envelope.badge.fill",
-                          "size": 8,
-                          "color": "#FFF4FB"
-                        },
-                        {
-                          "type": "text",
-                          "text": "14 MAIL",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 9,
+                      "color": "#FFF8FC"
                     },
                     {
                       "type": "text",
-                      "text": "UNREAD",
-                      "color": "#F4ECFF",
+                      "text": "LYFT",
+                      "color": "#FFF8FC",
                       "font": {
                         "size": 8,
-                        "weight": "medium"
+                        "weight": "bold"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 118,
-                    "colors": [
-                      "#347CA6",
-                      "#42A5A4"
-                    ]
+                  "type": "text",
+                  "text": "VERIFY EMAIL",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3AReceipts%40united.com+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 5,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "airplane",
-                          "size": 8,
-                          "color": "#FFF4FB"
-                        },
-                        {
-                          "type": "text",
-                          "text": "UNITED",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "RECEIPT",
-                      "color": "#F4ECFF",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
+                  "lineLimit": 1
                 }
               ]
             },
             {
               "type": "stack",
-              "width": 104,
-              "height": 84,
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                9,
+                4,
+                9
+              ],
               "direction": "row",
               "alignItems": "center",
-              "justifyContent": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#316FBD",
+                  "#6557D4"
+                ]
+              },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
                   "type": "stack",
-                  "width": 76,
-                  "height": 76,
-                  "radius": 38,
-                  "direction": "column",
-                  "gap": 2,
+                  "direction": "row",
+                  "gap": 6,
                   "alignItems": "center",
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 132,
-                    "colors": [
-                      "#FF8B70",
-                      "#D955B5",
-                      "#735FE0"
-                    ]
-                  },
                   "children": [
                     {
                       "type": "symbol",
                       "name": "play.fill",
-                      "size": 10,
-                      "color": "#FFF2C2"
+                      "size": 9,
+                      "color": "#FFF8FC"
                     },
                     {
                       "type": "text",
-                      "text": "9970",
-                      "color": "#FFFFFF",
-                      "font": {
-                        "size": 16,
-                        "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "30 TO 10K",
-                      "color": "#FFF0FA",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#FFF8FC",
                       "font": {
                         "size": 8,
                         "weight": "bold"
-                      },
-                      "lineLimit": 1
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 100,
-              "height": 84,
-              "direction": "column",
-              "gap": 10,
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 118,
-                    "colors": [
-                      "#9E58CF",
-                      "#D05D99"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 5,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "doc.text.fill",
-                          "size": 8,
-                          "color": "#FFF4FB"
-                        },
-                        {
-                          "type": "text",
-                          "text": "AMEX",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "STATEMENT",
-                      "color": "#F4ECFF",
-                      "font": {
-                        "size": 8,
-                        "weight": "medium"
                       },
                       "lineLimit": 1
                     }
                   ]
                 },
                 {
-                  "type": "stack",
-                  "width": 100,
-                  "height": 37,
-                  "radius": 11,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "column",
-                  "gap": 2,
-                  "justifyContent": "center",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 118,
-                    "colors": [
-                      "#E9816B",
-                      "#D15479"
-                    ]
+                  "type": "text",
+                  "text": "9970 • 30 TO 10K",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
                   },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Anoreply%40email.apple.com+subject%3A%22Hilly%27s+70th%22",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                9,
+                4,
+                9
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#297E8B",
+                  "#3FAE91"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+subject%3A%22New+bank+statement+available%22+newer_than%3A1d",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
                   "children": [
                     {
-                      "type": "stack",
-                      "direction": "row",
-                      "gap": 5,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "symbol",
-                          "name": "calendar.badge.clock",
-                          "size": 8,
-                          "color": "#FFF4FB"
-                        },
-                        {
-                          "type": "text",
-                          "text": "70TH",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
+                      "type": "symbol",
+                      "name": "doc.text.fill",
+                      "size": 9,
+                      "color": "#FFF8FC"
                     },
                     {
                       "type": "text",
-                      "text": "INVITE",
-                      "color": "#F4ECFF",
+                      "text": "AMEX",
+                      "color": "#FFF8FC",
                       "font": {
                         "size": 8,
-                        "weight": "medium"
+                        "weight": "bold"
                       },
                       "lineLimit": 1
                     }
                   ]
+                },
+                {
+                  "type": "text",
+                  "text": "NEW STATEMENT",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
                 }
               ]
             }
@@ -413,7 +277,7 @@
           "children": [
             {
               "type": "text",
-              "text": "30 LEFT • 14 MAIL • TWO RECEIPTS",
+              "text": "15 MAIL • LYFT VERIFY • 30 LEFT",
               "color": "#F7FBFF",
               "font": {
                 "size": 8,
