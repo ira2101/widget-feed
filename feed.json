@@ -1,1 +1,316 @@
-{"contentRevision":565,"mode":"native","version":5,"updatedAt":"2026-09-07T20:39:32Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":138,"colors":["#E7E2FF","#D7F2F0","#FFE0D7"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":126,"colors":["#111A32","#27325D","#163E4E"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"MONDAY SIGNAL DECK","color":"#FFF9FC","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"4:39 PM ET","color":"#D9DDF4","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":6,"children":[{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,10,4,10],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":118,"colors":["#FF765E","#D84F8A","#7658DA"]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"waveform.path.ecg","size":11,"color":"#FFF8F4"},{"type":"text","text":"EXIT FREQUENCY","color":"#FFF9F6","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"9980 • 20 TO 10K","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,10,4,10],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":118,"colors":["#BFF4EA","#A7E3F3"]},"url":"https://mail.google.com/mail/u/0/#search/newer_than%3A1d+is%3Aunread+-category%3Apromotions","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"envelope.fill","size":11,"color":"#12666D"},{"type":"text","text":"UNREAD MAIL","color":"#164D59","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"12 OPEN","color":"#245F68","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,10,4,10],"direction":"row","alignItems":"center","justifyContent":"space-between","background":{"type":"gradient","angle":118,"colors":["#ECD8FF","#D9D7FF"]},"url":"https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+is%3Aunread","children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"checkmark.seal.fill","size":11,"color":"#76459A"},{"type":"text","text":"LYFT EMAIL","color":"#503668","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"VERIFY","color":"#6E5383","font":{"size":9,"weight":"bold"},"lineLimit":1}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"20 LEFT • 12 MAIL • LYFT WAITING","color":"#FAF8FF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":10,"color":"#8EF0D8"}]}]}}}
+{
+  "contentRevision": 566,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-07T21:39:54Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 132,
+      "colors": [
+        "#17172D",
+        "#2A2450",
+        "#123E46"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 128,
+        "colors": [
+          "#14162B",
+          "#282354",
+          "#12424B"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "MONDAY ARC",
+              "color": "#FFF9FC",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "5:39 PM ET",
+              "color": "#DCD8F6",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                9,
+                12,
+                9,
+                12
+              ],
+              "direction": "column",
+              "justifyContent": "space-between",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#FF775F",
+                  "#D64E8C",
+                  "#725ADB"
+                ]
+              },
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform.path.ecg",
+                      "size": 11,
+                      "color": "#FFF8F4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#FFF8F4",
+                      "font": {
+                        "size": 9,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "9980",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 24,
+                    "weight": "heavy"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "20 TO 10K",
+                  "color": "#FFF2F4",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "direction": "column",
+              "gap": 10,
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    6,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Anoreply%40waymo.com+subject%3A%22Thanks+for+riding+with+Waymo%22",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 112,
+                    "colors": [
+                      "#C8F4EA",
+                      "#A9E5F5"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "car.fill",
+                      "size": 12,
+                      "color": "#155D68"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "WAYMO",
+                          "color": "#164B56",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "RECEIPT",
+                          "color": "#2B6670",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 120,
+                  "height": 37,
+                  "radius": 11,
+                  "padding": [
+                    6,
+                    8,
+                    6,
+                    8
+                  ],
+                  "direction": "row",
+                  "gap": 7,
+                  "alignItems": "center",
+                  "url": "https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+is%3Aunread",
+                  "background": {
+                    "type": "gradient",
+                    "angle": 112,
+                    "colors": [
+                      "#ECD9FF",
+                      "#D9D8FF"
+                    ]
+                  },
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "checkmark.seal.fill",
+                      "size": 12,
+                      "color": "#704391"
+                    },
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "LYFT",
+                          "color": "#513765",
+                          "font": {
+                            "size": 9,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "VERIFY",
+                          "color": "#6D5282",
+                          "font": {
+                            "size": 8,
+                            "weight": "medium"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://www.youtube.com/@exitfrequency",
+          "children": [
+            {
+              "type": "text",
+              "text": "20 LEFT • WAYMO • LYFT",
+              "color": "#F8F6FF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 10,
+              "color": "#9AF2DD"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
