@@ -1,8 +1,8 @@
 {
-  "contentRevision": 545,
+  "contentRevision": 546,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-09-07T00:39:04Z",
+  "updatedAt": "2026-09-07T01:39:48Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "native": {
     "outer": {
@@ -23,11 +23,11 @@
     "refreshMinutes": 15,
     "background": {
       "type": "gradient",
-      "angle": 145,
+      "angle": 138,
       "colors": [
-        "#A7F3D0",
-        "#A7C7FF",
-        "#F6C3E6"
+        "#F9C6D7",
+        "#C7C5FF",
+        "#A8E8DF"
       ]
     },
     "root": {
@@ -39,11 +39,11 @@
       "gap": 10,
       "background": {
         "type": "gradient",
-        "angle": 132,
+        "angle": 146,
         "colors": [
-          "#091623",
-          "#14253A",
-          "#2B2443"
+          "#091522",
+          "#18203A",
+          "#302243"
         ]
       },
       "children": [
@@ -57,8 +57,8 @@
           "children": [
             {
               "type": "text",
-              "text": "LIVE SIGNALS",
-              "color": "#F7FBFF",
+              "text": "NIGHT SIGNAL STACK",
+              "color": "#F8FBFF",
               "font": {
                 "size": 9,
                 "weight": "bold"
@@ -67,8 +67,8 @@
             },
             {
               "type": "text",
-              "text": "8:38PM ET",
-              "color": "#CFE4F4",
+              "text": "9:38PM ET",
+              "color": "#D7DDF8",
               "font": {
                 "size": 8,
                 "weight": "medium"
@@ -81,206 +81,186 @@
           "type": "stack",
           "width": 324,
           "height": 84,
-          "direction": "row",
-          "gap": 10,
+          "direction": "column",
+          "gap": 6,
           "children": [
             {
               "type": "stack",
-              "width": 194,
-              "height": 84,
-              "radius": 14,
+              "width": 324,
+              "height": 24,
+              "radius": 11,
               "padding": [
-                7,
-                8,
-                7,
-                8
-              ],
-              "direction": "column",
-              "gap": 6,
-              "background": {
-                "type": "gradient",
-                "angle": 128,
-                "colors": [
-                  "#173C55",
-                  "#245F68",
-                  "#3B7869"
-                ]
-              },
-              "children": [
-                {
-                  "type": "stack",
-                  "width": 178,
-                  "height": 32,
-                  "radius": 10,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 120,
-                    "colors": [
-                      "#347A8F",
-                      "#4A96A0",
-                      "#70B7A4"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3AReceipts%40united.com+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "UNITED",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "PURCHASE RECEIPT",
-                          "color": "#E9FFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "airplane",
-                      "size": 11,
-                      "color": "#E9FFFF"
-                    }
-                  ]
-                },
-                {
-                  "type": "stack",
-                  "width": 178,
-                  "height": 32,
-                  "radius": 10,
-                  "padding": [
-                    5,
-                    8,
-                    5,
-                    8
-                  ],
-                  "direction": "row",
-                  "alignItems": "center",
-                  "justifyContent": "space-between",
-                  "background": {
-                    "type": "gradient",
-                    "angle": 120,
-                    "colors": [
-                      "#4E4D91",
-                      "#73559D",
-                      "#A262A0"
-                    ]
-                  },
-                  "url": "https://mail.google.com/mail/u/0/#search/from%3Avenmo%40venmo.com+newer_than%3A1d",
-                  "children": [
-                    {
-                      "type": "stack",
-                      "direction": "column",
-                      "gap": 1,
-                      "children": [
-                        {
-                          "type": "text",
-                          "text": "VENMO",
-                          "color": "#FFFFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "bold"
-                          },
-                          "lineLimit": 1
-                        },
-                        {
-                          "type": "text",
-                          "text": "3 PAYMENTS",
-                          "color": "#F8EFFF",
-                          "font": {
-                            "size": 8,
-                            "weight": "medium"
-                          },
-                          "lineLimit": 1
-                        }
-                      ]
-                    },
-                    {
-                      "type": "symbol",
-                      "name": "dollarsign.circle.fill",
-                      "size": 11,
-                      "color": "#F8EFFF"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "stack",
-              "width": 120,
-              "height": 84,
-              "radius": 14,
-              "padding": [
+                4,
                 9,
-                10,
-                8,
-                10
+                4,
+                9
               ],
-              "direction": "column",
-              "gap": 4,
+              "direction": "row",
               "alignItems": "center",
-              "justifyContent": "center",
+              "justifyContent": "space-between",
               "background": {
                 "type": "gradient",
-                "angle": 142,
+                "angle": 112,
                 "colors": [
-                  "#FF8E72",
-                  "#D96398",
-                  "#7D62CB"
+                  "#FF7A67",
+                  "#D95797",
+                  "#795DCC"
                 ]
               },
               "url": "https://www.youtube.com/@exitfrequency",
               "children": [
                 {
-                  "type": "text",
-                  "text": "EXIT FREQUENCY",
-                  "color": "#FFF0F6",
-                  "font": {
-                    "size": 8,
-                    "weight": "semibold"
-                  },
-                  "lineLimit": 1
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "waveform",
+                      "size": 10,
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "EXIT FREQUENCY",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
                   "type": "text",
-                  "text": "9970",
-                  "color": "#FFFFFF",
+                  "text": "9970 \u2022 30 TO 10K",
+                  "color": "#FFF4C9",
                   "font": {
-                    "size": 22,
+                    "size": 9,
                     "weight": "bold"
                   },
                   "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                9,
+                4,
+                9
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 116,
+                "colors": [
+                  "#176C77",
+                  "#238D86",
+                  "#5DBA97"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3AReceipts%40united.com+newer_than%3A1d",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "airplane",
+                      "size": 10,
+                      "color": "#EFFFFA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "UNITED",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
                 },
                 {
                   "type": "text",
-                  "text": "30 TO 10K",
-                  "color": "#FFF3C7",
+                  "text": "PURCHASE RECEIPT",
+                  "color": "#EFFFFA",
                   "font": {
-                    "size": 9,
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 24,
+              "radius": 11,
+              "padding": [
+                4,
+                9,
+                4,
+                9
+              ],
+              "direction": "row",
+              "alignItems": "center",
+              "justifyContent": "space-between",
+              "background": {
+                "type": "gradient",
+                "angle": 118,
+                "colors": [
+                  "#345078",
+                  "#536CA8",
+                  "#8B6CB1"
+                ]
+              },
+              "url": "https://mail.google.com/mail/u/0/#search/from%3AAmericanExpress%40welcome.americanexpress.com+newer_than%3A1d",
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "row",
+                  "gap": 6,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "symbol",
+                      "name": "doc.text.fill",
+                      "size": 10,
+                      "color": "#F1F4FF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "AMEX",
+                      "color": "#FFFFFF",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "NEW STATEMENT",
+                  "color": "#F1F4FF",
+                  "font": {
+                    "size": 8,
                     "weight": "bold"
                   },
                   "lineLimit": 1
@@ -300,7 +280,7 @@
           "children": [
             {
               "type": "text",
-              "text": "14 MAIL • 3 PAYMENTS • 30 LEFT",
+              "text": "14 MAIL \u2022 30 LEFT \u2022 TWO RECEIPTS",
               "color": "#F7FBFF",
               "font": {
                 "size": 8,
@@ -312,7 +292,7 @@
               "type": "symbol",
               "name": "arrow.up.right.circle.fill",
               "size": 10,
-              "color": "#CFEBD9"
+              "color": "#CFEFE5"
             }
           ]
         }
