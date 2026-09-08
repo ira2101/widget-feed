@@ -1,1 +1,274 @@
-{"contentRevision":572,"mode":"native","version":5,"updatedAt":"2026-09-08T03:39:20Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":138,"colors":["#060817","#172241","#313060"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":144,"colors":["#080B1D","#1A2850","#49376C"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"MIDNIGHT LEDGER","color":"#F8F7FF","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"11:39 PM ET","color":"#CFCDF1","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"column","gap":6,"children":[{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.youtube.com/@exitfrequency","background":{"type":"gradient","angle":90,"colors":["#FF5C7A","#A85CEB","#556BFF"]},"children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"play.fill","size":9,"color":"#FFFFFF"},{"type":"text","text":"EXIT 9980","color":"#FFFFFF","font":{"size":10,"weight":"heavy"},"lineLimit":1}]},{"type":"text","text":"20 TO 10K","color":"#FFF4FB","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+subject%3A%221+Rental+Result%22+is%3Aunread","background":{"type":"gradient","angle":90,"colors":["#B8F5E5","#9BDDE9"]},"children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"house.fill","size":10,"color":"#104A5D"},{"type":"text","text":"ZILLOW 1 NEW","color":"#114C5E","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"SF 94109","color":"#246375","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":324,"height":24,"radius":11,"padding":[4,9,4,9],"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://mail.google.com/mail/u/0/#search/in%3Ainbox+is%3Aunread+newer_than%3A1d+-category%3Apromotions","background":{"type":"gradient","angle":90,"colors":["#281F4E","#513873"]},"children":[{"type":"stack","direction":"row","gap":6,"alignItems":"center","children":[{"type":"symbol","name":"envelope.fill","size":10,"color":"#F5EEFF"},{"type":"text","text":"12 UNREAD","color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1}]},{"type":"text","text":"WAYMO RECEIPT","color":"#DDD2F4","font":{"size":8,"weight":"semibold"},"lineLimit":1}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT 9980 • 20 LEFT • 12 MAIL","color":"#F4F3FF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":10,"color":"#8AF0D4"}]}]}}}
+{
+  "contentRevision": 573,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-08T04:39:11Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 140,
+      "colors": [
+        "#070B16",
+        "#182A4A",
+        "#3A2A5C"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 145,
+        "colors": [
+          "#0B1230",
+          "#1D2C55"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "NIGHT SIGNAL",
+              "color": "#8EA6D8",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "12:43 AM ET",
+              "color": "#5E7199",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "direction": "column",
+              "gap": 6,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "url": "https://www.youtube.com/@exitfrequency",
+              "background": {
+                "type": "gradient",
+                "angle": 90,
+                "colors": [
+                  "#FF5C7A",
+                  "#A85CEB",
+                  "#556BFF"
+                ]
+              },
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "play.fill",
+                  "size": 10,
+                  "color": "#FFFFFF"
+                },
+                {
+                  "type": "text",
+                  "text": "EXIT 9980",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 11,
+                    "weight": "heavy"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "20 TO 10K",
+                  "color": "#FFF4FD",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 100,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "direction": "column",
+              "gap": 6,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "url": "https://mail.google.com/mail/u/0/#search/in%3Ainbox+is%3Aunread",
+              "background": {
+                "type": "gradient",
+                "angle": 90,
+                "colors": [
+                  "#1F6FEB",
+                  "#164E9E",
+                  "#0E2E63"
+                ]
+              },
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "envelope.fill",
+                  "size": 10,
+                  "color": "#FFFFFF"
+                },
+                {
+                  "type": "text",
+                  "text": "MAIL",
+                  "color": "#DCEAFF",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "8 NEW",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 11,
+                    "weight": "heavy"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 108,
+              "height": 84,
+              "radius": 12,
+              "padding": [
+                8,
+                10,
+                8,
+                10
+              ],
+              "direction": "column",
+              "gap": 6,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+              "background": {
+                "type": "gradient",
+                "angle": 90,
+                "colors": [
+                  "#12B76A",
+                  "#0E7C86",
+                  "#143E6B"
+                ]
+              },
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "tornado",
+                  "size": 12,
+                  "color": "#FFFFFF"
+                },
+                {
+                  "type": "text",
+                  "text": "TORNADO",
+                  "color": "#FFFFFF",
+                  "font": {
+                    "size": 10,
+                    "weight": "heavy"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "TAP PLAY",
+                  "color": "#E4F8EE",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "exit 20 to go \u2022 mail 8 new",
+              "color": "#8EA6D8",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
