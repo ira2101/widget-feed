@@ -1,1 +1,314 @@
-{"contentRevision":570,"mode":"native","version":5,"updatedAt":"2026-09-08T01:40:01Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":138,"colors":["#080D22","#24184B","#073E55"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"background":{"type":"gradient","angle":126,"colors":["#0A1028","#2B1852","#084A5A"]},"children":[{"type":"stack","width":324,"height":16,"direction":"row","alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"NIGHT ORBIT","color":"#FFF8FC","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"9:40 PM ET","color":"#DDE7FF","font":{"size":8,"weight":"medium"},"lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":8,"alignItems":"center","children":[{"type":"stack","width":100,"height":84,"radius":12,"padding":[9,9,8,9],"direction":"column","gap":4,"url":"https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+subject%3A%221+Rental+Result%22+is%3Aunread","background":{"type":"gradient","angle":145,"colors":["#C9E5FF","#99C5F7"]},"children":[{"type":"symbol","name":"house.fill","size":14,"color":"#174E7A"},{"type":"text","text":"ZILLOW","color":"#17496F","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"1 NEW RENTAL","color":"#285C7D","font":{"size":8,"weight":"semibold"},"lineLimit":1}]},{"type":"stack","width":108,"height":84,"direction":"row","alignItems":"center","justifyContent":"center","children":[{"type":"stack","width":80,"height":80,"radius":40,"padding":[10,8,9,8],"direction":"column","gap":1,"alignItems":"center","justifyContent":"center","url":"https://www.youtube.com/@exitfrequency","background":{"type":"gradient","angle":150,"colors":["#FF745B","#DA458E","#7658E8"]},"children":[{"type":"text","text":"EXIT","color":"#FFF5F7","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"text","text":"9980","color":"#FFFFFF","font":{"size":19,"weight":"heavy"},"lineLimit":1},{"type":"text","text":"20 LEFT","color":"#FFE8F3","font":{"size":8,"weight":"bold"},"lineLimit":1}]}]},{"type":"stack","width":100,"height":84,"radius":12,"padding":[9,9,8,9],"direction":"column","gap":4,"url":"https://mail.google.com/mail/u/0/#search/from%3Ano-reply%40lyftmail.com+subject%3A%22Confirm+your+email%22+is%3Aunread","background":{"type":"gradient","angle":145,"colors":["#EAD7FF","#C7C5FF"]},"children":[{"type":"symbol","name":"checkmark.seal.fill","size":14,"color":"#67418E"},{"type":"text","text":"LYFT","color":"#56366F","font":{"size":9,"weight":"bold"},"lineLimit":1},{"type":"text","text":"VERIFY EMAIL","color":"#6A507E","font":{"size":8,"weight":"semibold"},"lineLimit":1}]}]},{"type":"stack","width":324,"height":18,"direction":"row","alignItems":"center","justifyContent":"space-between","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"20 LEFT • 2 MAIL SIGNALS","color":"#F7F7FF","font":{"size":8,"weight":"bold"},"lineLimit":1},{"type":"symbol","name":"arrow.up.right","size":10,"color":"#8DEFD9"}]}]}}}
+{
+  "contentRevision": 571,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-08T02:39:35Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 132,
+      "colors": [
+        "#070A1C",
+        "#281649",
+        "#60253D"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "background": {
+        "type": "gradient",
+        "angle": 142,
+        "colors": [
+          "#0B1027",
+          "#2A1749",
+          "#6A2A3D"
+        ]
+      },
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "LATE SIGNAL",
+              "color": "#FFF8FC",
+              "font": {
+                "size": 9,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "10:39 PM ET",
+              "color": "#E8DDFB",
+              "font": {
+                "size": 8,
+                "weight": "medium"
+              },
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "row",
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 194,
+              "height": 84,
+              "radius": 14,
+              "padding": [
+                9,
+                11,
+                8,
+                11
+              ],
+              "direction": "column",
+              "gap": 3,
+              "url": "https://www.youtube.com/@exitfrequency",
+              "background": {
+                "type": "gradient",
+                "angle": 150,
+                "colors": [
+                  "#FF6B6B",
+                  "#C44BD8",
+                  "#635BFF"
+                ]
+              },
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 172,
+                  "height": 42,
+                  "direction": "row",
+                  "alignItems": "center",
+                  "justifyContent": "space-between",
+                  "children": [
+                    {
+                      "type": "stack",
+                      "direction": "column",
+                      "gap": 1,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "EXIT FREQUENCY",
+                          "color": "#FFF3FA",
+                          "font": {
+                            "size": 8,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "9980",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 22,
+                            "weight": "heavy"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    },
+                    {
+                      "type": "stack",
+                      "width": 52,
+                      "height": 42,
+                      "radius": 12,
+                      "direction": "column",
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "background": {
+                        "color": "#421A5EAA"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "20",
+                          "color": "#FFFFFF",
+                          "font": {
+                            "size": 16,
+                            "weight": "heavy"
+                          },
+                          "lineLimit": 1
+                        },
+                        {
+                          "type": "text",
+                          "text": "TO 10K",
+                          "color": "#FDEBFF",
+                          "font": {
+                            "size": 7,
+                            "weight": "bold"
+                          },
+                          "lineLimit": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 172,
+                  "height": 7,
+                  "radius": 4,
+                  "background": {
+                    "color": "#FFFFFF35"
+                  },
+                  "children": [
+                    {
+                      "type": "stack",
+                      "width": 166,
+                      "height": 7,
+                      "radius": 4,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 90,
+                        "colors": [
+                          "#FFF3B0",
+                          "#FFFFFF"
+                        ]
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "THE LAST TWENTY",
+                  "color": "#FFF1FA",
+                  "font": {
+                    "size": 8,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 120,
+              "height": 84,
+              "radius": 14,
+              "padding": [
+                10,
+                10,
+                8,
+                10
+              ],
+              "direction": "column",
+              "gap": 5,
+              "url": "https://mail.google.com/mail/u/0/#search/from%3Ainstant-updates%40mail.zillow.com+subject%3A%221+Rental+Result%22+is%3Aunread",
+              "background": {
+                "type": "gradient",
+                "angle": 150,
+                "colors": [
+                  "#D9F7EC",
+                  "#A9D9E9"
+                ]
+              },
+              "children": [
+                {
+                  "type": "symbol",
+                  "name": "house.fill",
+                  "size": 15,
+                  "color": "#13556A"
+                },
+                {
+                  "type": "text",
+                  "text": "ZILLOW",
+                  "color": "#164D61",
+                  "font": {
+                    "size": 9,
+                    "weight": "bold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "1 NEW RENTAL",
+                  "color": "#245E70",
+                  "font": {
+                    "size": 8,
+                    "weight": "semibold"
+                  },
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "SF 94109",
+                  "color": "#3A7180",
+                  "font": {
+                    "size": 7,
+                    "weight": "medium"
+                  },
+                  "lineLimit": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "url": "https://www.youtube.com/@exitfrequency",
+          "children": [
+            {
+              "type": "text",
+              "text": "EXIT 9980 \u2022 20 TO GO \u2022 1 NEW HOME",
+              "color": "#F8F5FF",
+              "font": {
+                "size": 8,
+                "weight": "bold"
+              },
+              "lineLimit": 1
+            },
+            {
+              "type": "symbol",
+              "name": "arrow.up.right",
+              "size": 10,
+              "color": "#85F1D7"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
