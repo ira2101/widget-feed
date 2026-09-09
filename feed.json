@@ -1,1 +1,261 @@
-{"contentRevision":594,"mode":"native","native":{"background":{"angle":135,"colors":["#1A1440","#0B0824"],"type":"gradient"},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"children":[{"alignItems":"center","children":[{"color":"#EDEBFF","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"TORNADO · TUE NIGHT","type":"text"},{"color":"#A7AEE0","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"9:38p ET","type":"text"}],"direction":"row","height":16,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","background":{"color":"#FFFFFF14","type":"color"},"children":[{"children":[{"color":"#B9B4EC","font":{"size":10,"weight":"semibold"},"lineLimit":1,"text":"EXIT FREQUENCY","type":"text"},{"color":"#FFFFFF","font":{"size":11,"weight":"bold"},"lineLimit":1,"text":"9,980 · 20 to 10K","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","url":"https://www.youtube.com/@exitfrequency","width":304},{"alignItems":"flex-end","children":[{"background":{"color":"#F5B942","type":"color"},"height":14,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":22,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":30,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":20,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":34,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":40,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":32,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":44,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":46,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":38,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":32,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":42,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":46,"type":"stack","width":12},{"background":{"color":"#E07828","type":"color"},"height":36,"type":"stack","width":12},{"background":{"color":"#F5B942","type":"color"},"height":42,"type":"stack","width":12},{"background":{"color":"#FFFFFF","type":"color"},"height":46,"type":"stack","width":12}],"direction":"row","gap":7,"height":50,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":304}],"direction":"column","gap":4,"height":84,"justifyContent":"center","radius":14,"type":"stack","width":324},{"alignItems":"center","children":[{"alignItems":"center","children":[{"alignItems":"center","background":{"color":"#E5484D","type":"color"},"children":[{"color":"#FFFFFF","font":{"size":8,"weight":"bold"},"lineLimit":1,"text":"SEC ALERT","type":"text"}],"height":16,"justifyContent":"center","radius":8,"type":"stack","width":74},{"color":"#8E94C8","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"8 unread · Zillow $4395","type":"text"}],"direction":"row","gap":6,"type":"stack"},{"children":[{"color":"#A7AEE0","font":{"size":9,"weight":"semibold"},"lineLimit":1,"text":"→ Mail","type":"text"}],"direction":"row","type":"stack","url":"https://mail.google.com"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324}],"direction":"column","gap":10,"height":138,"radius":14,"type":"stack","width":324}},"updatedAt":"2026-09-09T01:39:19Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+ "contentRevision": 595,
+ "mode": "native",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-09-09T02:39:13Z",
+ "native": {
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#101B3D",
+    "#0A0F1E"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 16,
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO \u00b7 TUE NIGHT",
+       "font": {
+        "size": 10,
+        "weight": "semibold"
+       },
+       "color": "#EDEBFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "10:38p ET",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#A7AEE0",
+       "lineLimit": 1
+      }
+     ],
+     "direction": "row",
+     "justifyContent": "space-between",
+     "alignItems": "center"
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 37,
+     "children": [
+      {
+       "type": "stack",
+       "width": 304,
+       "height": 14,
+       "children": [
+        {
+         "type": "text",
+         "text": "EXIT FREQUENCY",
+         "font": {
+          "size": 9,
+          "weight": "semibold"
+         },
+         "color": "#A9B1E6",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "9,980 \u00b7 20 to 10K",
+         "font": {
+          "size": 10,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        }
+       ],
+       "direction": "row",
+       "justifyContent": "space-between",
+       "alignItems": "center"
+      },
+      {
+       "type": "stack",
+       "width": 304,
+       "height": 6,
+       "children": [
+        {
+         "type": "stack",
+         "width": 303,
+         "height": 6,
+         "children": [],
+         "background": {
+          "type": "color",
+          "color": "#FFFFFF26"
+         },
+         "radius": 3
+        }
+       ],
+       "background": {
+        "type": "color",
+        "color": "#FFFFFF26"
+       },
+       "radius": 3
+      }
+     ],
+     "direction": "column",
+     "gap": 4,
+     "justifyContent": "center",
+     "background": {
+      "type": "color",
+      "color": "#FFFFFF14"
+     },
+     "radius": 10,
+     "url": "https://www.youtube.com/@exitfrequency"
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 37,
+     "children": [
+      {
+       "type": "stack",
+       "width": 230,
+       "height": 25,
+       "children": [
+        {
+         "type": "stack",
+         "width": 74,
+         "height": 16,
+         "children": [
+          {
+           "type": "text",
+           "text": "SEC ALERT",
+           "font": {
+            "size": 8,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ],
+         "background": {
+          "type": "color",
+          "color": "#E5484D"
+         },
+         "radius": 8,
+         "justifyContent": "center",
+         "alignItems": "center"
+        },
+        {
+         "type": "stack",
+         "width": 150,
+         "height": 25,
+         "children": [
+          {
+           "type": "text",
+           "text": "26 unread",
+           "font": {
+            "size": 10,
+            "weight": "semibold"
+           },
+           "color": "#F2F0FF",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "Uber trip \u00b7 Zillow 4 \u00b7 Citi 20K",
+           "font": {
+            "size": 9,
+            "weight": "medium"
+           },
+           "color": "#A7AEE0",
+           "lineLimit": 1
+          }
+         ],
+         "direction": "column",
+         "gap": 2
+        }
+       ],
+       "direction": "row",
+       "gap": 8,
+       "alignItems": "center"
+      },
+      {
+       "type": "text",
+       "text": "\u2192 Mail",
+       "font": {
+        "size": 9,
+        "weight": "semibold"
+       },
+       "color": "#A7AEE0",
+       "lineLimit": 1
+      }
+     ],
+     "direction": "row",
+     "justifyContent": "space-between",
+     "alignItems": "center",
+     "background": {
+      "type": "color",
+      "color": "#FFFFFF14"
+     },
+     "radius": 10,
+     "url": "https://mail.google.com"
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 18,
+     "children": [
+      {
+       "type": "text",
+       "text": "Tue Sep 8",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#8E94C8",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "99.8% to 10K",
+       "font": {
+        "size": 9,
+        "weight": "bold"
+       },
+       "color": "#F5B942",
+       "lineLimit": 1
+      }
+     ],
+     "direction": "row",
+     "justifyContent": "space-between",
+     "alignItems": "center"
+    }
+   ],
+   "direction": "column",
+   "gap": 10,
+   "radius": 14
+  }
+ }
+}
