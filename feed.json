@@ -1,1 +1,64 @@
-{"contentRevision": 601, "mode": "native", "version": 5, "updatedAt": "2026-09-09T08:39:04Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "native": {"background": {"type": "gradient", "angle": 135, "colors": ["#141B33", "#05070D"]}, "outer": {"padding": [8, 8, 8, 8], "radius": 16}, "padding": [8, 10, 8, 10], "refreshMinutes": 15, "root": {"type": "stack", "width": 324, "height": 138, "direction": "column", "gap": 10, "justifyContent": "center", "alignItems": "center", "children": [{"type": "stack", "width": 324, "height": 16, "direction": "row", "gap": 0, "justifyContent": "space-between", "alignItems": "center", "children": [{"type": "text", "text": "TORNADO · WED 4:40A", "font": {"size": 10, "weight": "semibold"}, "color": "#DCE7F5", "lineLimit": 1}, {"type": "text", "text": "rev 601", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1}]}, {"type": "stack", "width": 324, "height": 84, "direction": "row", "gap": 10, "justifyContent": "center", "alignItems": "center", "children": [{"type": "stack", "width": 104, "height": 84, "direction": "column", "gap": 10, "justifyContent": "center", "alignItems": "center", "children": [{"type": "stack", "width": 104, "height": 37, "direction": "column", "gap": 2, "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8], "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11, "url": "https://mail.google.com", "children": [{"type": "text", "text": "MAIL", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1}, {"type": "text", "text": "Uber ×2", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}]}, {"type": "stack", "width": 104, "height": 37, "direction": "column", "gap": 2, "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8], "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11, "url": "https://www.zillow.com", "children": [{"type": "text", "text": "ZILLOW", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1}, {"type": "text", "text": "4 SF rentals", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}]}]}, {"type": "stack", "width": 96, "height": 84, "direction": "row", "gap": 0, "justifyContent": "center", "alignItems": "center", "children": [{"type": "stack", "width": 80, "height": 80, "direction": "column", "gap": 2, "justifyContent": "center", "alignItems": "center", "padding": [6, 4, 6, 4], "background": {"type": "gradient", "angle": 135, "colors": ["#6D5BD0", "#2A3A66"]}, "radius": 40, "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "EXIT", "font": {"size": 8, "weight": "bold"}, "color": "#FFD166", "lineLimit": 1}, {"type": "text", "text": "9,990", "font": {"size": 18, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "10 to go", "font": {"size": 9, "weight": "semibold"}, "color": "#FFD166", "lineLimit": 1}]}]}, {"type": "stack", "width": 104, "height": 84, "direction": "column", "gap": 10, "justifyContent": "center", "alignItems": "center", "children": [{"type": "stack", "width": 104, "height": 37, "direction": "column", "gap": 2, "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8], "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11, "url": "https://www.citi.com", "children": [{"type": "text", "text": "CITI", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1}, {"type": "text", "text": "20k pts", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}]}, {"type": "stack", "width": 104, "height": 37, "direction": "column", "gap": 2, "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8], "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11, "url": "https://x.com/search?q=Messenger+Android", "children": [{"type": "text", "text": "LIVE", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1}, {"type": "text", "text": "Signals → X", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}]}]}]}, {"type": "stack", "width": 324, "height": 18, "direction": "row", "gap": 0, "justifyContent": "space-between", "alignItems": "center", "children": [{"type": "text", "text": "night drift · 10 to go", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1}, {"type": "text", "text": "WED 4:40A", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1}]}]}}}
+{
+  "contentRevision": 602,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-09T09:38:44Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "background": {"type": "gradient", "angle": 135, "colors": ["#1C2740", "#0B1020"]},
+    "outer": {"padding": [8, 8, 8, 8], "radius": 16},
+    "padding": [8, 10, 8, 10],
+    "refreshMinutes": 15,
+    "root": {
+      "type": "stack", "width": 324, "height": 138, "direction": "column", "gap": 10,
+      "justifyContent": "center", "alignItems": "center",
+      "children": [
+        {"type": "stack", "width": 324, "height": 16, "direction": "row", "gap": 0,
+         "justifyContent": "space-between", "alignItems": "center",
+         "children": [
+           {"type": "text", "text": "TORNADO · WED 5:38A", "font": {"size": 10, "weight": "semibold"}, "color": "#DCE7F5", "lineLimit": 1},
+           {"type": "text", "text": "rev 602", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1}
+         ]},
+        {"type": "stack", "width": 324, "height": 84, "direction": "row", "gap": 10,
+         "justifyContent": "center", "alignItems": "center",
+         "children": [
+           {"type": "stack", "width": 194, "height": 84, "direction": "column", "gap": 2,
+            "justifyContent": "center", "alignItems": "center", "padding": [8, 10, 8, 10],
+            "background": {"type": "gradient", "angle": 135, "colors": ["#3D5A80", "#232B45"]},
+            "radius": 12, "url": "https://www.youtube.com/@exitfrequency",
+            "children": [
+              {"type": "text", "text": "EXIT FREQUENCY", "font": {"size": 8, "weight": "bold"}, "color": "#FFD166", "lineLimit": 1},
+              {"type": "text", "text": "9,990", "font": {"size": 22, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1},
+              {"type": "text", "text": "10 to go · wed", "font": {"size": 10, "weight": "semibold"}, "color": "#FFD166", "lineLimit": 1}
+            ]},
+           {"type": "stack", "width": 120, "height": 84, "direction": "column", "gap": 10,
+            "justifyContent": "center", "alignItems": "center",
+            "children": [
+              {"type": "stack", "width": 120, "height": 37, "direction": "column", "gap": 2,
+               "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8],
+               "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11,
+               "url": "https://mail.google.com",
+               "children": [
+                 {"type": "text", "text": "MAIL", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1},
+                 {"type": "text", "text": "Uber ×1", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}
+               ]},
+              {"type": "stack", "width": 120, "height": 37, "direction": "column", "gap": 2,
+               "justifyContent": "center", "alignItems": "center", "padding": [6, 8, 4, 8],
+               "background": {"type": "color", "color": "#FFFFFF14"}, "radius": 11,
+               "url": "https://www.citi.com",
+               "children": [
+                 {"type": "text", "text": "CITI", "font": {"size": 8, "weight": "bold"}, "color": "#8FA0BD", "lineLimit": 1},
+                 {"type": "text", "text": "20k pts", "font": {"size": 11, "weight": "semibold"}, "color": "#FFFFFF", "lineLimit": 1}
+               ]}
+            ]}
+         ]},
+        {"type": "stack", "width": 324, "height": 18, "direction": "row", "gap": 0,
+         "justifyContent": "space-between", "alignItems": "center",
+         "children": [
+           {"type": "text", "text": "wed dawn · 10 to go", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1},
+           {"type": "text", "text": "WED 5:38A", "font": {"size": 9, "weight": "medium"}, "color": "#8FA0BD", "lineLimit": 1}
+         ]}
+      ]
+    }
+  }
+}
