@@ -1,1 +1,359 @@
-{"contentRevision":621,"mode":"native","version":5,"updatedAt":"2026-09-10T04:39:44Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"background":{"type":"gradient","angle":150,"colors":["#0D1B2A","#060D16"]},"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"type":"stack","width":324,"height":138,"direction":"column","gap":8,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":324,"height":16,"direction":"row","gap":0,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO \u00b7 THU 12:40A","font":{"size":10,"weight":"semibold"},"color":"#EAF3FA","lineLimit":1},{"type":"text","text":"rev 621","font":{"size":9,"weight":"medium"},"color":"#7E93AC","lineLimit":1}]},{"type":"stack","width":324,"height":88,"direction":"row","gap":8,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":100,"height":88,"direction":"column","gap":3,"justifyContent":"center","alignItems":"flex-start","background":{"type":"gradient","angle":135,"colors":["#B3541E","#6E2B0C"],"radius":12,"padding":[10,12,10,12]},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT FREQ","font":{"size":8,"weight":"bold"},"color":"#FFE9C8","lineLimit":1},{"type":"text","text":"9,990","font":{"size":20,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"10 to 10K","font":{"size":10,"weight":"medium"},"color":"#FFE9C8","lineLimit":1},{"type":"stack","width":84,"height":4,"direction":"row","gap":0,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":84,"height":4,"radius":2,"background":{"type":"solid","color":"#FFD27A","radius":2},"children":[]}]}]},{"type":"stack","width":100,"height":88,"direction":"column","gap":3,"justifyContent":"center","alignItems":"flex-start","background":{"type":"gradient","angle":135,"colors":["#2B5F9E","#16233B"],"radius":12,"padding":[10,12,10,12]},"url":"https://mail.google.com","children":[{"type":"text","text":"INBOX","font":{"size":8,"weight":"bold"},"color":"#BFD9F2","lineLimit":1},{"type":"text","text":"19.3K","font":{"size":20,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"unread mail","font":{"size":10,"weight":"medium"},"color":"#BFD9F2","lineLimit":1}]},{"type":"stack","width":108,"height":88,"direction":"column","gap":3,"justifyContent":"center","alignItems":"flex-start","background":{"type":"gradient","angle":135,"colors":["#6A3D2A","#2B1B12"],"radius":12,"padding":[10,12,10,12]},"url":"https://mail.google.com","children":[{"type":"text","text":"ALERT","font":{"size":8,"weight":"bold"},"color":"#F5D9B8","lineLimit":1},{"type":"text","text":"Peacock","font":{"size":17,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"new sign-in","font":{"size":10,"weight":"medium"},"color":"#F5D9B8","lineLimit":1}]}]},{"type":"stack","width":324,"height":16,"direction":"row","gap":0,"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"Exit 9,990 \u00b7 10 to 10K \u00b7 19.3K","font":{"size":9,"weight":"medium"},"color":"#8CA3BC","lineLimit":1}]}]}}}
+{
+ "contentRevision": 622,
+ "mode": "native",
+ "version": 5,
+ "updatedAt": "2026-09-10T05:39:31Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "background": {
+   "type": "gradient",
+   "angle": 160,
+   "colors": [
+    "#101528",
+    "#05070F"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "direction": "column",
+   "gap": 8,
+   "justifyContent": "flex-start",
+   "alignItems": "center",
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 16,
+     "direction": "row",
+     "gap": 0,
+     "justifyContent": "space-between",
+     "alignItems": "center",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO \u00b7 THU 1:39A",
+       "font": {
+        "size": 10,
+        "weight": "semibold"
+       },
+       "color": "#EAF3FA",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "rev 622",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#7E93AC",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 88,
+     "direction": "row",
+     "gap": 8,
+     "justifyContent": "flex-start",
+     "alignItems": "center",
+     "children": [
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 88,
+       "direction": "column",
+       "gap": 3,
+       "justifyContent": "center",
+       "alignItems": "flex-start",
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#C66A2E",
+         "#6E2B0C"
+        ],
+        "radius": 12,
+        "padding": [
+         10,
+         12,
+         10,
+         12
+        ]
+       },
+       "url": "https://www.youtube.com/@exitfrequency",
+       "children": [
+        {
+         "type": "text",
+         "text": "EXIT FREQ",
+         "font": {
+          "size": 8,
+          "weight": "bold"
+         },
+         "color": "#FFE9C8",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "9,990",
+         "font": {
+          "size": 20,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "10 to 10K",
+         "font": {
+          "size": 10,
+          "weight": "medium"
+         },
+         "color": "#FFE9C8",
+         "lineLimit": 1
+        },
+        {
+         "type": "stack",
+         "width": 76,
+         "height": 4,
+         "direction": "row",
+         "gap": 0,
+         "justifyContent": "flex-start",
+         "alignItems": "center",
+         "background": {
+          "type": "solid",
+          "color": "#3E2410",
+          "radius": 2
+         },
+         "children": [
+          {
+           "type": "stack",
+           "width": 75,
+           "height": 4,
+           "radius": 2,
+           "background": {
+            "type": "solid",
+            "color": "#FFD27A",
+            "radius": 2
+           },
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 108,
+       "height": 88,
+       "direction": "column",
+       "gap": 0,
+       "justifyContent": "center",
+       "alignItems": "center",
+       "url": "https://www.youtube.com/@exitfrequency",
+       "children": [
+        {
+         "type": "stack",
+         "width": 76,
+         "height": 76,
+         "radius": 38,
+         "direction": "column",
+         "gap": 1,
+         "justifyContent": "center",
+         "alignItems": "center",
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#2A3A63",
+           "#0B1020"
+          ]
+         },
+         "children": [
+          {
+           "type": "text",
+           "text": "10",
+           "font": {
+            "size": 26,
+            "weight": "bold"
+           },
+           "color": "#FFD27A",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "TO 10K",
+           "font": {
+            "size": 9,
+            "weight": "bold"
+           },
+           "color": "#BFD9F2",
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 88,
+       "direction": "column",
+       "gap": 8,
+       "justifyContent": "flex-start",
+       "alignItems": "center",
+       "children": [
+        {
+         "type": "stack",
+         "width": 100,
+         "height": 40,
+         "direction": "column",
+         "gap": 2,
+         "justifyContent": "center",
+         "alignItems": "flex-start",
+         "background": {
+          "type": "gradient",
+          "angle": 135,
+          "colors": [
+           "#1B2A45",
+           "#0D1626"
+          ],
+          "radius": 12,
+          "padding": [
+           6,
+           8,
+           6,
+           8
+          ]
+         },
+         "url": "https://m.uber.com",
+         "children": [
+          {
+           "type": "text",
+           "text": "UBER",
+           "font": {
+            "size": 8,
+            "weight": "bold"
+           },
+           "color": "#9FD0FF",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "2 trips",
+           "font": {
+            "size": 13,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 100,
+         "height": 40,
+         "direction": "column",
+         "gap": 2,
+         "justifyContent": "center",
+         "alignItems": "flex-start",
+         "background": {
+          "type": "gradient",
+          "angle": 135,
+          "colors": [
+           "#1E4A34",
+           "#0E2118"
+          ],
+          "radius": 12,
+          "padding": [
+           6,
+           8,
+           6,
+           8
+          ]
+         },
+         "url": "https://www.zillow.com",
+         "children": [
+          {
+           "type": "text",
+           "text": "ZILLOW",
+           "font": {
+            "size": 8,
+            "weight": "bold"
+           },
+           "color": "#A8E6B8",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "1 new listing",
+           "font": {
+            "size": 11,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 18,
+     "direction": "row",
+     "gap": 0,
+     "justifyContent": "space-between",
+     "alignItems": "center",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uber 2 trips \u00b7 Zillow new \u00b7 201 mail",
+       "font": {
+        "size": 10,
+        "weight": "medium"
+       },
+       "color": "#8FA3BD",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "1:39A",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#7E93AC",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
