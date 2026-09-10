@@ -1,1 +1,289 @@
-{"contentRevision":630,"mode":"native","version":5,"updatedAt":"2026-09-10T13:39:36Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":135,"colors":["#232030","#0B0A10"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":324,"height":16,"direction":"row","gap":0,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO · THU 9:39a","font":{"size":10,"weight":"semibold"},"color":"#DED0E2","lineLimit":1,"textAlign":"left"},{"type":"text","text":"rev 630","font":{"size":9,"weight":"medium"},"color":"#A08AA6","lineLimit":1,"textAlign":"left"}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":8,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":100,"height":84,"radius":12,"direction":"column","gap":3,"justifyContent":"center","alignItems":"center","padding":[8,8,8,8],"background":{"type":"gradient","angle":120,"colors":["#4A2C12","#1C0E05"],"radius":12},"children":[{"type":"text","text":"EXIT FREQ","font":{"size":8,"weight":"bold"},"color":"#F2C979","lineLimit":1,"textAlign":"center"},{"type":"text","text":"9,990","font":{"size":19,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1,"textAlign":"center"},{"type":"text","text":"10 to 10K","font":{"size":9,"weight":"medium"},"color":"#F2C979","lineLimit":1,"textAlign":"center"}],"url":"https://www.youtube.com/@exitfrequency"},{"type":"stack","width":100,"height":84,"radius":12,"direction":"column","gap":3,"justifyContent":"center","alignItems":"center","padding":[8,8,8,8],"background":{"type":"gradient","angle":120,"colors":["#123B2A","#071710"],"radius":12},"children":[{"type":"text","text":"ROBINHOOD","font":{"size":8,"weight":"bold"},"color":"#8FD6A8","lineLimit":1,"textAlign":"center"},{"type":"text","text":"stmt ready","font":{"size":13,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1,"textAlign":"center"},{"type":"text","text":"Sept 6:48a","font":{"size":9,"weight":"medium"},"color":"#8FD6A8","lineLimit":1,"textAlign":"center"}],"url":"https://mail.google.com/mail/u/0/#search/robinhood"},{"type":"stack","width":108,"height":84,"radius":12,"direction":"column","gap":3,"justifyContent":"center","alignItems":"center","padding":[8,8,8,8],"background":{"type":"gradient","angle":120,"colors":["#0E3A4A","#061118"],"radius":12},"children":[{"type":"text","text":"ZILLOW","font":{"size":8,"weight":"bold"},"color":"#7FC8E8","lineLimit":1,"textAlign":"center"},{"type":"text","text":"APT 5","font":{"size":15,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1,"textAlign":"center"},{"type":"text","text":"Filbert 1:06a","font":{"size":9,"weight":"medium"},"color":"#7FC8E8","lineLimit":1,"textAlign":"center"}],"url":"https://mail.google.com/mail/u/0/#search/zillow"}]},{"type":"stack","width":324,"height":18,"direction":"row","gap":0,"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"10 to 10K · stmt ready · 9:39a","font":{"size":9,"weight":"medium"},"color":"#B9A8C4","lineLimit":1,"textAlign":"center"}]}]}}}
+{
+  "contentRevision": 631,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-10T14:38:40Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "refreshMinutes": 15,
+    "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+        "#1D1A26",
+        "#0A090F"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "radius": 16,
+      "direction": "column",
+      "gap": 10,
+      "justifyContent": "flex-start",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "gap": 0,
+          "justifyContent": "space-between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "TORNADO \u00b7 THU 10:38a",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#D8CBE0",
+              "lineLimit": 1,
+              "textAlign": "left"
+            },
+            {
+              "type": "text",
+              "text": "rev 631",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#9C88A6",
+              "lineLimit": 1,
+              "textAlign": "left"
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "column",
+          "gap": 10,
+          "justifyContent": "flex-start",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 37,
+              "radius": 12,
+              "direction": "row",
+              "gap": 0,
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "padding": [
+                6,
+                12,
+                6,
+                12
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 120,
+                "colors": [
+                  "#3A2410",
+                  "#120A06"
+                ]
+              },
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "EXIT FREQUENCY",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#F2C979",
+                      "lineLimit": 1,
+                      "textAlign": "left"
+                    },
+                    {
+                      "type": "text",
+                      "text": "9,990",
+                      "font": {
+                        "size": 16,
+                        "weight": "semibold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1,
+                      "textAlign": "left"
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 4,
+                  "justifyContent": "center",
+                  "alignItems": "flex-end",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "10 to 10K",
+                      "font": {
+                        "size": 10,
+                        "weight": "medium"
+                      },
+                      "color": "#F2C979",
+                      "lineLimit": 1,
+                      "textAlign": "right"
+                    },
+                    {
+                      "type": "stack",
+                      "width": 80,
+                      "height": 4,
+                      "radius": 4,
+                      "background": {
+                        "type": "gradient",
+                        "angle": 0,
+                        "colors": [
+                          "#5A3A16",
+                          "#2A1A0A"
+                        ]
+                      },
+                      "children": [
+                        {
+                          "type": "stack",
+                          "width": 79,
+                          "height": 4,
+                          "radius": 4,
+                          "background": {
+                            "type": "gradient",
+                            "angle": 0,
+                            "colors": [
+                              "#F2C979",
+                              "#C98F3A"
+                            ]
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "url": "https://www.youtube.com/@exitfrequency"
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 37,
+              "radius": 12,
+              "direction": "row",
+              "gap": 0,
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "padding": [
+                6,
+                12,
+                6,
+                12
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 120,
+                "colors": [
+                  "#122A3A",
+                  "#070D12"
+                ]
+              },
+              "children": [
+                {
+                  "type": "stack",
+                  "direction": "column",
+                  "gap": 1,
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "MAIL DIGEST",
+                      "font": {
+                        "size": 8,
+                        "weight": "bold"
+                      },
+                      "color": "#7FC8E8",
+                      "lineLimit": 1,
+                      "textAlign": "left"
+                    },
+                    {
+                      "type": "text",
+                      "text": "10 new \u00b7 LinkedIn 5 views",
+                      "font": {
+                        "size": 10,
+                        "weight": "medium"
+                      },
+                      "color": "#D6EAF5",
+                      "lineLimit": 1,
+                      "textAlign": "left"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\u2192 Mail",
+                  "font": {
+                    "size": 10,
+                    "weight": "semibold"
+                  },
+                  "color": "#7FC8E8",
+                  "lineLimit": 1,
+                  "textAlign": "right"
+                }
+              ],
+              "url": "https://mail.google.com/mail/u/0/#inbox"
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "gap": 0,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "10 to 10K \u00b7 stmt ready \u00b7 10:38a",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#B3A2BE",
+              "lineLimit": 1,
+              "textAlign": "center"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
