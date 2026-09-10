@@ -1,1 +1,283 @@
-{"contentRevision":634,"mode":"native","version":5,"updatedAt":"2026-09-10T17:38:27Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"background":{"type":"gradient","angle":135,"colors":["#1C1408","#070503"]},"root":{"type":"stack","width":324,"height":138,"radius":16,"direction":"column","gap":10,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":324,"height":16,"direction":"row","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO \u00b7 THU 1:39p","font":{"size":9,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"rev 634","font":{"size":8,"weight":"regular"},"color":"#A8935F","lineLimit":1}]},{"type":"stack","width":324,"height":84,"direction":"row","gap":10,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":194,"height":84,"radius":12,"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","padding":[8,14,8,14],"background":{"type":"gradient","angle":135,"colors":["#4A3410","#1F1506"]},"widgetURL":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT FREQUENCY","font":{"size":7,"weight":"semibold"},"color":"#FFC44D","lineLimit":1},{"type":"stack","width":166,"direction":"row","gap":8,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"text","text":"\ud83c\udf89","font":{"size":20,"weight":"regular"},"lineLimit":1},{"type":"text","text":"10,000","font":{"size":26,"weight":"bold"},"color":"#FFFFFF","lineLimit":1}]},{"type":"stack","direction":"row","gap":8,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"text","text":"+10 today","font":{"size":10,"weight":"regular"},"color":"#FFC44D","lineLimit":1},{"type":"stack","radius":8,"padding":[3,8,3,8],"background":{"type":"color","color":"#FFC44D"},"children":[{"type":"text","text":"10K REACHED","font":{"size":8,"weight":"bold"},"color":"#1F1506","lineLimit":1}]}]}]},{"type":"stack","width":120,"height":84,"direction":"column","gap":10,"justifyContent":"flex-start","alignItems":"center","children":[{"type":"stack","width":120,"height":37,"radius":10,"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","padding":[6,10,6,10],"background":{"type":"gradient","angle":135,"colors":["#0E2A3F","#071420"]},"widgetURL":"https://mail.google.com/mail/u/0/#search/robinhood","children":[{"type":"text","text":"MAIL","font":{"size":7,"weight":"semibold"},"color":"#7FA8C9","lineLimit":1},{"type":"text","text":"Hood autopay","font":{"size":10,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"1:13p","font":{"size":8,"weight":"regular"},"color":"#7FA8C9","lineLimit":1}]},{"type":"stack","width":120,"height":37,"radius":10,"direction":"column","gap":2,"justifyContent":"center","alignItems":"flex-start","padding":[6,10,6,10],"background":{"type":"gradient","angle":135,"colors":["#33240E","#171006"]},"widgetURL":"https://mail.google.com/mail/u/0/#search/american+express","children":[{"type":"text","text":"MAIL","font":{"size":7,"weight":"semibold"},"color":"#D9A94A","lineLimit":1},{"type":"text","text":"Amex note","font":{"size":10,"weight":"semibold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"11:06a","font":{"size":8,"weight":"regular"},"color":"#D9A94A","lineLimit":1}]}]}]},{"type":"stack","width":324,"height":18,"direction":"row","justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"\ud83c\udf89 10K reached \u00b7 autopay 1:13p \u00b7 1:39p","font":{"size":9,"weight":"regular"},"color":"#D8C79A","lineLimit":1}]}]}}}
+{
+ "contentRevision": 635,
+ "mode": "native",
+ "version": 5,
+ "updatedAt": "2026-09-10T18:39:14Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
+  "background": {
+   "type": "gradient",
+   "angle": 120,
+   "colors": [
+    "#101B2E",
+    "#05070D"
+   ]
+  },
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "radius": 16,
+   "direction": "column",
+   "gap": 10,
+   "justifyContent": "flex-start",
+   "alignItems": "center",
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 16,
+     "direction": "row",
+     "justifyContent": "space-between",
+     "alignItems": "center",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO \u00b7 THU 2:39p",
+       "font": {
+        "size": 9,
+        "weight": "semibold"
+       },
+       "color": "#FFFFFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "rev 635",
+       "font": {
+        "size": 8,
+        "weight": "regular"
+       },
+       "color": "#8E9BB5",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 84,
+     "direction": "row",
+     "gap": 8,
+     "justifyContent": "flex-start",
+     "alignItems": "center",
+     "children": [
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 84,
+       "radius": 12,
+       "direction": "column",
+       "gap": 3,
+       "justifyContent": "center",
+       "alignItems": "flex-start",
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#0E2A3F",
+         "#071420"
+        ]
+       },
+       "widgetURL": "https://mail.google.com/mail/u/0/#search/robinhood",
+       "children": [
+        {
+         "type": "text",
+         "text": "MAIL",
+         "font": {
+          "size": 7,
+          "weight": "semibold"
+         },
+         "color": "#7FA8C9",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "Hood autopay",
+         "font": {
+          "size": 10,
+          "weight": "semibold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "1:13p",
+         "font": {
+          "size": 8,
+          "weight": "regular"
+         },
+         "color": "#7FA8C9",
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 84,
+       "radius": 12,
+       "direction": "column",
+       "gap": 3,
+       "justifyContent": "center",
+       "alignItems": "center",
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#4A3410",
+         "#1F1506"
+        ]
+       },
+       "widgetURL": "https://www.youtube.com/@exitfrequency",
+       "children": [
+        {
+         "type": "text",
+         "text": "EXIT FREQUENCY",
+         "font": {
+          "size": 7,
+          "weight": "semibold"
+         },
+         "color": "#FFC44D",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "10,000",
+         "font": {
+          "size": 18,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "stack",
+         "radius": 8,
+         "padding": [
+          3,
+          8,
+          3,
+          8
+         ],
+         "background": {
+          "type": "color",
+          "color": "#FFC44D"
+         },
+         "children": [
+          {
+           "type": "text",
+           "text": "10K REACHED",
+           "font": {
+            "size": 8,
+            "weight": "bold"
+           },
+           "color": "#1F1506",
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 108,
+       "height": 84,
+       "radius": 12,
+       "direction": "column",
+       "gap": 3,
+       "justifyContent": "center",
+       "alignItems": "flex-start",
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#251640",
+         "#0E0820"
+        ]
+       },
+       "widgetURL": "https://mail.google.com/mail/u/0/#search/schwab",
+       "children": [
+        {
+         "type": "text",
+         "text": "MAIL",
+         "font": {
+          "size": 7,
+          "weight": "semibold"
+         },
+         "color": "#A88BD6",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "Schwab invite",
+         "font": {
+          "size": 10,
+          "weight": "semibold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "2:10p",
+         "font": {
+          "size": 8,
+          "weight": "regular"
+         },
+         "color": "#A88BD6",
+         "lineLimit": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "text": "10K \u00b7 Hood pay \u00b7 Schwab 2:10p",
+     "font": {
+      "size": 8,
+      "weight": "regular"
+     },
+     "color": "#8E9BB5",
+     "lineLimit": 1
+    }
+   ]
+  }
+ }
+}
