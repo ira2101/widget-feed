@@ -1,8 +1,8 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 649,
- "updatedAt": "2026-09-11T08:39:21Z",
+ "contentRevision": 650,
+ "updatedAt": "2026-09-11T09:39:39Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "outer": {
@@ -25,8 +25,8 @@
    "type": "gradient",
    "angle": 140,
    "colors": [
-    "#1B1233",
-    "#0B0817"
+    "#2B1B12",
+    "#0D0704"
    ]
   },
   "root": {
@@ -47,8 +47,8 @@
      "children": [
       {
        "type": "text",
-       "text": "TORNADO · FRI 4:38am",
-       "color": "#DCD3F5",
+       "text": "TORNADO · FRI 5:41am",
+       "color": "#F5E9D8",
        "font": {
         "size": 10,
         "weight": "semibold"
@@ -57,8 +57,8 @@
       },
       {
        "type": "text",
-       "text": "rev 649",
-       "color": "#8E83B5",
+       "text": "rev 650",
+       "color": "#B99B78",
        "font": {
         "size": 9,
         "weight": "medium"
@@ -74,68 +74,11 @@
      "direction": "row",
      "alignItems": "center",
      "justifyContent": "space-between",
-     "gap": 10,
+     "gap": 8,
      "children": [
       {
        "type": "stack",
-       "width": 150,
-       "height": 84,
-       "direction": "column",
-       "alignItems": "flex-start",
-       "justifyContent": "center",
-       "padding": [
-        10,
-        12,
-        10,
-        12
-       ],
-       "gap": 4,
-       "radius": 12,
-       "background": {
-        "type": "gradient",
-        "angle": 135,
-        "colors": [
-         "#241A4A",
-         "#130D2B"
-        ]
-       },
-       "url": "https://www.youtube.com/@exitfrequency",
-       "children": [
-        {
-         "type": "text",
-         "text": "EXIT FREQUENCY",
-         "color": "#9E90C9",
-         "font": {
-          "size": 8,
-          "weight": "semibold"
-         },
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "10,000",
-         "color": "#FFFFFF",
-         "font": {
-          "size": 24,
-          "weight": "bold"
-         },
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "10K hit · 0 to go · +10",
-         "color": "#E8C886",
-         "font": {
-          "size": 9,
-          "weight": "regular"
-         },
-         "lineLimit": 1
-        }
-       ]
-      },
-      {
-       "type": "stack",
-       "width": 164,
+       "width": 100,
        "height": 84,
        "direction": "column",
        "alignItems": "flex-start",
@@ -146,22 +89,22 @@
         8,
         10
        ],
-       "gap": 6,
+       "gap": 5,
        "radius": 12,
        "background": {
         "type": "gradient",
         "angle": 135,
         "colors": [
-         "#201646",
-         "#0F0B26"
+         "#3D2A16",
+         "#170D05"
         ]
        },
        "url": "https://www.youtube.com/@exitfrequency",
        "children": [
         {
          "type": "text",
-         "text": "10K WAVE",
-         "color": "#9E90C9",
+         "text": "EXIT FREQUENCY",
+         "color": "#C9A05E",
          "font": {
           "size": 8,
           "weight": "semibold"
@@ -169,266 +112,138 @@
          "lineLimit": 1
         },
         {
-         "type": "stack",
-         "width": 144,
-         "height": 64,
-         "direction": "row",
-         "alignItems": "flex-end",
-         "justifyContent": "space-between",
-         "children": [
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 30,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 44,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 38,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 52,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 46,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 60,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 52,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 64,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 56,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 66,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 58,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 68,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 60,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 68,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 62,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 70,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 64,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#E8B44A",
-             "#8A5A1E"
-            ]
-           }
-          },
-          {
-           "type": "stack",
-           "width": 6,
-           "height": 70,
-           "radius": 3,
-           "background": {
-            "type": "gradient",
-            "angle": 180,
-            "colors": [
-             "#F5C86A",
-             "#C98F3A"
-            ]
-           }
-          }
-         ]
+         "type": "text",
+         "text": "10,000",
+         "color": "#F0B95A",
+         "font": {
+          "size": 20,
+          "weight": "bold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "0 to go · +10",
+         "color": "#E8D5B0",
+         "font": {
+          "size": 9,
+          "weight": "regular"
+         },
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 84,
+       "direction": "column",
+       "alignItems": "flex-start",
+       "justifyContent": "center",
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "gap": 5,
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#33200F",
+         "#140C05"
+        ]
+       },
+       "url": "https://venmo.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "VENMO",
+         "color": "#E08A6B",
+         "font": {
+          "size": 8,
+          "weight": "semibold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "+$3.80",
+         "color": "#FF8A6B",
+         "font": {
+          "size": 16,
+          "weight": "bold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "Hayden × 2",
+         "color": "#E8D5B0",
+         "font": {
+          "size": 9,
+          "weight": "regular"
+         },
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 108,
+       "height": 84,
+       "direction": "column",
+       "alignItems": "flex-start",
+       "justifyContent": "center",
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "gap": 5,
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#2E1E0E",
+         "#120B05"
+        ]
+       },
+       "url": "https://www.doordash.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "DOORDASH",
+         "color": "#C9A05E",
+         "font": {
+          "size": 8,
+          "weight": "semibold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "Tong Sui",
+         "color": "#F5E9D8",
+         "font": {
+          "size": 13,
+          "weight": "semibold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "delivered 5:14p",
+         "color": "#B99B78",
+         "font": {
+          "size": 8,
+          "weight": "regular"
+         },
+         "lineLimit": 1
         }
        ]
       }
@@ -444,8 +259,8 @@
      "children": [
       {
        "type": "text",
-       "text": "10K hit · FedEx code · Zillow 2",
-       "color": "#A79BD2",
+       "text": "FedEx code · Robinhood autopay",
+       "color": "#B99B78",
        "font": {
         "size": 9,
         "weight": "regular"
