@@ -1,1 +1,260 @@
-{"contentRevision":677,"mode":"native","version":5,"updatedAt":"2026-09-12T12:39:27Z","refreshMinutes":15,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","native":{"mode":"native","outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"background":{"type":"gradient","angle":120,"colors":["#FFF7E8","#FFDDD2"]},"root":{"type":"stack","children":[{"type":"stack","children":[{"type":"text","text":"TORNADO • SAT 8:38a","font":{"size":10,"weight":"semibold"},"color":"#6B4A2F","lineLimit":1},{"type":"text","text":"rev 677","font":{"size":9,"weight":"medium"},"color":"#A08A72","lineLimit":1}],"width":324,"height":16,"direction":"row","gap":0,"alignItems":"center","justifyContent":"space-between"},{"type":"stack","children":[{"type":"stack","children":[{"type":"text","text":"EXIT FREQ","font":{"size":8,"weight":"semibold"},"color":"#7BD4A3","lineLimit":1},{"type":"text","text":"10,000","font":{"size":15,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"+10 • 0 to go","font":{"size":9,"weight":"medium"},"color":"#CDEEDB","lineLimit":1}],"width":100,"height":84,"direction":"column","gap":2,"alignItems":"flex-start","justifyContent":"center","padding":[6,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#0F3D2E","#1B5E45"]},"radius":12,"url":"https://www.youtube.com/@exitfrequency"},{"type":"stack","children":[{"type":"text","text":"MAIL","font":{"size":8,"weight":"semibold"},"color":"#A9B8EA","lineLimit":1},{"type":"text","text":"calm","font":{"size":12,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"newsletter","font":{"size":9,"weight":"medium"},"color":"#C6CFF2","lineLimit":1}],"width":100,"height":84,"direction":"column","gap":2,"alignItems":"flex-start","justifyContent":"center","padding":[6,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#1E2A5A","#3B2E6B"]},"radius":12,"url":"https://mail.google.com/"},{"type":"stack","children":[{"type":"text","text":"MSGR","font":{"size":8,"weight":"semibold"},"color":"#BFD4FF","lineLimit":1},{"type":"text","text":"quiet","font":{"size":12,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"no spikes","font":{"size":9,"weight":"medium"},"color":"#D3E0FF","lineLimit":1}],"width":108,"height":84,"direction":"column","gap":2,"alignItems":"flex-start","justifyContent":"center","padding":[6,8,4,8],"background":{"type":"gradient","angle":135,"colors":["#0B3B8F","#2A6FF2"]},"radius":12,"url":"https://x.com/search?q=messenger"}],"width":324,"height":84,"direction":"row","gap":8,"alignItems":"center","justifyContent":"center"},{"type":"stack","children":[{"type":"text","text":"sat am • 10k club • calm","font":{"size":9,"weight":"medium"},"color":"#A08A72","lineLimit":1}],"width":324,"height":18,"direction":"row","gap":0,"alignItems":"center","justifyContent":"center"}],"width":324,"height":138,"direction":"column","gap":10,"alignItems":"center","justifyContent":"center"}}}
+{
+  "contentRevision": 678,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-09-12T13:40:20Z",
+  "refreshMinutes": 15,
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "native": {
+    "mode": "native",
+    "outer": {
+      "padding": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radius": 16
+    },
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "background": {
+      "type": "gradient",
+      "angle": 110,
+      "colors": [
+        "#FFF4E2",
+        "#F3D9D7"
+      ]
+    },
+    "root": {
+      "type": "stack",
+      "width": 324,
+      "height": 138,
+      "direction": "column",
+      "gap": 10,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 16,
+          "direction": "row",
+          "gap": 0,
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "children": [
+            {
+              "type": "text",
+              "text": "TORNADO • SAT 9:40a",
+              "font": {
+                "size": 10,
+                "weight": "semibold"
+              },
+              "color": "#7A5A3A",
+              "lineLimit": 1
+            },
+            {
+              "type": "text",
+              "text": "rev 678",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#B09A80",
+              "lineLimit": 1
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 84,
+          "direction": "column",
+          "gap": 10,
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 44,
+              "direction": "column",
+              "gap": 2,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "padding": [
+                6,
+                14,
+                6,
+                14
+              ],
+              "background": {
+                "type": "gradient",
+                "angle": 100,
+                "colors": [
+                  "#FFD66E",
+                  "#F0A53A"
+                ]
+              },
+              "radius": 12,
+              "url": "https://www.youtube.com/@exitfrequency",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "EXIT FREQUENCY",
+                  "font": {
+                    "size": 12,
+                    "weight": "semibold"
+                  },
+                  "color": "#4A2E10",
+                  "lineLimit": 1
+                },
+                {
+                  "type": "text",
+                  "text": "10,000 subs • +10 this wk • 0 to go",
+                  "font": {
+                    "size": 10,
+                    "weight": "bold"
+                  },
+                  "color": "#6B4515",
+                  "lineLimit": 1
+                }
+              ]
+            },
+            {
+              "type": "stack",
+              "width": 324,
+              "height": 30,
+              "direction": "row",
+              "gap": 10,
+              "alignItems": "center",
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "stack",
+                  "width": 157,
+                  "height": 30,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    3,
+                    8,
+                    3,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#1B2A5E",
+                      "#3B2E8F"
+                    ]
+                  },
+                  "radius": 10,
+                  "url": "https://mail.google.com/",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "MAIL • calm inbox",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "1 stmt • 2 news",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#C6CFF2",
+                      "lineLimit": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "stack",
+                  "width": 157,
+                  "height": 30,
+                  "direction": "column",
+                  "gap": 1,
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "padding": [
+                    3,
+                    8,
+                    3,
+                    8
+                  ],
+                  "background": {
+                    "type": "gradient",
+                    "angle": 135,
+                    "colors": [
+                      "#0E3D91",
+                      "#2A7DE1"
+                    ]
+                  },
+                  "radius": 10,
+                  "url": "https://x.com/search?q=messenger",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "MSGR • quiet",
+                      "font": {
+                        "size": 9,
+                        "weight": "semibold"
+                      },
+                      "color": "#FFFFFF",
+                      "lineLimit": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "boards • no spikes",
+                      "font": {
+                        "size": 8,
+                        "weight": "medium"
+                      },
+                      "color": "#CDE1FF",
+                      "lineLimit": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "stack",
+          "width": 324,
+          "height": 18,
+          "direction": "row",
+          "gap": 0,
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "text",
+              "text": "sat am • 10k club • calm inbox",
+              "font": {
+                "size": 9,
+                "weight": "medium"
+              },
+              "color": "#A08A72",
+              "lineLimit": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
