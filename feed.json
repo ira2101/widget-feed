@@ -1,1 +1,325 @@
-{"contentRevision": 733, "updatedAt": "2026-09-14T20:40:06Z", "mode": "native", "version": 5, "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "native": {"background": {"type": "gradient", "angle": 135, "colors": ["#F2F7FF", "#DCE8FD"]}, "outer": {"padding": [8, 8, 8, 8], "radius": 16}, "padding": [8, 10, 8, 10], "refreshMinutes": 15, "root": {"type": "stack", "direction": "column", "width": 324, "height": 138, "gap": 8, "children": [{"type": "stack", "direction": "row", "width": 324, "height": 20, "gap": 0, "alignItems": "center", "justifyContent": "space-between", "children": [{"type": "text", "text": "TORNADO", "font": {"size": 10, "weight": "semibold"}, "color": "#1E2A4A", "lineLimit": 1}, {"type": "text", "text": "MON 1:38P", "font": {"size": 9, "weight": "medium"}, "color": "#5A6B8C", "lineLimit": 1}]}, {"type": "stack", "direction": "row", "width": 324, "height": 84, "gap": 10, "children": [{"type": "stack", "direction": "column", "width": 100, "height": 84, "gap": 10, "children": [{"type": "stack", "direction": "column", "width": 100, "height": 37, "radius": 12, "background": {"type": "gradient", "angle": 135, "colors": ["#22305C", "#3B4A8C"]}, "alignItems": "center", "justifyContent": "center", "gap": 2, "children": [{"type": "text", "text": "RX HELD", "font": {"size": 11, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "doc wait", "font": {"size": 9, "weight": "medium"}, "color": "#DCE9F8", "lineLimit": 1}], "url": "https://www.walgreens.com/pharmacy"}, {"type": "stack", "direction": "column", "width": 100, "height": 37, "radius": 12, "background": {"type": "gradient", "angle": 135, "colors": ["#3B4A8C", "#22305C"]}, "alignItems": "center", "justifyContent": "center", "gap": 2, "children": [{"type": "text", "text": "TV LOGIN", "font": {"size": 11, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "7:06p alert", "font": {"size": 9, "weight": "medium"}, "color": "#DCE9F8", "lineLimit": 1}], "url": "https://www.tradingview.com"}]}, {"type": "stack", "direction": "column", "width": 104, "height": 84, "alignItems": "center", "justifyContent": "center", "children": [{"type": "stack", "direction": "column", "width": 84, "height": 84, "radius": 42, "background": {"type": "gradient", "angle": 135, "colors": ["#2F6DB8", "#8F7DE0"]}, "alignItems": "center", "justifyContent": "center", "gap": 4, "children": [{"type": "stack", "direction": "row", "radius": 8, "background": {"type": "color", "color": "rgba(0,0,0,0.4)"}, "padding": [3, 8, 3, 8], "children": [{"type": "text", "text": "MAIL QUIET", "font": {"size": 11, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}]}, {"type": "text", "text": "0 urgent", "font": {"size": 9, "weight": "medium"}, "color": "#FFFFFF", "lineLimit": 1}], "url": "https://mail.google.com"}]}, {"type": "stack", "direction": "column", "width": 100, "height": 84, "gap": 10, "children": [{"type": "stack", "direction": "column", "width": 100, "height": 37, "radius": 12, "background": {"type": "gradient", "angle": 135, "colors": ["#2A9D8F", "#1F7A6E"]}, "alignItems": "center", "justifyContent": "center", "gap": 2, "children": [{"type": "text", "text": "SAT SPIKE", "font": {"size": 11, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "pickup set", "font": {"size": 9, "weight": "medium"}, "color": "#DCE9F8", "lineLimit": 1}], "url": "https://www.meetup.com/find/?keywords=spikeball"}, {"type": "stack", "direction": "column", "width": 100, "height": 37, "radius": 12, "background": {"type": "gradient", "angle": 135, "colors": ["#2F6DB8", "#5E7FD8"]}, "alignItems": "center", "justifyContent": "center", "gap": 2, "children": [{"type": "text", "text": "ZILLOW", "font": {"size": 11, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "2 new sf", "font": {"size": 9, "weight": "medium"}, "color": "#DCE9F8", "lineLimit": 1}], "url": "https://www.zillow.com/san-francisco-ca/"}]}]}, {"type": "stack", "direction": "row", "width": 324, "height": 18, "alignItems": "center", "justifyContent": "center", "children": [{"type": "text", "text": "rx held \u2022 mail quiet \u2022 sat spike", "font": {"size": 9, "weight": "medium"}, "color": "#5A6B8C", "lineLimit": 1}], "url": "https://mail.google.com"}]}}}
+{
+ "contentRevision": 734,
+ "updatedAt": "2026-09-14T21:41:00Z",
+ "mode": "native",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#F2F7FF",
+    "#DCE8FD"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
+  "root": {
+   "type": "stack",
+   "direction": "column",
+   "width": 324,
+   "height": 138,
+   "gap": 8,
+   "children": [
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 20,
+     "gap": 0,
+     "alignItems": "center",
+     "justifyContent": "space-between",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "font": {
+        "size": 10,
+        "weight": "semibold"
+       },
+       "color": "#1E2A4A",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "MON 2:38P",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#5A6B8C",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "direction": "column",
+     "width": 324,
+     "height": 84,
+     "gap": 8,
+     "children": [
+      {
+       "type": "stack",
+       "direction": "column",
+       "width": 324,
+       "height": 48,
+       "gap": 2,
+       "alignItems": "center",
+       "justifyContent": "center",
+       "background": {
+        "type": "gradient",
+        "angle": 120,
+        "colors": [
+         "#3B5BDB",
+         "#7048E8"
+        ]
+       },
+       "radius": 12,
+       "url": "https://www.zillow.com/",
+       "children": [
+        {
+         "type": "text",
+         "text": "ZILLOW 2 NEW",
+         "font": {
+          "size": 13,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "2715 franklin + $4995 match",
+         "font": {
+          "size": 10,
+          "weight": "medium"
+         },
+         "color": "#DDE4FF",
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "direction": "row",
+       "width": 324,
+       "height": 28,
+       "gap": 6,
+       "alignItems": "flex-end",
+       "justifyContent": "center",
+       "url": "https://www.meetup.com/",
+       "children": [
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 12,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#2DD4BF",
+           "#2DD4BF"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 18,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#FBBF24",
+           "#FBBF24"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 24,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#60A5FA",
+           "#60A5FA"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 16,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#2DD4BF",
+           "#2DD4BF"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 28,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#FB7185",
+           "#FB7185"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 14,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#FBBF24",
+           "#FBBF24"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 26,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#60A5FA",
+           "#60A5FA"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 20,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#2DD4BF",
+           "#2DD4BF"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 28,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#FBBF24",
+           "#FBBF24"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 15,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#FB7185",
+           "#FB7185"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 22,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#60A5FA",
+           "#60A5FA"
+          ]
+         },
+         "radius": 10
+        },
+        {
+         "type": "stack",
+         "width": 20,
+         "height": 12,
+         "background": {
+          "type": "gradient",
+          "angle": 180,
+          "colors": [
+           "#2DD4BF",
+           "#2DD4BF"
+          ]
+         },
+         "radius": 10
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 18,
+     "gap": 0,
+     "alignItems": "center",
+     "justifyContent": "center",
+     "url": "https://mail.google.com/",
+     "children": [
+      {
+       "type": "text",
+       "text": "rx held \u2022 zillow 2 new \u2022 2:38p",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#5A6B8C",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
