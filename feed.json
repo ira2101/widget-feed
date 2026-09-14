@@ -1,1 +1,182 @@
-{"contentRevision": 730, "updatedAt": "2026-09-14T17:39:21Z", "mode": "native", "version": 5, "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "native": {"background": {"type": "gradient", "angle": 135, "colors": ["#EAF3FF", "#D7E6FF"]}, "outer": {"padding": [8, 8, 8, 8], "radius": 16}, "padding": [8, 10, 8, 10], "refreshMinutes": 15, "root": {"type": "stack", "width": 324, "height": 138, "direction": "column", "gap": 8, "children": [{"type": "stack", "width": 324, "height": 20, "direction": "row", "gap": 0, "alignItems": "center", "justifyContent": "space-between", "children": [{"type": "text", "text": "TORNADO", "font": {"size": 10, "weight": "semibold"}, "color": "#1E2A4A", "lineLimit": 1}, {"type": "text", "text": "MON 10:38A", "font": {"size": 9, "weight": "medium"}, "color": "#5A6B8C", "lineLimit": 1}]}, {"type": "stack", "width": 324, "height": 84, "direction": "column", "gap": 8, "children": [{"type": "stack", "width": 324, "height": 48, "direction": "column", "gap": 3, "alignItems": "center", "justifyContent": "center", "radius": 12, "background": {"type": "gradient", "angle": 135, "colors": ["#2F6DB8", "#5E7FD8"]}, "url": "https://www.walgreens.com/pharmacy", "children": [{"type": "text", "text": "RX HELD", "font": {"size": 12, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "walgreens waiting on doc approval", "font": {"size": 9, "weight": "medium"}, "color": "#DCE9F8", "lineLimit": 1}]}, {"type": "stack", "width": 324, "height": 28, "direction": "row", "gap": 6, "alignItems": "flex-end", "justifyContent": "center", "url": "https://www.zillow.com/apartments/san-francisco-ca/", "children": [{"type": "stack", "width": 20, "height": 14, "radius": 10, "background": {"type": "solid", "color": "#3FB6B2"}}, {"type": "stack", "width": 20, "height": 20, "radius": 10, "background": {"type": "solid", "color": "#E8A13A"}}, {"type": "stack", "width": 20, "height": 26, "radius": 10, "background": {"type": "solid", "color": "#3FB6B2"}}, {"type": "stack", "width": 20, "height": 18, "radius": 10, "background": {"type": "solid", "color": "#5E7FD8"}}, {"type": "stack", "width": 20, "height": 24, "radius": 10, "background": {"type": "solid", "color": "#3FB6B2"}}, {"type": "stack", "width": 20, "height": 28, "radius": 10, "background": {"type": "solid", "color": "#E8A13A"}}, {"type": "stack", "width": 20, "height": 22, "radius": 10, "background": {"type": "solid", "color": "#5E7FD8"}}, {"type": "stack", "width": 20, "height": 16, "radius": 10, "background": {"type": "solid", "color": "#3FB6B2"}}, {"type": "stack", "width": 20, "height": 26, "radius": 10, "background": {"type": "solid", "color": "#E8A13A"}}, {"type": "stack", "width": 20, "height": 20, "radius": 10, "background": {"type": "solid", "color": "#3FB6B2"}}, {"type": "stack", "width": 20, "height": 24, "radius": 10, "background": {"type": "solid", "color": "#5E7FD8"}}, {"type": "stack", "width": 20, "height": 14, "radius": 10, "background": {"type": "solid", "color": "#E8A13A"}}]}]}, {"type": "stack", "width": 324, "height": 18, "direction": "row", "gap": 0, "alignItems": "center", "justifyContent": "center", "url": "https://mail.google.com", "children": [{"type": "text", "text": "rx held \u2022 zillow new \u2022 10:38a", "font": {"size": 9, "weight": "medium"}, "color": "#5A6B8C", "lineLimit": 1}]}]}}}
+{
+ "contentRevision": 731,
+ "updatedAt": "2026-09-14T18:40:09Z",
+ "mode": "native",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#EAF3FF",
+    "#D7E6FF"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "direction": "column",
+   "gap": 8,
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 20,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "space-between",
+     "gap": 0,
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "font": {
+        "size": 10,
+        "weight": "semibold"
+       },
+       "color": "#1E2A4A",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "MON 11:38A",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#5A6B8C",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 84,
+     "direction": "row",
+     "gap": 10,
+     "children": [
+      {
+       "type": "stack",
+       "width": 157,
+       "height": 84,
+       "direction": "column",
+       "gap": 4,
+       "alignItems": "center",
+       "justifyContent": "center",
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#4A3F8E",
+         "#6E5BD8"
+        ]
+       },
+       "url": "https://www.tradingview.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "TV LOGIN",
+         "font": {
+          "size": 12,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "was that you?",
+         "font": {
+          "size": 9,
+          "weight": "medium"
+         },
+         "color": "#DCD8F8",
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 157,
+       "height": 84,
+       "direction": "column",
+       "gap": 4,
+       "alignItems": "center",
+       "justifyContent": "center",
+       "radius": 12,
+       "background": {
+        "type": "solid",
+        "color": "#FFFFFF"
+       },
+       "url": "https://mail.google.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "MAIL QUIET",
+         "font": {
+          "size": 12,
+          "weight": "bold"
+         },
+         "color": "#1E2A4A",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "17 new - 0 urgent",
+         "font": {
+          "size": 9,
+          "weight": "medium"
+         },
+         "color": "#5A6B8C",
+         "lineLimit": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 18,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "gap": 0,
+     "url": "https://mail.google.com",
+     "children": [
+      {
+       "type": "text",
+       "text": "17 new - tv login alert - 11:38a",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#5A6B8C",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
