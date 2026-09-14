@@ -1,16 +1,16 @@
 {
- "contentRevision": 734,
- "updatedAt": "2026-09-14T21:41:00Z",
+ "contentRevision": 735,
+ "updatedAt": "2026-09-14T22:39:57Z",
  "mode": "native",
  "version": 5,
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "background": {
    "type": "gradient",
-   "angle": 135,
+   "angle": 120,
    "colors": [
-    "#F2F7FF",
-    "#DCE8FD"
+    "#1E1B4B",
+    "#4C1D95"
    ]
   },
   "outer": {
@@ -52,42 +52,44 @@
         "size": 10,
         "weight": "semibold"
        },
-       "color": "#1E2A4A",
+       "color": "#E0E7FF",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "MON 2:38P",
+       "text": "MON 3:38P",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#5A6B8C",
+       "color": "#A5B4FC",
        "lineLimit": 1
       }
      ]
     },
     {
      "type": "stack",
-     "direction": "column",
+     "direction": "row",
      "width": 324,
      "height": 84,
      "gap": 8,
+     "alignItems": "center",
+     "justifyContent": "center",
      "children": [
       {
        "type": "stack",
        "direction": "column",
-       "width": 324,
-       "height": 48,
-       "gap": 2,
+       "width": 100,
+       "height": 84,
+       "gap": 6,
        "alignItems": "center",
        "justifyContent": "center",
        "background": {
         "type": "gradient",
         "angle": 120,
         "colors": [
-         "#3B5BDB",
-         "#7048E8"
+         "#F59E0B",
+         "#EA580C"
         ]
        },
        "radius": 12,
@@ -95,9 +97,9 @@
        "children": [
         {
          "type": "text",
-         "text": "ZILLOW 2 NEW",
+         "text": "ZILLOW",
          "font": {
-          "size": 13,
+          "size": 11,
           "weight": "bold"
          },
          "color": "#FFFFFF",
@@ -105,193 +107,95 @@
         },
         {
          "type": "text",
-         "text": "2715 franklin + $4995 match",
+         "text": "4 NEW",
          "font": {
-          "size": 10,
-          "weight": "medium"
+          "size": 14,
+          "weight": "bold"
          },
-         "color": "#DDE4FF",
+         "color": "#FFFFFF",
          "lineLimit": 1
         }
        ]
       },
       {
        "type": "stack",
-       "direction": "row",
-       "width": 324,
-       "height": 28,
+       "direction": "column",
+       "width": 100,
+       "height": 84,
        "gap": 6,
-       "alignItems": "flex-end",
+       "alignItems": "center",
        "justifyContent": "center",
+       "background": {
+        "type": "gradient",
+        "angle": 120,
+        "colors": [
+         "#14B8A6",
+         "#0D9488"
+        ]
+       },
+       "radius": 12,
+       "url": "https://www.doordash.com/",
+       "children": [
+        {
+         "type": "text",
+         "text": "DOORDASH",
+         "font": {
+          "size": 11,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "RT ROTIS",
+         "font": {
+          "size": 14,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "direction": "column",
+       "width": 108,
+       "height": 84,
+       "gap": 6,
+       "alignItems": "center",
+       "justifyContent": "center",
+       "background": {
+        "type": "gradient",
+        "angle": 120,
+        "colors": [
+         "#8B5CF6",
+         "#6D28D9"
+        ]
+       },
+       "radius": 12,
        "url": "https://www.meetup.com/",
        "children": [
         {
-         "type": "stack",
-         "width": 20,
-         "height": 12,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#2DD4BF",
-           "#2DD4BF"
-          ]
+         "type": "text",
+         "text": "SPIKEBALL",
+         "font": {
+          "size": 11,
+          "weight": "bold"
          },
-         "radius": 10
+         "color": "#FFFFFF",
+         "lineLimit": 1
         },
         {
-         "type": "stack",
-         "width": 20,
-         "height": 18,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#FBBF24",
-           "#FBBF24"
-          ]
+         "type": "text",
+         "text": "SAT",
+         "font": {
+          "size": 14,
+          "weight": "bold"
          },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 24,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#60A5FA",
-           "#60A5FA"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 16,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#2DD4BF",
-           "#2DD4BF"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 28,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#FB7185",
-           "#FB7185"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 14,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#FBBF24",
-           "#FBBF24"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 26,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#60A5FA",
-           "#60A5FA"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 20,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#2DD4BF",
-           "#2DD4BF"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 28,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#FBBF24",
-           "#FBBF24"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 15,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#FB7185",
-           "#FB7185"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 22,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#60A5FA",
-           "#60A5FA"
-          ]
-         },
-         "radius": 10
-        },
-        {
-         "type": "stack",
-         "width": 20,
-         "height": 12,
-         "background": {
-          "type": "gradient",
-          "angle": 180,
-          "colors": [
-           "#2DD4BF",
-           "#2DD4BF"
-          ]
-         },
-         "radius": 10
+         "color": "#FFFFFF",
+         "lineLimit": 1
         }
        ]
       }
@@ -309,12 +213,12 @@
      "children": [
       {
        "type": "text",
-       "text": "rx held \u2022 zillow 2 new \u2022 2:38p",
+       "text": "rx delayed \u2022 peacock up \u2022 3:38p",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#5A6B8C",
+       "color": "#C7D2FE",
        "lineLimit": 1
       }
      ]
