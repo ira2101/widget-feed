@@ -1,8 +1,8 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 744,
- "updatedAt": "2026-09-15T07:39:20Z",
+ "contentRevision": 745,
+ "updatedAt": "2026-09-15T08:39:11Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "refreshMinutes": 15,
@@ -34,13 +34,13 @@
    "direction": "column",
    "width": 324,
    "height": 138,
-   "gap": 10,
+   "gap": 8,
    "children": [
     {
      "type": "stack",
      "direction": "row",
      "width": 324,
-     "height": 18,
+     "height": 16,
      "justifyContent": "space-between",
      "alignItems": "center",
      "children": [
@@ -56,7 +56,7 @@
       },
       {
        "type": "text",
-       "text": "TUE 12:40A",
+       "text": "TUE 1:39A",
        "font": {
         "size": 9,
         "weight": "medium"
@@ -68,24 +68,69 @@
     },
     {
      "type": "stack",
+     "direction": "column",
+     "width": 324,
+     "height": 44,
+     "radius": 12,
+     "padding": [
+      5,
+      10,
+      5,
+      10
+     ],
+     "gap": 2,
+     "url": "https://www.youtube.com/@exitfrequency",
+     "background": {
+      "type": "gradient",
+      "angle": 135,
+      "colors": [
+       "#3A2E0E",
+       "#57420F"
+      ]
+     },
+     "children": [
+      {
+       "type": "text",
+       "text": "EXIT FREQUENCY",
+       "font": {
+        "size": 9,
+        "weight": "semibold"
+       },
+       "color": "#FDE68A",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "10,000 subs \u2022 0 to go \u2022 hit 9/10",
+       "font": {
+        "size": 12,
+        "weight": "bold"
+       },
+       "color": "#FFFBEB",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
      "direction": "row",
      "width": 324,
-     "height": 84,
+     "height": 40,
      "gap": 10,
      "children": [
       {
        "type": "stack",
        "direction": "column",
-       "width": 194,
-       "height": 84,
+       "width": 157,
+       "height": 40,
        "radius": 12,
        "padding": [
-        7,
-        10,
-        7,
-        10
+        4,
+        8,
+        4,
+        8
        ],
-       "gap": 3,
+       "gap": 2,
        "url": "https://mail.google.com/mail/u/0/#inbox",
        "background": {
         "type": "gradient",
@@ -108,32 +153,12 @@
         },
         {
          "type": "text",
-         "text": "CALM",
+         "text": "0 new \u2022 quiet",
          "font": {
-          "size": 16,
+          "size": 13,
           "weight": "bold"
          },
          "color": "#F8FAFC",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "1 new \u2022 Uber receipt",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#CBD5E1",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "0 urgent \u2022 rx held",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#CBD5E1",
          "lineLimit": 1
         }
        ]
@@ -141,54 +166,44 @@
       {
        "type": "stack",
        "direction": "column",
-       "width": 120,
-       "height": 84,
+       "width": 157,
+       "height": 40,
        "radius": 12,
        "padding": [
-        7,
-        10,
-        7,
-        10
+        4,
+        8,
+        4,
+        8
        ],
-       "gap": 3,
-       "url": "https://www.youtube.com/@exitfrequency",
+       "gap": 2,
+       "url": "https://www.walgreens.com/pharmacy",
        "background": {
         "type": "gradient",
         "angle": 135,
         "colors": [
-         "#33270F",
-         "#4A3816"
+         "#1E2A52",
+         "#33427E"
         ]
        },
        "children": [
         {
          "type": "text",
-         "text": "EXIT",
+         "text": "RX",
          "font": {
           "size": 9,
           "weight": "semibold"
          },
-         "color": "#FCD34D",
+         "color": "#A5B4FC",
          "lineLimit": 1
         },
         {
          "type": "text",
-         "text": "10K",
+         "text": "held \u2022 doc wait",
          "font": {
-          "size": 18,
+          "size": 13,
           "weight": "bold"
          },
-         "color": "#FFF7D6",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "hit 9/10 \u2022 club",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#FDE68A",
+         "color": "#F8FAFC",
          "lineLimit": 1
         }
        ]
@@ -199,19 +214,19 @@
      "type": "stack",
      "direction": "row",
      "width": 324,
-     "height": 16,
+     "height": 14,
      "justifyContent": "center",
      "alignItems": "center",
      "url": "https://mail.google.com/mail/u/0/#inbox",
      "children": [
       {
        "type": "text",
-       "text": "tue 12:40a \u2022 mail calm \u2022 10k club",
+       "text": "tue 1:39a \u2022 mail calm \u2022 10k club",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#94A3B8",
+       "color": "#7DD3FC",
        "lineLimit": 1
       }
      ]
