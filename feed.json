@@ -1,1 +1,87 @@
-{"contentRevision":762,"mode":"native","version":5,"native":{"mode":"native","version":5,"refreshMinutes":15,"padding":[8,10,8,10],"outer":{"padding":[8,8,8,8],"radius":16},"background":{"type":"gradient","colors":["#2E2620","#131A22"],"angle":135},"root":{"type":"stack","direction":"column","width":324,"height":138,"alignItems":"center","justifyContent":"center","gap":0,"children":[{"type":"stack","direction":"row","width":324,"height":18,"justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO","font":{"size":10,"weight":"bold"},"color":"#FFFFFF","lineLimit":1},{"type":"text","text":"TUE 6:40P","font":{"size":9,"weight":"medium"},"color":"#D8C7AE","lineLimit":1}]},{"type":"stack","direction":"column","width":324,"height":10},{"type":"stack","direction":"row","width":324,"height":84,"gap":10,"justifyContent":"center","alignItems":"center","children":[{"type":"stack","direction":"column","width":194,"height":84,"background":{"type":"gradient","colors":["#C0823F","#7A4A1E"],"angle":135},"radius":12,"padding":[8,12,8,12],"alignItems":"center","justifyContent":"center","gap":3,"url":"https://mail.google.com/mail/u/0/#inbox","children":[{"type":"text","text":"MAIL TRIAGE","font":{"size":10,"weight":"bold"},"color":"#2E1C08","lineLimit":1,"align":"center"},{"type":"text","text":"21 new \u2022 0 urgent","font":{"size":9,"weight":"medium"},"color":"#4A2F10","lineLimit":1,"align":"center"},{"type":"text","text":"zillow 4 results 6:07p","font":{"size":8,"weight":"medium"},"color":"#6B4A24","lineLimit":1,"align":"center"}]},{"type":"stack","direction":"column","width":120,"height":84,"gap":10,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","direction":"column","width":120,"height":37,"background":{"type":"gradient","colors":["#2E8B74","#1B5A4C"],"angle":135},"radius":11,"padding":[4,8,4,8],"alignItems":"center","justifyContent":"center","gap":3,"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT 10K","font":{"size":9,"weight":"bold"},"color":"#D9FFF2","lineLimit":1,"align":"center"},{"type":"text","text":"done 9/10","font":{"size":7,"weight":"medium"},"color":"#B9E8D5","lineLimit":1,"align":"center"}]},{"type":"stack","direction":"column","width":120,"height":37,"background":{"type":"gradient","colors":["#6E5BD0","#453A8F"],"angle":135},"radius":11,"padding":[4,8,4,8],"alignItems":"center","justifyContent":"center","gap":3,"url":"https://www.zillow.com/homes/for_rent/","children":[{"type":"text","text":"ZILLOW SF","font":{"size":9,"weight":"bold"},"color":"#EDEAFF","lineLimit":1,"align":"center"},{"type":"text","text":"$4495 match","font":{"size":7,"weight":"medium"},"color":"#CFC8F7","lineLimit":1,"align":"center"}]}]}]},{"type":"stack","direction":"column","width":324,"height":10},{"type":"stack","direction":"row","width":324,"height":16,"justifyContent":"center","alignItems":"center","url":"https://mail.google.com/mail/u/0/#inbox","children":[{"type":"text","text":"tue 6:40p \u2022 mail calm \u2022 10k done","font":{"size":8,"weight":"medium"},"color":"#B89B6E","lineLimit":1,"align":"center"}]}]}},"updatedAt":"2026-09-16T01:40:49Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 763,
+  "mode": "native",
+  "version": 5,
+  "native": {
+    "mode": "native",
+    "version": 5,
+    "refreshMinutes": 15,
+    "padding": [8, 10, 8, 10],
+    "outer": { "padding": [8, 8, 8, 8], "radius": 16 },
+    "background": { "type": "gradient", "colors": ["#1B1F33", "#2E1A2E"], "angle": 135 },
+    "root": {
+      "type": "stack",
+      "direction": "column",
+      "width": 324,
+      "height": 138,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "gap": 0,
+      "children": [
+        {
+          "type": "stack", "direction": "row", "width": 324, "height": 18,
+          "justifyContent": "space-between", "alignItems": "center",
+          "children": [
+            { "type": "text", "text": "TORNADO", "font": {"size": 10, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1 },
+            { "type": "text", "text": "TUE 7:40P", "font": {"size": 9, "weight": "medium"}, "color": "#C9B8E8", "lineLimit": 1 }
+          ]
+        },
+        { "type": "stack", "direction": "column", "width": 324, "height": 8 },
+        {
+          "type": "stack", "direction": "row", "width": 324, "height": 88, "gap": 8,
+          "justifyContent": "center", "alignItems": "center",
+          "background": { "type": "gradient", "colors": ["#5B4B8A", "#2C2145"], "angle": 135 },
+          "radius": 12, "padding": [8, 10, 8, 10],
+          "children": [
+            {
+              "type": "stack", "direction": "column", "width": 96, "height": 72,
+              "alignItems": "center", "justifyContent": "center", "gap": 2,
+              "url": "https://www.walgreens.com/",
+              "children": [
+                { "type": "text", "text": "RX READY", "font": {"size": 9, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1, "align": "center" },
+                { "type": "text", "text": "walgreens 6:57p", "font": {"size": 7, "weight": "medium"}, "color": "#D8CCF0", "lineLimit": 1, "align": "center" }
+              ]
+            },
+            {
+              "type": "stack", "direction": "column", "width": 96, "height": 72,
+              "alignItems": "center", "justifyContent": "center",
+              "url": "https://mail.google.com/mail/u/0/#inbox",
+              "children": [
+                {
+                  "type": "stack", "direction": "column", "width": 64, "height": 64,
+                  "alignItems": "center", "justifyContent": "center", "gap": 2,
+                  "background": { "type": "gradient", "colors": ["#1B1F33", "#3D2E63"], "angle": 135 },
+                  "radius": 32,
+                  "children": [
+                    { "type": "text", "text": "\ud83c\udf2a", "font": {"size": 20}, "lineLimit": 1 },
+                    { "type": "text", "text": "TUE EVE", "font": {"size": 7, "weight": "bold"}, "color": "#EAD9FF", "lineLimit": 1 }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "stack", "direction": "column", "width": 96, "height": 72,
+              "alignItems": "center", "justifyContent": "center", "gap": 2,
+              "url": "https://www.doordash.com/",
+              "children": [
+                { "type": "text", "text": "FIORELLA", "font": {"size": 9, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1, "align": "center" },
+                { "type": "text", "text": "pickup ready 7:01p", "font": {"size": 7, "weight": "medium"}, "color": "#D8CCF0", "lineLimit": 1, "align": "center" }
+              ]
+            }
+          ]
+        },
+        { "type": "stack", "direction": "column", "width": 324, "height": 10 },
+        {
+          "type": "stack", "direction": "row", "width": 324, "height": 16,
+          "justifyContent": "center", "alignItems": "center",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "children": [
+            { "type": "text", "text": "8+ new mail \u2022 rx ready \u2022 zillow 4", "font": {"size": 8, "weight": "medium"}, "color": "#B9A8D8", "lineLimit": 1, "align": "center" }
+          ]
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-09-16T02:40:30Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
