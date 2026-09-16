@@ -1,1 +1,582 @@
-{"contentRevision": 780, "mode": "native", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "updatedAt": "2026-09-16T19:40:21Z", "native": {"mode": "native", "version": 5, "refreshMinutes": 15, "outer": {"padding": [8, 8, 8, 8], "radius": 16}, "padding": [8, 10, 8, 10], "background": {"type": "gradient", "colors": ["#2B1F4D", "#120E24"], "angle": 135}, "alignItems": "center", "justifyContent": "center", "root": {"type": "stack", "width": 324, "height": 138, "direction": "column", "alignItems": "center", "justifyContent": "flex-start", "children": [{"type": "stack", "width": 324, "height": 18, "direction": "row", "alignItems": "center", "justifyContent": "space-between", "children": [{"type": "text", "text": "TORNADO", "font": {"size": 10, "weight": "bold"}, "color": "#EDE6FF", "lineLimit": 1}, {"type": "text", "text": "12:41P", "font": {"size": 9, "weight": "medium"}, "color": "#B9A8DB", "lineLimit": 1}]}, {"type": "stack", "width": 324, "height": 10, "direction": "column", "alignItems": "center", "justifyContent": "center", "children": []}, {"type": "stack", "width": 324, "height": 88, "direction": "row", "alignItems": "center", "justifyContent": "flex-start", "background": {"type": "gradient", "colors": ["#4A3D7A", "#2E2557"], "angle": 120}, "radius": 14, "url": "https://mail.google.com/mail/u/0/#inbox", "children": [{"type": "stack", "width": 194, "height": 88, "direction": "column", "alignItems": "flex-start", "justifyContent": "center", "padding": [6, 10, 6, 10], "children": [{"type": "text", "text": "INBOX", "font": {"size": 8, "weight": "bold"}, "color": "#F5C86B", "lineLimit": 1}, {"type": "text", "text": "19 new", "font": {"size": 20, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "Shirley Su sent a message", "font": {"size": 9, "weight": "regular"}, "color": "#D8C9F2", "lineLimit": 1}, {"type": "text", "text": "FolioSpace rename notice", "font": {"size": 9, "weight": "regular"}, "color": "#B9A8DB", "lineLimit": 1}]}, {"type": "stack", "width": 10, "height": 88, "direction": "column", "alignItems": "center", "justifyContent": "center", "children": [{"type": "stack", "width": 1, "height": 56, "direction": "column", "alignItems": "center", "justifyContent": "center", "background": {"type": "gradient", "colors": ["#7A68B0", "#5A4C88"], "angle": 90}, "children": []}]}, {"type": "stack", "width": 120, "height": 88, "direction": "column", "alignItems": "flex-start", "justifyContent": "center", "padding": [6, 10, 6, 10], "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "EXIT", "font": {"size": 8, "weight": "bold"}, "color": "#9BB8FF", "lineLimit": 1}, {"type": "text", "text": "10,000", "font": {"size": 15, "weight": "bold"}, "color": "#FFFFFF", "lineLimit": 1}, {"type": "text", "text": "goal met", "font": {"size": 8, "weight": "medium"}, "color": "#C3D2FF", "lineLimit": 1}]}]}, {"type": "stack", "width": 324, "height": 8, "direction": "column", "alignItems": "center", "justifyContent": "center", "children": []}, {"type": "stack", "width": 324, "height": 14, "direction": "row", "alignItems": "center", "justifyContent": "center", "url": "https://x.com/search?q=messenger%20android", "children": [{"type": "text", "text": "recruiter • zillow • dependabot", "font": {"size": 9, "weight": "medium"}, "color": "#C9B6D5", "lineLimit": 1}]}]}}}
+{
+ "contentRevision": 781,
+ "mode": "native",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-09-16T20:40:02Z",
+ "native": {
+  "mode": "native",
+  "version": 5,
+  "refreshMinutes": 15,
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "background": {
+   "type": "gradient",
+   "colors": [
+    "#1B1B3A",
+    "#0D0D22"
+   ],
+   "angle": 140
+  },
+  "alignItems": "center",
+  "justifyContent": "center",
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "direction": "column",
+   "alignItems": "center",
+   "justifyContent": "flex-start",
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 18,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "space-between",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "font": {
+        "size": 10,
+        "weight": "bold"
+       },
+       "color": "#F0EBFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "1:40P",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#A79BCB",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 6,
+     "direction": "column",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "children": []
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 88,
+     "direction": "column",
+     "alignItems": "flex-start",
+     "justifyContent": "flex-start",
+     "padding": [
+      8,
+      16,
+      8,
+      16
+     ],
+     "background": {
+      "type": "gradient",
+      "colors": [
+       "#26264A",
+       "#16162E"
+      ],
+      "angle": 120
+     },
+     "radius": 14,
+     "url": "https://mail.google.com/mail/u/0/#inbox",
+     "children": [
+      {
+       "type": "stack",
+       "width": 292,
+       "height": 12,
+       "direction": "row",
+       "alignItems": "center",
+       "justifyContent": "space-between",
+       "children": [
+        {
+         "type": "text",
+         "text": "MAIL PULSE",
+         "font": {
+          "size": 8,
+          "weight": "bold"
+         },
+         "color": "#F5C86B",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "last 24h",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "color": "#8E9BB5",
+         "lineLimit": 1
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 292,
+       "height": 6,
+       "direction": "column",
+       "alignItems": "center",
+       "justifyContent": "center",
+       "children": []
+      },
+      {
+       "type": "stack",
+       "width": 292,
+       "height": 54,
+       "direction": "row",
+       "alignItems": "flex-end",
+       "justifyContent": "center",
+       "children": [
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 14,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#4A4E69",
+             "#4A4E69"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 18,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#4A4E69",
+             "#4A4E69"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 22,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#4A4E69",
+             "#4A4E69"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 16,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#4A4E69",
+             "#4A4E69"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 24,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 20,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#4A4E69",
+             "#4A4E69"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 28,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 24,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 32,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 28,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 38,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#8E9BB5",
+             "#8E9BB5"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 44,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#F5C86B",
+             "#F5C86B"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 48,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#F5C86B",
+             "#F5C86B"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 14,
+         "height": 52,
+         "direction": "column",
+         "alignItems": "center",
+         "justifyContent": "flex-end",
+         "children": [
+          {
+           "type": "stack",
+           "width": 14,
+           "height": 52,
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "gradient",
+            "colors": [
+             "#F5C86B",
+             "#F5C86B"
+            ],
+            "angle": 90
+           },
+           "radius": 7,
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 6,
+     "direction": "column",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "children": []
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 20,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "url": "https://x.com/search?q=messenger%20android",
+     "children": [
+      {
+       "type": "text",
+       "text": "uber receipt \u2022 linkedin \u2022 foliospace \u2022 zillow",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#C9B6D5",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
