@@ -1,1 +1,381 @@
-{"contentRevision":770,"mode":"native","native":{"alignItems":"center","background":{"angle":150,"colors":["#0B1E26","#060E13"],"type":"gradient"},"justifyContent":"center","mode":"native","outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"alignItems":"center","children":[{"alignItems":"center","children":[{"color":"#FFFFFF","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"TORNADO","type":"text"},{"color":"#7FC8C4","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"WED 2:38A","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"direction":"column","height":10,"type":"stack","width":324},{"alignItems":"flex-start","background":{"angle":135,"colors":["#0F7B72","#0A4A52"],"type":"gradient"},"children":[{"color":"#BFF0EC","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"GMAIL","type":"text"},{"color":"#FFFFFF","font":{"size":11,"weight":"bold"},"lineLimit":1,"text":"9 unread \u2022 Rx ready for pickup","type":"text"},{"color":"#DFF5F3","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"2 LinkedIn msgs \u2022 4 SF rentals \u2022 Dependabot","type":"text"}],"direction":"column","height":64,"justifyContent":"center","padding":[8,12,7,12],"radius":12,"type":"stack","url":"https://mail.google.com/mail/u/0/#inbox","width":324},{"direction":"column","height":10,"type":"stack","width":324},{"alignItems":"center","children":[{"alignItems":"center","background":{"angle":135,"colors":["#155E5A","#0D3A40"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"RX READY","type":"text"},{"color":"#A8D8D5","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Walgreens","type":"text"}],"direction":"column","height":36,"justifyContent":"center","padding":[4,8,3,8],"radius":10,"type":"stack","url":"https://www.walgreens.com/pharmacy","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#1D5B7A","#12374E"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"2 MSGS","type":"text"},{"color":"#A9D2E6","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"LinkedIn","type":"text"}],"direction":"column","height":36,"justifyContent":"center","padding":[4,8,3,8],"radius":10,"type":"stack","url":"https://www.linkedin.com/messaging/","width":100},{"alignItems":"center","background":{"angle":135,"colors":["#5A4A78","#362C4C"],"type":"gradient"},"children":[{"color":"#FFFFFF","font":{"size":9,"weight":"bold"},"lineLimit":1,"text":"ALERTS","type":"text"},{"color":"#C4B8DE","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"Dependabot","type":"text"}],"direction":"column","height":36,"justifyContent":"center","padding":[4,8,3,8],"radius":10,"type":"stack","url":"https://github.com","width":108}],"direction":"row","gap":8,"height":36,"type":"stack","width":324}],"direction":"column","gap":0,"height":138,"type":"stack","width":324},"version":5,"updatedAt":"2026-09-16T09:40:27Z"},"updatedAt":"2026-09-16T09:40:27Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+ "contentRevision": 771,
+ "mode": "native",
+ "native": {
+  "mode": "native",
+  "version": 5,
+  "refreshMinutes": 15,
+  "alignItems": "center",
+  "justifyContent": "center",
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#1F2A5C",
+    "#0D1330"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "direction": "column",
+   "alignItems": "center",
+   "children": [
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 18,
+     "alignItems": "center",
+     "justifyContent": "space-between",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "font": {
+        "size": 10,
+        "weight": "bold"
+       },
+       "color": "#FFFFFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "WED 3:41A",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "color": "#9FB3C8",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 10
+    },
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 84,
+     "alignItems": "center",
+     "justifyContent": "center",
+     "children": [
+      {
+       "type": "stack",
+       "direction": "column",
+       "width": 100,
+       "height": 84,
+       "justifyContent": "center",
+       "children": [
+        {
+         "type": "stack",
+         "direction": "column",
+         "width": 100,
+         "height": 38,
+         "padding": [
+          6,
+          8,
+          6,
+          8
+         ],
+         "radius": 12,
+         "background": {
+          "type": "color",
+          "color": "#16242F"
+         },
+         "justifyContent": "center",
+         "url": "https://mail.google.com/mail/u/0/#inbox",
+         "children": [
+          {
+           "type": "text",
+           "text": "WALGREENS",
+           "font": {
+            "size": 8,
+            "weight": "semibold"
+           },
+           "color": "#9AD1C2",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "Rx ready",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 100,
+         "height": 8
+        },
+        {
+         "type": "stack",
+         "direction": "column",
+         "width": 100,
+         "height": 38,
+         "padding": [
+          6,
+          8,
+          6,
+          8
+         ],
+         "radius": 12,
+         "background": {
+          "type": "color",
+          "color": "#16242F"
+         },
+         "justifyContent": "center",
+         "url": "https://mail.google.com/mail/u/0/#inbox",
+         "children": [
+          {
+           "type": "text",
+           "text": "DOORDASH",
+           "font": {
+            "size": 8,
+            "weight": "semibold"
+           },
+           "color": "#9AD1C2",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "Pickup ready",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 10,
+       "height": 84
+      },
+      {
+       "type": "stack",
+       "direction": "column",
+       "width": 104,
+       "height": 76,
+       "alignItems": "center",
+       "justifyContent": "center",
+       "children": [
+        {
+         "type": "circle",
+         "radius": 38,
+         "background": {
+          "type": "gradient",
+          "angle": 120,
+          "colors": [
+           "#34C77B",
+           "#0E7C4B"
+          ]
+         },
+         "url": "https://mail.google.com/mail/u/0/#inbox",
+         "children": [
+          {
+           "type": "stack",
+           "direction": "column",
+           "alignItems": "center",
+           "justifyContent": "center",
+           "background": {
+            "type": "color",
+            "color": "#00000066"
+           },
+           "radius": 8,
+           "padding": [
+            4,
+            10,
+            4,
+            10
+           ],
+           "children": [
+            {
+             "type": "text",
+             "text": "12",
+             "font": {
+              "size": 22,
+              "weight": "bold"
+             },
+             "color": "#FFFFFF",
+             "lineLimit": 1
+            },
+            {
+             "type": "text",
+             "text": "MAIL",
+             "font": {
+              "size": 9,
+              "weight": "semibold"
+             },
+             "color": "#E8F5EC",
+             "lineLimit": 1
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "width": 10,
+       "height": 84
+      },
+      {
+       "type": "stack",
+       "direction": "column",
+       "width": 100,
+       "height": 84,
+       "justifyContent": "center",
+       "children": [
+        {
+         "type": "stack",
+         "direction": "column",
+         "width": 100,
+         "height": 38,
+         "padding": [
+          6,
+          8,
+          6,
+          8
+         ],
+         "radius": 12,
+         "background": {
+          "type": "color",
+          "color": "#1C1A33"
+         },
+         "justifyContent": "center",
+         "url": "https://www.linkedin.com/feed/",
+         "children": [
+          {
+           "type": "text",
+           "text": "LINKEDIN",
+           "font": {
+            "size": 8,
+            "weight": "semibold"
+           },
+           "color": "#B7AEEB",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "2 messages",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        },
+        {
+         "type": "stack",
+         "width": 100,
+         "height": 8
+        },
+        {
+         "type": "stack",
+         "direction": "column",
+         "width": 100,
+         "height": 38,
+         "padding": [
+          6,
+          8,
+          6,
+          8
+         ],
+         "radius": 12,
+         "background": {
+          "type": "color",
+          "color": "#1C1A33"
+         },
+         "justifyContent": "center",
+         "url": "https://github.com",
+         "children": [
+          {
+           "type": "text",
+           "text": "DEPENDABOT",
+           "font": {
+            "size": 8,
+            "weight": "semibold"
+           },
+           "color": "#B7AEEB",
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "Weekly alert",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 10
+    },
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 16,
+     "alignItems": "center",
+     "justifyContent": "center",
+     "children": [
+      {
+       "type": "text",
+       "text": "12 new \u2022 0 urgent \u2022 Wed 3:41a",
+       "font": {
+        "size": 8,
+        "weight": "regular"
+       },
+       "color": "#8FA3B8",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "updatedAt": "2026-09-16T10:41:30Z"
+}
