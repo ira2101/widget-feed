@@ -1,1 +1,309 @@
-{"contentRevision":767,"mode":"native","version":5,"native":{"alignItems":"center","background":{"angle":135,"colors":["#2E1626","#0E1B2E"],"type":"gradient"},"justifyContent":"center","mode":"native","outer":{"padding":[8,8,8,8],"radius":16},"padding":[8,10,8,10],"refreshMinutes":15,"root":{"alignItems":"center","children":[{"alignItems":"center","children":[{"color":"#FFFFFF","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"TORNADO","type":"text"},{"color":"#E8C4A8","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"TUE 11:41P","type":"text"}],"direction":"row","height":18,"justifyContent":"space-between","type":"stack","width":324},{"direction":"column","height":10,"type":"stack","width":324},{"children":[{"children":[{"children":[{"color":"#FFFFFF","font":{"size":10,"weight":"bold"},"lineLimit":1,"text":"LATE NIGHT","type":"text"},{"color":"#F3D9C2","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"fiorella ready 7:01p","type":"text"}],"direction":"column","gap":3,"type":"stack"},{"color":"#F5B98C","font":{"size":9,"weight":"medium"},"lineLimit":1,"text":"\u2192 mail","type":"text"}],"direction":"row","justifyContent":"space-between","type":"stack","width":304},{"alignItems":"center","background":{"angle":135,"colors":["#4A2440","#1C2038"],"type":"gradient"},"direction":"row","height":46,"padding":[7,10,7,10],"radius":12,"type":"stack","url":"https://mail.google.com/mail/u/0/#inbox","width":324},{"alignItems":"center","background":{"angle":135,"colors":["#123A4A","#232B52"],"type":"gradient"},"children":[{"align":"center","color":"#CFE8F2","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"rx ready 6:57p \u2022 zillow 4 new near 94109","type":"text"}],"direction":"row","height":30,"justifyContent":"center","padding":[5,10,5,10],"radius":10,"type":"stack","url":"https://mail.google.com/mail/u/0/#inbox","width":324}],"direction":"column","gap":8,"height":84,"type":"stack","width":324},{"direction":"column","height":10,"type":"stack","width":324},{"alignItems":"center","children":[{"align":"center","color":"#D8BFAE","font":{"size":8,"weight":"medium"},"lineLimit":1,"text":"tue 11:41p \u2022 4 fresh \u2022 linkedin 2 msgs","type":"text"}],"direction":"row","height":16,"justifyContent":"center","type":"stack","url":"https://x.com/search?q=Messenger%20Android","width":324}],"direction":"column","gap":0,"height":138,"type":"stack","width":324},"version":5},"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-09-16T06:40:39Z"}
+{
+ "contentRevision": 768,
+ "mode": "native",
+ "version": 5,
+ "updatedAt": "2026-09-16T07:39:23Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "mode": "native",
+  "version": 5,
+  "refreshMinutes": 15,
+  "alignItems": "center",
+  "justifyContent": "center",
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#131B33",
+    "#0A1428"
+   ]
+  },
+  "root": {
+   "type": "stack",
+   "direction": "column",
+   "gap": 0,
+   "width": 324,
+   "height": 138,
+   "alignItems": "center",
+   "children": [
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 18,
+     "alignItems": "center",
+     "justifyContent": "space-between",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "color": "#FFFFFF",
+       "font": {
+        "size": 10,
+        "weight": "bold"
+       },
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "WED 12:38A",
+       "color": "#9FB4D8",
+       "font": {
+        "size": 9,
+        "weight": "medium"
+       },
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "direction": "column",
+     "width": 324,
+     "height": 10
+    },
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 84,
+     "gap": 8,
+     "children": [
+      {
+       "type": "stack",
+       "direction": "row",
+       "width": 100,
+       "height": 84,
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#6B4423",
+         "#3A2415"
+        ]
+       },
+       "padding": [
+        7,
+        10,
+        7,
+        10
+       ],
+       "alignItems": "center",
+       "justifyContent": "center",
+       "url": "https://mail.google.com/mail/u/0/#inbox",
+       "children": [
+        {
+         "type": "stack",
+         "direction": "column",
+         "gap": 3,
+         "children": [
+          {
+           "type": "text",
+           "text": "MAIL",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "24 new \u2022 0 urgent",
+           "color": "#F5D9B8",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "\u2192 mail",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "direction": "row",
+       "width": 100,
+       "height": 84,
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#1C4A54",
+         "#0E2B33"
+        ]
+       },
+       "padding": [
+        7,
+        10,
+        7,
+        10
+       ],
+       "alignItems": "center",
+       "justifyContent": "center",
+       "url": "https://mail.google.com/mail/u/0/#inbox",
+       "children": [
+        {
+         "type": "stack",
+         "direction": "column",
+         "gap": 3,
+         "children": [
+          {
+           "type": "text",
+           "text": "PICKUPS",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "fiorella ready",
+           "color": "#C4E4E8",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "\u2192 gmail",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "stack",
+       "direction": "row",
+       "width": 108,
+       "height": 84,
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#3A2B5C",
+         "#241A3D"
+        ]
+       },
+       "padding": [
+        7,
+        10,
+        7,
+        10
+       ],
+       "alignItems": "center",
+       "justifyContent": "center",
+       "url": "https://www.zillow.com/homes/for_rent/94109_rb/",
+       "children": [
+        {
+         "type": "stack",
+         "direction": "column",
+         "gap": 3,
+         "children": [
+          {
+           "type": "text",
+           "text": "ZILLOW SF",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 10,
+            "weight": "bold"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "4 results 6:07p",
+           "color": "#D6C8F2",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          },
+          {
+           "type": "text",
+           "text": "\u2192 rentals",
+           "color": "#FFFFFF",
+           "font": {
+            "size": 8,
+            "weight": "medium"
+           },
+           "lineLimit": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "direction": "column",
+     "width": 324,
+     "height": 10
+    },
+    {
+     "type": "stack",
+     "direction": "row",
+     "width": 324,
+     "height": 16,
+     "alignItems": "center",
+     "justifyContent": "center",
+     "url": "https://x.com/search?q=Messenger%20Android",
+     "children": [
+      {
+       "type": "text",
+       "text": "wed 12:38a \u2022 24 new \u2022 0 urgent",
+       "color": "#8FA3C4",
+       "font": {
+        "size": 8,
+        "weight": "medium"
+       },
+       "lineLimit": 1,
+       "align": "center"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
