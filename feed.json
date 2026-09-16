@@ -1,8 +1,8 @@
 {
- "contentRevision": 768,
+ "contentRevision": 769,
  "mode": "native",
  "version": 5,
- "updatedAt": "2026-09-16T07:39:23Z",
+ "updatedAt": "2026-09-16T08:39:12Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "mode": "native",
@@ -29,8 +29,8 @@
    "type": "gradient",
    "angle": 135,
    "colors": [
-    "#131B33",
-    "#0A1428"
+    "#1E1033",
+    "#0F0A1E"
    ]
   },
   "root": {
@@ -61,8 +61,8 @@
       },
       {
        "type": "text",
-       "text": "WED 12:38A",
-       "color": "#9FB4D8",
+       "text": "WED 1:38A",
+       "color": "#B79BD9",
        "font": {
         "size": 9,
         "weight": "medium"
@@ -82,24 +82,24 @@
      "direction": "row",
      "width": 324,
      "height": 84,
-     "gap": 8,
+     "gap": 10,
      "children": [
       {
        "type": "stack",
-       "direction": "row",
-       "width": 100,
+       "direction": "column",
+       "width": 194,
        "height": 84,
        "radius": 12,
        "background": {
         "type": "gradient",
         "angle": 135,
         "colors": [
-         "#6B4423",
-         "#3A2415"
+         "#7A4A1E",
+         "#4A2A12"
         ]
        },
        "padding": [
-        7,
+        8,
         10,
         7,
         10
@@ -109,167 +109,90 @@
        "url": "https://mail.google.com/mail/u/0/#inbox",
        "children": [
         {
-         "type": "stack",
-         "direction": "column",
-         "gap": 3,
-         "children": [
-          {
-           "type": "text",
-           "text": "MAIL",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 10,
-            "weight": "bold"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "24 new \u2022 0 urgent",
-           "color": "#F5D9B8",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "\u2192 mail",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          }
-         ]
+         "type": "text",
+         "text": "GMAIL",
+         "color": "#FFFFFF",
+         "font": {
+          "size": 10,
+          "weight": "bold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "24 new \u2022 0 urgent",
+         "color": "#FFE3B8",
+         "font": {
+          "size": 9,
+          "weight": "medium"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "fiorella ready 7:01p \u2192",
+         "color": "#FFFFFF",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "lineLimit": 1
         }
        ]
       },
       {
        "type": "stack",
-       "direction": "row",
-       "width": 100,
+       "direction": "column",
+       "width": 120,
        "height": 84,
        "radius": 12,
        "background": {
         "type": "gradient",
         "angle": 135,
         "colors": [
-         "#1C4A54",
-         "#0E2B33"
+         "#5B2A86",
+         "#341A52"
         ]
        },
        "padding": [
-        7,
-        10,
-        7,
-        10
+        6,
+        8,
+        4,
+        8
        ],
        "alignItems": "center",
        "justifyContent": "center",
-       "url": "https://mail.google.com/mail/u/0/#inbox",
+       "url": "https://www.youtube.com/@exitfrequency",
        "children": [
         {
-         "type": "stack",
-         "direction": "column",
-         "gap": 3,
-         "children": [
-          {
-           "type": "text",
-           "text": "PICKUPS",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 10,
-            "weight": "bold"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "fiorella ready",
-           "color": "#C4E4E8",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "\u2192 gmail",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "type": "stack",
-       "direction": "row",
-       "width": 108,
-       "height": 84,
-       "radius": 12,
-       "background": {
-        "type": "gradient",
-        "angle": 135,
-        "colors": [
-         "#3A2B5C",
-         "#241A3D"
-        ]
-       },
-       "padding": [
-        7,
-        10,
-        7,
-        10
-       ],
-       "alignItems": "center",
-       "justifyContent": "center",
-       "url": "https://www.zillow.com/homes/for_rent/94109_rb/",
-       "children": [
+         "type": "text",
+         "text": "EXIT",
+         "color": "#E9D6FF",
+         "font": {
+          "size": 10,
+          "weight": "bold"
+         },
+         "lineLimit": 1
+        },
         {
-         "type": "stack",
-         "direction": "column",
-         "gap": 3,
-         "children": [
-          {
-           "type": "text",
-           "text": "ZILLOW SF",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 10,
-            "weight": "bold"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "4 results 6:07p",
-           "color": "#D6C8F2",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          },
-          {
-           "type": "text",
-           "text": "\u2192 rentals",
-           "color": "#FFFFFF",
-           "font": {
-            "size": 8,
-            "weight": "medium"
-           },
-           "lineLimit": 1
-          }
-         ]
+         "type": "text",
+         "text": "10K HIT",
+         "color": "#FFFFFF",
+         "font": {
+          "size": 12,
+          "weight": "bold"
+         },
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "sep 10",
+         "color": "#C9A8E8",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "lineLimit": 1
         }
        ]
       }
@@ -288,18 +211,17 @@
      "height": 16,
      "alignItems": "center",
      "justifyContent": "center",
-     "url": "https://x.com/search?q=Messenger%20Android",
+     "url": "https://x.com/search?q=facebook%20messenger%20android",
      "children": [
       {
        "type": "text",
-       "text": "wed 12:38a \u2022 24 new \u2022 0 urgent",
-       "color": "#8FA3C4",
+       "text": "wed 1:38a \u2022 24 new \u2022 0 urgent",
+       "color": "#B79BD9",
        "font": {
         "size": 8,
         "weight": "medium"
        },
-       "lineLimit": 1,
-       "align": "center"
+       "lineLimit": 1
       }
      ]
     }
