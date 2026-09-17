@@ -1,1 +1,254 @@
-{"contentRevision": 789, "mode": "native", "updatedAt": "2026-09-17T05:40:58Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "native": {"mode": "native", "version": 5, "refreshMinutes": 15, "background": {"type": "gradient", "angle": 135, "colors": ["#141433", "#0B0B1E"]}, "outer": {"padding": [8, 8, 8, 8], "radius": 16}, "padding": [8, 10, 8, 10], "alignItems": "center", "justifyContent": "center", "root": {"type": "stack", "children": [{"type": "stack", "children": [{"type": "text", "text": "TORNADO", "font": {"size": 10, "weight": "bold"}, "color": "#EDEBFF", "lineLimit": 1}, {"type": "text", "text": "9:41P", "font": {"size": 9, "weight": "medium"}, "color": "#A5A3C8", "lineLimit": 1}], "width": 324, "height": 22, "direction": "row", "justifyContent": "space-between", "alignItems": "center"}, {"type": "stack", "children": [], "width": 324, "height": 8}, {"type": "stack", "children": [{"type": "text", "text": "INBOX PULSE \u2022 41 TODAY \u2022 PEAK 4:50P", "font": {"size": 9, "weight": "bold"}, "color": "#C9D4F5", "lineLimit": 1}, {"type": "stack", "children": [{"type": "stack", "width": 20, "height": 45, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#7C93B8", "#5B7396"]}}, {"type": "stack", "width": 20, "height": 54, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#FFB84D", "#E8930C"]}}, {"type": "stack", "width": 20, "height": 57, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#FFB84D", "#E8930C"]}}, {"type": "stack", "width": 20, "height": 28, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#46536B", "#333E52"]}}, {"type": "stack", "width": 20, "height": 40, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#7C93B8", "#5B7396"]}}, {"type": "stack", "width": 20, "height": 55, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#FFB84D", "#E8930C"]}}, {"type": "stack", "width": 20, "height": 12, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#46536B", "#333E52"]}}, {"type": "stack", "width": 20, "height": 55, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#FFB84D", "#E8930C"]}}, {"type": "stack", "width": 20, "height": 53, "radius": 7, "background": {"type": "gradient", "angle": 90, "colors": ["#FFB84D", "#E8930C"]}}], "width": 300, "height": 58, "direction": "row", "alignItems": "flex-end", "justifyContent": "space-between"}], "width": 324, "height": 84, "direction": "column", "alignItems": "flex-start", "justifyContent": "center", "padding": [4, 12, 6, 12], "radius": 14, "background": {"type": "gradient", "angle": 120, "colors": ["#23234A", "#16162E"]}, "url": "https://mail.google.com/mail/u/0/#inbox"}, {"type": "stack", "children": [], "width": 324, "height": 8}, {"type": "stack", "children": [{"type": "text", "text": "zillow 6:11p \u2022 linkedin x2 \u2022 uber 1:13p", "font": {"size": 9, "weight": "medium"}, "color": "#8E9BBE", "lineLimit": 1}], "width": 324, "height": 16, "direction": "row", "justifyContent": "center", "alignItems": "center", "url": "https://x.com/search?q=Messenger%20Android"}], "width": 324, "height": 138, "direction": "column", "justifyContent": "center", "alignItems": "center"}}}
+{
+ "contentRevision": 790,
+ "mode": "native",
+ "updatedAt": "2026-09-17T06:40:37Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "native": {
+  "mode": "native",
+  "version": 5,
+  "refreshMinutes": 15,
+  "background": {
+   "type": "gradient",
+   "angle": 135,
+   "colors": [
+    "#10142E",
+    "#080C1C"
+   ]
+  },
+  "outer": {
+   "padding": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "radius": 16
+  },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "alignItems": "center",
+  "justifyContent": "center",
+  "root": {
+   "type": "stack",
+   "width": 324,
+   "height": 138,
+   "direction": "column",
+   "alignItems": "center",
+   "justifyContent": "center",
+   "children": [
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 22,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "spaceBetween",
+     "children": [
+      {
+       "type": "text",
+       "text": "TORNADO",
+       "font": {
+        "size": 13,
+        "weight": "bold"
+       },
+       "color": "#FFFFFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "text",
+       "text": "WED 11:38P",
+       "font": {
+        "size": 11,
+        "weight": "regular"
+       },
+       "color": "#9AA3C0",
+       "lineLimit": 1
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 8
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 84,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "children": [
+      {
+       "type": "stack",
+       "width": 157,
+       "height": 84,
+       "direction": "column",
+       "alignItems": "center",
+       "justifyContent": "center",
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#2DD4BF",
+         "#0D9488"
+        ]
+       },
+       "radius": 12,
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "children": [
+        {
+         "type": "text",
+         "text": "MAIL",
+         "font": {
+          "size": 10,
+          "weight": "bold"
+         },
+         "color": "#06302B",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "16 new",
+         "font": {
+          "size": 20,
+          "weight": "bold"
+         },
+         "color": "#06231F",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "zillow 6:11p",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#0B2B27",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "linkedin x2",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#0B2B27",
+         "lineLimit": 1
+        }
+       ],
+       "url": "https://mail.google.com/mail/u/0/#inbox"
+      },
+      {
+       "type": "stack",
+       "width": 10,
+       "height": 84
+      },
+      {
+       "type": "stack",
+       "width": 157,
+       "height": 84,
+       "direction": "column",
+       "alignItems": "center",
+       "justifyContent": "center",
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#818CF8",
+         "#4F46E5"
+        ]
+       },
+       "radius": 12,
+       "padding": [
+        8,
+        10,
+        8,
+        10
+       ],
+       "children": [
+        {
+         "type": "text",
+         "text": "TONIGHT",
+         "font": {
+          "size": 10,
+          "weight": "bold"
+         },
+         "color": "#E0E4FF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "lyft 4:55p",
+         "font": {
+          "size": 13,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "uber 1:13p",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#E0E4FF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "muse on win",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#E0E4FF",
+         "lineLimit": 1
+        }
+       ],
+       "url": "https://x.com/search?q=Messenger+Android&src=typed_query"
+      }
+     ]
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 8
+    },
+    {
+     "type": "stack",
+     "width": 324,
+     "height": 16,
+     "direction": "row",
+     "alignItems": "center",
+     "justifyContent": "center",
+     "url": "https://x.com/search?q=Messenger+Android&src=typed_query",
+     "children": [
+      {
+       "type": "text",
+       "text": "foliospace live \u2022 battle.net \u2022 doordash fiorella",
+       "font": {
+        "size": 10,
+        "weight": "regular"
+       },
+       "color": "#8A93B8",
+       "lineLimit": 1
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
