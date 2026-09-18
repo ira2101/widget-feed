@@ -1,16 +1,16 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 827,
- "updatedAt": "2026-09-18T18:39:33Z",
+ "contentRevision": 828,
+ "updatedAt": "2026-09-18T19:40:21Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "background": {
    "type": "gradient",
-   "angle": 135,
+   "angle": 125,
    "colors": [
-    "#0E2A32",
-    "#060F13"
+    "#3A2418",
+    "#150C08"
    ]
   },
   "outer": {
@@ -47,22 +47,22 @@
      "children": [
       {
        "type": "text",
-       "text": "🌪️ tornado · fri",
+       "text": "\ud83c\udf2a\ufe0f tornado \u00b7 fri",
        "font": {
         "size": 10,
         "weight": "semibold"
        },
-       "color": "#E8F4F2",
+       "color": "#F2E7DA",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "11:38a",
+       "text": "12:38p",
        "font": {
         "size": 11,
         "weight": "medium"
        },
-       "color": "#F5D9A8",
+       "color": "#F5C97B",
        "lineLimit": 1
       }
      ]
@@ -70,154 +70,78 @@
     {
      "type": "stack",
      "width": 324,
-     "height": 10
+     "height": 8
     },
     {
      "type": "stack",
      "width": 324,
      "height": 84,
-     "direction": "row",
-     "justifyContent": "spaceBetween",
+     "direction": "column",
+     "justifyContent": "center",
      "alignItems": "center",
+     "padding": [
+      8,
+      12,
+      8,
+      12
+     ],
+     "radius": 12,
+     "background": {
+      "type": "gradient",
+      "angle": 120,
+      "colors": [
+       "#9A4A24",
+       "#3A1E10"
+      ]
+     },
+     "url": "https://mail.google.com",
      "children": [
       {
-       "type": "stack",
-       "width": 194,
-       "height": 84,
-       "direction": "column",
-       "justifyContent": "center",
-       "alignItems": "start",
-       "padding": [
-        8,
-        10,
-        8,
-        10
-       ],
-       "radius": 12,
-       "background": {
-        "type": "gradient",
-        "angle": 120,
-        "colors": [
-         "#134E4A",
-         "#0B3030"
-        ]
+       "type": "text",
+       "text": "mail \u00b7 fri afternoon",
+       "font": {
+        "size": 9,
+        "weight": "semibold"
        },
-       "url": "https://mail.google.com",
-       "children": [
-        {
-         "type": "text",
-         "text": "mail today",
-         "font": {
-          "size": 9,
-          "weight": "semibold"
-         },
-         "color": "#9ADCD3",
-         "lineLimit": 1
-        },
-        {
-         "type": "stack",
-         "width": 8,
-         "height": 8
-        },
-        {
-         "type": "text",
-         "text": "doordash · bageletto",
-         "font": {
-          "size": 12,
-          "weight": "bold"
-         },
-         "color": "#FFFFFF",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "order confirmed 11:01a",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#C9E8E2",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "walgreens rx ready 9:31a",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#C9E8E2",
-         "lineLimit": 1
-        }
-       ]
+       "color": "#F0C98A",
+       "lineLimit": 1
       },
       {
        "type": "stack",
-       "width": 120,
-       "height": 84,
-       "direction": "column",
-       "justifyContent": "center",
-       "alignItems": "start",
-       "padding": [
-        8,
-        10,
-        8,
-        10
-       ],
-       "radius": 12,
-       "background": {
-        "type": "gradient",
-        "angle": 120,
-        "colors": [
-         "#3A2A12",
-         "#1C150A"
-        ]
+       "width": 8,
+       "height": 6
+      },
+      {
+       "type": "text",
+       "text": "bageletto delivered",
+       "font": {
+        "size": 16,
+        "weight": "bold"
        },
-       "url": "https://www.zillow.com",
-       "children": [
-        {
-         "type": "text",
-         "text": "zillow",
-         "font": {
-          "size": 9,
-          "weight": "semibold"
-         },
-         "color": "#F0C98A",
-         "lineLimit": 1
-        },
-        {
-         "type": "stack",
-         "width": 8,
-         "height": 6
-        },
-        {
-         "type": "text",
-         "text": "$4595/mo",
-         "font": {
-          "size": 15,
-          "weight": "bold"
-         },
-         "color": "#FFFFFF",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "sf 94109",
-         "font": {
-          "size": 10,
-          "weight": "regular"
-         },
-         "color": "#E8D6B8",
-         "lineLimit": 1
-        }
-       ]
+       "color": "#FFFFFF",
+       "lineLimit": 1
+      },
+      {
+       "type": "stack",
+       "width": 8,
+       "height": 4
+      },
+      {
+       "type": "text",
+       "text": "doordash 11:41a \u00b7 rx ready walgreens",
+       "font": {
+        "size": 10,
+        "weight": "regular"
+       },
+       "color": "#F2DCC3",
+       "lineLimit": 1
       }
      ]
     },
     {
      "type": "stack",
      "width": 324,
-     "height": 10
+     "height": 8
     },
     {
      "type": "stack",
@@ -230,22 +154,22 @@
      "children": [
       {
        "type": "text",
-       "text": "7 new in 24h",
+       "text": "18 in 24h",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#8FA8A3",
+       "color": "#B79A86",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "robinhood 4% apy → mail",
+       "text": "iphone duo \u2192 mail",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#8FA8A3",
+       "color": "#B79A86",
        "lineLimit": 1
       }
      ]
