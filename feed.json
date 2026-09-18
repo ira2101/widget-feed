@@ -1,23 +1,16 @@
 {
+ "contentRevision": 812,
+ "updatedAt": "2026-09-18T03:40:42Z",
  "mode": "native",
  "version": 5,
- "contentRevision": 811,
- "updatedAt": "2026-09-18T02:39:56Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
-  "padding": [
-   8,
-   10,
-   8,
-   10
-  ],
-  "refreshMinutes": 15,
   "background": {
    "type": "gradient",
-   "angle": 120,
+   "angle": 125,
    "colors": [
-    "#131A33",
-    "#070B1A"
+    "#1B2340",
+    "#0B0F24"
    ]
   },
   "outer": {
@@ -29,293 +22,326 @@
    ],
    "radius": 16
   },
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "refreshMinutes": 15,
   "root": {
    "type": "stack",
+   "width": 324,
+   "height": 138,
    "direction": "column",
    "children": [
     {
      "type": "stack",
+     "width": 324,
+     "height": 22,
      "direction": "row",
      "children": [
       {
        "type": "text",
-       "text": "tornado \u2022 thu evening",
+       "text": "tornado \u2022 thu night",
        "font": {
         "size": 10,
         "weight": "semibold"
        },
-       "color": "#EAF0FF",
+       "color": "#FFF7EA",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "THU 7:38P",
+       "text": "THU 8:38P",
        "font": {
         "size": 11,
         "weight": "medium"
        },
-       "color": "#8FB7D8",
+       "color": "#B9A8DC",
        "lineLimit": 1
       }
      ],
-     "width": 324,
-     "height": 22,
      "justifyContent": "spaceBetween",
      "alignItems": "center"
     },
     {
      "type": "stack",
      "width": 324,
-     "height": 8
+     "height": 8,
+     "direction": "column",
+     "children": []
     },
     {
      "type": "stack",
+     "width": 324,
+     "height": 84,
      "direction": "row",
      "children": [
       {
        "type": "stack",
+       "width": 100,
+       "height": 84,
        "direction": "column",
        "children": [
         {
          "type": "text",
-         "text": "\u2709 MAIL",
+         "text": "MAIL \u2022 today",
          "font": {
-          "size": 8,
-          "weight": "semibold"
+          "size": 11,
+          "weight": "bold"
          },
-         "color": "#A7E3D9",
+         "color": "#FFFFFF",
          "lineLimit": 1
         },
         {
          "type": "text",
-         "text": "linkedin 2 msgs",
+         "text": "creditkarma",
          "font": {
           "size": 9,
+          "weight": "semibold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "9 mo \u2022 0 late",
+         "font": {
+          "size": 9,
+          "weight": "medium"
+         },
+         "color": "#E7DCF7",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "zillow \u2022 6 new",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "color": "#E7DCF7",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "rentals 94109",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "color": "#E7DCF7",
+         "lineLimit": 1
+        }
+       ],
+       "justifyContent": "center",
+       "gap": 3,
+       "padding": [
+        6,
+        10,
+        4,
+        10
+       ],
+       "radius": 12,
+       "background": {
+        "type": "gradient",
+        "angle": 135,
+        "colors": [
+         "#5B3FB4",
+         "#33226E"
+        ]
+       },
+       "url": "https://mail.google.com"
+      },
+      {
+       "type": "stack",
+       "width": 104,
+       "height": 84,
+       "direction": "column",
+       "children": [
+        {
+         "type": "stack",
+         "width": 68,
+         "height": 68,
+         "direction": "column",
+         "children": [
+          {
+           "type": "text",
+           "text": "\ud83c\udf2a",
+           "font": {
+            "size": 26,
+            "weight": "regular"
+           },
+           "color": "#FFFFFF",
+           "lineLimit": 1
+          },
+          {
+           "type": "stack",
+           "direction": "column",
+           "children": [
+            {
+             "type": "text",
+             "text": "tornado",
+             "font": {
+              "size": 9,
+              "weight": "semibold"
+             },
+             "color": "#FFF7EA",
+             "lineLimit": 1
+            }
+           ],
+           "alignItems": "center",
+           "padding": [
+            3,
+            8,
+            3,
+            8
+           ],
+           "radius": 8,
+           "background": {
+            "type": "solid",
+            "color": "#00000066"
+           }
+          }
+         ],
+         "alignItems": "center",
+         "justifyContent": "center",
+         "gap": 2,
+         "radius": 34,
+         "background": {
+          "type": "gradient",
+          "angle": 135,
+          "colors": [
+           "#7A5AE0",
+           "#2E1D66"
+          ]
+         },
+         "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+        }
+       ],
+       "alignItems": "center",
+       "justifyContent": "center"
+      },
+      {
+       "type": "stack",
+       "width": 100,
+       "height": 84,
+       "direction": "column",
+       "children": [
+        {
+         "type": "text",
+         "text": "MORE",
+         "font": {
+          "size": 11,
           "weight": "bold"
          },
          "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "linkedin",
+         "font": {
+          "size": 9,
+          "weight": "semibold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "2 new messages",
+         "font": {
+          "size": 8,
+          "weight": "medium"
+         },
+         "color": "#D7E3F7",
          "lineLimit": 1
         },
         {
          "type": "text",
          "text": "wells fargo",
          "font": {
-          "size": 8,
-          "weight": "medium"
-         },
-         "color": "#E8F7F3",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "zillow 6 5:49p",
-         "font": {
-          "size": 8,
-          "weight": "medium"
-         },
-         "color": "#E8F7F3",
-         "lineLimit": 1
-        }
-       ],
-       "width": 100,
-       "height": 84,
-       "padding": [
-        6,
-        8,
-        6,
-        8
-       ],
-       "radius": 12,
-       "justifyContent": "center",
-       "background": {
-        "type": "gradient",
-        "angle": 115,
-        "colors": [
-         "#0F7A6E",
-         "#0A4B5C"
-        ]
-       },
-       "url": "https://mail.google.com"
-      },
-      {
-       "type": "stack",
-       "width": 8,
-       "height": 84
-      },
-      {
-       "type": "stack",
-       "direction": "column",
-       "children": [
-        {
-         "type": "text",
-         "text": "\ud83c\udf2a\ufe0f",
-         "font": {
-          "size": 24,
-          "weight": "regular"
+          "size": 9,
+          "weight": "semibold"
          },
          "color": "#FFFFFF",
          "lineLimit": 1
         },
         {
          "type": "text",
-         "text": "tornado mix",
-         "font": {
-          "size": 9,
-          "weight": "semibold"
-         },
-         "color": "#E9E4FF",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "\u2192 play",
+         "text": "policy update",
          "font": {
           "size": 8,
           "weight": "medium"
          },
-         "color": "#C9BFF2",
+         "color": "#D7E3F7",
          "lineLimit": 1
         }
        ],
-       "width": 100,
-       "height": 84,
-       "alignItems": "center",
        "justifyContent": "center",
-       "gap": 4,
-       "radius": 12,
-       "background": {
-        "type": "gradient",
-        "angle": 115,
-        "colors": [
-         "#3B2E7A",
-         "#1B1740"
-        ]
-       },
-       "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
-      },
-      {
-       "type": "stack",
-       "width": 8,
-       "height": 84
-      },
-      {
-       "type": "stack",
-       "direction": "column",
-       "children": [
-        {
-         "type": "text",
-         "text": "\u25c8 ZILLOW",
-         "font": {
-          "size": 8,
-          "weight": "semibold"
-         },
-         "color": "#FFE3B3",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "$5195 12:22p",
-         "font": {
-          "size": 9,
-          "weight": "bold"
-         },
-         "color": "#FFFFFF",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "1950 jones 3:10p",
-         "font": {
-          "size": 8,
-          "weight": "medium"
-         },
-         "color": "#FFF4DE",
-         "lineLimit": 1
-        },
-        {
-         "type": "text",
-         "text": "1035 francisco",
-         "font": {
-          "size": 8,
-          "weight": "medium"
-         },
-         "color": "#FFF4DE",
-         "lineLimit": 1
-        }
-       ],
-       "width": 108,
-       "height": 84,
+       "gap": 3,
        "padding": [
         6,
-        8,
-        6,
-        8
+        10,
+        4,
+        10
        ],
        "radius": 12,
-       "justifyContent": "center",
        "background": {
         "type": "gradient",
-        "angle": 115,
+        "angle": 135,
         "colors": [
-         "#8A5A1E",
-         "#4A2F0E"
+         "#2E4A7A",
+         "#16233F"
         ]
        },
        "url": "https://mail.google.com"
       }
      ],
-     "width": 324,
-     "height": 84,
+     "justifyContent": "spaceBetween",
      "alignItems": "center"
     },
     {
      "type": "stack",
      "width": 324,
-     "height": 8
+     "height": 8,
+     "direction": "column",
+     "children": []
     },
     {
      "type": "stack",
+     "width": 324,
+     "height": 16,
      "direction": "row",
      "children": [
       {
        "type": "text",
-       "text": "lyft receipt 4:39p \u2022 tiktok order",
+       "text": "lyft 4:39p \u2022 zillow 6 new",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#8FB7D8",
+       "color": "#9FB0D8",
        "lineLimit": 1
       },
       {
-       "type": "stack",
-       "direction": "row",
-       "children": [
-        {
-         "type": "text",
-         "text": "\u2192 inbox",
-         "font": {
-          "size": 9,
-          "weight": "semibold"
-         },
-         "color": "#EAF0FF",
-         "lineLimit": 1
-        }
-       ],
-       "width": 60,
-       "height": 16,
-       "alignItems": "center",
-       "url": "https://mail.google.com"
+       "type": "text",
+       "text": "\u2192 mail",
+       "font": {
+        "size": 9,
+        "weight": "semibold"
+       },
+       "color": "#F2C14E",
+       "lineLimit": 1
       }
      ],
-     "width": 324,
-     "height": 16,
      "justifyContent": "spaceBetween",
-     "alignItems": "center"
+     "alignItems": "center",
+     "url": "https://mail.google.com"
     }
-   ],
-   "width": 324,
-   "height": 138
+   ]
   }
  }
 }
