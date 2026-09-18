@@ -1,16 +1,16 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 826,
- "updatedAt": "2026-09-18T17:38:13Z",
+ "contentRevision": 827,
+ "updatedAt": "2026-09-18T18:39:33Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "native": {
   "background": {
    "type": "gradient",
    "angle": 135,
    "colors": [
-    "#3A1F4F",
-    "#1A0F28"
+    "#0E2A32",
+    "#060F13"
    ]
   },
   "outer": {
@@ -52,12 +52,12 @@
         "size": 10,
         "weight": "semibold"
        },
-       "color": "#F3E6FF",
+       "color": "#E8F4F2",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "10:38a",
+       "text": "11:38a",
        "font": {
         "size": 11,
         "weight": "medium"
@@ -70,366 +70,154 @@
     {
      "type": "stack",
      "width": 324,
-     "height": 8,
-     "direction": "row",
-     "justifyContent": "start",
-     "alignItems": "center",
-     "children": []
+     "height": 10
     },
     {
      "type": "stack",
      "width": 324,
      "height": 84,
      "direction": "row",
-     "justifyContent": "start",
+     "justifyContent": "spaceBetween",
      "alignItems": "center",
      "children": [
       {
        "type": "stack",
-       "width": 100,
+       "width": 194,
        "height": 84,
        "direction": "column",
-       "justifyContent": "start",
-       "alignItems": "center",
-       "children": [
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 20,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "📬 mail",
-           "font": {
-            "size": 10,
-            "weight": "semibold"
-           },
-           "color": "#F5E8FF",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 22,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "rx ready",
-           "font": {
-            "size": 13,
-            "weight": "bold"
-           },
-           "color": "#FFFFFF",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 18,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "zillow $4.6k",
-           "font": {
-            "size": 9,
-            "weight": "medium"
-           },
-           "color": "#E7D9F5",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 16,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "→ mail",
-           "font": {
-            "size": 9,
-            "weight": "semibold"
-           },
-           "color": "#F5D9A8",
-           "lineLimit": 1
-          }
-         ]
-        }
+       "justifyContent": "center",
+       "alignItems": "start",
+       "padding": [
+        8,
+        10,
+        8,
+        10
        ],
+       "radius": 12,
        "background": {
         "type": "gradient",
-        "angle": 135,
+        "angle": 120,
         "colors": [
-         "#5B2A6E",
-         "#3A1C4D"
+         "#134E4A",
+         "#0B3030"
         ]
        },
-       "radius": 12,
-       "padding": [
-        6,
-        8,
-        6,
-        8
-       ],
-       "url": "https://mail.google.com"
+       "url": "https://mail.google.com",
+       "children": [
+        {
+         "type": "text",
+         "text": "mail today",
+         "font": {
+          "size": 9,
+          "weight": "semibold"
+         },
+         "color": "#9ADCD3",
+         "lineLimit": 1
+        },
+        {
+         "type": "stack",
+         "width": 8,
+         "height": 8
+        },
+        {
+         "type": "text",
+         "text": "doordash · bageletto",
+         "font": {
+          "size": 12,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "order confirmed 11:01a",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#C9E8E2",
+         "lineLimit": 1
+        },
+        {
+         "type": "text",
+         "text": "walgreens rx ready 9:31a",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#C9E8E2",
+         "lineLimit": 1
+        }
+       ]
       },
       {
        "type": "stack",
-       "width": 8,
-       "height": 84,
-       "direction": "row",
-       "justifyContent": "start",
-       "alignItems": "center",
-       "children": []
-      },
-      {
-       "type": "stack",
-       "width": 100,
+       "width": 120,
        "height": 84,
        "direction": "column",
-       "justifyContent": "start",
-       "alignItems": "center",
-       "children": [
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 20,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "▶️ exit",
-           "font": {
-            "size": 10,
-            "weight": "semibold"
-           },
-           "color": "#F5E8FF",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 22,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "10,000",
-           "font": {
-            "size": 13,
-            "weight": "bold"
-           },
-           "color": "#FFFFFF",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 18,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "goal hit ✓",
-           "font": {
-            "size": 9,
-            "weight": "medium"
-           },
-           "color": "#E7D9F5",
-           "lineLimit": 1
-          }
-         ]
-        },
-        {
-         "type": "stack",
-         "width": 84,
-         "height": 16,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "→ yt",
-           "font": {
-            "size": 9,
-            "weight": "semibold"
-           },
-           "color": "#F5D9A8",
-           "lineLimit": 1
-          }
-         ]
-        }
+       "justifyContent": "center",
+       "alignItems": "start",
+       "padding": [
+        8,
+        10,
+        8,
+        10
        ],
+       "radius": 12,
        "background": {
         "type": "gradient",
-        "angle": 135,
+        "angle": 120,
         "colors": [
-         "#2A1F5C",
-         "#1B1440"
+         "#3A2A12",
+         "#1C150A"
         ]
        },
-       "radius": 12,
-       "padding": [
-        6,
-        8,
-        6,
-        8
-       ],
-       "url": "https://www.youtube.com/@exitfrequency"
-      },
-      {
-       "type": "stack",
-       "width": 8,
-       "height": 84,
-       "direction": "row",
-       "justifyContent": "start",
-       "alignItems": "center",
-       "children": []
-      },
-      {
-       "type": "stack",
-       "width": 108,
-       "height": 84,
-       "direction": "column",
-       "justifyContent": "start",
-       "alignItems": "center",
+       "url": "https://www.zillow.com",
        "children": [
         {
-         "type": "stack",
-         "width": 92,
-         "height": 20,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "💰 4% apy",
-           "font": {
-            "size": 10,
-            "weight": "semibold"
-           },
-           "color": "#F5E8FF",
-           "lineLimit": 1
-          }
-         ]
+         "type": "text",
+         "text": "zillow",
+         "font": {
+          "size": 9,
+          "weight": "semibold"
+         },
+         "color": "#F0C98A",
+         "lineLimit": 1
         },
         {
          "type": "stack",
-         "width": 92,
-         "height": 22,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "robinhood",
-           "font": {
-            "size": 13,
-            "weight": "bold"
-           },
-           "color": "#FFFFFF",
-           "lineLimit": 1
-          }
-         ]
+         "width": 8,
+         "height": 6
         },
         {
-         "type": "stack",
-         "width": 92,
-         "height": 18,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "uber thu ✓",
-           "font": {
-            "size": 9,
-            "weight": "medium"
-           },
-           "color": "#E7D9F5",
-           "lineLimit": 1
-          }
-         ]
+         "type": "text",
+         "text": "$4595/mo",
+         "font": {
+          "size": 15,
+          "weight": "bold"
+         },
+         "color": "#FFFFFF",
+         "lineLimit": 1
         },
         {
-         "type": "stack",
-         "width": 92,
-         "height": 16,
-         "direction": "row",
-         "justifyContent": "start",
-         "alignItems": "center",
-         "children": [
-          {
-           "type": "text",
-           "text": "→ mail",
-           "font": {
-            "size": 9,
-            "weight": "semibold"
-           },
-           "color": "#F5D9A8",
-           "lineLimit": 1
-          }
-         ]
+         "type": "text",
+         "text": "sf 94109",
+         "font": {
+          "size": 10,
+          "weight": "regular"
+         },
+         "color": "#E8D6B8",
+         "lineLimit": 1
         }
-       ],
-       "background": {
-        "type": "gradient",
-        "angle": 135,
-        "colors": [
-         "#6E3B1F",
-         "#4A2410"
-        ]
-       },
-       "radius": 12,
-       "padding": [
-        6,
-        8,
-        6,
-        8
-       ],
-       "url": "https://mail.google.com"
+       ]
       }
      ]
     },
     {
      "type": "stack",
      "width": 324,
-     "height": 8,
-     "direction": "row",
-     "justifyContent": "start",
-     "alignItems": "center",
-     "children": []
+     "height": 10
     },
     {
      "type": "stack",
@@ -438,29 +226,29 @@
      "direction": "row",
      "justifyContent": "spaceBetween",
      "alignItems": "center",
+     "url": "https://mail.google.com",
      "children": [
       {
        "type": "text",
-       "text": "rx ready · exit 10k · 4% apy",
+       "text": "7 new in 24h",
        "font": {
         "size": 9,
         "weight": "medium"
        },
-       "color": "#D8C8E8",
+       "color": "#8FA8A3",
        "lineLimit": 1
       },
       {
        "type": "text",
-       "text": "→ mail",
+       "text": "robinhood 4% apy → mail",
        "font": {
         "size": 9,
-        "weight": "semibold"
+        "weight": "medium"
        },
-       "color": "#F5D9A8",
+       "color": "#8FA8A3",
        "lineLimit": 1
       }
-     ],
-     "url": "https://mail.google.com"
+     ]
     }
    ]
   }
