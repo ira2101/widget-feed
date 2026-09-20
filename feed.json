@@ -1,1 +1,212 @@
-{"contentRevision": 874, "mode": "native", "version": 5, "outerPadding": [8, 8, 8, 8], "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "updatedAt": "2026-09-20T17:40:03Z", "root": {"type": "stack", "vertical": true, "width": 324, "height": 138, "padding": [8, 10, 8, 10], "gradient": {"angle": 135, "from": "#EAF2F8", "to": "#FDF0DC"}, "children": [{"type": "stack", "direction": "horizontal", "width": 324, "height": 20, "url": "https://mail.google.com/", "children": [{"type": "text", "text": "tornado \u00b7 sun 10a", "fontSize": 12, "color": "#33415C", "lineLimit": 1, "bold": true}, {"type": "spacer"}, {"type": "text", "text": "10:39a", "fontSize": 11, "color": "rgba(51,65,92,0.65)", "lineLimit": 1}]}, {"type": "spacer", "height": 8}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 84, "children": [{"type": "stack", "vertical": true, "width": 100, "height": 84, "children": [{"type": "stack", "vertical": true, "width": 100, "height": 37, "padding": [4, 8, 4, 8], "radius": 11, "gradient": {"angle": 135, "from": "#E8A94E", "to": "#B35C2A"}, "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "9.75K", "fontSize": 17, "color": "#2E1D08", "lineLimit": 1, "bold": true}, {"type": "text", "text": "250 to go", "fontSize": 9, "color": "rgba(46,29,8,0.85)", "lineLimit": 1}]}, {"type": "spacer", "height": 10}, {"type": "stack", "vertical": true, "width": 100, "height": 37, "padding": [4, 8, 4, 8], "radius": 11, "gradient": {"angle": 135, "from": "#1E6E78", "to": "#0C2B34"}, "url": "https://mail.google.com/", "children": [{"type": "text", "text": "Rx ready", "fontSize": 13, "color": "#D6F0EC", "lineLimit": 1, "bold": true}, {"type": "text", "text": "walgreens", "fontSize": 9, "color": "rgba(214,240,236,0.75)", "lineLimit": 1}]}]}, {"type": "spacer", "width": 10}, {"type": "stack", "direction": "horizontal", "width": 214, "height": 84, "alignItems": "center", "justifyContent": "center", "gradient": {"angle": 135, "from": "#DCEBF7", "to": "#FDF0DC"}, "radius": 12, "url": "https://mail.google.com/", "children": [{"type": "stack", "direction": "horizontal", "width": 212, "height": 84, "alignItems": "center", "children": [{"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 18, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 32, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 46, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 58, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 64, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 56, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 40, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 26, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 16, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 22, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 38, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 54, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 62, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 52, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 36, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 24, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 14, "radius": 4, "gradient": {"angle": 90, "from": "#7DF0D4", "to": "#0D9488"}, "children": []}]}, {"type": "spacer", "width": 4}, {"type": "stack", "vertical": true, "width": 8, "height": 84, "justifyContent": "center", "children": [{"type": "stack", "width": 8, "height": 20, "radius": 4, "gradient": {"angle": 90, "from": "#F0C77A", "to": "#B3770A"}, "children": []}]}]}]}]}, {"type": "spacer", "height": 8}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 18, "alignItems": "center", "justifyContent": "center", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "children": [{"type": "text", "text": "sun morn calm \u00b7 tap a card", "fontSize": 10, "color": "rgba(51,65,92,0.7)", "lineLimit": 1}]}]}}
+{
+ "contentRevision": 875,
+ "mode": "native",
+ "version": 5,
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-09-20T18:40:45Z",
+ "root": {
+  "type": "stack",
+  "vertical": true,
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "gradient": {
+   "angle": 135,
+   "from": "#0E2233",
+   "to": "#14524F"
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 20,
+    "url": "https://mail.google.com/",
+    "children": [
+     {
+      "type": "text",
+      "text": "tornado \u00b7 sun",
+      "fontSize": 12,
+      "color": "#EAF4F1",
+      "lineLimit": 1,
+      "bold": true
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "11:40a",
+      "fontSize": 11,
+      "color": "rgba(234,244,241,0.65)",
+      "lineLimit": 1
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "children": [
+     {
+      "type": "stack",
+      "vertical": true,
+      "width": 100,
+      "height": 84,
+      "justifyContent": "center",
+      "padding": [
+       6,
+       10,
+       6,
+       10
+      ],
+      "radius": 11,
+      "gradient": {
+       "angle": 135,
+       "from": "#E8A94E",
+       "to": "#B35C2A"
+      },
+      "url": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "text",
+        "text": "9.75K",
+        "fontSize": 17,
+        "color": "#2E1D08",
+        "lineLimit": 1,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "250 to go",
+        "fontSize": 9,
+        "color": "rgba(46,29,8,0.85)",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "vertical": true,
+      "width": 100,
+      "height": 84,
+      "justifyContent": "center",
+      "padding": [
+       6,
+       10,
+       6,
+       10
+      ],
+      "radius": 11,
+      "gradient": {
+       "angle": 135,
+       "from": "#0A66C2",
+       "to": "#004182"
+      },
+      "url": "https://mail.google.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "2 new msgs",
+        "fontSize": 12,
+        "color": "#F2F8FF",
+        "lineLimit": 1,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "linkedin",
+        "fontSize": 9,
+        "color": "rgba(242,248,255,0.8)",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "vertical": true,
+      "width": 108,
+      "height": 84,
+      "justifyContent": "center",
+      "padding": [
+       6,
+       10,
+       6,
+       10
+      ],
+      "radius": 11,
+      "gradient": {
+       "angle": 135,
+       "from": "#0D9488",
+       "to": "#0B4F4A"
+      },
+      "url": "https://www.nfl.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "WEEK 2",
+        "fontSize": 14,
+        "color": "#EFFDF9",
+        "lineLimit": 1,
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": "on now",
+        "fontSize": 9,
+        "color": "rgba(239,253,249,0.8)",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "alignItems": "center",
+    "justifyContent": "center",
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "children": [
+     {
+      "type": "text",
+      "text": "sun midday \u00b7 tap a card",
+      "fontSize": 10,
+      "color": "rgba(234,244,241,0.7)",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
