@@ -1,1 +1,768 @@
-{"mode": "native", "version": 5, "contentRevision": 859, "updatedAt": "2026-09-20T02:40:52Z", "outerPadding": [8, 8, 8, 8], "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "root": {"type": "stack", "width": 324, "height": 138, "vertical": true, "padding": [8, 10, 8, 10], "gradient": {"from": "#1A1440", "to": "#0A0818", "angle": 135}, "children": [{"type": "stack", "width": 324, "height": 20, "direction": "horizontal", "url": "https://mail.google.com/", "children": [{"type": "text", "text": "tornado \u00b7 sat night", "fontSize": 12, "color": "#FFFFFF", "lineLimit": 1, "bold": true}, {"type": "spacer"}, {"type": "text", "text": "7:39p", "fontSize": 11, "color": "rgba(255,255,255,0.65)", "lineLimit": 1}]}, {"type": "spacer", "height": 8}, {"type": "stack", "width": 324, "height": 84, "direction": "horizontal", "children": [{"type": "stack", "width": 116, "height": 84, "vertical": true, "children": [{"type": "stack", "width": 116, "height": 38, "vertical": true, "padding": [6, 10, 4, 10], "radius": 12, "gradient": {"from": "#0D9488", "to": "#074E49", "angle": 135}, "url": "https://mail.google.com/", "children": [{"type": "text", "text": "8 new today", "fontSize": 11, "color": "#FFFFFF", "lineLimit": 1, "bold": true}, {"type": "text", "text": "nothing urgent", "fontSize": 9, "color": "rgba(255,255,255,0.78)", "lineLimit": 1}]}, {"type": "spacer", "height": 8}, {"type": "stack", "width": 116, "height": 38, "vertical": true, "padding": [6, 10, 4, 10], "radius": 12, "gradient": {"from": "#2E4E86", "to": "#152A52", "angle": 135}, "url": "https://www.zillow.com/", "children": [{"type": "text", "text": "7 SF rentals", "fontSize": 11, "color": "#FFFFFF", "lineLimit": 1, "bold": true}, {"type": "text", "text": "94109, fresh", "fontSize": 9, "color": "rgba(255,255,255,0.78)", "lineLimit": 1}]}]}, {"type": "spacer", "width": 8}, {"type": "stack", "width": 76, "height": 84, "vertical": true, "children": [{"type": "spacer", "height": 4}, {"type": "stack", "width": 76, "height": 76, "vertical": true, "radius": 38, "padding": [8, 10, 6, 10], "gradient": {"from": "#F2C14E", "to": "#8A4B1F", "angle": 135}, "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "10K", "fontSize": 18, "color": "#3A2410", "lineLimit": 1, "bold": true}, {"type": "text", "text": "milestone", "fontSize": 9, "color": "rgba(58,36,16,0.85)", "lineLimit": 1}]}, {"type": "spacer", "height": 4}]}, {"type": "spacer", "width": 8}, {"type": "stack", "width": 116, "height": 84, "vertical": true, "children": [{"type": "stack", "width": 116, "height": 38, "vertical": true, "padding": [6, 10, 4, 10], "radius": 12, "gradient": {"from": "#B0713A", "to": "#5C3A16", "angle": 135}, "url": "https://mail.google.com/", "children": [{"type": "text", "text": "On order", "fontSize": 11, "color": "#FFFFFF", "lineLimit": 1, "bold": true}, {"type": "text", "text": "placed today", "fontSize": 9, "color": "rgba(255,255,255,0.78)", "lineLimit": 1}]}, {"type": "spacer", "height": 8}, {"type": "stack", "width": 116, "height": 38, "vertical": true, "padding": [6, 10, 4, 10], "radius": 12, "gradient": {"from": "#3B2E6E", "to": "#1C1540", "angle": 135}, "url": "https://x.com/search?q=Messenger+Android", "children": [{"type": "text", "text": "boards quiet", "fontSize": 11, "color": "#FFFFFF", "lineLimit": 1, "bold": true}, {"type": "text", "text": "messenger feed", "fontSize": 9, "color": "rgba(255,255,255,0.78)", "lineLimit": 1}]}]}]}, {"type": "spacer", "height": 8}, {"type": "stack", "width": 324, "height": 18, "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "children": [{"type": "text", "text": "sat night \u00b7 all calm \u00b7 tap a card", "fontSize": 10, "color": "rgba(255,255,255,0.62)", "lineLimit": 1}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 860,
+ "updatedAt": "2026-09-20T03:40:42Z",
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "root": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "vertical": true,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "gradient": {
+   "from": "#141A33",
+   "to": "#060812",
+   "angle": 135
+  },
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 20,
+    "direction": "horizontal",
+    "url": "https://mail.google.com/",
+    "children": [
+     {
+      "type": "text",
+      "text": "tornado \u00b7 sat night",
+      "fontSize": 12,
+      "color": "#FFFFFF",
+      "lineLimit": 1,
+      "bold": true
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "8:40pm",
+      "fontSize": 11,
+      "color": "rgba(255,255,255,0.65)",
+      "lineLimit": 1
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 84,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "stack",
+      "width": 100,
+      "height": 84,
+      "vertical": true,
+      "children": [
+       {
+        "type": "stack",
+        "width": 100,
+        "height": 38,
+        "vertical": true,
+        "padding": [
+         6,
+         10,
+         4,
+         10
+        ],
+        "radius": 12,
+        "gradient": {
+         "from": "#F0C05A",
+         "to": "#B47A2A",
+         "angle": 135
+        },
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+         {
+          "type": "text",
+          "text": "10K reached",
+          "fontSize": 11,
+          "color": "#3A2410",
+          "lineLimit": 1,
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "exit freq",
+          "fontSize": 9,
+          "color": "rgba(58,36,16,0.85)",
+          "lineLimit": 1
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "height": 8
+       },
+       {
+        "type": "stack",
+        "width": 100,
+        "height": 38,
+        "vertical": true,
+        "padding": [
+         6,
+         10,
+         4,
+         10
+        ],
+        "radius": 12,
+        "gradient": {
+         "from": "#3B5BA9",
+         "to": "#141F42",
+         "angle": 135
+        },
+        "url": "https://www.zillow.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "7 rentals",
+          "fontSize": 11,
+          "color": "#FFFFFF",
+          "lineLimit": 1,
+          "bold": true
+         },
+         {
+          "type": "text",
+          "text": "6900 94109",
+          "fontSize": 9,
+          "color": "rgba(255,255,255,0.78)",
+          "lineLimit": 1
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "width": 214,
+      "height": 84,
+      "radius": 12,
+      "padding": [
+       6,
+       6,
+       6,
+       6
+      ],
+      "gradient": {
+       "from": "#182040",
+       "to": "#0A0E22",
+       "angle": 135
+      },
+      "url": "https://mail.google.com/",
+      "children": [
+       {
+        "type": "spacer",
+        "width": 1
+       },
+       {
+        "type": "stack",
+        "width": 212,
+        "height": 72,
+        "direction": "horizontal",
+        "children": [
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 35
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 14,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 35
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 27
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 30,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 27
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 20
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 44,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 20
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 15
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 54,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 15
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 12
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 59,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 13
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 12
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 59,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 13
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 15
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 54,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 15
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 20
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 44,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 20
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 27
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 30,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 27
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 35
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 14,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 35
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 27
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 30,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 27
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 20
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 44,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 20
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 15
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 54,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 15
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 12
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 59,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 13
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 12
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 59,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 13
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 15
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 54,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 15
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 20
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 44,
+            "radius": 4,
+            "gradient": {
+             "from": "#7DF0D4",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 20
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 4
+         },
+         {
+          "type": "stack",
+          "width": 8,
+          "height": 84,
+          "vertical": true,
+          "children": [
+           {
+            "type": "spacer",
+            "height": 27
+           },
+           {
+            "type": "stack",
+            "width": 8,
+            "height": 30,
+            "radius": 4,
+            "gradient": {
+             "from": "#F0C77A",
+             "to": "#0E1430",
+             "angle": 180
+            }
+           },
+           {
+            "type": "spacer",
+            "height": 27
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "width": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "children": [
+     {
+      "type": "text",
+      "text": "sat night \u00b7 calm \u00b7 tap a card",
+      "fontSize": 10,
+      "color": "rgba(255,255,255,0.62)",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
