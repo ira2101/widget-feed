@@ -1,1 +1,230 @@
-{"contentRevision":915,"mode":"native","version":5,"outerPadding":[8,8,8,8],"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-09-22T10:41:00Z","root":{"type":"stack","width":324,"height":138,"padding":[8,10,8,10],"gradient":{"angle":130,"from":"#14224A","to":"#070D24"},"children":[{"type":"stack","direction":"horizontal","width":324,"height":20,"url":"https://mail.google.com","children":[{"type":"text","text":"tornado \u00b7 tue 3a","fontSize":12,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1},{"type":"spacer","spacer":{"type":"spacer"}},{"type":"text","text":"3:40a","fontSize":11,"color":"rgba(255,255,255,0.55)","lineLimit":1}]},{"type":"spacer","spacer":{"type":"spacer","height":8}},{"type":"stack","direction":"horizontal","width":324,"height":84,"radius":14,"gradient":{"angle":120,"from":"#3E5BD6","to":"#8A2BE2"},"padding":[10,14,10,14],"justifyContent":"center","alignItems":"center","url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"vertical","width":190,"height":64,"children":[{"type":"text","text":"exit freq","fontSize":10,"fontWeight":"bold","color":"rgba(255,255,255,0.85)","lineLimit":1},{"type":"text","text":"10.2K","fontSize":24,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1},{"type":"text","text":"200 to go \u00b7 98%","fontSize":11,"fontWeight":"bold","color":"rgba(255,255,255,0.95)","lineLimit":1}]},{"type":"spacer","spacer":{"type":"spacer","width":12}},{"type":"stack","width":60,"height":60,"radius":30,"gradient":{"angle":135,"from":"#F5A623","to":"#D97E06"},"justifyContent":"center","alignItems":"center","children":[{"type":"text","text":"98%","fontSize":14,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1}]}]},{"type":"spacer","spacer":{"type":"spacer","height":8}},{"type":"stack","direction":"horizontal","width":324,"height":18,"justifyContent":"center","alignItems":"center","url":"https://mail.google.com","children":[{"type":"text","text":"pkg arrived \u00b7 200 to go \u00b7 tue late","fontSize":10,"color":"rgba(255,255,255,0.60)","lineLimit":1}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 916,
+ "updatedAt": "2026-09-22T11:39:30Z",
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "root": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "gradient": {
+   "angle": 160,
+   "from": "#101B3C",
+   "to": "#04070F"
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 20,
+    "url": "https://mail.google.com",
+    "children": [
+     {
+      "type": "text",
+      "text": "tornado \u00b7 tue 4a",
+      "fontSize": 12,
+      "fontWeight": "bold",
+      "color": "#FFFFFF",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer",
+      "spacer": {
+       "type": "spacer"
+      }
+     },
+     {
+      "type": "text",
+      "text": "4:40a",
+      "fontSize": 11,
+      "color": "rgba(255,255,255,0.55)",
+      "lineLimit": 1
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "spacer": {
+     "type": "spacer",
+     "height": 8
+    }
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "alignItems": "center",
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 110,
+      "height": 84,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "text",
+        "text": "exit freq",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "rgba(255,255,255,0.70)",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "10.2K",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "subs",
+        "fontSize": 10,
+        "color": "rgba(255,255,255,0.70)",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "spacer": {
+       "type": "spacer",
+       "width": 10
+      }
+     },
+     {
+      "type": "stack",
+      "width": 84,
+      "height": 84,
+      "radius": 42,
+      "gradient": {
+       "angle": 135,
+       "from": "#F5A623",
+       "to": "#D97E06"
+      },
+      "justifyContent": "center",
+      "alignItems": "center",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "stack",
+        "width": 76,
+        "height": 76,
+        "radius": 38,
+        "gradient": {
+         "angle": 160,
+         "from": "#1B2A55",
+         "to": "#0A1230"
+        },
+        "justifyContent": "center",
+        "alignItems": "center",
+        "children": [
+         {
+          "type": "text",
+          "text": "200",
+          "fontSize": 22,
+          "fontWeight": "bold",
+          "color": "#FFFFFF",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "to go",
+          "fontSize": 10,
+          "color": "rgba(255,255,255,0.85)",
+          "lineLimit": 1
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "spacer": {
+       "type": "spacer",
+       "width": 10
+      }
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 110,
+      "height": 84,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "url": "https://mail.google.com",
+      "children": [
+       {
+        "type": "text",
+        "text": "mail",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "rgba(255,255,255,0.70)",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "trade",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "color": "#FFD97A",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "confirm",
+        "fontSize": 10,
+        "color": "rgba(255,255,255,0.70)",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "spacer": {
+     "type": "spacer",
+     "height": 8
+    }
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "justifyContent": "center",
+    "alignItems": "center",
+    "url": "https://mail.google.com",
+    "children": [
+     {
+      "type": "text",
+      "text": "200 to go \u00b7 trade confirm",
+      "fontSize": 10,
+      "color": "rgba(255,255,255,0.60)",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
