@@ -1,1 +1,228 @@
-{"mode":"native","version":5,"contentRevision":980,"updatedAt":"2026-09-25T09:42:09Z","outerPadding":[8,8,8,8],"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","root":{"type":"stack","direction":"vertical","width":324,"height":138,"padding":[8,10,8,10],"background":{"type":"gradient","angle":215,"from":"#141B3D","to":"#070A18"},"children":[{"type":"stack","direction":"horizontal","width":324,"height":20,"children":[{"type":"text","text":"tornado \u00b7 fri late","fontSize":12,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1},{"type":"spacer"},{"type":"text","text":"2:38a","fontSize":11,"fontWeight":"regular","color":"rgba(255,255,255,0.65)","lineLimit":1}],"url":"https://mail.google.com"},{"type":"spacer","height":8},{"type":"stack","direction":"horizontal","width":324,"height":84,"children":[{"type":"stack","direction":"vertical","width":100,"height":84,"children":[{"type":"stack","direction":"vertical","width":100,"height":38,"radius":12,"padding":[6,8,6,8],"background":{"type":"gradient","angle":140,"from":"#3A2F6B","to":"#1C1345"},"children":[{"type":"text","text":"MAIL","fontSize":10,"fontWeight":"regular","color":"#C9BFF5","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"quiet","fontSize":14,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1}],"url":"https://mail.google.com"},{"type":"spacer","height":8},{"type":"stack","direction":"vertical","width":100,"height":38,"radius":12,"padding":[6,8,6,8],"background":{"type":"gradient","angle":140,"from":"#0F4A3F","to":"#082A24"},"children":[{"type":"text","text":"DAILY SET","fontSize":10,"fontWeight":"regular","color":"#A9E8D2","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"+1 pt today","fontSize":11,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1}],"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]},{"type":"spacer","width":8},{"type":"stack","direction":"vertical","width":108,"height":84,"alignItems":"center","justifyContent":"center","children":[{"type":"stack","direction":"vertical","width":84,"height":84,"radius":42,"alignItems":"center","justifyContent":"center","background":{"type":"gradient","angle":160,"from":"#F2C14E","to":"#E89B2E"},"children":[{"type":"text","text":"EXIT FREQ","fontSize":9,"fontWeight":"regular","color":"#5A3A10","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"10.2K","fontSize":20,"fontWeight":"bold","color":"#3A2410","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"200 to go","fontSize":10,"fontWeight":"bold","color":"#3A2410","lineLimit":1}],"url":"https://www.youtube.com/@exitfrequency"}]},{"type":"spacer","width":8},{"type":"stack","direction":"vertical","width":100,"height":84,"children":[{"type":"stack","direction":"vertical","width":100,"height":38,"radius":12,"padding":[6,8,6,8],"background":{"type":"gradient","angle":140,"from":"#8A4A1E","to":"#4A2410"},"children":[{"type":"text","text":"TRADE","fontSize":10,"fontWeight":"regular","color":"#F5D9B8","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"cmc \u2192 wandale","fontSize":9,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1}],"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"},{"type":"spacer","height":8},{"type":"stack","direction":"vertical","width":100,"height":38,"radius":12,"padding":[6,8,6,8],"background":{"type":"gradient","angle":140,"from":"#1E2A5E","to":"#0E1533"},"children":[{"type":"text","text":"GOAL","fontSize":10,"fontWeight":"regular","color":"#9FB4F5","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"10.4K \u00b7 98%","fontSize":11,"fontWeight":"bold","color":"#FFFFFF","lineLimit":1}],"url":"https://www.youtube.com/@exitfrequency"}]}]},{"type":"spacer","height":8},{"type":"stack","direction":"horizontal","width":324,"height":18,"children":[{"type":"text","text":"exit 10.2k \u00b7 mail quiet \u00b7 2:38a","fontSize":11,"fontWeight":"regular","color":"rgba(255,255,255,0.7)","lineLimit":1}],"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 981,
+ "updatedAt": "2026-09-25T10:39:55Z",
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "root": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 20,
+    "children": [
+     {
+      "type": "text",
+      "text": "tornado · fri early",
+      "fontSize": 12,
+      "fontWeight": "bold",
+      "color": "#FFFFFF",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "3:38a",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "color": "rgba(255,255,255,0.65)",
+      "lineLimit": 1
+     }
+    ],
+    "url": "https://mail.google.com"
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "vertical",
+    "width": 324,
+    "height": 84,
+    "children": [
+     {
+      "type": "stack",
+      "direction": "horizontal",
+      "width": 296,
+      "height": 14,
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 10,
+        "fontWeight": "regular",
+        "color": "#C9BFF5",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "98%",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#F2C14E",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 2
+     },
+     {
+      "type": "stack",
+      "direction": "horizontal",
+      "width": 296,
+      "height": 30,
+      "children": [
+       {
+        "type": "text",
+        "text": "10.2K",
+        "fontSize": 26,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 3
+     },
+     {
+      "type": "stack",
+      "direction": "horizontal",
+      "width": 296,
+      "height": 6,
+      "children": [
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 290,
+        "height": 6,
+        "children": [],
+        "radius": 3,
+        "background": {
+         "type": "gradient",
+         "angle": 90,
+         "from": "#F2C14E",
+         "to": "#E89B2E"
+        }
+       },
+       {
+        "type": "spacer"
+       }
+      ],
+      "radius": 3,
+      "background": "rgba(255,255,255,0.18)"
+     },
+     {
+      "type": "spacer",
+      "height": 3
+     },
+     {
+      "type": "stack",
+      "direction": "horizontal",
+      "width": 296,
+      "height": 14,
+      "children": [
+       {
+        "type": "text",
+        "text": "200 to go",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "mail quiet",
+        "fontSize": 10,
+        "fontWeight": "regular",
+        "color": "rgba(255,255,255,0.75)",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "+1 pt today",
+        "fontSize": 10,
+        "fontWeight": "regular",
+        "color": "rgba(255,255,255,0.75)",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ],
+    "radius": 14,
+    "padding": [
+     10,
+     14,
+     10,
+     14
+    ],
+    "background": {
+     "type": "gradient",
+     "angle": 115,
+     "from": "#3A2A7B",
+     "to": "#141033"
+    },
+    "url": "https://www.youtube.com/@exitfrequency"
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "exit 10.2k · mail quiet · 3:38a",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "color": "rgba(255,255,255,0.7)",
+      "lineLimit": 1
+     }
+    ],
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+   }
+  ],
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "background": {
+   "type": "gradient",
+   "angle": 215,
+   "from": "#141B3D",
+   "to": "#070A18"
+  }
+ }
+}
