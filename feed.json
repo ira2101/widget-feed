@@ -1,543 +1,261 @@
 {
- "contentRevision": 996,
- "mode": "native",
- "version": 5,
- "outerPadding": [
-  8,
-  8,
-  8,
-  8
- ],
- "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-09-26T00:41:40Z",
- "root": {
-  "type": "stack",
-  "direction": "vertical",
-  "width": 324,
-  "height": 138,
-  "padding": [
-   8,
-   10,
-   8,
-   10
+  "contentRevision": 997,
+  "mode": "native",
+  "version": 5,
+  "outerPadding": [
+    8,
+    8,
+    8,
+    8
   ],
-  "background": {
-   "type": "gradient",
-   "angle": 160,
-   "from": "#3B2A5C",
-   "to": "#141126"
-  },
-  "children": [
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 20,
-    "url": "https://mail.google.com",
-    "children": [
-     {
-      "type": "text",
-      "text": "tornado \u00b7 fri eve",
-      "fontSize": 12,
-      "fontWeight": "bold",
-      "color": "#FFFFFF",
-      "lineLimit": 1
-     },
-     {
-      "type": "spacer"
-     },
-     {
-      "type": "text",
-      "text": "5:41p",
-      "fontSize": 11,
-      "fontWeight": "regular",
-      "color": "rgba(255,255,255,0.65)",
-      "lineLimit": 1
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 8
-   },
-   {
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-09-26T01:40:58Z",
+  "root": {
     "type": "stack",
     "direction": "vertical",
     "width": 324,
-    "height": 84,
-    "radius": 12,
+    "height": 138,
     "padding": [
-     8,
-     12,
-     8,
-     12
+      8,
+      10,
+      8,
+      10
     ],
     "background": {
-     "type": "gradient",
-     "angle": 135,
-     "from": "#1F5F5B",
-     "to": "#0F3230"
+      "type": "gradient",
+      "angle": 160,
+      "from": "#233A5C",
+      "to": "#0A0F20"
     },
-    "url": "https://www.youtube.com/@exitfrequency",
     "children": [
-     {
-      "type": "stack",
-      "direction": "horizontal",
-      "width": 300,
-      "height": 14,
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 10,
-        "fontWeight": "regular",
-        "color": "rgba(255,255,255,0.75)",
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "98% of goal",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#F5C66B",
-        "lineLimit": 1
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 4
-     },
-     {
-      "type": "stack",
-      "direction": "horizontal",
-      "width": 300,
-      "height": 24,
-      "children": [
-       {
-        "type": "text",
-        "text": "10.2K",
-        "fontSize": 20,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "200 to go",
-        "fontSize": 11,
-        "fontWeight": "bold",
-        "color": "#F5C66B",
-        "lineLimit": 1
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 4
-     },
-     {
-      "type": "stack",
-      "direction": "horizontal",
-      "width": 300,
-      "height": 22,
-      "alignItems": "end",
-      "children": [
-       {
+      {
         "type": "stack",
-        "width": 8,
-        "height": 6,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 8,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 10,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 12,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 14,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 16,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 18,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
+        "direction": "horizontal",
+        "width": 324,
         "height": 20,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
+        "url": "https://mail.google.com",
+        "children": [
+          {
+            "type": "text",
+            "text": "tornado \u00b7 fri night",
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "color": "#FFFFFF",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "6:39p",
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "rgba(255,255,255,0.65)",
+            "lineLimit": 1
+          }
+        ]
+      },
+      {
         "type": "spacer",
-        "width": 5
-       },
-       {
+        "height": 8
+      },
+      {
         "type": "stack",
-        "width": 8,
-        "height": 22,
-        "radius": 3,
+        "direction": "vertical",
+        "width": 324,
+        "height": 46,
+        "radius": 12,
+        "padding": [
+          6,
+          12,
+          6,
+          12
+        ],
         "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
+          "type": "gradient",
+          "angle": 135,
+          "from": "#3A4A8C",
+          "to": "#232B5C"
+        },
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+          {
+            "type": "stack",
+            "direction": "horizontal",
+            "width": 300,
+            "height": 13,
+            "children": [
+              {
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "fontSize": 10,
+                "fontWeight": "regular",
+                "color": "rgba(255,255,255,0.75)",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer"
+              },
+              {
+                "type": "text",
+                "text": "98% OF GOAL",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#F5C443",
+                "lineLimit": 1
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "height": 3
+          },
+          {
+            "type": "stack",
+            "direction": "horizontal",
+            "width": 300,
+            "height": 12,
+            "children": [
+              {
+                "type": "text",
+                "text": "10.2K SUBS",
+                "fontSize": 11,
+                "fontWeight": "bold",
+                "color": "#FFFFFF",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer"
+              },
+              {
+                "type": "text",
+                "text": "200 TO GO",
+                "fontSize": 11,
+                "fontWeight": "bold",
+                "color": "rgba(255,255,255,0.85)",
+                "lineLimit": 1
+              }
+            ]
+          },
+          {
+            "type": "stack",
+            "direction": "horizontal",
+            "width": 300,
+            "height": 6,
+            "radius": 3,
+            "background": {
+              "type": "color",
+              "color": "rgba(255,255,255,0.18)"
+            },
+            "children": [
+              {
+                "type": "stack",
+                "direction": "horizontal",
+                "width": 294,
+                "height": 6,
+                "radius": 3,
+                "background": {
+                  "type": "gradient",
+                  "angle": 0,
+                  "from": "#F5C443",
+                  "to": "#E8A93B"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "spacer",
-        "width": 5
-       },
-       {
+        "height": 8
+      },
+      {
         "type": "stack",
-        "width": 8,
-        "height": 22,
-        "radius": 3,
+        "direction": "horizontal",
+        "width": 324,
+        "height": 30,
+        "radius": 12,
+        "padding": [
+          6,
+          12,
+          6,
+          12
+        ],
         "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
+          "type": "gradient",
+          "angle": 135,
+          "from": "#1F5F5B",
+          "to": "#0F3230"
+        },
+        "url": "https://mail.google.com",
+        "children": [
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 200,
+            "height": 18,
+            "children": [
+              {
+                "type": "text",
+                "text": "MAIL QUIET",
+                "fontSize": 10,
+                "fontWeight": "regular",
+                "color": "rgba(255,255,255,0.7)",
+                "lineLimit": 1
+              },
+              {
+                "type": "text",
+                "text": "nothing new tonight",
+                "fontSize": 11,
+                "fontWeight": "bold",
+                "color": "#FFFFFF",
+                "lineLimit": 1
+              }
+            ]
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "+1 PT",
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "color": "#F5C443",
+            "lineLimit": 1
+          },
+          {
+            "type": "text",
+            "text": " daily set",
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "rgba(255,255,255,0.8)",
+            "lineLimit": 1
+          }
+        ]
+      },
+      {
         "type": "spacer",
-        "width": 5
-       },
-       {
+        "height": 8
+      },
+      {
         "type": "stack",
-        "width": 8,
-        "height": 20,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
+        "direction": "horizontal",
+        "width": 324,
         "height": 18,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 16,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 14,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 12,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 10,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 9,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 8,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 7,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 6,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 5,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 4,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 5
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 3,
-        "radius": 3,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F8D48A",
-         "to": "#DFA34B"
-        }
-       }
-      ]
-     }
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "exit 10.2k \u00b7 200 to go \u00b7 mail quiet \u00b7 6:39p",
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "rgba(255,255,255,0.6)",
+            "lineLimit": 1
+          }
+        ]
+      }
     ]
-   },
-   {
-    "type": "spacer",
-    "height": 8
-   },
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 18,
-    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-    "children": [
-     {
-      "type": "text",
-      "text": "exit 10.2k \u00b7 200 to go \u00b7 mail quiet",
-      "fontSize": 10,
-      "fontWeight": "regular",
-      "color": "rgba(255,255,255,0.6)",
-      "lineLimit": 1
-     }
-    ]
-   }
-  ]
- }
+  }
 }
