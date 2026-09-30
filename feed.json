@@ -1,19 +1,289 @@
 {
+ "contentRevision": 1108,
  "mode": "native",
- "version": 5,
- "contentRevision": 1107,
  "outerPadding": [
   8,
   8,
   8,
   8
  ],
- "updatedAt": "2026-09-30T15:39:55Z",
- "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "root": {
-  "type": "stack",
+  "background": {
+   "angle": 140,
+   "from": "#DCEBFF",
+   "to": "#F2F9FF",
+   "type": "gradient"
+  },
+  "children": [
+   {
+    "children": [
+     {
+      "align": "left",
+      "color": "#2C4A73",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "lineLimit": 1,
+      "text": "WEDNESDAY \u00b7 TORNADO",
+      "type": "text",
+      "width": 220
+     },
+     {
+      "type": "spacer",
+      "width": 0
+     },
+     {
+      "align": "right",
+      "color": "#7A93B8",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "lineLimit": 1,
+      "text": "9:38a",
+      "type": "text",
+      "width": 96
+     }
+    ],
+    "direction": "horizontal",
+    "height": 20,
+    "type": "stack",
+    "width": 324
+   },
+   {
+    "height": 8,
+    "type": "spacer"
+   },
+   {
+    "children": [
+     {
+      "background": {
+       "angle": 135,
+       "from": "#FFFFFF",
+       "to": "#E4EEFB",
+       "type": "gradient"
+      },
+      "children": [
+       {
+        "align": "left",
+        "color": "#3E6396",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "lineLimit": 1,
+        "text": "MAIL",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "height": 3,
+        "type": "spacer"
+       },
+       {
+        "align": "left",
+        "color": "#16294A",
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "lineLimit": 1,
+        "text": "10 new",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "height": 2,
+        "type": "spacer"
+       },
+       {
+        "align": "left",
+        "color": "#5A7499",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "lineLimit": 1,
+        "text": "OpenAI sign-in",
+        "type": "text",
+        "width": 84
+       }
+      ],
+      "direction": "vertical",
+      "height": 84,
+      "padding": [
+       8,
+       8,
+       6,
+       8
+      ],
+      "radius": 10,
+      "type": "stack",
+      "url": "googlegmail://",
+      "width": 100
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "alignItems": "center",
+      "children": [
+       {
+        "alignItems": "center",
+        "background": {
+         "angle": 150,
+         "from": "#FFE3B3",
+         "to": "#FFB877",
+         "type": "gradient"
+        },
+        "children": [
+         {
+          "align": "center",
+          "color": "#8A5A12",
+          "fontSize": 8,
+          "fontWeight": "bold",
+          "lineLimit": 1,
+          "text": "EXIT FREQ",
+          "type": "text",
+          "width": 72
+         },
+         {
+          "height": 4,
+          "type": "spacer"
+         },
+         {
+          "align": "center",
+          "color": "#3A2410",
+          "fontSize": 22,
+          "fontWeight": "bold",
+          "lineLimit": 1,
+          "text": "10.3K",
+          "type": "text",
+          "width": 72
+         },
+         {
+          "height": 4,
+          "type": "spacer"
+         },
+         {
+          "align": "center",
+          "color": "#3A2410",
+          "fontSize": 10,
+          "fontWeight": "regular",
+          "lineLimit": 1,
+          "text": "100 to go",
+          "type": "text",
+          "width": 72
+         }
+        ],
+        "direction": "vertical",
+        "height": 84,
+        "justifyContent": "center",
+        "padding": [
+         8,
+         6,
+         8,
+         6
+        ],
+        "radius": 42,
+        "type": "stack",
+        "url": "https://www.youtube.com/@exitfrequency",
+        "width": 84
+       }
+      ],
+      "direction": "vertical",
+      "height": 84,
+      "justifyContent": "center",
+      "type": "stack",
+      "width": 104
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "background": {
+       "angle": 135,
+       "from": "#EFE9FF",
+       "to": "#D9CFFB",
+       "type": "gradient"
+      },
+      "children": [
+       {
+        "align": "left",
+        "color": "#5A4B8A",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "lineLimit": 1,
+        "text": "DOTS",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "height": 3,
+        "type": "spacer"
+       },
+       {
+        "align": "left",
+        "color": "#241B4A",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "lineLimit": 1,
+        "text": "live Sep 29",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "height": 2,
+        "type": "spacer"
+       },
+       {
+        "align": "left",
+        "color": "#6B5FA3",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "lineLimit": 1,
+        "text": "on watch",
+        "type": "text",
+        "width": 84
+       }
+      ],
+      "direction": "vertical",
+      "height": 84,
+      "padding": [
+       8,
+       8,
+       6,
+       8
+      ],
+      "radius": 10,
+      "type": "stack",
+      "url": "https://openai.com",
+      "width": 100
+     }
+    ],
+    "direction": "horizontal",
+    "height": 84,
+    "type": "stack",
+    "width": 324
+   },
+   {
+    "height": 8,
+    "type": "spacer"
+   },
+   {
+    "children": [
+     {
+      "align": "left",
+      "color": "#7A93B8",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "lineLimit": 1,
+      "text": "10.3k \u00b7 100 to go \u00b7 Gold ends Oct 1",
+      "type": "text",
+      "width": 324
+     }
+    ],
+    "direction": "horizontal",
+    "height": 18,
+    "type": "stack",
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "width": 324
+   }
+  ],
   "direction": "vertical",
-  "width": 324,
   "height": 138,
   "padding": [
    8,
@@ -22,317 +292,10 @@
    10
   ],
   "radius": 12,
-  "background": {
-   "type": "gradient",
-   "angle": 120,
-   "from": "#FFF9F0",
-   "to": "#FFEFD8"
-  },
-  "children": [
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 20,
-    "children": [
-     {
-      "type": "text",
-      "text": "WEDNESDAY \u00b7 TORNADO",
-      "fontSize": 11,
-      "fontWeight": "bold",
-      "color": "#8A5A28",
-      "align": "left",
-      "lineLimit": 1,
-      "width": 220
-     },
-     {
-      "type": "spacer",
-      "width": 0
-     },
-     {
-      "type": "text",
-      "text": "8:38a",
-      "fontSize": 11,
-      "fontWeight": "regular",
-      "color": "#B08A5E",
-      "align": "right",
-      "lineLimit": 1,
-      "width": 96
-     }
-    ],
-    "url": "googlegmail://"
-   },
-   {
-    "type": "spacer",
-    "height": 8
-   },
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 84,
-    "children": [
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 118,
-      "height": 84,
-      "children": [
-       {
-        "type": "stack",
-        "direction": "vertical",
-        "width": 118,
-        "height": 38,
-        "radius": 10,
-        "padding": [
-         6,
-         10,
-         4,
-         10
-        ],
-        "background": {
-         "type": "gradient",
-         "angle": 135,
-         "from": "#C9E8EC",
-         "to": "#8FC9D3"
-        },
-        "children": [
-         {
-          "type": "text",
-          "text": "MAIL",
-          "fontSize": 9,
-          "fontWeight": "bold",
-          "color": "#1E6A76",
-          "align": "left",
-          "lineLimit": 1,
-          "width": 98
-         },
-         {
-          "type": "spacer",
-          "height": 2
-         },
-         {
-          "type": "text",
-          "text": "quiet \u00b7 0 new",
-          "fontSize": 11,
-          "fontWeight": "regular",
-          "color": "#0E2E35",
-          "align": "left",
-          "lineLimit": 1,
-          "width": 98
-         }
-        ],
-        "url": "googlegmail://"
-       },
-       {
-        "type": "spacer",
-        "height": 8
-       },
-       {
-        "type": "stack",
-        "direction": "vertical",
-        "width": 118,
-        "height": 38,
-        "radius": 10,
-        "padding": [
-         6,
-         10,
-         4,
-         10
-        ],
-        "background": {
-         "type": "gradient",
-         "angle": 135,
-         "from": "#DAD2F2",
-         "to": "#B3A1E4"
-        },
-        "children": [
-         {
-          "type": "text",
-          "text": "CHESS.COM",
-          "fontSize": 9,
-          "fontWeight": "bold",
-          "color": "#4A3B7A",
-          "align": "left",
-          "lineLimit": 1,
-          "width": 98
-         },
-         {
-          "type": "spacer",
-          "height": 2
-         },
-         {
-          "type": "text",
-          "text": "ends Oct 1",
-          "fontSize": 11,
-          "fontWeight": "regular",
-          "color": "#241B4A",
-          "align": "left",
-          "lineLimit": 1,
-          "width": 98
-         }
-        ],
-        "url": "https://www.chess.com"
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "width": 10
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 84,
-      "height": 84,
-      "radius": 42,
-      "padding": [
-       8,
-       6,
-       8,
-       6
-      ],
-      "alignItems": "center",
-      "justifyContent": "center",
-      "background": {
-       "type": "gradient",
-       "angle": 150,
-       "from": "#F9CF6B",
-       "to": "#E89B3F"
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQ",
-        "fontSize": 8,
-        "fontWeight": "bold",
-        "color": "#8A5A12",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 72
-       },
-       {
-        "type": "spacer",
-        "height": 4
-       },
-       {
-        "type": "text",
-        "text": "10.3K",
-        "fontSize": 20,
-        "fontWeight": "bold",
-        "color": "#3A2410",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 72
-       },
-       {
-        "type": "spacer",
-        "height": 4
-       },
-       {
-        "type": "text",
-        "text": "100 left",
-        "fontSize": 10,
-        "fontWeight": "regular",
-        "color": "#3A2410",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 72
-       }
-      ],
-      "url": "https://www.youtube.com/@exitfrequency"
-     },
-     {
-      "type": "spacer",
-      "width": 10
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 102,
-      "height": 84,
-      "radius": 12,
-      "padding": [
-       8,
-       8,
-       6,
-       8
-      ],
-      "alignItems": "center",
-      "justifyContent": "center",
-      "background": {
-       "type": "gradient",
-       "angle": 135,
-       "from": "#FFF4DE",
-       "to": "#FFE3B8"
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "99%",
-        "fontSize": 16,
-        "fontWeight": "bold",
-        "color": "#A86E2A",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 86
-       },
-       {
-        "type": "spacer",
-        "height": 3
-       },
-       {
-        "type": "text",
-        "text": "of 10.4K",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#7A5A28",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 86
-       },
-       {
-        "type": "spacer",
-        "height": 3
-       },
-       {
-        "type": "text",
-        "text": "gain +100",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#7A5A28",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 86
-       }
-      ],
-      "url": "https://www.youtube.com/@exitfrequency"
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 8
-   },
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 18,
-    "children": [
-     {
-      "type": "text",
-      "text": "10.3k \u00b7 100 left \u00b7 Gold Oct 1 \u00b7 8:38a",
-      "fontSize": 10,
-      "fontWeight": "regular",
-      "color": "#9C7650",
-      "align": "left",
-      "lineLimit": 1,
-      "width": 324
-     }
-    ],
-    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
-   }
-  ]
- }
+  "type": "stack",
+  "width": 324
+ },
+ "updatedAt": "2026-09-30T16:39:56Z",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
 }
