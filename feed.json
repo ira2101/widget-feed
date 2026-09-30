@@ -1,1 +1,338 @@
-{"mode": "native", "version": 5, "contentRevision": 1106, "outerPadding": [8, 8, 8, 8], "updatedAt": "2026-09-30T14:39:45Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "root": {"type": "stack", "direction": "vertical", "width": 324, "height": 138, "padding": [8, 10, 8, 10], "radius": 12, "background": {"type": "gradient", "angle": 120, "from": "#FFF8EC", "to": "#FFE4C4"}, "children": [{"type": "stack", "direction": "horizontal", "width": 324, "height": 20, "children": [{"type": "text", "text": "WEDNESDAY \u00b7 TORNADO", "fontSize": 11, "fontWeight": "bold", "color": "#7A4A1E", "align": "left", "lineLimit": 1, "width": 220}, {"type": "spacer", "width": 0}, {"type": "text", "text": "7:38a", "fontSize": 11, "fontWeight": "regular", "color": "#B08A5E", "align": "right", "lineLimit": 1, "width": 96}], "url": "googlegmail://"}, {"type": "spacer", "height": 8}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 84, "children": [{"type": "stack", "direction": "vertical", "width": 137, "height": 84, "radius": 12, "padding": [10, 12, 8, 12], "background": {"type": "gradient", "angle": 150, "from": "#F6C453", "to": "#E79A45"}, "children": [{"type": "text", "text": "EXIT FREQUENCY", "fontSize": 9, "fontWeight": "bold", "color": "#8A5A12", "align": "left", "lineLimit": 1, "width": 113}, {"type": "spacer", "height": 6}, {"type": "text", "text": "10.3K", "fontSize": 20, "fontWeight": "bold", "color": "#3A2410", "align": "left", "lineLimit": 1, "width": 113}, {"type": "spacer", "height": 4}, {"type": "text", "text": "100 to go", "fontSize": 11, "fontWeight": "regular", "color": "#3A2410", "align": "left", "lineLimit": 1, "width": 113}, {"type": "spacer", "height": 4}, {"type": "text", "text": "99% of 10.4K", "fontSize": 8, "fontWeight": "bold", "color": "#8A5A12", "align": "left", "lineLimit": 1, "width": 113}], "url": "https://www.youtube.com/@exitfrequency"}, {"type": "spacer", "width": 10}, {"type": "stack", "direction": "vertical", "width": 30, "height": 84, "radius": 12, "padding": [8, 4, 8, 4], "background": {"type": "gradient", "angle": 180, "from": "#FFF3E0", "to": "#FFE0B3"}, "children": [{"type": "text", "text": "99%", "fontSize": 8, "fontWeight": "bold", "color": "#A86E2A", "align": "center", "lineLimit": 1, "width": 22}, {"type": "spacer", "height": 4}, {"type": "stack", "direction": "vertical", "width": 22, "height": 52, "radius": 11, "background": {"type": "gradient", "angle": 180, "from": "#EAD9BE", "to": "#DCBFA0"}, "children": [{"type": "spacer", "height": 1}, {"type": "stack", "direction": "vertical", "width": 22, "height": 51, "radius": 11, "background": {"type": "gradient", "angle": 180, "from": "#F6C453", "to": "#E79A45"}, "children": []}]}], "url": "https://www.youtube.com/@exitfrequency"}, {"type": "spacer", "width": 10}, {"type": "stack", "direction": "vertical", "width": 137, "height": 84, "children": [{"type": "stack", "direction": "vertical", "width": 137, "height": 38, "radius": 10, "padding": [6, 10, 4, 10], "background": {"type": "gradient", "angle": 135, "from": "#C4E3E7", "to": "#93CBD2"}, "children": [{"type": "text", "text": "MAIL", "fontSize": 9, "fontWeight": "bold", "color": "#1F6B77", "align": "left", "lineLimit": 1, "width": 117}, {"type": "spacer", "height": 2}, {"type": "text", "text": "quiet \u00b7 0 new", "fontSize": 11, "fontWeight": "regular", "color": "#0E2E35", "align": "left", "lineLimit": 1, "width": 117}], "url": "googlegmail://"}, {"type": "spacer", "height": 8}, {"type": "stack", "direction": "vertical", "width": 137, "height": 38, "radius": 10, "padding": [6, 10, 4, 10], "background": {"type": "gradient", "angle": 135, "from": "#DCD3F0", "to": "#B9A8E3"}, "children": [{"type": "text", "text": "CHESS.COM", "fontSize": 9, "fontWeight": "bold", "color": "#4A3B7A", "align": "left", "lineLimit": 1, "width": 117}, {"type": "spacer", "height": 2}, {"type": "text", "text": "Gold ends Oct 1", "fontSize": 11, "fontWeight": "regular", "color": "#241B4A", "align": "left", "lineLimit": 1, "width": 117}], "url": "https://www.chess.com"}]}]}, {"type": "spacer", "height": 8}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 18, "children": [{"type": "text", "text": "10.3k \u00b7 100 left \u00b7 Gold Oct 1 \u00b7 7:38a", "fontSize": 10, "fontWeight": "regular", "color": "#9C7650", "align": "left", "lineLimit": 1, "width": 324}], "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1107,
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "updatedAt": "2026-09-30T15:39:55Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "root": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "radius": 12,
+  "background": {
+   "type": "gradient",
+   "angle": 120,
+   "from": "#FFF9F0",
+   "to": "#FFEFD8"
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 20,
+    "children": [
+     {
+      "type": "text",
+      "text": "WEDNESDAY \u00b7 TORNADO",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#8A5A28",
+      "align": "left",
+      "lineLimit": 1,
+      "width": 220
+     },
+     {
+      "type": "spacer",
+      "width": 0
+     },
+     {
+      "type": "text",
+      "text": "8:38a",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "color": "#B08A5E",
+      "align": "right",
+      "lineLimit": 1,
+      "width": 96
+     }
+    ],
+    "url": "googlegmail://"
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 118,
+      "height": 84,
+      "children": [
+       {
+        "type": "stack",
+        "direction": "vertical",
+        "width": 118,
+        "height": 38,
+        "radius": 10,
+        "padding": [
+         6,
+         10,
+         4,
+         10
+        ],
+        "background": {
+         "type": "gradient",
+         "angle": 135,
+         "from": "#C9E8EC",
+         "to": "#8FC9D3"
+        },
+        "children": [
+         {
+          "type": "text",
+          "text": "MAIL",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#1E6A76",
+          "align": "left",
+          "lineLimit": 1,
+          "width": 98
+         },
+         {
+          "type": "spacer",
+          "height": 2
+         },
+         {
+          "type": "text",
+          "text": "quiet \u00b7 0 new",
+          "fontSize": 11,
+          "fontWeight": "regular",
+          "color": "#0E2E35",
+          "align": "left",
+          "lineLimit": 1,
+          "width": 98
+         }
+        ],
+        "url": "googlegmail://"
+       },
+       {
+        "type": "spacer",
+        "height": 8
+       },
+       {
+        "type": "stack",
+        "direction": "vertical",
+        "width": 118,
+        "height": 38,
+        "radius": 10,
+        "padding": [
+         6,
+         10,
+         4,
+         10
+        ],
+        "background": {
+         "type": "gradient",
+         "angle": 135,
+         "from": "#DAD2F2",
+         "to": "#B3A1E4"
+        },
+        "children": [
+         {
+          "type": "text",
+          "text": "CHESS.COM",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#4A3B7A",
+          "align": "left",
+          "lineLimit": 1,
+          "width": 98
+         },
+         {
+          "type": "spacer",
+          "height": 2
+         },
+         {
+          "type": "text",
+          "text": "ends Oct 1",
+          "fontSize": 11,
+          "fontWeight": "regular",
+          "color": "#241B4A",
+          "align": "left",
+          "lineLimit": 1,
+          "width": 98
+         }
+        ],
+        "url": "https://www.chess.com"
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 84,
+      "height": 84,
+      "radius": 42,
+      "padding": [
+       8,
+       6,
+       8,
+       6
+      ],
+      "alignItems": "center",
+      "justifyContent": "center",
+      "background": {
+       "type": "gradient",
+       "angle": 150,
+       "from": "#F9CF6B",
+       "to": "#E89B3F"
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQ",
+        "fontSize": 8,
+        "fontWeight": "bold",
+        "color": "#8A5A12",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 72
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "10.3K",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "color": "#3A2410",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 72
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "100 left",
+        "fontSize": 10,
+        "fontWeight": "regular",
+        "color": "#3A2410",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 72
+       }
+      ],
+      "url": "https://www.youtube.com/@exitfrequency"
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 102,
+      "height": 84,
+      "radius": 12,
+      "padding": [
+       8,
+       8,
+       6,
+       8
+      ],
+      "alignItems": "center",
+      "justifyContent": "center",
+      "background": {
+       "type": "gradient",
+       "angle": 135,
+       "from": "#FFF4DE",
+       "to": "#FFE3B8"
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "99%",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "color": "#A86E2A",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 86
+       },
+       {
+        "type": "spacer",
+        "height": 3
+       },
+       {
+        "type": "text",
+        "text": "of 10.4K",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#7A5A28",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 86
+       },
+       {
+        "type": "spacer",
+        "height": 3
+       },
+       {
+        "type": "text",
+        "text": "gain +100",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#7A5A28",
+        "align": "center",
+        "lineLimit": 1,
+        "width": 86
+       }
+      ],
+      "url": "https://www.youtube.com/@exitfrequency"
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "10.3k \u00b7 100 left \u00b7 Gold Oct 1 \u00b7 8:38a",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#9C7650",
+      "align": "left",
+      "lineLimit": 1,
+      "width": 324
+     }
+    ],
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+   }
+  ]
+ }
+}
