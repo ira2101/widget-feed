@@ -1,5 +1,5 @@
 {
- "contentRevision": 1109,
+ "contentRevision": 1110,
  "mode": "native",
  "version": 5,
  "outerPadding": [
@@ -9,7 +9,7 @@
   8
  ],
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-09-30T17:39:38Z",
+ "updatedAt": "2026-09-30T18:40:08Z",
  "root": {
   "type": "stack",
   "direction": "vertical",
@@ -24,9 +24,9 @@
   "radius": 0,
   "background": {
    "type": "gradient",
-   "angle": 140,
-   "from": "#FFF8EC",
-   "to": "#FFE4C4"
+   "angle": 160,
+   "from": "#F4FAFF",
+   "to": "#DCECFB"
   },
   "children": [
    {
@@ -37,11 +37,11 @@
     "children": [
      {
       "type": "text",
-      "text": "WEDNESDAY \u00b7 TORNADO",
+      "text": "WEDNESDAY · TORNADO",
       "width": 220,
       "fontSize": 11,
       "fontWeight": "bold",
-      "color": "#8A5A12",
+      "color": "#4A5A6A",
       "align": "left",
       "lineLimit": 1
      },
@@ -51,11 +51,11 @@
      },
      {
       "type": "text",
-      "text": "10:39a",
+      "text": "11:40a",
       "width": 96,
       "fontSize": 11,
       "fontWeight": "regular",
-      "color": "#B98A3C",
+      "color": "#8A9AA8",
       "align": "right",
       "lineLimit": 1
      }
@@ -70,32 +70,31 @@
     "direction": "horizontal",
     "width": 324,
     "height": 84,
-    "padding": [
-     8,
-     10,
-     8,
-     10
-    ],
-    "radius": 12,
-    "background": {
-     "type": "gradient",
-     "angle": 150,
-     "from": "#2E2013",
-     "to": "#6B4217"
-    },
-    "url": "https://www.youtube.com/@exitfrequency",
     "children": [
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 140,
-      "height": 68,
-      "justifyContent": "center",
+      "width": 194,
+      "height": 84,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "radius": 12,
+      "background": {
+       "type": "gradient",
+       "angle": 150,
+       "from": "#0F3B46",
+       "to": "#1F6B6E"
+      },
+      "url": "https://www.youtube.com/@exitfrequency",
       "children": [
        {
         "type": "text",
         "text": "EXIT FREQUENCY",
-        "width": 140,
+        "width": 174,
         "fontSize": 9,
         "fontWeight": "bold",
         "color": "#F9CF6B",
@@ -104,12 +103,12 @@
        },
        {
         "type": "spacer",
-        "height": 4
+        "height": 3
        },
        {
         "type": "text",
         "text": "10.3K",
-        "width": 140,
+        "width": 174,
         "fontSize": 22,
         "fontWeight": "bold",
         "color": "#FFFFFF",
@@ -122,13 +121,40 @@
        },
        {
         "type": "text",
-        "text": "100 to go \u00b7 99%",
-        "width": 140,
+        "text": "100 to go · 99% of 10.4K",
+        "width": 174,
         "fontSize": 10,
         "fontWeight": "regular",
-        "color": "#F5E3C3",
+        "color": "#CFE8EA",
         "align": "left",
         "lineLimit": 1
+       },
+       {
+        "type": "spacer",
+        "height": 5
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 170,
+        "height": 6,
+        "radius": 3,
+        "background": {
+         "type": "solid",
+         "color": "#0B2E35"
+        },
+        "children": [
+         {
+          "type": "stack",
+          "width": 168,
+          "height": 6,
+          "radius": 3,
+          "background": {
+           "type": "solid",
+           "color": "#F9CF6B"
+          }
+         }
+        ]
        }
       ]
      },
@@ -139,338 +165,82 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 154,
-      "height": 68,
+      "width": 120,
+      "height": 84,
+      "padding": [
+       6,
+       8,
+       6,
+       8
+      ],
+      "radius": 12,
+      "background": {
+       "type": "gradient",
+       "angle": 150,
+       "from": "#F9CF6B",
+       "to": "#E89B3F"
+      },
       "justifyContent": "center",
-      "alignItems": "center",
       "children": [
        {
-        "type": "text",
-        "text": "ROAD TO 10.4K",
-        "width": 154,
-        "fontSize": 8,
-        "fontWeight": "bold",
-        "color": "#F9CF6B",
-        "align": "right",
-        "lineLimit": 1
+        "type": "stack",
+        "direction": "vertical",
+        "width": 104,
+        "height": 22,
+        "url": "googlegmail://",
+        "children": [
+         {
+          "type": "text",
+          "text": "MAIL",
+          "width": 104,
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#6B4A12",
+          "align": "left",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "quiet · 0 new",
+          "width": 104,
+          "fontSize": 10,
+          "fontWeight": "regular",
+          "color": "#3A2A10",
+          "align": "left",
+          "lineLimit": 1
+         }
+        ]
        },
        {
         "type": "spacer",
-        "height": 4
+        "height": 6
        },
        {
         "type": "stack",
-        "direction": "horizontal",
-        "width": 151,
-        "height": 56,
+        "direction": "vertical",
+        "width": 104,
+        "height": 32,
+        "url": "https://www.chess.com",
         "children": [
          {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 46
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 10,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
+          "type": "text",
+          "text": "CHESS.COM GOLD",
+          "width": 104,
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#6B4A12",
+          "align": "left",
+          "lineLimit": 1
          },
          {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 40
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 16,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 42
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 14,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 34
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 22,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#F9CF6B"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 36
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 20,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 28
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 28,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#F9CF6B"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 30
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 26,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 22
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 34,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#F9CF6B"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 24
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 32,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 14
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 42,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#F9CF6B"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 8
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 48,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#E8A84F"
-            }
-           }
-          ]
-         },
-         {
-          "type": "spacer",
-          "width": 5
-         },
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 8,
-          "height": 56,
-          "children": [
-           {
-            "type": "spacer",
-            "height": 2
-           },
-           {
-            "type": "stack",
-            "width": 8,
-            "height": 54,
-            "radius": 4,
-            "background": {
-             "type": "solid",
-             "color": "#FFE9B0"
-            }
-           }
-          ]
+          "type": "text",
+          "text": "ends Oct 1 · cancel",
+          "width": 104,
+          "fontSize": 9,
+          "fontWeight": "regular",
+          "color": "#3A2A10",
+          "align": "left",
+          "lineLimit": 1
          }
         ]
        }
@@ -490,11 +260,11 @@
     "children": [
      {
       "type": "text",
-      "text": "MAIL quiet \u00b7 2 new",
-      "width": 180,
+      "text": "100 left · Gold ends Oct 1",
+      "width": 200,
       "fontSize": 10,
       "fontWeight": "bold",
-      "color": "#8A5A12",
+      "color": "#4A5A6A",
       "align": "left",
       "lineLimit": 1
      },
@@ -504,11 +274,11 @@
      },
      {
       "type": "text",
-      "text": "Gold Oct 1 \u00b7 10:39a",
-      "width": 136,
+      "text": "11:40a",
+      "width": 116,
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "#B98A3C",
+      "color": "#8A9AA8",
       "align": "right",
       "lineLimit": 1
      }
