@@ -1,1 +1,280 @@
-{"contentRevision":1117,"mode":"native","version":5,"outerPadding":[8,8,8,8],"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-10-01T01:39:21Z","root":{"type":"stack","width":324,"height":138,"padding":[8,10,8,10],"cornerRadius":12,"background":{"type":"gradient","colors":["#1B2340","#2E2A52"],"direction":"top-bottom"},"children":[{"type":"stack","width":324,"height":20,"children":[{"type":"text","text":"WEDNESDAY · EVENING","width":216,"height":20,"fontSize":10,"fontWeight":"bold","color":"#D6CDEE","textAlign":"left","lineLimit":1},{"type":"spacer"},{"type":"text","text":"6:39pm","width":100,"height":20,"fontSize":10,"fontWeight":"regular","color":"#A99CC4","textAlign":"right","lineLimit":1}]},{"type":"spacer","height":8},{"type":"stack","width":324,"height":84,"cornerRadius":12,"padding":[10,12,10,12],"background":{"type":"gradient","colors":["#101B33","#26315E"],"direction":"top-bottom"},"children":[{"type":"stack","width":300,"height":64,"children":[{"type":"stack","width":141,"height":64,"children":[{"type":"text","text":"EXIT FREQUENCY","width":141,"height":12,"fontSize":10,"fontWeight":"bold","color":"#9BE8E0","textAlign":"left","lineLimit":1},{"type":"text","text":"10.3K","width":141,"height":26,"fontSize":24,"fontWeight":"bold","color":"#FFFFFF","textAlign":"left","lineLimit":1},{"type":"spacer","height":2},{"type":"text","text":"100 to go · 99% of 10.4K","width":141,"height":13,"fontSize":10,"fontWeight":"regular","color":"#D7F5F2","textAlign":"left","lineLimit":1}]},{"type":"spacer","width":8},{"type":"stack","width":151,"height":64,"children":[{"type":"text","text":"ROAD TO 10.4K","width":151,"height":12,"fontSize":10,"fontWeight":"bold","color":"#F9CF6B","textAlign":"left","lineLimit":1},{"type":"spacer","height":4},{"type":"stack","width":151,"height":48,"children":[{"type":"stack","width":8,"height":18,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":22,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":24,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":28,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":32,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":34,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":38,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":42,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":44,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":46,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":48,"cornerRadius":3,"background":{"type":"color","color":"#F9CF6B"}},{"type":"spacer","width":5},{"type":"stack","width":8,"height":48,"cornerRadius":3,"background":{"type":"color","color":"#FFE9B0"}}],"verticalAlignment":"bottom"}]}]}],"url":"https://www.youtube.com/@exitfrequency"},{"type":"spacer","height":8},{"type":"stack","width":324,"height":18,"children":[{"type":"text","text":"mail quiet","width":74,"height":18,"fontSize":10,"fontWeight":"regular","color":"#C4B8DC","textAlign":"left","lineLimit":1,"url":"googlegmail://"},{"type":"spacer"},{"type":"text","text":"100 to go · Gold Oct 1","width":160,"height":18,"fontSize":10,"fontWeight":"regular","color":"#C4B8DC","textAlign":"left","lineLimit":1,"url":"https://www.chess.com"},{"type":"spacer"},{"type":"text","text":"6:39pm","width":80,"height":18,"fontSize":10,"fontWeight":"regular","color":"#A99CC4","textAlign":"right","lineLimit":1}]}]}}
+{
+ "contentRevision": 1118,
+ "mode": "native",
+ "version": 5,
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-10-01T02:39:22Z",
+ "root": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "cornerRadius": 12,
+  "background": {
+   "type": "gradient",
+   "colors": [
+    "#141B2E",
+    "#232B4A"
+   ],
+   "direction": "top-bottom"
+  },
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 20,
+    "children": [
+     {
+      "type": "text",
+      "text": "WEDNESDAY \u00b7 EVENING",
+      "width": 216,
+      "height": 20,
+      "fontSize": 10,
+      "fontWeight": "bold",
+      "color": "#C9BEE4",
+      "textAlign": "left",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "7:38pm",
+      "width": 100,
+      "height": 20,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#9B90B8",
+      "textAlign": "right",
+      "lineLimit": 1
+     }
+    ],
+    "url": "googlegmail://"
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 84,
+    "cornerRadius": 12,
+    "padding": [
+     10,
+     12,
+     10,
+     12
+    ],
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#101B33",
+      "#26315E"
+     ],
+     "direction": "top-bottom"
+    },
+    "children": [
+     {
+      "type": "stack",
+      "width": 152,
+      "height": 64,
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "width": 152,
+        "height": 12,
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#F9CF6B",
+        "textAlign": "left",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "10.3K",
+        "width": 152,
+        "height": 26,
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "textAlign": "left",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer",
+        "height": 2
+       },
+       {
+        "type": "text",
+        "text": "100 to go \u00b7 99% of 10.4K",
+        "width": 152,
+        "height": 13,
+        "fontSize": 10,
+        "fontWeight": "regular",
+        "color": "#D7DCEC",
+        "textAlign": "left",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 6
+     },
+     {
+      "type": "stack",
+      "width": 6,
+      "height": 64,
+      "cornerRadius": 3,
+      "background": {
+       "type": "color",
+       "color": "#F9CF6B"
+      }
+     },
+     {
+      "type": "spacer",
+      "width": 6
+     },
+     {
+      "type": "stack",
+      "width": 130,
+      "height": 64,
+      "children": [
+       {
+        "type": "stack",
+        "width": 130,
+        "height": 30,
+        "children": [
+         {
+          "type": "text",
+          "text": "MAIL",
+          "width": 130,
+          "height": 12,
+          "fontSize": 10,
+          "fontWeight": "bold",
+          "color": "#9BE8E0",
+          "textAlign": "left",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "quiet \u00b7 13 new",
+          "width": 130,
+          "height": 14,
+          "fontSize": 11,
+          "fontWeight": "regular",
+          "color": "#FFFFFF",
+          "textAlign": "left",
+          "lineLimit": 1
+         }
+        ],
+        "url": "googlegmail://"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "stack",
+        "width": 130,
+        "height": 30,
+        "children": [
+         {
+          "type": "text",
+          "text": "CHESS.COM GOLD",
+          "width": 130,
+          "height": 12,
+          "fontSize": 10,
+          "fontWeight": "bold",
+          "color": "#D3B6F2",
+          "textAlign": "left",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "ends Oct 1 \u00b7 cancel?",
+          "width": 130,
+          "height": 14,
+          "fontSize": 11,
+          "fontWeight": "regular",
+          "color": "#FFFFFF",
+          "textAlign": "left",
+          "lineLimit": 1
+         }
+        ],
+        "url": "https://www.chess.com"
+       }
+      ]
+     }
+    ],
+    "url": "https://www.youtube.com/@exitfrequency"
+   },
+   {
+    "type": "spacer",
+    "height": 8
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "mail quiet",
+      "width": 74,
+      "height": 18,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#B7ABCF",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "url": "googlegmail://"
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "100 to go \u00b7 Gold Oct 1",
+      "width": 160,
+      "height": 18,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#B7ABCF",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "url": "https://www.chess.com"
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "7:38pm",
+      "width": 80,
+      "height": 18,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#9B90B8",
+      "textAlign": "right",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
