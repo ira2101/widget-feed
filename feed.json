@@ -1,7 +1,7 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1152,
+ "contentRevision": 1153,
  "outerPadding": [
   8,
   8,
@@ -9,7 +9,7 @@
   8
  ],
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-10-02T12:39:49Z",
+ "updatedAt": "2026-10-02T13:39:30Z",
  "root": {
   "type": "stack",
   "direction": "vertical",
@@ -24,9 +24,9 @@
   "cornerRadius": 14,
   "background": {
    "type": "gradient",
-   "angle": 130,
-   "from": "#2A1E45",
-   "to": "#0A0D1C"
+   "angle": 115,
+   "from": "#FBF2E6",
+   "to": "#F1DDBE"
   },
   "children": [
    {
@@ -40,10 +40,10 @@
       "text": "FRI OCT 2 \u00b7 TORNADO",
       "fontSize": 11,
       "fontWeight": "bold",
-      "color": "#EDEFF7",
+      "color": "#3A2C22",
       "align": "left",
       "lineLimit": 1,
-      "width": 216,
+      "width": 220,
       "height": 18
      },
      {
@@ -51,13 +51,13 @@
      },
      {
       "type": "text",
-      "text": "5:38a",
+      "text": "6:38a",
       "fontSize": 11,
       "fontWeight": "regular",
-      "color": "rgba(237,239,247,0.6)",
+      "color": "rgba(58,44,34,0.6)",
       "align": "right",
       "lineLimit": 1,
-      "width": 100,
+      "width": 96,
       "height": 18
      }
     ]
@@ -71,52 +71,36 @@
     "direction": "horizontal",
     "width": 324,
     "height": 84,
+    "cornerRadius": 12,
+    "padding": [
+     10,
+     12,
+     10,
+     12
+    ],
+    "background": {
+     "type": "gradient",
+     "angle": 110,
+     "from": "#E0703C",
+     "to": "#B83A5E"
+    },
     "children": [
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 112,
-      "height": 84,
-      "cornerRadius": 12,
-      "background": {
-       "type": "gradient",
-       "angle": 120,
-       "from": "#0E5B63",
-       "to": "#06282E"
-      },
+      "width": 150,
+      "height": 64,
       "children": [
        {
         "type": "text",
-        "text": "EXIT FREQ",
+        "text": "EXIT FREQUENCY",
         "fontSize": 9,
         "fontWeight": "bold",
-        "color": "rgba(255,255,255,0.7)",
+        "color": "rgba(255,255,255,0.75)",
         "align": "left",
         "lineLimit": 1,
-        "width": 92,
-        "height": 12
-       },
-       {
-        "type": "text",
-        "text": "10.3K",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "align": "left",
-        "lineLimit": 1,
-        "width": 92,
-        "height": 28
-       },
-       {
-        "type": "text",
-        "text": "100 TO GO",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#F9CF6B",
-        "align": "left",
-        "lineLimit": 1,
-        "width": 92,
-        "height": 14
+        "width": 150,
+        "height": 11
        },
        {
         "type": "spacer",
@@ -124,51 +108,80 @@
        },
        {
         "type": "text",
-        "text": "99% of 10.4K",
-        "fontSize": 10,
-        "fontWeight": "regular",
-        "color": "rgba(255,255,255,0.6)",
+        "text": "10.3K",
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
         "align": "left",
         "lineLimit": 1,
-        "width": 92,
+        "width": 150,
+        "height": 28
+       },
+       {
+        "type": "spacer",
+        "height": 2
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#F9CF6B",
+        "align": "left",
+        "lineLimit": 1,
+        "width": 150,
         "height": 14
+       },
+       {
+        "type": "spacer",
+        "height": 3
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 140,
+        "height": 5,
+        "cornerRadius": 3,
+        "background": {
+         "type": "solid",
+         "color": "rgba(255,255,255,0.25)"
+        },
+        "children": [
+         {
+          "type": "stack",
+          "width": 139,
+          "height": 5,
+          "cornerRadius": 3,
+          "background": {
+           "type": "solid",
+           "color": "#F9CF6B"
+          }
+         }
+        ]
        }
-      ],
-      "padding": [
-       8,
-       10,
-       8,
-       10
       ],
       "url": "https://www.youtube.com/@exitfrequency"
      },
      {
       "type": "spacer",
-      "width": 8
+      "width": 14
      },
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 84,
-      "height": 84,
-      "cornerRadius": 42,
-      "background": {
-       "type": "gradient",
-       "angle": 90,
-       "from": "#F9CF6B",
-       "to": "#E89B3F"
-      },
+      "width": 128,
+      "height": 64,
       "children": [
        {
         "type": "text",
-        "text": "99%",
-        "fontSize": 24,
+        "text": "MAIL",
+        "fontSize": 9,
         "fontWeight": "bold",
-        "color": "#3A2C14",
-        "align": "center",
+        "color": "rgba(255,255,255,0.75)",
+        "align": "left",
         "lineLimit": 1,
-        "width": 66,
-        "height": 30
+        "width": 128,
+        "height": 11
        },
        {
         "type": "spacer",
@@ -176,14 +189,29 @@
        },
        {
         "type": "text",
-        "text": "OF 10.4K",
-        "fontSize": 9,
+        "text": "20 NEW",
+        "fontSize": 18,
         "fontWeight": "bold",
-        "color": "rgba(58,44,20,0.8)",
-        "align": "center",
+        "color": "#FFFFFF",
+        "align": "left",
         "lineLimit": 1,
-        "width": 66,
-        "height": 12
+        "width": 128,
+        "height": 22
+       },
+       {
+        "type": "spacer",
+        "height": 2
+       },
+       {
+        "type": "text",
+        "text": "QUIET INBOX",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#F9CF6B",
+        "align": "left",
+        "lineLimit": 1,
+        "width": 128,
+        "height": 13
        },
        {
         "type": "spacer",
@@ -191,97 +219,17 @@
        },
        {
         "type": "text",
-        "text": "10.3K",
-        "fontSize": 12,
-        "fontWeight": "bold",
-        "color": "#3A2C14",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 66,
-        "height": 16
-       }
-      ],
-      "padding": [
-       8,
-       9,
-       8,
-       9
-      ],
-      "url": "https://www.youtube.com/@exitfrequency"
-     },
-     {
-      "type": "spacer",
-      "width": 8
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 112,
-      "height": 84,
-      "cornerRadius": 12,
-      "background": {
-       "type": "gradient",
-       "angle": 120,
-       "from": "#5B3A6B",
-       "to": "#241430"
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "MAIL",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "rgba(255,255,255,0.7)",
-        "align": "left",
-        "lineLimit": 1,
-        "width": 92,
-        "height": 12
-       },
-       {
-        "type": "text",
-        "text": "11 NEW",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "align": "left",
-        "lineLimit": 1,
-        "width": 92,
-        "height": 28
-       },
-       {
-        "type": "text",
-        "text": "quiet inbox",
-        "fontSize": 10,
-        "fontWeight": "regular",
-        "color": "rgba(255,255,255,0.8)",
-        "align": "left",
-        "lineLimit": 1,
-        "width": 92,
-        "height": 14
-       },
-       {
-        "type": "spacer",
-        "height": 2
-       },
-       {
-        "type": "text",
-        "text": "trades ok",
+        "text": "trades + saturn",
         "fontSize": 10,
         "fontWeight": "regular",
         "color": "rgba(255,255,255,0.6)",
         "align": "left",
         "lineLimit": 1,
-        "width": 92,
-        "height": 14
+        "width": 128,
+        "height": 12
        }
       ],
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "url": "googlegmail://"
+      "url": "https://mail.google.com"
      }
     ]
    },
@@ -297,27 +245,13 @@
     "children": [
      {
       "type": "text",
-      "text": "exit 10.3K \u00b7 100 to go \u00b7 11 NEW mail",
+      "text": "exit 10.3k \u00b7 100 to go \u00b7 20 new mail",
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "rgba(237,239,247,0.6)",
+      "color": "rgba(58,44,34,0.6)",
       "align": "left",
       "lineLimit": 1,
-      "width": 224,
-      "height": 16
-     },
-     {
-      "type": "spacer"
-     },
-     {
-      "type": "text",
-      "text": "5:38a",
-      "fontSize": 10,
-      "fontWeight": "regular",
-      "color": "rgba(237,239,247,0.6)",
-      "align": "right",
-      "lineLimit": 1,
-      "width": 96,
+      "width": 324,
       "height": 16
      }
     ]
