@@ -1,7 +1,7 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1165,
+ "contentRevision": 1166,
  "outerPadding": [
   8,
   8,
@@ -9,7 +9,7 @@
   8
  ],
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-10-03T01:39:57Z",
+ "updatedAt": "2026-10-03T02:39:47Z",
  "root": {
   "type": "stack",
   "direction": "vertical",
@@ -25,8 +25,8 @@
   "background": {
    "type": "gradient",
    "angle": 135,
-   "from": "#16283F",
-   "to": "#070D1A"
+   "from": "#2A1E45",
+   "to": "#080C18"
   },
   "children": [
    {
@@ -34,34 +34,34 @@
     "direction": "horizontal",
     "width": 324,
     "height": 18,
-    "url": "googlegmail://",
+    "padding": [
+     0,
+     4,
+     0,
+     4
+    ],
     "children": [
      {
       "type": "text",
       "text": "FRI OCT 2 TORNADO",
       "fontSize": 11,
       "fontWeight": "bold",
-      "color": "#E8EEF7",
-      "align": "left",
-      "lineLimit": 1,
-      "width": 216,
-      "height": 18
+      "color": "#C7D0F2",
+      "textAlign": "left"
      },
      {
       "type": "spacer"
      },
      {
       "type": "text",
-      "text": "6:39p",
+      "text": "7:38p",
       "fontSize": 11,
-      "fontWeight": "regular",
-      "color": "rgba(232,238,247,0.55)",
-      "align": "right",
-      "lineLimit": 1,
-      "width": 100,
-      "height": 18
+      "fontWeight": "bold",
+      "color": "#C7D0F2",
+      "textAlign": "right"
      }
-    ]
+    ],
+    "url": "googlegmail://"
    },
    {
     "type": "spacer",
@@ -76,145 +76,56 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 104,
+      "width": 100,
       "height": 84,
-      "alignItems": "center",
-      "justifyContent": "center",
       "padding": [
        6,
-       10,
-       6,
-       10
+       8,
+       4,
+       8
       ],
-      "cornerRadius": 14,
+      "cornerRadius": 12,
       "background": {
        "type": "gradient",
        "angle": 135,
-       "from": "#1D2C4E",
-       "to": "#0C1328"
+       "from": "#0E5B63",
+       "to": "#06282E"
       },
-      "url": "googlegmail://",
       "children": [
        {
         "type": "text",
-        "text": "MAIL",
+        "text": "EXIT FREQ",
         "fontSize": 9,
         "fontWeight": "bold",
-        "color": "#7FD4C1",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 84,
-        "height": 11
-       },
-       {
-        "type": "spacer",
-        "height": 3
+        "color": "#BFE9EE",
+        "textAlign": "center"
        },
        {
         "type": "text",
-        "text": "21",
-        "fontSize": 20,
+        "text": "10.3K",
+        "fontSize": 18,
         "fontWeight": "bold",
         "color": "#FFFFFF",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 84,
-        "height": 24
-       },
-       {
-        "type": "spacer",
-        "height": 2
+        "textAlign": "center"
        },
        {
         "type": "text",
-        "text": "NEW TODAY",
+        "text": "100 TO GO",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FFD97A",
+        "textAlign": "center"
+       },
+       {
+        "type": "text",
+        "text": "99% OF 10.4K",
         "fontSize": 9,
         "fontWeight": "regular",
-        "color": "rgba(232,238,247,0.6)",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 84,
-        "height": 11
+        "color": "#9FD4DC",
+        "textAlign": "center"
        }
-      ]
-     },
-     {
-      "type": "spacer",
-      "width": 8
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 104,
-      "height": 84,
-      "alignItems": "center",
-      "justifyContent": "center",
-      "children": [
-       {
-        "type": "circle",
-        "radius": 42,
-        "background": {
-         "type": "gradient",
-         "angle": 135,
-         "from": "#2FBFA9",
-         "to": "#1456C9"
-        },
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 84,
-          "height": 84,
-          "alignItems": "center",
-          "justifyContent": "center",
-          "children": [
-           {
-            "type": "text",
-            "text": "EXIT",
-            "fontSize": 8,
-            "fontWeight": "bold",
-            "color": "rgba(255,255,255,0.7)",
-            "align": "center",
-            "lineLimit": 1,
-            "width": 70,
-            "height": 10
-           },
-           {
-            "type": "spacer",
-            "height": 2
-           },
-           {
-            "type": "text",
-            "text": "10.3K",
-            "fontSize": 18,
-            "fontWeight": "bold",
-            "color": "#FFFFFF",
-            "align": "center",
-            "lineLimit": 1,
-            "width": 70,
-            "height": 22
-           },
-           {
-            "type": "spacer",
-            "height": 2
-           },
-           {
-            "type": "text",
-            "text": "100 TO GO",
-            "fontSize": 8,
-            "fontWeight": "bold",
-            "color": "rgba(255,255,255,0.85)",
-            "align": "center",
-            "lineLimit": 1,
-            "width": 70,
-            "height": 10
-           }
-          ]
-         }
-        ]
-       }
-      ]
+      ],
+      "url": "https://www.youtube.com/@exitfrequency"
      },
      {
       "type": "spacer",
@@ -225,65 +136,112 @@
       "direction": "vertical",
       "width": 100,
       "height": 84,
-      "alignItems": "center",
-      "justifyContent": "center",
       "padding": [
        6,
-       10,
-       6,
-       10
+       8,
+       4,
+       8
       ],
-      "cornerRadius": 14,
+      "cornerRadius": 12,
       "background": {
        "type": "gradient",
        "angle": 135,
-       "from": "#1D2C4E",
-       "to": "#0C1328"
+       "from": "#8A5A1E",
+       "to": "#4A2E0E"
       },
-      "url": "https://www.zillow.com",
+      "children": [
+       {
+        "type": "text",
+        "text": "MAIL",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#F6DFB4",
+        "textAlign": "center"
+       },
+       {
+        "type": "text",
+        "text": "NEW",
+        "fontSize": 18,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "textAlign": "center"
+       },
+       {
+        "type": "text",
+        "text": "RENT PAID",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FFE08A",
+        "textAlign": "center"
+       },
+       {
+        "type": "text",
+        "text": "6:17p CONFIRM",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#EBC98F",
+        "textAlign": "center"
+       }
+      ],
+      "url": "googlegmail://"
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 108,
+      "height": 84,
+      "padding": [
+       6,
+       8,
+       4,
+       8
+      ],
+      "cornerRadius": 12,
+      "background": {
+       "type": "gradient",
+       "angle": 135,
+       "from": "#5A3A7E",
+       "to": "#2A1E45"
+      },
       "children": [
        {
         "type": "text",
         "text": "ZILLOW",
         "fontSize": 9,
         "fontWeight": "bold",
-        "color": "#7FD4C1",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 80,
-        "height": 11
-       },
-       {
-        "type": "spacer",
-        "height": 3
+        "color": "#D9C6F5",
+        "textAlign": "center"
        },
        {
         "type": "text",
-        "text": "10",
-        "fontSize": 20,
+        "text": "10 RENTALS",
+        "fontSize": 12,
         "fontWeight": "bold",
         "color": "#FFFFFF",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 80,
-        "height": 24
-       },
-       {
-        "type": "spacer",
-        "height": 2
+        "textAlign": "center"
        },
        {
         "type": "text",
-        "text": "SF RENTALS",
+        "text": "SF 94109",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#C9B4EE",
+        "textAlign": "center"
+       },
+       {
+        "type": "text",
+        "text": "4:45p NEW",
         "fontSize": 9,
         "fontWeight": "regular",
-        "color": "rgba(232,238,247,0.6)",
-        "align": "center",
-        "lineLimit": 1,
-        "width": 80,
-        "height": 11
+        "color": "#B9A3E0",
+        "textAlign": "center"
        }
-      ]
+      ],
+      "url": "googlegmail://"
      }
     ]
    },
@@ -296,20 +254,34 @@
     "direction": "horizontal",
     "width": 324,
     "height": 16,
-    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "padding": [
+     0,
+     4,
+     0,
+     4
+    ],
     "children": [
      {
       "type": "text",
-      "text": "EXIT 10.3K 100 TO GO \u00b7 21 NEW MAIL",
+      "text": "10.3k 100 to go rent paid",
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "rgba(232,238,247,0.55)",
-      "align": "center",
-      "lineLimit": 1,
-      "width": 324,
-      "height": 16
+      "color": "#9AA4C8",
+      "textAlign": "left"
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "tornado",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#9AA4C8",
+      "textAlign": "right"
      }
-    ]
+    ],
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
    }
   ]
  }
