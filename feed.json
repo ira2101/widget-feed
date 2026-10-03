@@ -1,7 +1,7 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1168,
+ "contentRevision": 1169,
  "outerPadding": [
   8,
   8,
@@ -9,7 +9,7 @@
   8
  ],
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-10-03T04:40:03Z",
+ "updatedAt": "2026-10-03T05:39:29Z",
  "root": {
   "type": "stack",
   "direction": "vertical",
@@ -25,8 +25,8 @@
   "background": {
    "type": "gradient",
    "angle": 135,
-   "from": "#141C38",
-   "to": "#05081A"
+   "from": "#0B1030",
+   "to": "#05070F"
   },
   "children": [
    {
@@ -54,7 +54,7 @@
      },
      {
       "type": "text",
-      "text": "9:38p",
+      "text": "10:38p",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#C7D0F2",
@@ -88,114 +88,8 @@
       "background": {
        "type": "gradient",
        "angle": 135,
-       "from": "#0E7C8C",
-       "to": "#06282E"
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQ",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "#EAF2FF",
-        "textAlign": "left"
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "10.3K",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "textAlign": "left"
-       },
-       {
-        "type": "text",
-        "text": "100 to go",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#D9E2F5",
-        "textAlign": "left"
-       }
-      ],
-      "url": "https://www.youtube.com/@exitfrequency"
-     },
-     {
-      "type": "spacer",
-      "width": 8
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 100,
-      "height": 84,
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "cornerRadius": 12,
-      "background": {
-       "type": "gradient",
-       "angle": 135,
-       "from": "#3A4ED8",
-       "to": "#141B52"
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "MAIL",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "#EAF2FF",
-        "textAlign": "left"
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "2 NEW",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "textAlign": "left"
-       },
-       {
-        "type": "text",
-        "text": "last hour",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#D9E2F5",
-        "textAlign": "left"
-       }
-      ],
-      "url": "googlegmail://"
-     },
-     {
-      "type": "spacer",
-      "width": 8
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 108,
-      "height": 84,
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "cornerRadius": 12,
-      "background": {
-       "type": "gradient",
-       "angle": 135,
-       "from": "#B06A1E",
-       "to": "#4A2E0E"
+       "from": "#0E6E5A",
+       "to": "#06231D"
       },
       "children": [
        {
@@ -227,6 +121,112 @@
        }
       ],
       "url": "googlegmail://"
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 108,
+      "height": 84,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "circle",
+        "radius": 42,
+        "background": {
+         "type": "gradient",
+         "angle": 120,
+         "from": "#7B61FF",
+         "to": "#4A2D8F"
+        },
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+         {
+          "type": "stack",
+          "direction": "vertical",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+           {
+            "type": "text",
+            "text": "99%",
+            "fontSize": 17,
+            "fontWeight": "bold",
+            "color": "#FFFFFF",
+            "textAlign": "center",
+            "lineLimit": 1
+           },
+           {
+            "type": "text",
+            "text": "OF 10.4K",
+            "fontSize": 8,
+            "fontWeight": "regular",
+            "color": "#D8CCFF",
+            "textAlign": "center",
+            "lineLimit": 1
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 100,
+      "height": 84,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "cornerRadius": 12,
+      "background": {
+       "type": "gradient",
+       "angle": 135,
+       "from": "#B06A1E",
+       "to": "#4A2E0E"
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "KARMA",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#EAF2FF",
+        "textAlign": "left"
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "SCORE",
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "textAlign": "left"
+       },
+       {
+        "type": "text",
+        "text": "12:26p chg",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#D9E2F5",
+        "textAlign": "left"
+       }
+      ],
+      "url": "googlegmail://"
      }
     ]
    },
@@ -248,7 +248,7 @@
     "children": [
      {
       "type": "text",
-      "text": "10.3k exit \u00b7 2 new mail \u00b7 quince",
+      "text": "99% exit \u00b7 quince nudge \u00b7 karma",
       "fontSize": 10,
       "fontWeight": "regular",
       "color": "#9AA4C8",
