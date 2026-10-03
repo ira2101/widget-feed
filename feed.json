@@ -1,1 +1,201 @@
-{"mode": "native", "version": 5, "contentRevision": 1185, "outerPadding": [8, 8, 8, 8], "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "updatedAt": "2026-10-03T21:39:49Z", "root": {"type": "stack", "width": 324, "height": 138, "direction": "vertical", "padding": [8, 10, 8, 10], "cornerRadius": 16, "background": {"type": "gradient", "from": "#2E3A5F", "to": "#12162E", "angle": 135}, "children": [{"type": "stack", "width": 324, "height": 18, "direction": "horizontal", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "children": [{"type": "text", "text": "SAT OCT 3 TORNADO", "width": 220, "height": 18, "fontSize": 11, "fontWeight": "bold", "color": "#F5F7FF", "align": "left", "lineLimit": 1}, {"type": "spacer"}, {"type": "text", "text": "2:39p", "width": 96, "height": 18, "fontSize": 11, "fontWeight": "regular", "color": "rgba(245,247,255,0.62)", "align": "right", "lineLimit": 1}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 84, "direction": "vertical", "children": [{"type": "stack", "width": 324, "height": 37, "direction": "vertical", "cornerRadius": 12, "background": {"type": "gradient", "from": "#1FB3A6", "to": "#0B6E6A", "angle": 135}, "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "spacer", "height": 6}, {"type": "text", "text": "EXIT FREQUENCY 10.3K - 100 TO GO", "width": 300, "height": 16, "fontSize": 12, "fontWeight": "bold", "color": "#FFFFFF", "align": "center", "lineLimit": 1}, {"type": "spacer", "height": 4}, {"type": "stack", "width": 296, "height": 6, "direction": "horizontal", "cornerRadius": 3, "background": {"type": "color", "color": "rgba(255,255,255,0.28)"}, "children": [{"type": "stack", "width": 293, "height": 6, "cornerRadius": 3, "background": {"type": "color", "color": "#FFD166"}}, {"type": "spacer"}]}, {"type": "spacer", "height": 5}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 37, "direction": "vertical", "cornerRadius": 12, "background": {"type": "gradient", "from": "#8A5A1E", "to": "#5C3B10", "angle": 135}, "url": "googlegmail://", "children": [{"type": "spacer", "height": 5}, {"type": "text", "text": "QUINCE POLO $42 - IN BAG", "width": 300, "height": 14, "fontSize": 11, "fontWeight": "bold", "color": "#FFF6E8", "align": "center", "lineLimit": 1}, {"type": "text", "text": "AMEX AUTOPAY REMINDER 1:34P", "width": 300, "height": 11, "fontSize": 8, "fontWeight": "regular", "color": "rgba(255,246,232,0.72)", "align": "center", "lineLimit": 1}, {"type": "spacer", "height": 7}]}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 16, "direction": "horizontal", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "children": [{"type": "text", "text": "10.3K - 100 TO GO - POLO $42 IN BAG - AMEX AUTOPAY", "width": 324, "height": 16, "fontSize": 9, "fontWeight": "regular", "color": "rgba(245,247,255,0.62)", "align": "center", "lineLimit": 1}]}]}}
+{
+  "mode": "native",
+  "version": 5,
+  "contentRevision": 1186,
+  "outerPadding": [
+    8,
+    8,
+    8,
+    8
+  ],
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "updatedAt": "2026-10-03T22:39:12Z",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "direction": "vertical",
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "cornerRadius": 16,
+    "background": {
+      "type": "gradient",
+      "from": "#2A1740",
+      "to": "#0D0918",
+      "angle": 135
+    },
+    "children": [
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 18,
+        "direction": "horizontal",
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "SAT OCT 3 TORNADO",
+            "width": 220,
+            "height": 18,
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#F5EFFF",
+            "align": "left",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "3:38p",
+            "width": 96,
+            "height": 18,
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "rgba(245,239,255,0.6)",
+            "align": "right",
+            "lineLimit": 1
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 84,
+        "direction": "vertical",
+        "padding": [
+          10,
+          14,
+          10,
+          14
+        ],
+        "cornerRadius": 12,
+        "background": {
+          "type": "gradient",
+          "from": "#F0973C",
+          "to": "#A34A1D",
+          "angle": 135
+        },
+        "url": "googlegmail://",
+        "children": [
+          {
+            "type": "text",
+            "text": "QUINCE POLO $42 - ENTER CARD BY HAND",
+            "width": 296,
+            "height": 16,
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "color": "#2B1408",
+            "align": "center",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer",
+            "height": 6
+          },
+          {
+            "type": "stack",
+            "width": 296,
+            "height": 8,
+            "direction": "horizontal",
+            "cornerRadius": 4,
+            "background": {
+              "type": "color",
+              "color": "rgba(43,20,8,0.22)"
+            },
+            "children": [
+              {
+                "type": "stack",
+                "width": 293,
+                "height": 8,
+                "cornerRadius": 4,
+                "background": {
+                  "type": "gradient",
+                  "from": "#FFF6E8",
+                  "to": "#FFE0B8",
+                  "angle": 90
+                }
+              },
+              {
+                "type": "spacer"
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "height": 6
+          },
+          {
+            "type": "text",
+            "text": "STRIPE LINK FAILED 3X - AMEX AUTOPAY 1:34P",
+            "width": 296,
+            "height": 12,
+            "fontSize": 9,
+            "fontWeight": "regular",
+            "color": "#3A1C0A",
+            "align": "center",
+            "lineLimit": 1
+          },
+          {
+            "type": "text",
+            "text": "EXIT 10.3K - 100 TO GO",
+            "width": 296,
+            "height": 12,
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "color": "#2B1408",
+            "align": "center",
+            "lineLimit": 1
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 16,
+        "direction": "horizontal",
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+          {
+            "type": "text",
+            "text": "EXIT FREQUENCY 10.3K",
+            "width": 210,
+            "height": 16,
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#FFD166",
+            "align": "left",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "100 TO GO -> YT",
+            "width": 106,
+            "height": 16,
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "rgba(245,239,255,0.75)",
+            "align": "right",
+            "lineLimit": 1
+          }
+        ]
+      }
+    ]
+  }
+}
