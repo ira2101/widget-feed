@@ -1,1 +1,235 @@
-{"mode": "native", "version": 5, "contentRevision": 1189, "updatedAt": "2026-10-04T01:38:18Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "widget": {"type": "stack", "direction": "vertical", "width": 324, "height": 138, "padding": [8, 10, 8, 10], "children": [{"type": "stack", "direction": "horizontal", "width": 324, "height": 18, "children": [{"type": "text", "text": "SAT OCT 3 \u00b7 TORNADO", "width": 200, "height": 18, "fontSize": 9, "fontWeight": "bold", "color": "#EAF0FF", "align": "left", "lineLimit": 1}, {"type": "spacer", "width": 94}, {"type": "text", "text": "6:38p", "width": 30, "height": 18, "fontSize": 9, "fontWeight": "regular", "color": "#9AA7C7", "align": "right", "lineLimit": 1}]}, {"type": "spacer", "height": 10}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 84, "cornerRadius": 12, "background": {"type": "gradient", "from": "#232B55", "to": "#10152E", "angle": 135}, "padding": [10, 14, 10, 14], "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "stack", "direction": "vertical", "width": 186, "height": 64, "children": [{"type": "text", "text": "EXIT FREQUENCY", "width": 186, "height": 11, "fontSize": 9, "fontWeight": "bold", "color": "#9FB2E8", "align": "left", "lineLimit": 1}, {"type": "text", "text": "10.3K", "width": 186, "height": 28, "fontSize": 24, "fontWeight": "bold", "color": "#FFFFFF", "align": "left", "lineLimit": 1}, {"type": "spacer", "height": 2}, {"type": "stack", "direction": "horizontal", "width": 186, "height": 6, "cornerRadius": 3, "background": "rgba(255,255,255,0.16)", "children": [{"type": "stack", "width": 184, "height": 6, "cornerRadius": 3, "background": {"type": "gradient", "from": "#FFD18F", "to": "#FF9A5C", "angle": 0}}, {"type": "spacer", "width": 2}]}, {"type": "spacer", "height": 4}, {"type": "text", "text": "99% THERE", "width": 186, "height": 13, "fontSize": 9, "fontWeight": "bold", "color": "#FFD18F", "align": "left", "lineLimit": 1}]}, {"type": "spacer", "width": 6}, {"type": "stack", "direction": "vertical", "width": 104, "height": 64, "children": [{"type": "text", "text": "TONIGHT", "width": 104, "height": 11, "fontSize": 9, "fontWeight": "bold", "color": "#9FB2E8", "align": "center", "lineLimit": 1}, {"type": "stack", "direction": "horizontal", "width": 104, "height": 44, "children": [{"type": "spacer", "width": 6}, {"type": "stack", "direction": "horizontal", "width": 92, "height": 44, "children": [{"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 30}, {"type": "stack", "width": 8, "height": 14, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 20}, {"type": "stack", "width": 8, "height": 24, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 8}, {"type": "stack", "width": 8, "height": 36, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 24}, {"type": "stack", "width": 8, "height": 20, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 2}, {"type": "stack", "width": 8, "height": 42, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 14}, {"type": "stack", "width": 8, "height": 30, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 6}, {"type": "stack", "width": 8, "height": 38, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 8, "height": 44, "children": [{"type": "spacer", "height": 26}, {"type": "stack", "width": 8, "height": 18, "cornerRadius": 4, "background": {"type": "gradient", "from": "#8FA2FF", "to": "#5B6FE0", "angle": 90}}]}]}, {"type": "spacer", "width": 6}]}, {"type": "text", "text": "100 TO GO", "width": 104, "height": 9, "fontSize": 9, "fontWeight": "bold", "color": "#FFD18F", "align": "center", "lineLimit": 1}]}]}, {"type": "spacer", "height": 10}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 16, "children": [{"type": "text", "text": "EXIT FREQUENCY \u00b7 YOUTUBE", "width": 200, "height": 16, "fontSize": 8, "fontWeight": "regular", "color": "#9AA7C7", "align": "left", "lineLimit": 1}, {"type": "spacer", "width": 94}, {"type": "text", "text": "\u2192 YT", "width": 30, "height": 16, "fontSize": 8, "fontWeight": "regular", "color": "#9AA7C7", "align": "right", "lineLimit": 1}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1190,
+ "updatedAt": "2026-10-04T02:39:26Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "widget": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "SAT OCT 3 \u00b7 TORNADO",
+      "width": 200,
+      "height": 18,
+      "fontSize": 9,
+      "fontWeight": "bold",
+      "color": "#EAF0FF",
+      "align": "left",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer",
+      "width": 94
+     },
+     {
+      "type": "text",
+      "text": "7:39p",
+      "width": 30,
+      "height": 18,
+      "fontSize": 9,
+      "fontWeight": "regular",
+      "color": "#9AA7C7",
+      "align": "right",
+      "lineLimit": 1
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "cornerRadius": 12,
+    "background": {
+     "type": "gradient",
+     "from": "#232B55",
+     "to": "#10152E",
+     "angle": 135
+    },
+    "padding": [
+     6,
+     12,
+     6,
+     12
+    ],
+    "url": "https://www.youtube.com/@exitfrequency",
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 96,
+      "height": 72,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "text",
+        "text": "SUBSCRIBERS",
+        "width": 96,
+        "height": 11,
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#9FB2E8",
+        "align": "center",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "10.3K",
+        "width": 96,
+        "height": 26,
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "align": "center",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 108,
+      "height": 72,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "stack",
+        "width": 56,
+        "height": 56,
+        "cornerRadius": 28,
+        "background": {
+         "type": "gradient",
+         "from": "#8FA2FF",
+         "to": "#5B6FE0",
+         "angle": 90
+        },
+        "alignItems": "center",
+        "justifyContent": "center",
+        "children": [
+         {
+          "type": "text",
+          "text": "99%",
+          "width": 56,
+          "height": 18,
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "color": "#FFFFFF",
+          "align": "center",
+          "lineLimit": 1
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "width": 108,
+        "height": 10,
+        "fontSize": 8,
+        "fontWeight": "bold",
+        "color": "#FFD18F",
+        "align": "center",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 96,
+      "height": 72,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "text",
+        "text": "TO GO",
+        "width": 96,
+        "height": 11,
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#9FB2E8",
+        "align": "center",
+        "lineLimit": 1
+       },
+       {
+        "type": "text",
+        "text": "100",
+        "width": 96,
+        "height": 26,
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "color": "#FFD18F",
+        "align": "center",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 16,
+    "children": [
+     {
+      "type": "text",
+      "text": "EXIT FREQUENCY \u00b7 YOUTUBE",
+      "width": 200,
+      "height": 16,
+      "fontSize": 8,
+      "fontWeight": "regular",
+      "color": "#9AA7C7",
+      "align": "left",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer",
+      "width": 94
+     },
+     {
+      "type": "text",
+      "text": "\u2192 YT",
+      "width": 30,
+      "height": 16,
+      "fontSize": 8,
+      "fontWeight": "regular",
+      "color": "#9AA7C7",
+      "align": "right",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
