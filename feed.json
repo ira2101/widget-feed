@@ -1,1 +1,255 @@
-{"mode":"native","version":5,"outerPadding":[8,8,8,8],"contentRevision":1205,"updatedAt":"2026-10-04T17:39:16Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","widget":{"type":"stack","direction":"vertical","width":324,"height":138,"padding":[8,10,8,10],"cornerRadius":16,"background":{"type":"gradient","from":"#101E33","to":"#060B16","angle":135},"children":[{"type":"stack","direction":"horizontal","width":324,"height":18,"children":[{"type":"text","text":"SUN OCT 4 \u00b7 TORNADO","width":220,"height":18,"fontSize":11,"fontWeight":"bold","color":"#FFFFFF","align":"left","lineLimit":1},{"type":"spacer","width":64},{"type":"text","text":"10:38a","width":40,"height":18,"fontSize":11,"fontWeight":"regular","color":"rgba(255,255,255,0.55)","align":"right","lineLimit":1}]},{"type":"spacer","height":10},{"type":"stack","direction":"vertical","width":324,"height":84,"children":[{"type":"stack","direction":"vertical","width":324,"height":38,"cornerRadius":12,"padding":[8,12,8,12],"background":{"type":"gradient","from":"#0E5A52","to":"#08332F","angle":135},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"stack","direction":"horizontal","width":300,"height":16,"children":[{"type":"text","text":"EXIT FREQUENCY","width":180,"height":12,"fontSize":8,"fontWeight":"bold","color":"#8FD8CE","align":"left","lineLimit":1},{"type":"spacer","width":20},{"type":"text","text":"10.3K SUBS","width":100,"height":12,"fontSize":9,"fontWeight":"bold","color":"#8FD8CE","align":"right","lineLimit":1}]},{"type":"stack","direction":"horizontal","width":300,"height":14,"children":[{"type":"text","text":"100 TO GO","width":180,"height":12,"fontSize":10,"fontWeight":"bold","color":"#FFFFFF","align":"left","lineLimit":1},{"type":"spacer","width":20},{"type":"text","text":"99% THERE","width":100,"height":12,"fontSize":10,"fontWeight":"bold","color":"#F2C94C","align":"right","lineLimit":1}]}]},{"type":"spacer","height":8},{"type":"stack","direction":"vertical","width":324,"height":38,"cornerRadius":12,"padding":[8,12,8,12],"background":{"type":"gradient","from":"#F5B54E","to":"#C96E1F","angle":135},"url":"https://www.quince.com","children":[{"type":"stack","direction":"horizontal","width":300,"height":16,"children":[{"type":"text","text":"QUINCE POLO $42","width":150,"height":12,"fontSize":9,"fontWeight":"bold","color":"#4A2808","align":"left","lineLimit":1},{"type":"spacer","width":20},{"type":"text","text":"ENTER CARD BY HAND","width":130,"height":12,"fontSize":9,"fontWeight":"bold","color":"#4A2808","align":"right","lineLimit":1}]},{"type":"stack","direction":"horizontal","width":300,"height":14,"children":[{"type":"text","text":"LAST CALL 6:53A","width":150,"height":12,"fontSize":9,"fontWeight":"bold","color":"#4A2808","align":"left","lineLimit":1},{"type":"spacer","width":20},{"type":"text","text":"SUNDAY FOOTBALL","width":130,"height":12,"fontSize":9,"fontWeight":"bold","color":"#4A2808","align":"right","lineLimit":1}]}]}]},{"type":"spacer","height":10},{"type":"stack","direction":"horizontal","width":324,"height":16,"children":[{"type":"text","text":"10.3k subs \u00b7 100 to go \u00b7 polo $42 by hand","width":324,"height":16,"fontSize":10,"fontWeight":"regular","color":"rgba(255,255,255,0.65)","align":"center","lineLimit":1,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}]}]}}
+{
+ "contentRevision": 1206,
+ "mode": "native",
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "updatedAt": "2026-10-04T18:39:24Z",
+ "version": 5,
+ "widget": {
+  "background": {
+   "angle": 135,
+   "from": "#14243D",
+   "to": "#070C17",
+   "type": "gradient"
+  },
+  "children": [
+   {
+    "children": [
+     {
+      "align": "left",
+      "color": "#FFFFFF",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "height": 18,
+      "lineLimit": 1,
+      "text": "SUN OCT 4 \u00b7 TORNADO",
+      "type": "text",
+      "width": 220
+     },
+     {
+      "type": "spacer",
+      "width": 60
+     },
+     {
+      "align": "right",
+      "color": "rgba(255,255,255,0.55)",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "height": 18,
+      "lineLimit": 1,
+      "text": "11:39a",
+      "type": "text",
+      "width": 44
+     }
+    ],
+    "direction": "horizontal",
+    "height": 18,
+    "type": "stack",
+    "width": 324
+   },
+   {
+    "height": 10,
+    "type": "spacer"
+   },
+   {
+    "children": [
+     {
+      "background": {
+       "angle": 135,
+       "from": "#F5B54E",
+       "to": "#C96E1F",
+       "type": "gradient"
+      },
+      "children": [
+       {
+        "align": "left",
+        "color": "#4A2808",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "height": 12,
+        "lineLimit": 1,
+        "text": "POLO $42",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "align": "left",
+        "color": "#4A2808",
+        "fontSize": 8,
+        "fontWeight": "regular",
+        "height": 11,
+        "lineLimit": 1,
+        "text": "PAY BY HAND",
+        "type": "text",
+        "width": 84
+       }
+      ],
+      "cornerRadius": 12,
+      "direction": "vertical",
+      "height": 84,
+      "padding": [
+       8,
+       8,
+       8,
+       8
+      ],
+      "type": "stack",
+      "url": "https://www.quince.com",
+      "width": 100
+     },
+     {
+      "type": "spacer",
+      "width": 20
+     },
+     {
+      "background": {
+       "angle": 135,
+       "from": "#0E5A52",
+       "to": "#08332F",
+       "type": "gradient"
+      },
+      "children": [
+       {
+        "align": "center",
+        "color": "#FFFFFF",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "height": 24,
+        "lineLimit": 1,
+        "text": "10.3K",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "align": "center",
+        "color": "#F2C94C",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "height": 13,
+        "lineLimit": 1,
+        "text": "100 TO GO",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "align": "center",
+        "color": "#8FD8CE",
+        "fontSize": 7,
+        "fontWeight": "bold",
+        "height": 10,
+        "lineLimit": 1,
+        "text": "EXIT FREQ",
+        "type": "text",
+        "width": 84
+       }
+      ],
+      "cornerRadius": 42,
+      "direction": "vertical",
+      "height": 84,
+      "padding": [
+       14,
+       0,
+       14,
+       0
+      ],
+      "type": "stack",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "width": 84
+     },
+     {
+      "type": "spacer",
+      "width": 20
+     },
+     {
+      "background": {
+       "angle": 135,
+       "from": "#2B4C7E",
+       "to": "#16263F",
+       "type": "gradient"
+      },
+      "children": [
+       {
+        "align": "left",
+        "color": "#FFFFFF",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "height": 12,
+        "lineLimit": 1,
+        "text": "NFL SUNDAY",
+        "type": "text",
+        "width": 84
+       },
+       {
+        "align": "left",
+        "color": "rgba(255,255,255,0.7)",
+        "fontSize": 8,
+        "fontWeight": "regular",
+        "height": 11,
+        "lineLimit": 1,
+        "text": "LONDON EARLY",
+        "type": "text",
+        "width": 84
+       }
+      ],
+      "cornerRadius": 12,
+      "direction": "vertical",
+      "height": 84,
+      "padding": [
+       8,
+       8,
+       8,
+       8
+      ],
+      "type": "stack",
+      "url": "https://www.nfl.com",
+      "width": 100
+     }
+    ],
+    "direction": "horizontal",
+    "height": 84,
+    "type": "stack",
+    "width": 324
+   },
+   {
+    "height": 10,
+    "type": "spacer"
+   },
+   {
+    "children": [
+     {
+      "align": "center",
+      "color": "rgba(255,255,255,0.65)",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "height": 16,
+      "lineLimit": 1,
+      "text": "Exit 10.3k \u00b7 100 to go \u00b7 polo $42 pay by hand",
+      "type": "text",
+      "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+      "width": 324
+     }
+    ],
+    "direction": "horizontal",
+    "height": 16,
+    "type": "stack",
+    "width": 324
+   }
+  ],
+  "cornerRadius": 16,
+  "direction": "vertical",
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "type": "stack",
+  "width": 324
+ },
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+}
