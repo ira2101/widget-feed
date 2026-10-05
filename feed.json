@@ -1,1 +1,270 @@
-{"contentRevision":1234,"mode":"native","version":5,"outerPadding":[8,8,8,8],"updatedAt":"2026-10-05T22:44:05Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","widget":{"type":"stack","direction":"vertical","width":324,"height":138,"padding":[8,10,8,10],"background":{"type":"gradient","from":"#2E3E66","to":"#141B34","angle":115},"children":[{"type":"stack","direction":"horizontal","width":324,"height":18,"children":[{"type":"text","text":"MON OCT 5 \u00b7 TORNADO","width":240,"height":18,"fontSize":10,"fontWeight":"semibold","color":"#F2F4FA","alignment":"left"},{"type":"text","text":"3:38P","width":84,"height":18,"fontSize":10,"fontWeight":"regular","color":"#A9B4D6","alignment":"right"}]},{"type":"spacer","height":10},{"type":"stack","direction":"horizontal","width":324,"height":84,"children":[{"type":"stack","direction":"vertical","width":194,"height":84,"cornerRadius":14,"padding":[8,10,8,10],"background":{"type":"gradient","from":"#14735D","to":"#0D3540","angle":115},"tapTarget":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT FREQUENCY","width":174,"height":10,"fontSize":9,"fontWeight":"bold","color":"#8FE8CD","alignment":"left"},{"type":"spacer","height":4},{"type":"text","text":"10.30K SUBS","width":174,"height":22,"fontSize":16,"fontWeight":"bold","color":"#FFFFFF","alignment":"left"},{"type":"spacer","height":4},{"type":"text","text":"100 TO GO 99% THERE","width":174,"height":11,"fontSize":9,"fontWeight":"semibold","color":"#EAF7F1","alignment":"left"},{"type":"spacer","height":5},{"type":"stack","direction":"horizontal","width":174,"height":6,"background":"#0A2A33","cornerRadius":3,"children":[{"type":"stack","width":172,"height":6,"background":"#F7D16B","cornerRadius":3}]}]},{"type":"spacer","width":10},{"type":"stack","direction":"vertical","width":120,"height":84,"cornerRadius":14,"padding":[8,10,8,10],"background":{"type":"gradient","from":"#F6B85C","to":"#DD7A2F","angle":115},"tapTarget":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"TO 10.4K","width":100,"height":11,"fontSize":9,"fontWeight":"bold","color":"#5C4413","alignment":"center"},{"type":"spacer","height":4},{"type":"text","text":"100","width":100,"height":34,"fontSize":30,"fontWeight":"bold","color":"#241B0C","alignment":"center"},{"type":"spacer","height":3},{"type":"text","text":"SUBS TO GO","width":100,"height":10,"fontSize":9,"fontWeight":"bold","color":"#5C4413","alignment":"center"}]}]},{"type":"spacer","height":10},{"type":"stack","direction":"horizontal","width":324,"height":16,"tapTarget":"https://mail.google.com/","children":[{"type":"text","text":"10.30K SUBS \u00b7 100 TO GO \u00b7 LINKEDIN 2:49P","width":324,"height":16,"fontSize":10,"fontWeight":"regular","color":"#B9C2DE","alignment":"left"}]}]}}
+{
+ "contentRevision": 1235,
+ "mode": "native",
+ "version": 5,
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "updatedAt": "2026-10-05T23:41:16Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "widget": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "background": {
+   "type": "gradient",
+   "from": "#2B3355",
+   "to": "#11162B",
+   "angle": 120
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "MON OCT 5 · TORNADO",
+      "width": 240,
+      "height": 18,
+      "fontSize": 10,
+      "fontWeight": "semibold",
+      "color": "#F2F4FA",
+      "alignment": "left"
+     },
+     {
+      "type": "text",
+      "text": "4:38P",
+      "width": 84,
+      "height": 18,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#A9B4D6",
+      "alignment": "right"
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 157,
+      "height": 84,
+      "cornerRadius": 14,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "background": {
+       "type": "gradient",
+       "from": "#14735D",
+       "to": "#0D3540",
+       "angle": 115
+      },
+      "tapTarget": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "width": 137,
+        "height": 11,
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#8FE8CD",
+        "alignment": "left"
+       },
+       {
+        "type": "spacer",
+        "height": 3
+       },
+       {
+        "type": "text",
+        "text": "10.30K SUBS",
+        "width": 137,
+        "height": 21,
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "alignment": "left"
+       },
+       {
+        "type": "spacer",
+        "height": 3
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO · 99%",
+        "width": 137,
+        "height": 13,
+        "fontSize": 10,
+        "fontWeight": "semibold",
+        "color": "#EAF7F1",
+        "alignment": "left"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 137,
+        "height": 6,
+        "background": "#0A2A33",
+        "cornerRadius": 3,
+        "children": [
+         {
+          "type": "stack",
+          "width": 135,
+          "height": 6,
+          "background": "#F7D16B",
+          "cornerRadius": 3
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 157,
+      "height": 84,
+      "cornerRadius": 14,
+      "padding": [
+       4,
+       10,
+       4,
+       10
+      ],
+      "background": {
+       "type": "gradient",
+       "from": "#F6B85C",
+       "to": "#DD7A2F",
+       "angle": 115
+      },
+      "tapTarget": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 137,
+        "height": 76,
+        "children": [
+         {
+          "type": "spacer",
+          "width": 30
+         },
+         {
+          "type": "stack",
+          "direction": "vertical",
+          "width": 76,
+          "height": 76,
+          "cornerRadius": 38,
+          "background": {
+           "type": "gradient",
+           "from": "#F7D16B",
+           "to": "#E88F2E",
+           "angle": 115
+          },
+          "children": [
+           {
+            "type": "spacer",
+            "height": 19
+           },
+           {
+            "type": "text",
+            "text": "100",
+            "width": 76,
+            "height": 28,
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "color": "#241B0C",
+            "alignment": "center"
+           },
+           {
+            "type": "text",
+            "text": "TO GO",
+            "width": 76,
+            "height": 10,
+            "fontSize": 8,
+            "fontWeight": "bold",
+            "color": "#5C4413",
+            "alignment": "center"
+           },
+           {
+            "type": "spacer",
+            "height": 19
+           }
+          ]
+         },
+         {
+          "type": "spacer",
+          "width": 30
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 16,
+    "tapTarget": "https://www.youtube.com/@exitfrequency",
+    "children": [
+     {
+      "type": "text",
+      "text": "10.30K SUBS · 100 TO GO",
+      "width": 324,
+      "height": 16,
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#B9C2DE",
+      "alignment": "left"
+     }
+    ]
+   }
+  ]
+ }
+}
