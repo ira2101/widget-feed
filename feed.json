@@ -1,14 +1,15 @@
 {
-  "contentRevision": 1212,
+  "contentRevision": 1213,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-10-05T00:40:00Z",
+  "updatedAt": "2026-10-05T01:39:49Z",
   "outerPadding": [
     8,
     8,
     8,
     8
   ],
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "widget": {
     "type": "stack",
     "width": 324,
@@ -21,9 +22,9 @@
     ],
     "background": {
       "type": "gradient",
-      "from": "#1E2A4A",
-      "to": "#070B16",
-      "angle": 140
+      "from": "#3B2A5E",
+      "to": "#10081E",
+      "angle": 150
     },
     "children": [
       {
@@ -34,10 +35,10 @@
         "children": [
           {
             "type": "text",
-            "text": "SUN OCT 4 \u00b7 TORNADO",
+            "text": "SUN EVE · TORNADO",
             "fontSize": 11,
             "fontWeight": "bold",
-            "width": 230,
+            "width": 240,
             "height": 18,
             "lineLimit": 1,
             "align": "left",
@@ -45,11 +46,11 @@
           },
           {
             "type": "spacer",
-            "width": 50
+            "width": 40
           },
           {
             "type": "text",
-            "text": "5:40p",
+            "text": "6:38P",
             "fontSize": 11,
             "fontWeight": "regular",
             "width": 44,
@@ -73,79 +74,52 @@
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 194,
+            "width": 100,
             "height": 84,
             "padding": [
               8,
-              10,
-              6,
-              10
+              8,
+              8,
+              8
             ],
             "background": {
-              "type": "gradient",
-              "from": "#0F6A7D",
-              "to": "#06252D",
-              "angle": 135
+              "type": "color",
+              "color": "rgba(255,255,255,0.08)"
             },
-            "radius": 14,
-            "tapTarget": "https://www.youtube.com/@exitfrequency",
+            "cornerRadius": 12,
             "children": [
               {
                 "type": "text",
-                "text": "EXIT FREQUENCY",
-                "fontSize": 9,
+                "text": "EXIT FREQ",
+                "fontSize": 11,
                 "fontWeight": "bold",
-                "width": 174,
-                "height": 11,
-                "lineLimit": 1,
-                "align": "left",
-                "color": "#8FDCE8"
-              },
-              {
-                "type": "text",
-                "text": "10,300",
-                "fontSize": 22,
-                "fontWeight": "bold",
-                "width": 174,
-                "height": 26,
+                "width": 84,
+                "height": 13,
                 "lineLimit": 1,
                 "align": "left",
                 "color": "#FFFFFF"
               },
               {
                 "type": "text",
-                "text": "100 SUBS TO GO",
-                "fontSize": 10,
-                "fontWeight": "regular",
-                "width": 174,
-                "height": 13,
+                "text": "10,300",
+                "fontSize": 26,
+                "fontWeight": "bold",
+                "width": 84,
+                "height": 30,
+                "lineLimit": 1,
+                "align": "left",
+                "color": "#FFD66B"
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "fontSize": 12,
+                "fontWeight": "semibold",
+                "width": 84,
+                "height": 16,
                 "lineLimit": 1,
                 "align": "left",
                 "color": "rgba(255,255,255,0.85)"
-              },
-              {
-                "type": "spacer",
-                "height": 3
-              },
-              {
-                "type": "stack",
-                "direction": "horizontal",
-                "width": 174,
-                "height": 8,
-                "background": {
-                  "type": "color",
-                  "color": "rgba(255,255,255,0.18)"
-                },
-                "radius": 4,
-                "children": [
-                  {
-                    "type": "rect",
-                    "width": 172,
-                    "height": 8,
-                    "color": "#F5C542",
-                    "radius": 4
-                  }
-                ]
               },
               {
                 "type": "spacer",
@@ -153,101 +127,161 @@
               },
               {
                 "type": "text",
-                "text": "99% OF THE WAY",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "width": 174,
-                "height": 11,
+                "text": "YOUTUBE",
+                "fontSize": 10,
+                "fontWeight": "regular",
+                "width": 84,
+                "height": 12,
                 "lineLimit": 1,
                 "align": "left",
-                "color": "#F5C542"
+                "color": "rgba(255,255,255,0.55)"
               }
-            ]
+            ],
+            "url": "https://www.youtube.com/@exitfrequency"
           },
           {
             "type": "spacer",
-            "width": 10
+            "width": 8
           },
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 120,
+            "width": 100,
             "height": 84,
             "padding": [
-              6,
               8,
-              4,
+              8,
+              8,
               8
             ],
             "background": {
-              "type": "gradient",
-              "from": "#6B4A1E",
-              "to": "#211708",
-              "angle": 135
+              "type": "color",
+              "color": "rgba(255,255,255,0.08)"
             },
-            "radius": 14,
-            "tapTarget": "https://mail.google.com/",
+            "cornerRadius": 12,
             "children": [
               {
                 "type": "text",
                 "text": "MAIL",
-                "fontSize": 9,
+                "fontSize": 11,
                 "fontWeight": "bold",
-                "width": 104,
-                "height": 11,
-                "lineLimit": 1,
-                "align": "left",
-                "color": "#F2D08A"
-              },
-              {
-                "type": "text",
-                "text": "ZILLOW",
-                "fontSize": 18,
-                "fontWeight": "bold",
-                "width": 104,
-                "height": 22,
+                "width": 84,
+                "height": 13,
                 "lineLimit": 1,
                 "align": "left",
                 "color": "#FFFFFF"
               },
               {
                 "type": "text",
-                "text": "1 RENTAL RESULT",
-                "fontSize": 9,
-                "fontWeight": "regular",
-                "width": 104,
-                "height": 13,
+                "text": "7",
+                "fontSize": 26,
+                "fontWeight": "bold",
+                "width": 84,
+                "height": 30,
+                "lineLimit": 1,
+                "align": "left",
+                "color": "#7FD4FF"
+              },
+              {
+                "type": "text",
+                "text": "UNREAD",
+                "fontSize": 12,
+                "fontWeight": "semibold",
+                "width": 84,
+                "height": 16,
                 "lineLimit": 1,
                 "align": "left",
                 "color": "rgba(255,255,255,0.85)"
               },
               {
+                "type": "spacer",
+                "height": 2
+              },
+              {
                 "type": "text",
-                "text": "4:35P TODAY",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "width": 104,
-                "height": 11,
+                "text": "NOTHING URGENT",
+                "fontSize": 10,
+                "fontWeight": "regular",
+                "width": 84,
+                "height": 12,
                 "lineLimit": 1,
                 "align": "left",
-                "color": "#F2D08A"
+                "color": "rgba(255,255,255,0.55)"
+              }
+            ],
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 108,
+            "height": 84,
+            "padding": [
+              8,
+              8,
+              8,
+              8
+            ],
+            "background": {
+              "type": "color",
+              "color": "rgba(255,255,255,0.08)"
+            },
+            "cornerRadius": 12,
+            "children": [
+              {
+                "type": "text",
+                "text": "QUINCE",
+                "fontSize": 11,
+                "fontWeight": "bold",
+                "width": 92,
+                "height": 13,
+                "lineLimit": 1,
+                "align": "left",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "$45.63",
+                "fontSize": 24,
+                "fontWeight": "bold",
+                "width": 92,
+                "height": 28,
+                "lineLimit": 1,
+                "align": "left",
+                "color": "#9BF0B6"
+              },
+              {
+                "type": "text",
+                "text": "ORDER AWAITS YOU",
+                "fontSize": 11,
+                "fontWeight": "semibold",
+                "width": 92,
+                "height": 15,
+                "lineLimit": 1,
+                "align": "left",
+                "color": "rgba(255,255,255,0.85)"
               },
               {
                 "type": "spacer",
-                "height": 3
+                "height": 2
               },
               {
                 "type": "text",
-                "text": "\u2192 INBOX",
-                "fontSize": 8,
+                "text": "SWEATER POLO M",
+                "fontSize": 10,
                 "fontWeight": "regular",
-                "width": 104,
-                "height": 11,
+                "width": 92,
+                "height": 12,
                 "lineLimit": 1,
                 "align": "left",
-                "color": "rgba(255,255,255,0.5)"
+                "color": "rgba(255,255,255,0.55)"
               }
-            ]
+            ],
+            "url": "https://www.quince.com"
           }
         ]
       },
@@ -263,8 +297,8 @@
         "children": [
           {
             "type": "text",
-            "text": "5:40P \u00b7 EXIT 100 TO GO \u2192",
-            "fontSize": 9,
+            "text": "100 TO GO · QUINCE AWAITS YOU",
+            "fontSize": 11,
             "fontWeight": "regular",
             "width": 324,
             "height": 16,
@@ -275,7 +309,5 @@
         ]
       }
     ]
-  },
-  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "tapTargets": {}
+  }
 }
