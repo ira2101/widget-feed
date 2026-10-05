@@ -1,5 +1,5 @@
 {
- "contentRevision": 1220,
+ "contentRevision": 1221,
  "mode": "native",
  "version": 5,
  "outerPadding": [
@@ -8,7 +8,7 @@
   8,
   8
  ],
- "updatedAt": "2026-10-05T08:39:16Z",
+ "updatedAt": "2026-10-05T09:39:05Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "widget": {
   "type": "stack",
@@ -23,8 +23,8 @@
   ],
   "background": {
    "type": "gradient",
-   "from": "#131B3A",
-   "to": "#060810",
+   "from": "#101428",
+   "to": "#05070D",
    "angle": 120
   },
   "tapTarget": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
@@ -37,7 +37,7 @@
     "children": [
      {
       "type": "text",
-      "text": "MON OCT 5 \u00b7 TORNADO",
+      "text": "MON OCT 5 · TORNADO",
       "width": 240,
       "height": 18,
       "fontSize": 10,
@@ -47,7 +47,7 @@
      },
      {
       "type": "text",
-      "text": "1:38A",
+      "text": "2:39A",
       "width": 84,
       "height": 18,
       "fontSize": 10,
@@ -70,27 +70,27 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 194,
+      "width": 100,
       "height": 84,
       "padding": [
        8,
        10,
-       10,
+       8,
        10
       ],
       "cornerRadius": 12,
       "background": {
        "type": "gradient",
        "from": "#1E5A54",
-       "to": "#0D2E2B",
+       "to": "#0C2624",
        "angle": 140
       },
       "tapTarget": "https://www.youtube.com/@exitfrequency",
       "children": [
        {
         "type": "text",
-        "text": "EXIT FREQUENCY",
-        "width": 174,
+        "text": "EXIT",
+        "width": 80,
         "height": 12,
         "fontSize": 9,
         "fontWeight": "bold",
@@ -99,13 +99,13 @@
        },
        {
         "type": "spacer",
-        "height": 3
+        "height": 4
        },
        {
         "type": "text",
-        "text": "10.30K SUBS",
-        "width": 174,
-        "height": 24,
+        "text": "10.30K",
+        "width": 80,
+        "height": 26,
         "fontSize": 21,
         "fontWeight": "bold",
         "color": "#FFFFFF",
@@ -113,55 +113,28 @@
        },
        {
         "type": "spacer",
-        "height": 3
+        "height": 2
        },
        {
         "type": "text",
-        "text": "100 TO GO \u00b7 99% THERE",
-        "width": 174,
-        "height": 14,
+        "text": "100 TO GO",
+        "width": 80,
+        "height": 16,
         "fontSize": 11,
         "fontWeight": "semibold",
         "color": "#CFE6E2",
         "alignment": "left"
-       },
-       {
-        "type": "spacer",
-        "height": 4
-       },
-       {
-        "type": "stack",
-        "direction": "horizontal",
-        "width": 174,
-        "height": 6,
-        "background": {
-         "color": "#1A2530",
-         "cornerRadius": 3
-        },
-        "children": [
-         {
-          "type": "stack",
-          "direction": "vertical",
-          "width": 172,
-          "height": 6,
-          "background": {
-           "color": "#F5C96B",
-           "cornerRadius": 3
-          },
-          "children": []
-         }
-        ]
        }
       ]
      },
      {
       "type": "spacer",
-      "width": 10
+      "width": 8
      },
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 120,
+      "width": 100,
       "height": 84,
       "padding": [
        8,
@@ -172,20 +145,20 @@
       "cornerRadius": 12,
       "background": {
        "type": "gradient",
-       "from": "#6B4416",
-       "to": "#2E1F0A",
+       "from": "#2B3A67",
+       "to": "#141B33",
        "angle": 140
       },
-      "tapTarget": "https://www.quince.com",
+      "tapTarget": "https://mail.google.com/",
       "children": [
        {
         "type": "text",
-        "text": "QUINCE",
-        "width": 100,
+        "text": "MAIL",
+        "width": 80,
         "height": 12,
         "fontSize": 9,
         "fontWeight": "bold",
-        "color": "#F5C96B",
+        "color": "#9FB4F0",
         "alignment": "left"
        },
        {
@@ -194,26 +167,62 @@
        },
        {
         "type": "text",
-        "text": "POLO $42",
-        "width": 100,
-        "height": 20,
-        "fontSize": 18,
+        "text": "8 NEW",
+        "width": 80,
+        "height": 26,
+        "fontSize": 21,
         "fontWeight": "bold",
         "color": "#FFFFFF",
         "alignment": "left"
        },
        {
         "type": "spacer",
-        "height": 5
+        "height": 2
        },
        {
         "type": "text",
-        "text": "LAST CALL",
-        "width": 100,
-        "height": 13,
+        "text": "2 ESTMT IN",
+        "width": 80,
+        "height": 16,
         "fontSize": 11,
         "fontWeight": "semibold",
-        "color": "#F3DFAE",
+        "color": "#CBD5F2",
+        "alignment": "left"
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 108,
+      "height": 84,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "cornerRadius": 12,
+      "background": {
+       "type": "gradient",
+       "from": "#4A441F",
+       "to": "#201D0C",
+       "angle": 140
+      },
+      "tapTarget": "https://www.quince.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "QUINCE",
+        "width": 88,
+        "height": 12,
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#F0D97B",
         "alignment": "left"
        },
        {
@@ -221,8 +230,28 @@
         "height": 4
        },
        {
+        "type": "text",
+        "text": "$46 RDY",
+        "width": 88,
+        "height": 26,
+        "fontSize": 21,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "alignment": "left"
+       },
+       {
         "type": "spacer",
-        "height": 10
+        "height": 2
+       },
+       {
+        "type": "text",
+        "text": "POLO WAITS",
+        "width": 88,
+        "height": 16,
+        "fontSize": 11,
+        "fontWeight": "semibold",
+        "color": "#EDE3B8",
+        "alignment": "left"
        }
       ]
      }
@@ -237,17 +266,16 @@
     "direction": "horizontal",
     "width": 324,
     "height": 16,
-    "tapTarget": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
     "children": [
      {
       "type": "text",
-      "text": "10.30K SUBS \u00b7 100 TO GO \u00b7 QUINCE POLO LAST CALL",
+      "text": "quiet night · 100 to go · polo at $46",
       "width": 324,
       "height": 16,
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "#8A96B8",
-      "alignment": "center"
+      "color": "#7A86AC",
+      "alignment": "left"
      }
     ]
    }
