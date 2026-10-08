@@ -1,8 +1,8 @@
 {
   "mode": "native",
   "version": 5,
-  "contentRevision": 1292,
-  "updatedAt": "2026-10-08T08:39:06Z",
+  "contentRevision": 1293,
+  "updatedAt": "2026-10-08T09:39:27Z",
   "outerPadding": [
     8,
     8,
@@ -15,18 +15,6 @@
     "direction": "vertical",
     "width": 324,
     "height": 138,
-    "padding": [
-      8,
-      10,
-      8,
-      10
-    ],
-    "background": {
-      "type": "gradient",
-      "from": "#101A36",
-      "to": "#04060E",
-      "angle": 150
-    },
     "children": [
       {
         "type": "stack",
@@ -47,7 +35,7 @@
           },
           {
             "type": "text",
-            "text": "1:38A",
+            "text": "2:39A",
             "fontSize": 9,
             "fontWeight": "regular",
             "color": "#8E93B0",
@@ -73,11 +61,10 @@
             "direction": "vertical",
             "width": 100,
             "height": 84,
-            "url": "https://www.youtube.com/@exitfrequency",
             "children": [
               {
                 "type": "text",
-                "text": "EXIT",
+                "text": "FLOW",
                 "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#FFFFFF",
@@ -88,7 +75,7 @@
               },
               {
                 "type": "text",
-                "text": "FREQ",
+                "text": "ALERT",
                 "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#FFFFFF",
@@ -99,16 +86,24 @@
               },
               {
                 "type": "text",
-                "text": "10.30K SUBS",
+                "text": "NOV 20",
                 "fontSize": 9,
                 "fontWeight": "regular",
-                "color": "#9FB0E8",
+                "color": "#FFB84D",
                 "alignment": "left",
                 "width": 100,
                 "height": 12,
                 "lineLimit": 1
               }
-            ]
+            ],
+            "url": "https://flow.google.com",
+            "background": {
+              "type": "gradient",
+              "from": "#3A1E0E",
+              "to": "#1A0F08",
+              "angle": 135
+            },
+            "cornerRadius": 12
           },
           {
             "type": "spacer",
@@ -119,30 +114,12 @@
             "direction": "vertical",
             "width": 104,
             "height": 84,
-            "justifyContent": "center",
-            "alignItems": "center",
             "children": [
               {
                 "type": "stack",
                 "direction": "vertical",
-                "width": 84,
-                "height": 84,
-                "padding": [
-                  4,
-                  0,
-                  4,
-                  0
-                ],
-                "background": {
-                  "type": "gradient",
-                  "from": "#1F7A6D",
-                  "to": "#0C3430",
-                  "angle": 135
-                },
-                "cornerRadius": 42,
-                "justifyContent": "center",
-                "alignItems": "center",
-                "url": "https://www.youtube.com/@exitfrequency",
+                "width": 70,
+                "height": 70,
                 "children": [
                   {
                     "type": "text",
@@ -151,7 +128,7 @@
                     "fontWeight": "bold",
                     "color": "#FFD97A",
                     "alignment": "center",
-                    "width": 84,
+                    "width": 70,
                     "height": 26,
                     "lineLimit": 1
                   },
@@ -162,13 +139,42 @@
                     "fontWeight": "bold",
                     "color": "#FFFFFF",
                     "alignment": "center",
-                    "width": 84,
+                    "width": 70,
                     "height": 13,
                     "lineLimit": 1
                   }
-                ]
+                ],
+                "background": {
+                  "type": "gradient",
+                  "from": "#1F7A6D",
+                  "to": "#0C3430",
+                  "angle": 135
+                },
+                "cornerRadius": 35,
+                "justifyContent": "center",
+                "alignItems": "center",
+                "padding": [
+                  4,
+                  0,
+                  4,
+                  0
+                ],
+                "url": "https://www.youtube.com/@exitfrequency"
+              },
+              {
+                "type": "text",
+                "text": "EXIT",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#9FB0E8",
+                "alignment": "center",
+                "width": 104,
+                "height": 12,
+                "lineLimit": 1
               }
-            ]
+            ],
+            "justifyContent": "center",
+            "alignItems": "center"
           },
           {
             "type": "spacer",
@@ -179,11 +185,10 @@
             "direction": "vertical",
             "width": 100,
             "height": 84,
-            "url": "https://mail.google.com",
             "children": [
               {
                 "type": "text",
-                "text": "MAIL",
+                "text": "UBER",
                 "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#FFFFFF",
@@ -194,7 +199,7 @@
               },
               {
                 "type": "text",
-                "text": "QUIET",
+                "text": "3 TRIPS",
                 "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#FFFFFF",
@@ -205,7 +210,7 @@
               },
               {
                 "type": "text",
-                "text": "UBER 10:19P",
+                "text": "WED NIGHT",
                 "fontSize": 9,
                 "fontWeight": "regular",
                 "color": "#9FB0E8",
@@ -214,7 +219,15 @@
                 "height": 12,
                 "lineLimit": 1
               }
-            ]
+            ],
+            "url": "https://www.uber.com",
+            "background": {
+              "type": "gradient",
+              "from": "#1B2340",
+              "to": "#0A0D1C",
+              "angle": 135
+            },
+            "cornerRadius": 12
           }
         ]
       },
@@ -224,7 +237,7 @@
       },
       {
         "type": "text",
-        "text": "10.30K \u00b7 100 TO GO \u00b7 UBER 10:19P",
+        "text": "EXIT 10.30K \u00b7 100 TO GO \u00b7 FLOW NOV 20",
         "fontSize": 8,
         "fontWeight": "regular",
         "color": "#8E93B0",
@@ -233,6 +246,18 @@
         "height": 16,
         "lineLimit": 1
       }
-    ]
+    ],
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "background": {
+      "type": "gradient",
+      "from": "#0E1730",
+      "to": "#04060E",
+      "angle": 150
+    }
   }
 }
