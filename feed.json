@@ -1,8 +1,8 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1287,
- "updatedAt": "2026-10-08T03:38:31Z",
+ "contentRevision": 1288,
+ "updatedAt": "2026-10-08T04:39:36Z",
  "outerPadding": [
   8,
   8,
@@ -23,8 +23,8 @@
   ],
   "background": {
    "type": "gradient",
-   "from": "#160F2B",
-   "to": "#070510",
+   "from": "#131B3C",
+   "to": "#04060F",
    "angle": 150
   },
   "children": [
@@ -39,7 +39,7 @@
       "text": "WED OCT 7 \u00b7 TORNADO",
       "fontSize": 9,
       "fontWeight": "bold",
-      "color": "#D9CBEF",
+      "color": "#C9BBE8",
       "alignment": "left",
       "width": 200,
       "height": 18,
@@ -47,10 +47,10 @@
      },
      {
       "type": "text",
-      "text": "8:38P",
+      "text": "9:38P",
       "fontSize": 9,
       "fontWeight": "regular",
-      "color": "#9A8FB0",
+      "color": "#8E83AA",
       "alignment": "right",
       "width": 124,
       "height": 18,
@@ -64,19 +64,19 @@
    },
    {
     "type": "stack",
-    "direction": "horizontal",
+    "direction": "vertical",
     "width": 324,
     "height": 84,
     "children": [
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 194,
-      "height": 84,
+      "width": 324,
+      "height": 50,
       "padding": [
-       8,
+       6,
        10,
-       8,
+       6,
        10
       ],
       "cornerRadius": 12,
@@ -90,28 +90,13 @@
       "children": [
        {
         "type": "text",
-        "text": "EXIT FREQ",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "#F5C453",
-        "alignment": "left",
-        "width": 174,
-        "height": 11,
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer",
-        "height": 2
-       },
-       {
-        "type": "text",
-        "text": "10.30K",
-        "fontSize": 22,
+        "text": "EXIT FREQ \u00b7 10.30K SUBS",
+        "fontSize": 12,
         "fontWeight": "bold",
         "color": "#FFFFFF",
         "alignment": "left",
-        "width": 174,
-        "height": 24,
+        "width": 304,
+        "height": 14,
         "lineLimit": 1
        },
        {
@@ -120,12 +105,12 @@
        },
        {
         "type": "text",
-        "text": "100 TO GO",
+        "text": "100 TO GO \u00b7 ROAD TO 10.40K",
         "fontSize": 9,
         "fontWeight": "regular",
         "color": "#D8C57E",
         "alignment": "left",
-        "width": 174,
+        "width": 304,
         "height": 11,
         "lineLimit": 1
        },
@@ -136,7 +121,7 @@
        {
         "type": "stack",
         "direction": "horizontal",
-        "width": 174,
+        "width": 304,
         "height": 5,
         "cornerRadius": 3,
         "background": {
@@ -147,14 +132,12 @@
          {
           "type": "stack",
           "direction": "vertical",
-          "width": 172,
+          "width": 301,
           "height": 5,
           "cornerRadius": 3,
           "background": {
-           "type": "gradient",
-           "from": "#F5C453",
-           "to": "#E8954A",
-           "angle": 90
+           "type": "solid",
+           "color": "#F5C453"
           },
           "children": []
          }
@@ -164,82 +147,37 @@
      },
      {
       "type": "spacer",
-      "width": 10
+      "height": 6
      },
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 120,
-      "height": 84,
+      "width": 324,
+      "height": 28,
       "padding": [
-       8,
+       6,
        10,
-       8,
+       6,
        10
       ],
       "cornerRadius": 12,
       "background": {
        "type": "gradient",
-       "from": "#0E2E3A",
-       "to": "#050D12",
+       "from": "#0C2E38",
+       "to": "#071A20",
        "angle": 135
       },
       "url": "https://mail.google.com",
       "children": [
        {
         "type": "text",
-        "text": "GMAIL",
-        "fontSize": 9,
+        "text": "MAIL QUIET \u00b7 NEWEST UBER 6:30P",
+        "fontSize": 11,
         "fontWeight": "bold",
-        "color": "#7FD4E8",
+        "color": "#DFF3F5",
         "alignment": "left",
-        "width": 100,
-        "height": 11,
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer",
-        "height": 2
-       },
-       {
-        "type": "text",
-        "text": "5",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFFFFF",
-        "alignment": "left",
-        "width": 100,
-        "height": 24,
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer",
-        "height": 2
-       },
-       {
-        "type": "text",
-        "text": "UNREAD",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#A9CBD6",
-        "alignment": "left",
-        "width": 100,
-        "height": 11,
-        "lineLimit": 1
-       },
-       {
-        "type": "spacer",
-        "height": 2
-       },
-       {
-        "type": "text",
-        "text": "NOTHING URGENT",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#6E96A3",
-        "alignment": "left",
-        "width": 100,
-        "height": 11,
+        "width": 304,
+        "height": 16,
         "lineLimit": 1
        }
       ]
@@ -251,15 +189,24 @@
     "height": 10
    },
    {
-    "type": "text",
-    "text": "exit freq \u00b7 100 to go \u00b7 gmail quiet",
-    "fontSize": 8,
-    "fontWeight": "regular",
-    "color": "#8A7FA3",
-    "alignment": "center",
+    "type": "stack",
+    "direction": "vertical",
     "width": 324,
     "height": 16,
-    "lineLimit": 1
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "children": [
+     {
+      "type": "text",
+      "text": "10.30K \u00b7 100 TO GO \u00b7 UBER 6:30P",
+      "fontSize": 8,
+      "fontWeight": "regular",
+      "color": "#8E83AA",
+      "alignment": "center",
+      "width": 324,
+      "height": 16,
+      "lineLimit": 1
+     }
+    ]
    }
   ]
  }
