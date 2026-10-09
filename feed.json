@@ -1,1 +1,317 @@
-{"contentRevision":1325,"mode":"native","updatedAt":"2026-10-09T16:40:32Z","version":5,"widget":{"background":{"angle":135,"from":"#FFF7EC","to":"#FBE8D4","type":"gradient"},"children":[{"children":[{"alignment":"left","color":"#1A2B3C","fontSize":9,"fontWeight":"bold","height":18,"lineLimit":1,"text":"FRI OCT 9 · TORNADO","type":"text","width":200},{"alignment":"right","color":"#5A6E80","fontSize":9,"fontWeight":"regular","height":18,"lineLimit":1,"text":"9:40AM","type":"text","width":124}],"direction":"horizontal","height":18,"type":"stack","width":324},{"height":10,"type":"spacer"},{"children":[{"children":[{"alignment":"left","color":"#8A5A00","fontSize":8,"fontWeight":"bold","height":12,"lineLimit":1,"text":"EXIT FREQUENCY","type":"text","width":120},{"alignment":"left","color":"#1A2B3C","fontSize":20,"fontWeight":"bold","height":26,"lineLimit":1,"text":"10.30K","type":"text","width":120},{"alignment":"left","color":"#5A6E80","fontSize":8,"fontWeight":"regular","height":12,"lineLimit":1,"text":"SUBSCRIBERS","type":"text","width":120},{"height":34,"type":"spacer"}],"direction":"vertical","height":84,"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":120},{"type":"spacer","width":8},{"background":{"angle":135,"from":"#E89B1C","to":"#C97A0A","type":"gradient"},"children":[{"background":{"angle":135,"from":"#1A2F4F","to":"#0E1D33","type":"gradient"},"children":[{"height":15,"type":"spacer"},{"alignment":"center","color":"#FFD98A","fontSize":20,"fontWeight":"bold","height":26,"lineLimit":1,"text":"100","type":"text","width":68},{"alignment":"center","color":"#BFD2E6","fontSize":8,"fontWeight":"bold","height":12,"lineLimit":1,"text":"TO GO","type":"text","width":68},{"height":15,"type":"spacer"}],"cornerRadius":34,"direction":"vertical","height":68,"type":"stack","width":68}],"cornerRadius":42,"direction":"vertical","height":84,"padding":[8,8,8,8],"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":84},{"type":"spacer","width":8},{"children":[{"alignment":"left","color":"#8A5A00","fontSize":8,"fontWeight":"bold","height":12,"lineLimit":1,"text":"INBOX","type":"text","width":104},{"alignment":"left","color":"#1A2B3C","fontSize":20,"fontWeight":"bold","height":26,"lineLimit":1,"text":"QUIET","type":"text","width":104},{"alignment":"left","color":"#5A6E80","fontSize":8,"fontWeight":"regular","height":12,"lineLimit":1,"text":"ALL PROMO","type":"text","width":104},{"height":34,"type":"spacer"}],"direction":"vertical","height":84,"type":"stack","url":"https://mail.google.com","width":104}],"direction":"horizontal","height":84,"type":"stack","width":324},{"height":10,"type":"spacer"},{"children":[{"alignment":"center","color":"#5A6E80","fontSize":8,"fontWeight":"regular","height":16,"lineLimit":1,"text":"ROAD TO 10.4K · 100 TO GO · MAIL QUIET","type":"text","width":324}],"direction":"horizontal","height":16,"type":"stack","width":324}],"direction":"vertical","height":138,"padding":[8,10,8,10],"type":"stack","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":324}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1326,
+ "updatedAt": "2026-10-09T17:39:00Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "widget": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "cornerRadius": 12,
+  "backgroundGradient": {
+   "colors": [
+    "#F4F7FF",
+    "#E7EEFB"
+   ],
+   "locations": [
+    0,
+    1
+   ],
+   "startPoint": {
+    "x": 0,
+    "y": 0
+   },
+   "endPoint": {
+    "x": 0,
+    "y": 1
+   }
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "children": [
+     {
+      "type": "text",
+      "text": "FRI OCT 9",
+      "fontSize": 11,
+      "fontWeight": "semibold",
+      "color": "#2A3240",
+      "textAlign": "left",
+      "lineLimit": 1
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "TORNADO - 10:38A",
+      "fontSize": 11,
+      "fontWeight": "semibold",
+      "color": "#5A6B85",
+      "textAlign": "left",
+      "lineLimit": 1
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "length": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 194,
+      "height": 84,
+      "padding": [
+       8,
+       12,
+       6,
+       12
+      ],
+      "cornerRadius": 12,
+      "backgroundGradient": {
+       "colors": [
+        "#FFD97A",
+        "#F5A83D"
+       ],
+       "locations": [
+        0,
+        1
+       ],
+       "startPoint": {
+        "x": 0,
+        "y": 0
+       },
+       "endPoint": {
+        "x": 1,
+        "y": 1
+       }
+      },
+      "tapUrl": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#3A2A00",
+        "textAlign": "left",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer",
+        "length": 3
+       },
+       {
+        "type": "text",
+        "text": "10.30K",
+        "fontSize": 26,
+        "fontWeight": "bold",
+        "color": "#1A1200",
+        "textAlign": "left",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer",
+        "length": 3
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 166,
+        "height": 8,
+        "backgroundColor": "#00000022",
+        "cornerRadius": 4,
+        "children": [
+         {
+          "type": "stack",
+          "direction": "horizontal",
+          "width": 83,
+          "height": 8,
+          "backgroundColor": "#3A2A00",
+          "cornerRadius": 4
+         },
+         {
+          "type": "spacer",
+          "length": 83
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "length": 3
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO - ROAD TO 10.4K",
+        "fontSize": 10,
+        "fontWeight": "semibold",
+        "color": "#5A3A00",
+        "textAlign": "left",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "length": 10
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 120,
+      "height": 84,
+      "children": [
+       {
+        "type": "stack",
+        "direction": "vertical",
+        "width": 120,
+        "height": 38,
+        "padding": [
+         6,
+         8,
+         4,
+         8
+        ],
+        "cornerRadius": 10,
+        "backgroundGradient": {
+         "colors": [
+          "#3B4A6B",
+          "#2A3654"
+         ],
+         "locations": [
+          0,
+          1
+         ],
+         "startPoint": {
+          "x": 0,
+          "y": 0
+         },
+         "endPoint": {
+          "x": 1,
+          "y": 1
+         }
+        },
+        "tapUrl": "https://mail.google.com",
+        "children": [
+         {
+          "type": "text",
+          "text": "INBOX QUIET",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#FFFFFF",
+          "textAlign": "left",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "NOTHING NEW",
+          "fontSize": 9,
+          "fontWeight": "regular",
+          "color": "#FFFFFF",
+          "textAlign": "left",
+          "lineLimit": 1
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "length": 8
+       },
+       {
+        "type": "stack",
+        "direction": "vertical",
+        "width": 120,
+        "height": 38,
+        "padding": [
+         6,
+         8,
+         4,
+         8
+        ],
+        "cornerRadius": 10,
+        "backgroundGradient": {
+         "colors": [
+          "#E8F5E0",
+          "#CDE8BC"
+         ],
+         "locations": [
+          0,
+          1
+         ],
+         "startPoint": {
+          "x": 0,
+          "y": 0
+         },
+         "endPoint": {
+          "x": 1,
+          "y": 1
+         }
+        },
+        "tapUrl": "https://www.doordash.com",
+        "children": [
+         {
+          "type": "text",
+          "text": "BAGELETTO",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#1F3A1F",
+          "textAlign": "left",
+          "lineLimit": 1
+         },
+         {
+          "type": "text",
+          "text": "ORDERED THIS AM",
+          "fontSize": 9,
+          "fontWeight": "regular",
+          "color": "#1F3A1F",
+          "textAlign": "left",
+          "lineLimit": 1
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "length": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 16,
+    "children": [
+     {
+      "type": "text",
+      "text": "TENNIS NOV 13 - SIGNUP OCT 30 - TV+ FREE",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#7A879C",
+      "textAlign": "left",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
