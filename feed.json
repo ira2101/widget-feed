@@ -1,1 +1,232 @@
-{"mode":"native","version":5,"contentRevision":1355,"updatedAt":"2026-10-10T22:39:48Z","widget":{"type":"stack","width":324,"height":138,"background":{"gradient":{"colors":["#31465E","#131C2C"],"angle":135},"cornerRadius":18},"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"stack","width":324,"height":18,"direction":"horizontal","children":[{"type":"stack","width":250,"height":18,"children":[{"type":"text","text":"SAT OCT 10","fontSize":11,"color":"#C7CDE8","fontWeight":"bold","align":"left","lineLimit":1}]},{"type":"stack","width":74,"height":18,"children":[{"type":"text","text":"3:39PP","fontSize":11,"color":"#8A93B0","fontWeight":"regular","align":"right","lineLimit":1}]}]},{"type":"spacer","height":10},{"type":"stack","width":324,"height":84,"direction":"horizontal","children":[{"type":"stack","width":100,"height":84,"background":{"gradient":{"colors":["#F5C66B","#C9882B"],"angle":135},"cornerRadius":11},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"spacer","height":14},{"type":"stack","width":100,"height":10,"children":[{"type":"text","text":"EXIT FREQ","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":16,"children":[{"type":"text","text":"10.30K","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":10,"children":[{"type":"text","text":"100 TO GO","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":16,"children":[{"type":"text","text":"10.4K ROAD","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":6}]},{"type":"spacer","width":8},{"type":"stack","width":100,"height":84,"background":{"gradient":{"colors":["#3A4A63","#232E44"],"angle":135},"cornerRadius":11},"url":"https://mail.google.com","children":[{"type":"spacer","height":14},{"type":"stack","width":100,"height":10,"children":[{"type":"text","text":"INBOX","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":16,"children":[{"type":"text","text":"QUIET","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":10,"children":[{"type":"text","text":"ALL ROUTINE","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":100,"height":16,"children":[{"type":"text","text":"SATURDAY","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":6}]},{"type":"spacer","width":8},{"type":"stack","width":108,"height":84,"background":{"gradient":{"colors":["#E07A5F","#A84A33"],"angle":135},"cornerRadius":11},"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"spacer","height":14},{"type":"stack","width":108,"height":10,"children":[{"type":"text","text":"TENNIS","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":108,"height":16,"children":[{"type":"text","text":"NOV 13","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":108,"height":10,"children":[{"type":"text","text":"REG OCT 30","fontSize":9,"color":"#FFFFFFB3","fontWeight":"regular","align":"center","lineLimit":1}]},{"type":"spacer","height":4},{"type":"stack","width":108,"height":16,"children":[{"type":"text","text":"DOUBLES","fontSize":11,"color":"#FFFFFF","fontWeight":"bold","align":"center","lineLimit":1}]},{"type":"spacer","height":6}]}]},{"type":"spacer","height":10},{"type":"stack","width":324,"height":16,"direction":"horizontal","children":[{"type":"stack","width":216,"height":16,"children":[{"type":"text","text":"ROAD TO 10.4K","fontSize":9,"color":"#8A93B0","fontWeight":"regular","align":"left","lineLimit":1}]},{"type":"stack","width":108,"height":16,"children":[{"type":"text","text":"MAIL QUIET / NOV 13","fontSize":9,"color":"#8A93B0","fontWeight":"regular","align":"right","lineLimit":1}]}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1356,
+ "updatedAt": "2026-10-10T23:40:35Z",
+ "widget": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "background": {
+   "gradient": {
+    "colors": [
+     "#12233A",
+     "#0A1424"
+    ],
+    "angle": 135
+   },
+   "cornerRadius": 18
+  },
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "stack",
+      "width": 250,
+      "height": 18,
+      "children": [
+       {
+        "type": "text",
+        "text": "SAT OCT 10",
+        "fontSize": 11,
+        "color": "#C7CDE8",
+        "fontWeight": "bold",
+        "align": "left",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "width": 74,
+      "height": 18,
+      "children": [
+       {
+        "type": "text",
+        "text": "4:39P",
+        "fontSize": 11,
+        "color": "#8A93B0",
+        "fontWeight": "regular",
+        "align": "right",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 84,
+    "background": {
+     "gradient": {
+      "colors": [
+       "#0E5F6B",
+       "#07303F"
+      ],
+      "angle": 135
+     },
+     "cornerRadius": 11
+    },
+    "url": "https://www.youtube.com/@exitfrequency",
+    "padding": [
+     10,
+     14,
+     10,
+     14
+    ],
+    "children": [
+     {
+      "type": "stack",
+      "width": 296,
+      "height": 10,
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 9,
+        "color": "#37E6C8",
+        "fontWeight": "bold",
+        "align": "left",
+        "lineLimit": 1
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 3
+     },
+     {
+      "type": "stack",
+      "width": 296,
+      "height": 24,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "stack",
+        "width": 160,
+        "height": 24,
+        "children": [
+         {
+          "type": "text",
+          "text": "10.30K",
+          "fontSize": 21,
+          "color": "#FFFFFF",
+          "fontWeight": "bold",
+          "align": "left",
+          "lineLimit": 1
+         }
+        ]
+       },
+       {
+        "type": "spacer",
+        "width": 8
+       },
+       {
+        "type": "stack",
+        "width": 128,
+        "height": 24,
+        "children": [
+         {
+          "type": "text",
+          "text": "100 TO GO",
+          "fontSize": 11,
+          "color": "#F5C66B",
+          "fontWeight": "bold",
+          "align": "right",
+          "lineLimit": 1
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 6
+     },
+     {
+      "type": "stack",
+      "width": 296,
+      "height": 8,
+      "background": {
+       "color": "#FFFFFF2E",
+       "cornerRadius": 4
+      },
+      "children": [
+       {
+        "type": "stack",
+        "width": 293,
+        "height": 8,
+        "background": {
+         "gradient": {
+          "colors": [
+           "#F5C66B",
+           "#C9882B"
+          ],
+          "angle": 90
+         },
+         "cornerRadius": 4
+        }
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 2
+     },
+     {
+      "type": "stack",
+      "width": 296,
+      "height": 9,
+      "children": [
+       {
+        "type": "text",
+        "text": "10300 SUBS - ROAD TO 10.4K",
+        "fontSize": 8,
+        "color": "#FFFFFFA6",
+        "fontWeight": "regular",
+        "align": "left",
+        "lineLimit": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 16,
+    "children": [
+     {
+      "type": "text",
+      "text": "MAIL QUIET - TENNIS NOV 13 - TV+ TIL DEC 18",
+      "fontSize": 9,
+      "color": "#8A93B0",
+      "fontWeight": "regular",
+      "align": "center",
+      "lineLimit": 1
+     }
+    ]
+   }
+  ]
+ }
+}
