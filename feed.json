@@ -1,21 +1,31 @@
 {
- "contentRevision": 1390,
  "mode": "native",
- "updatedAt": "2026-10-12T09:39:35Z",
  "version": 5,
+ "contentRevision": 1391,
+ "updatedAt": "2026-10-12T10:39:07Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "widget": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
   "backgroundGradient": {
    "colors": [
-    "#141C38",
-    "#060A16"
+    "#1A2348",
+    "#070B18"
    ],
    "startPoint": {
     "x": 0,
-    "y": 1
+    "y": 0
    },
    "endPoint": {
-    "x": 0,
-    "y": 0
+    "x": 1,
+    "y": 1
    },
    "locations": [
     0,
@@ -25,259 +35,311 @@
   "children": [
    {
     "type": "stack",
+    "width": 324,
+    "height": 18,
+    "direction": "horizontal",
     "children": [
      {
       "type": "text",
-      "text": "MON OCT 12",
+      "text": "TORNADO \u2022 OCT 12",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#E8ECFF",
       "textAlign": "left",
-      "lineLimit": 1
+      "lineLimit": 1,
+      "width": 220
      },
      {
       "type": "spacer"
      },
      {
       "type": "text",
-      "text": "2:39A",
+      "text": "3:38A",
       "fontSize": 11,
       "fontWeight": "regular",
       "color": "#8B93B8",
       "textAlign": "right",
-      "lineLimit": 1
+      "lineLimit": 1,
+      "width": 60
      }
-    ],
-    "width": 324,
-    "height": 18,
-    "direction": "horizontal"
+    ]
    },
    {
     "type": "spacer",
-    "height": 10
+    "height": 8
    },
    {
     "type": "stack",
+    "width": 324,
+    "height": 84,
+    "direction": "horizontal",
     "children": [
      {
       "type": "stack",
+      "width": 100,
+      "height": 84,
+      "direction": "vertical",
       "children": [
        {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "#FBD38D",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 12
+        "type": "stack",
+        "children": [
+         {
+          "type": "text",
+          "text": "MAIL",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#FBD38D",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
+         },
+         {
+          "type": "spacer",
+          "height": 4
+         },
+         {
+          "type": "text",
+          "text": "QUIET",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#E8ECFF",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
+         }
+        ],
+        "width": 100,
+        "height": 38,
+        "direction": "vertical",
+        "backgroundColor": "#1C2444",
+        "borderRadius": 11,
+        "padding": [
+         8,
+         10,
+         8,
+         10
+        ],
+        "url": "https://mail.google.com/mail/u/0/#inbox"
        },
        {
         "type": "spacer",
-        "height": 2
+        "height": 8
        },
        {
         "type": "stack",
         "children": [
          {
           "type": "text",
-          "text": "10.30K",
-          "fontSize": 16,
+          "text": "TENNIS",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#FBD38D",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
+         },
+         {
+          "type": "spacer",
+          "height": 4
+         },
+         {
+          "type": "text",
+          "text": "OCT 30",
+          "fontSize": 11,
           "fontWeight": "bold",
           "color": "#E8ECFF",
           "textAlign": "left",
           "lineLimit": 1,
-          "width": 130,
-          "height": 20
-         },
-         {
-          "type": "spacer"
-         },
-         {
-          "type": "stack",
-          "children": [
-           {
-            "type": "text",
-            "text": "100 TO GO",
-            "fontSize": 9,
-            "fontWeight": "bold",
-            "color": "#1B2340",
-            "textAlign": "center",
-            "lineLimit": 1
-           }
-          ],
-          "width": 78,
-          "height": 20,
-          "direction": "horizontal",
-          "padding": [
-           2,
-           8,
-           2,
-           8
-          ],
-          "backgroundColor": "#FBD38D",
-          "borderRadius": 10,
-          "url": "https://www.youtube.com/@exitfrequency"
+          "width": 80
          }
         ],
-        "width": 304,
-        "height": 20,
-        "direction": "horizontal"
+        "width": 100,
+        "height": 38,
+        "direction": "vertical",
+        "backgroundColor": "#1C2444",
+        "borderRadius": 11,
+        "padding": [
+         8,
+         10,
+         8,
+         10
+        ],
+        "url": "https://calendar.google.com"
        }
-      ],
-      "width": 324,
-      "height": 46,
-      "direction": "vertical",
-      "padding": [
-       6,
-       10,
-       6,
-       10
-      ],
-      "backgroundColor": "#1C2444",
-      "borderRadius": 10
+      ]
      },
      {
       "type": "spacer",
-      "height": 8
+      "width": 10
      },
      {
       "type": "stack",
+      "width": 104,
+      "height": 84,
+      "direction": "vertical",
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "stack",
+        "width": 84,
+        "height": 84,
+        "direction": "vertical",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "backgroundColor": "#FBD38D",
+        "borderRadius": 42,
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+         {
+          "type": "text",
+          "text": "EXIT",
+          "fontSize": 8,
+          "fontWeight": "bold",
+          "color": "#8A6A2B",
+          "textAlign": "center",
+          "lineLimit": 1,
+          "width": 60
+         },
+         {
+          "type": "text",
+          "text": "10.30K",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "color": "#1B2340",
+          "textAlign": "center",
+          "lineLimit": 1,
+          "width": 76
+         },
+         {
+          "type": "text",
+          "text": "100 TO GO",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#1B2340",
+          "textAlign": "center",
+          "lineLimit": 1,
+          "width": 76
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "width": 100,
+      "height": 84,
+      "direction": "vertical",
       "children": [
        {
         "type": "stack",
         "children": [
          {
-          "type": "stack",
-          "children": [
-           {
-            "type": "text",
-            "text": "MAIL",
-            "fontSize": 9,
-            "fontWeight": "bold",
-            "color": "#FBD38D",
-            "textAlign": "left",
-            "lineLimit": 1,
-            "width": 50
-           },
-           {
-            "type": "spacer"
-           },
-           {
-            "type": "text",
-            "text": "QUIET",
-            "fontSize": 11,
-            "fontWeight": "bold",
-            "color": "#E8ECFF",
-            "textAlign": "right",
-            "lineLimit": 1,
-            "width": 70
-           }
-          ],
-          "width": 137,
-          "height": 22,
-          "direction": "horizontal"
+          "type": "text",
+          "text": "SIGNALS",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#FBD38D",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
+         },
+         {
+          "type": "spacer",
+          "height": 4
+         },
+         {
+          "type": "text",
+          "text": "LIVE \u2192 X",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#E8ECFF",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
          }
         ],
-        "width": 157,
-        "height": 30,
-        "direction": "horizontal",
+        "width": 100,
+        "height": 38,
+        "direction": "vertical",
+        "backgroundColor": "#1C2444",
+        "borderRadius": 11,
         "padding": [
-         4,
+         8,
          10,
-         4,
+         8,
          10
         ],
-        "backgroundColor": "#1C2444",
-        "borderRadius": 10,
-        "url": "https://mail.google.com/mail/u/0/#inbox"
+        "url": "https://x.com/search?q=Messenger+Android"
        },
        {
         "type": "spacer",
-        "width": 10
+        "height": 8
        },
        {
         "type": "stack",
         "children": [
          {
-          "type": "stack",
-          "children": [
-           {
-            "type": "text",
-            "text": "TENNIS",
-            "fontSize": 9,
-            "fontWeight": "bold",
-            "color": "#FBD38D",
-            "textAlign": "left",
-            "lineLimit": 1,
-            "width": 60
-           },
-           {
-            "type": "spacer"
-           },
-           {
-            "type": "text",
-            "text": "OCT 30",
-            "fontSize": 11,
-            "fontWeight": "bold",
-            "color": "#E8ECFF",
-            "textAlign": "right",
-            "lineLimit": 1,
-            "width": 60
-           }
-          ],
-          "width": 137,
-          "height": 22,
-          "direction": "horizontal"
+          "type": "text",
+          "text": "MUSIC",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#FBD38D",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
+         },
+         {
+          "type": "spacer",
+          "height": 4
+         },
+         {
+          "type": "text",
+          "text": "KERALA",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#E8ECFF",
+          "textAlign": "left",
+          "lineLimit": 1,
+          "width": 80
          }
         ],
-        "width": 157,
-        "height": 30,
-        "direction": "horizontal",
+        "width": 100,
+        "height": 38,
+        "direction": "vertical",
+        "backgroundColor": "#1C2444",
+        "borderRadius": 11,
         "padding": [
-         4,
+         8,
          10,
-         4,
+         8,
          10
         ],
-        "backgroundColor": "#1C2444",
-        "borderRadius": 10
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
        }
-      ],
-      "width": 324,
-      "height": 30,
-      "direction": "horizontal"
+      ]
      }
-    ],
-    "width": 324,
-    "height": 84,
-    "direction": "vertical"
+    ]
    },
    {
     "type": "spacer",
-    "height": 10
+    "height": 8
    },
    {
     "type": "text",
-    "text": "QUIET MAIL \u2022 TENNIS 10/30",
+    "text": "EXIT 10.30K \u2022 100 TO GO \u2022 OCT 30",
     "fontSize": 9,
     "fontWeight": "bold",
     "color": "#8B93B8",
     "textAlign": "left",
     "lineLimit": 1,
     "width": 324,
-    "height": 16
+    "height": 18
    }
-  ],
-  "type": "stack",
-  "width": 324,
-  "height": 138,
-  "padding": [
-   8,
-   10,
-   8,
-   10
   ]
- },
- "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+ }
 }
