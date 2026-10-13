@@ -1,1 +1,263 @@
-{"mode": "native", "version": 5, "contentRevision": 1423, "updatedAt": "2026-10-13T19:41:33Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "widget": {"type": "stack", "width": 324, "height": 138, "direction": "vertical", "padding": [8, 10, 8, 10], "background": {"type": "linear", "colors": ["#2E4E79", "#0B1220"], "start": [0, 0], "end": [1, 1]}, "children": [{"type": "stack", "width": 324, "height": 18, "direction": "horizontal", "children": [{"type": "text", "text": "TORNADO \u2022 TUE 10.13", "fontSize": 11, "fontWeight": "bold", "color": "#FFFFFF", "textAlign": "left", "lineLimit": 1, "height": 16}, {"type": "spacer"}, {"type": "text", "text": "12:41P", "fontSize": 11, "fontWeight": "regular", "color": "#9DB4CC", "textAlign": "right", "lineLimit": 1, "height": 16}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 84, "direction": "horizontal", "children": [{"type": "stack", "width": 106, "height": 84, "direction": "vertical", "justifyContent": "center", "url": "https://mail.google.com/", "children": [{"type": "text", "text": "INBOX", "fontSize": 9, "fontWeight": "bold", "color": "#9DB4CC", "textAlign": "left", "lineLimit": 1, "height": 11}, {"type": "spacer", "height": 3}, {"type": "text", "text": "QUIET", "fontSize": 17, "fontWeight": "bold", "color": "#FFFFFF", "textAlign": "left", "lineLimit": 1, "height": 21}, {"type": "spacer", "height": 3}, {"type": "text", "text": "12 ROUTINE", "fontSize": 9, "fontWeight": "regular", "color": "#9DB4CC", "textAlign": "left", "lineLimit": 1, "height": 11}]}, {"type": "spacer", "width": 8}, {"type": "stack", "width": 96, "height": 84, "direction": "vertical", "justifyContent": "center", "alignItems": "center", "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "stack", "width": 84, "height": 84, "direction": "vertical", "justifyContent": "center", "alignItems": "center", "backgroundGradient": {"colors": ["#3E7ED6", "#12294E"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "borderRadius": 42, "children": [{"type": "text", "text": "100", "fontSize": 20, "fontWeight": "bold", "color": "#FFFFFF", "textAlign": "center", "lineLimit": 1, "height": 24}, {"type": "text", "text": "TO GO", "fontSize": 9, "fontWeight": "bold", "color": "#FFC53D", "textAlign": "center", "lineLimit": 1, "height": 11}]}]}, {"type": "spacer", "width": 8}, {"type": "stack", "width": 106, "height": 84, "direction": "vertical", "justifyContent": "center", "url": "https://www.google.com/maps/search/?api=1&query=Stern+Grove+San+Francisco", "children": [{"type": "text", "text": "OCT 25", "fontSize": 9, "fontWeight": "bold", "color": "#9DB4CC", "textAlign": "right", "lineLimit": 1, "height": 11}, {"type": "spacer", "height": 3}, {"type": "text", "text": "GROVE", "fontSize": 17, "fontWeight": "bold", "color": "#FFFFFF", "textAlign": "right", "lineLimit": 1, "height": 21}, {"type": "spacer", "height": 3}, {"type": "text", "text": "SUN 3P RALLY", "fontSize": 9, "fontWeight": "regular", "color": "#9DB4CC", "textAlign": "right", "lineLimit": 1, "height": 11}]}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 16, "direction": "horizontal", "children": [{"type": "text", "text": "10.30K EXIT FREQ \u2022 INBOX QUIET \u2022 OCT 25", "fontSize": 10, "fontWeight": "regular", "color": "#9DB4CC", "textAlign": "center", "lineLimit": 1, "height": 14}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1424,
+ "updatedAt": "2026-10-13T20:47:00Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "widget": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "direction": "vertical",
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "background": {
+   "type": "linear",
+   "colors": [
+    "#EAF6FB",
+    "#C9E4F2"
+   ],
+   "start": [
+    0,
+    0
+   ],
+   "end": [
+    1,
+    1
+   ]
+  },
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "text",
+      "text": "TORNADO \u2022 TUE 10.13",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#16324A",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 16
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "1:47P",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "color": "#5C7A8F",
+      "textAlign": "right",
+      "lineLimit": 1,
+      "height": 16
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 52,
+    "direction": "vertical",
+    "padding": [
+     6,
+     12,
+     6,
+     12
+    ],
+    "cornerRadius": 12,
+    "background": {
+     "type": "linear",
+     "colors": [
+      "#0EA5E9",
+      "#0369A1"
+     ],
+     "start": [
+      0,
+      0
+     ],
+     "end": [
+      1,
+      1
+     ]
+    },
+    "url": "https://www.youtube.com/@exitfrequency",
+    "children": [
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 14,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 14
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "10,300",
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#FFFFFF",
+        "textAlign": "right",
+        "lineLimit": 1,
+        "height": 14
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 4
+     },
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 8,
+      "direction": "horizontal",
+      "backgroundColor": "#FFFFFF40",
+      "cornerRadius": 4,
+      "children": [
+       {
+        "type": "stack",
+        "width": 225,
+        "height": 8,
+        "backgroundColor": "#FFFFFF",
+        "cornerRadius": 4
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 4
+     },
+     {
+      "type": "text",
+      "text": "100 TO GO \u2022 10.4K MILESTONE",
+      "fontSize": 9,
+      "fontWeight": "regular",
+      "color": "#E3F2FD",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 12
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 6
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 26,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "stack",
+      "width": 157,
+      "height": 26,
+      "direction": "vertical",
+      "justifyContent": "center",
+      "padding": [
+       4,
+       8,
+       4,
+       8
+      ],
+      "backgroundColor": "#FFFFFF",
+      "cornerRadius": 10,
+      "url": "https://mail.google.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "\u2709 QUIET",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#16324A",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 15
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "width": 10
+     },
+     {
+      "type": "stack",
+      "width": 157,
+      "height": 26,
+      "direction": "vertical",
+      "justifyContent": "center",
+      "padding": [
+       4,
+       8,
+       4,
+       8
+      ],
+      "backgroundColor": "#FFFFFF",
+      "cornerRadius": 10,
+      "url": "https://mail.google.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "\u2615 12:14P",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#16324A",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 15
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 16,
+    "direction": "horizontal",
+    "justifyContent": "center",
+    "children": [
+     {
+      "type": "text",
+      "text": "exit 100 to go \u2022 inbox quiet",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#5C7A8F",
+      "textAlign": "center",
+      "lineLimit": 1,
+      "height": 14
+     }
+    ]
+   }
+  ]
+ }
+}
