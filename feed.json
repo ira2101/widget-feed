@@ -1,529 +1,355 @@
 {
- "mode": "native",
- "version": 5,
- "contentRevision": 1420,
- "updatedAt": "2026-10-13T15:39:35Z",
- "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "widget": {
-  "type": "stack",
-  "width": 324,
-  "height": 138,
-  "direction": "vertical",
-  "padding": [
-   8,
-   10,
-   8,
-   10
-  ],
-  "backgroundGradient": {
-   "colors": [
-    "#4A2C4F",
-    "#10101E"
-   ],
-   "startPoint": {
-    "x": 0,
-    "y": 0
-   },
-   "endPoint": {
-    "x": 1,
-    "y": 1
-   },
-   "locations": [
-    0,
-    1
-   ]
-  },
-  "children": [
-   {
+  "mode": "native",
+  "version": 5,
+  "contentRevision": 1421,
+  "updatedAt": "2026-10-13T16:40:31Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "widget": {
     "type": "stack",
     "width": 324,
-    "height": 18,
-    "direction": "horizontal",
-    "children": [
-     {
-      "type": "text",
-      "text": "TORNADO \u2022 TUE 10.13",
-      "fontSize": 11,
-      "fontWeight": "bold",
-      "color": "#F3E6FF",
-      "textAlign": "left",
-      "lineLimit": 1,
-      "height": 16
-     },
-     {
-      "type": "spacer"
-     },
-     {
-      "type": "text",
-      "text": "8:38A",
-      "fontSize": 11,
-      "fontWeight": "regular",
-      "color": "#B79BD8",
-      "textAlign": "right",
-      "lineLimit": 1,
-      "height": 16
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 10
-   },
-   {
-    "type": "stack",
-    "width": 324,
-    "height": 84,
+    "height": 138,
     "direction": "vertical",
-    "padding": [
-     8,
-     10,
-     8,
-     10
-    ],
-    "borderRadius": 14,
-    "backgroundGradient": {
-     "colors": [
-      "#5A3A28",
-      "#1A1220"
-     ],
-     "startPoint": {
-      "x": 0,
-      "y": 0
-     },
-     "endPoint": {
-      "x": 1,
-      "y": 1
-     },
-     "locations": [
-      0,
-      1
-     ]
-    },
     "children": [
-     {
-      "type": "stack",
-      "width": 304,
-      "height": 13,
-      "direction": "horizontal",
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#FFD9A0",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 13
-       },
-       {
-        "type": "spacer"
-       },
-       {
+      {
         "type": "stack",
-        "width": 76,
+        "width": 324,
         "height": 18,
-        "borderRadius": 9,
-        "alignItems": "center",
-        "justifyContent": "center",
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        },
+        "direction": "horizontal",
         "children": [
-         {
-          "type": "text",
-          "text": "100 TO GO",
-          "fontSize": 9,
-          "fontWeight": "bold",
-          "color": "#2A1B0E",
-          "textAlign": "center",
-          "lineLimit": 1,
-          "height": 13
-         }
+          {
+            "type": "text",
+            "text": "TORNADO \u00b7 TUE 10.13",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#F3E6FD",
+            "textAlign": "left",
+            "lineLimit": 1,
+            "height": 16
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "9:38A",
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "#B79BD8",
+            "textAlign": "right",
+            "lineLimit": 1,
+            "height": 16
+          }
         ]
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 3
-     },
-     {
-      "type": "stack",
-      "width": 304,
-      "height": 24,
-      "direction": "horizontal",
-      "children": [
-       {
-        "type": "text",
-        "text": "10.30K",
-        "fontSize": 22,
-        "fontWeight": "bold",
-        "color": "#FFF7ED",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 24
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "10.4K next",
-        "fontSize": 10,
-        "fontWeight": "regular",
-        "color": "#C8A87C",
-        "textAlign": "right",
-        "lineLimit": 1,
-        "height": 14
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 3
-     },
-     {
-      "type": "stack",
-      "width": 304,
-      "height": 25,
-      "direction": "horizontal",
-      "alignItems": "end",
-      "justifyContent": "center",
-      "children": [
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 10,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
+      },
+      {
         "type": "spacer",
-        "width": 4
-       },
-       {
+        "height": 10
+      },
+      {
         "type": "stack",
-        "width": 12,
-        "height": 12,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
+        "width": 324,
+        "height": 84,
+        "direction": "vertical",
+        "children": [
+          {
+            "type": "stack",
+            "width": 324,
+            "height": 37,
+            "direction": "horizontal",
+            "children": [
+              {
+                "type": "stack",
+                "width": 304,
+                "height": 25,
+                "direction": "horizontal",
+                "children": [
+                  {
+                    "type": "stack",
+                    "width": 198,
+                    "height": 25,
+                    "direction": "vertical",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "EXIT FREQUENCY",
+                        "fontSize": 11,
+                        "fontWeight": "bold",
+                        "color": "#F5D67B",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 13
+                      },
+                      {
+                        "type": "text",
+                        "text": "10.30K subs \u00b7 next 10.4K",
+                        "fontSize": 10,
+                        "fontWeight": "regular",
+                        "color": "#E8D9A8",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 12
+                      }
+                    ],
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  {
+                    "type": "spacer"
+                  },
+                  {
+                    "type": "stack",
+                    "width": 106,
+                    "height": 25,
+                    "direction": "vertical",
+                    "children": [
+                      {
+                        "type": "spacer",
+                        "height": 1
+                      },
+                      {
+                        "type": "stack",
+                        "width": 86,
+                        "height": 22,
+                        "direction": "horizontal",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "100 TO GO",
+                            "fontSize": 10,
+                            "fontWeight": "bold",
+                            "color": "#2A1F0A",
+                            "textAlign": "center",
+                            "lineLimit": 1,
+                            "height": 18
+                          }
+                        ],
+                        "padding": [
+                          2,
+                          6,
+                          2,
+                          6
+                        ],
+                        "borderRadius": 11,
+                        "backgroundGradient": {
+                          "colors": [
+                            "#F5C542",
+                            "#E0A32E"
+                          ],
+                          "startPoint": {
+                            "x": 0,
+                            "y": 0
+                          },
+                          "endPoint": {
+                            "x": 1,
+                            "y": 1
+                          },
+                          "locations": [
+                            0,
+                            1
+                          ]
+                        }
+                      }
+                    ],
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  }
+                ]
+              }
+            ],
+            "padding": [
+              6,
+              10,
+              6,
+              10
+            ],
+            "borderRadius": 14,
+            "backgroundGradient": {
+              "colors": [
+                "#33230D",
+                "#171208"
+              ],
+              "startPoint": {
+                "x": 0,
+                "y": 0
+              },
+              "endPoint": {
+                "x": 1,
+                "y": 1
+              },
+              "locations": [
+                0,
+                1
+              ]
+            },
+            "url": "https://www.youtube.com/@exitfrequency"
+          },
+          {
+            "type": "spacer",
+            "height": 10
+          },
+          {
+            "type": "stack",
+            "width": 324,
+            "height": 37,
+            "direction": "horizontal",
+            "children": [
+              {
+                "type": "stack",
+                "width": 304,
+                "height": 25,
+                "direction": "horizontal",
+                "children": [
+                  {
+                    "type": "stack",
+                    "width": 160,
+                    "height": 25,
+                    "direction": "vertical",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "MAIL QUIET",
+                        "fontSize": 11,
+                        "fontWeight": "bold",
+                        "color": "#DCE6FF",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 13
+                      },
+                      {
+                        "type": "text",
+                        "text": "2 routine, nothing urgent",
+                        "fontSize": 10,
+                        "fontWeight": "regular",
+                        "color": "#9AA7C7",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 12
+                      }
+                    ]
+                  },
+                  {
+                    "type": "spacer"
+                  },
+                  {
+                    "type": "stack",
+                    "width": 144,
+                    "height": 25,
+                    "direction": "vertical",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "OCT 25 GROVE",
+                        "fontSize": 11,
+                        "fontWeight": "bold",
+                        "color": "#A8D8B9",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 13
+                      },
+                      {
+                        "type": "text",
+                        "text": "SUN 3P tennis rally",
+                        "fontSize": 10,
+                        "fontWeight": "regular",
+                        "color": "#8FA89B",
+                        "textAlign": "left",
+                        "lineLimit": 1,
+                        "height": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "padding": [
+              6,
+              10,
+              6,
+              10
+            ],
+            "borderRadius": 14,
+            "backgroundGradient": {
+              "colors": [
+                "#16213B",
+                "#0E1424"
+              ],
+              "startPoint": {
+                "x": 0,
+                "y": 0
+              },
+              "endPoint": {
+                "x": 1,
+                "y": 1
+              },
+              "locations": [
+                0,
+                1
+              ]
+            },
+            "url": "https://mail.google.com"
+          }
+        ]
+      },
+      {
         "type": "spacer",
-        "width": 4
-       },
-       {
+        "height": 10
+      },
+      {
         "type": "stack",
-        "width": 12,
-        "height": 13,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 15,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
+        "width": 324,
         "height": 16,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 18,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 20,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 21,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 23,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F7B95C",
-         "to": "#F7B95C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 25,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 26,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 28,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 29,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 31,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 32,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 33,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 34,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 35,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 12,
-        "height": 36,
-        "borderRadius": 6,
-        "background": {
-         "type": "gradient",
-         "angle": 90,
-         "from": "#F78C5C",
-         "to": "#F78C5C"
-        }
-       }
-      ]
-     }
+        "direction": "horizontal",
+        "children": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "10.30K \u00b7 MAIL QUIET \u00b7 OCT 25",
+            "fontSize": 10,
+            "fontWeight": "regular",
+            "color": "#B7A9C9",
+            "textAlign": "center",
+            "lineLimit": 1,
+            "height": 14
+          },
+          {
+            "type": "spacer"
+          }
+        ]
+      }
     ],
-    "url": "https://www.youtube.com/@exitfrequency"
-   },
-   {
-    "type": "spacer",
-    "height": 10
-   },
-   {
-    "type": "stack",
-    "width": 324,
-    "height": 16,
-    "direction": "horizontal",
-    "children": [
-     {
-      "type": "text",
-      "text": "10.30K / MAIL QUIET / OCT 25 SUN",
-      "fontSize": 10,
-      "fontWeight": "regular",
-      "color": "#B79BD8",
-      "textAlign": "left",
-      "lineLimit": 1,
-      "height": 14
-     },
-     {
-      "type": "spacer"
-     }
-    ]
-   }
-  ]
- }
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "backgroundGradient": {
+      "colors": [
+        "#3A5A8C",
+        "#0E1226"
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0
+      },
+      "endPoint": {
+        "x": 1,
+        "y": 1
+      },
+      "locations": [
+        0,
+        1
+      ]
+    }
+  }
 }
