@@ -1,14 +1,20 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1440,
- "updatedAt": "2026-10-14T12:39:21Z",
+ "contentRevision": 1441,
+ "updatedAt": "2026-10-14T13:40:46Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "widget": {
   "type": "stack",
   "width": 324,
   "height": 138,
   "direction": "vertical",
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
   "children": [
    {
     "type": "stack",
@@ -18,10 +24,10 @@
     "children": [
      {
       "type": "text",
-      "text": "TORNADO \u2022 WED 10.14",
+      "text": "TORNADO  WED 10.14",
       "fontSize": 11,
       "fontWeight": "bold",
-      "color": "#E9F0FF",
+      "color": "#F3E3C6",
       "textAlign": "left",
       "lineLimit": 1,
       "height": 16
@@ -31,10 +37,10 @@
      },
      {
       "type": "text",
-      "text": "5:38A",
+      "text": "6:38A",
       "fontSize": 11,
       "fontWeight": "regular",
-      "color": "#93A9C2",
+      "color": "#B39A77",
       "textAlign": "right",
       "lineLimit": 1,
       "height": 16
@@ -52,209 +58,123 @@
     "direction": "vertical",
     "children": [
      {
-      "type": "stack",
-      "width": 300,
-      "height": 20,
-      "direction": "horizontal",
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 11,
-        "fontWeight": "bold",
-        "color": "#9AA7C7",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 15
-       },
-       {
-        "type": "spacer"
-       },
-       {
-        "type": "text",
-        "text": "10.30K",
-        "fontSize": 18,
-        "fontWeight": "bold",
-        "color": "#FFC76A",
-        "textAlign": "right",
-        "lineLimit": 1,
-        "height": 20
-       }
-      ]
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "EXIT FREQUENCY",
+      "fontSize": 10,
+      "fontWeight": "bold",
+      "color": "#FFD9A3",
+      "textAlign": "center",
+      "lineLimit": 1,
+      "height": 12
      },
      {
       "type": "spacer",
-      "height": 6
+      "height": 2
+     },
+     {
+      "type": "text",
+      "text": "10.30K",
+      "fontSize": 28,
+      "fontWeight": "bold",
+      "color": "#FFF6E4",
+      "textAlign": "center",
+      "lineLimit": 1,
+      "height": 32
+     },
+     {
+      "type": "spacer",
+      "height": 3
      },
      {
       "type": "stack",
-      "width": 300,
+      "width": 104,
       "height": 18,
       "direction": "horizontal",
       "children": [
        {
-        "type": "stack",
-        "width": 79,
-        "height": 18,
-        "direction": "vertical",
-        "children": [
-         {
-          "type": "text",
-          "text": "100 TO GO",
-          "fontSize": 10,
-          "fontWeight": "bold",
-          "color": "#FFC76A",
-          "textAlign": "center",
-          "lineLimit": 1,
-          "height": 12
-         }
-        ],
-        "borderRadius": 9,
-        "padding": [
-         3,
-         10,
-         3,
-         10
-        ],
-        "backgroundGradient": {
-         "colors": [
-          "#2A1E08",
-          "#2A1E08"
-         ],
-         "startPoint": {
-          "x": 0,
-          "y": 0
-         },
-         "endPoint": {
-          "x": 1,
-          "y": 1
-         },
-         "locations": [
-          0,
-          1
-         ]
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 10
-       },
-       {
-        "type": "text",
-        "text": "10.4K NEXT",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#C9D4EE",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 14
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 300,
-      "height": 8,
-      "direction": "horizontal",
-      "children": [
-       {
-        "type": "stack",
-        "width": 150,
-        "height": 8,
-        "direction": "vertical",
-        "children": [],
-        "borderRadius": 4,
-        "backgroundGradient": {
-         "colors": [
-          "#FFC76A",
-          "#FFC76A"
-         ],
-         "startPoint": {
-          "x": 0,
-          "y": 0
-         },
-         "endPoint": {
-          "x": 1,
-          "y": 1
-         },
-         "locations": [
-          0,
-          1
-         ]
-        }
-       },
-       {
-        "type": "spacer",
-        "width": 150
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 300,
-      "height": 12,
-      "direction": "horizontal",
-      "children": [
-       {
-        "type": "text",
-        "text": "10.2K",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#5B6680",
-        "textAlign": "left",
-        "lineLimit": 1,
-        "height": 10
-       },
-       {
         "type": "spacer"
        },
        {
         "type": "text",
-        "text": "10.4K",
-        "fontSize": 9,
-        "fontWeight": "regular",
-        "color": "#5B6680",
-        "textAlign": "right",
+        "text": "100 TO GO",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FFC76A",
+        "textAlign": "center",
         "lineLimit": 1,
-        "height": 10
+        "height": 12
+       },
+       {
+        "type": "spacer"
        }
-      ]
+      ],
+      "borderRadius": 9,
+      "padding": [
+       3,
+       0,
+       3,
+       0
+      ],
+      "backgroundGradient": {
+       "colors": [
+        "#3A2412",
+        "#3A2412"
+       ],
+       "startPoint": {
+        "x": 0,
+        "y": 0
+       },
+       "endPoint": {
+        "x": 1,
+        "y": 1
+       },
+       "locations": [
+        0,
+        1
+       ]
+      }
+     },
+     {
+      "type": "spacer",
+      "height": 3
+     },
+     {
+      "type": "text",
+      "text": "10.4K NEXT",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#E8B98A",
+      "textAlign": "center",
+      "lineLimit": 1,
+      "height": 11
+     },
+     {
+      "type": "spacer"
      }
     ],
-    "url": "https://www.youtube.com/@exitfrequency",
     "borderRadius": 14,
-    "padding": [
-     8,
-     12,
-     8,
-     12
-    ],
     "backgroundGradient": {
      "colors": [
-      "#0E1430",
-      "#05070D"
+      "#7A4A2B",
+      "#24142A"
      ],
      "startPoint": {
       "x": 0,
       "y": 0
      },
      "endPoint": {
-      "x": 1,
+      "x": 0,
       "y": 1
      },
      "locations": [
       0,
       1
      ]
-    }
+    },
+    "url": "https://www.youtube.com/@exitfrequency"
    },
    {
     "type": "spacer",
@@ -274,7 +194,7 @@
       "text": "10.30K",
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "#8B96B5",
+      "color": "#D8C1A5",
       "textAlign": "left",
       "lineLimit": 1,
       "height": 14,
@@ -286,10 +206,10 @@
      },
      {
       "type": "text",
-      "text": "QUIET",
+      "text": "MAIL QUIET",
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "#8B96B5",
+      "color": "#D8C1A5",
       "textAlign": "left",
       "lineLimit": 1,
       "height": 14,
@@ -304,7 +224,7 @@
       "text": "OCT 25 RALLY",
       "fontSize": 10,
       "fontWeight": "regular",
-      "color": "#8B96B5",
+      "color": "#D8C1A5",
       "textAlign": "left",
       "lineLimit": 1,
       "height": 14,
@@ -315,12 +235,6 @@
      }
     ]
    }
-  ],
-  "padding": [
-   8,
-   10,
-   8,
-   10
   ]
  }
 }
