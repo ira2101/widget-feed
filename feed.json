@@ -1,1 +1,326 @@
-{"mode": "native", "version": 5, "contentRevision": 1439, "updatedAt": "2026-10-14T11:39:15Z", "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "widget": {"type": "stack", "width": 324, "height": 138, "direction": "vertical", "padding": [8, 10, 8, 10], "backgroundGradient": {"colors": ["#0C1233", "#060913"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "children": [{"type": "stack", "width": 324, "height": 18, "direction": "horizontal", "children": [{"type": "text", "text": "TORNADO • WED 10.14", "fontSize": 11, "fontWeight": "bold", "color": "#E9F0FF", "textAlign": "left", "lineLimit": 1, "height": 16}, {"type": "spacer"}, {"type": "text", "text": "4:39A", "fontSize": 11, "fontWeight": "regular", "color": "#93A9C2", "textAlign": "right", "lineLimit": 1, "height": 16}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 84, "direction": "horizontal", "children": [{"type": "stack", "width": 194, "height": 84, "direction": "vertical", "borderRadius": 11, "padding": [8, 10, 8, 10], "backgroundGradient": {"colors": ["#1B2150", "#101536"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "EXIT FREQUENCY", "fontSize": 9, "fontWeight": "bold", "color": "#9AA7C7", "textAlign": "left", "lineLimit": 1, "height": 11}, {"type": "spacer", "height": 2}, {"type": "text", "text": "10.30K", "fontSize": 25, "fontWeight": "bold", "color": "#FFC76A", "textAlign": "left", "lineLimit": 1, "height": 28}, {"type": "spacer", "height": 3}, {"type": "stack", "width": 170, "height": 6, "direction": "horizontal", "children": [{"type": "stack", "width": 85, "height": 6, "borderRadius": 3, "backgroundGradient": {"colors": ["#FFC76A", "#E89B3D"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 0}, "locations": [0, 1]}, "children": []}, {"type": "stack", "width": 85, "height": 6, "children": []}]}, {"type": "spacer", "height": 3}, {"type": "text", "text": "100 TO GO", "fontSize": 10, "fontWeight": "bold", "color": "#FFC76A", "textAlign": "left", "lineLimit": 1, "height": 13}]}, {"type": "spacer", "width": 10}, {"type": "stack", "width": 120, "height": 84, "direction": "vertical", "children": [{"type": "stack", "width": 120, "height": 38, "direction": "vertical", "borderRadius": 10, "padding": [5, 6, 5, 6], "backgroundGradient": {"colors": ["#141B3D", "#0B0F24"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "url": "https://mail.google.com", "children": [{"type": "text", "text": "MAIL QUIET", "fontSize": 10, "fontWeight": "bold", "color": "#7FD8C6", "textAlign": "center", "lineLimit": 1, "height": 12}, {"type": "spacer", "height": 2}, {"type": "text", "text": "201 INBOX", "fontSize": 8, "fontWeight": "regular", "color": "#8B96B5", "textAlign": "center", "lineLimit": 1, "height": 10}]}, {"type": "spacer", "height": 8}, {"type": "stack", "width": 120, "height": 38, "direction": "vertical", "borderRadius": 10, "padding": [5, 6, 5, 6], "backgroundGradient": {"colors": ["#141B3D", "#0B0F24"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "url": "https://www.google.com/maps/search/Stern+Grove+San+Francisco", "children": [{"type": "text", "text": "OCT 25", "fontSize": 10, "fontWeight": "bold", "color": "#B79CFF", "textAlign": "center", "lineLimit": 1, "height": 12}, {"type": "spacer", "height": 2}, {"type": "text", "text": "GROVE RALLY 3P", "fontSize": 8, "fontWeight": "regular", "color": "#8B96B5", "textAlign": "center", "lineLimit": 1, "height": 10}]}]}]}, {"type": "spacer", "height": 10}, {"type": "stack", "width": 324, "height": 16, "direction": "horizontal", "children": [{"type": "text", "text": "10.30K • QUIET • OCT 25", "fontSize": 10, "fontWeight": "regular", "color": "#8B96B5", "textAlign": "center", "lineLimit": 1, "height": 14}]}]}}
+{
+ "mode": "native",
+ "version": 5,
+ "contentRevision": 1440,
+ "updatedAt": "2026-10-14T12:39:21Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "widget": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "direction": "vertical",
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "text",
+      "text": "TORNADO \u2022 WED 10.14",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#E9F0FF",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 16
+     },
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "5:38A",
+      "fontSize": 11,
+      "fontWeight": "regular",
+      "color": "#93A9C2",
+      "textAlign": "right",
+      "lineLimit": 1,
+      "height": 16
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 84,
+    "direction": "vertical",
+    "children": [
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 20,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#9AA7C7",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 15
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "10.30K",
+        "fontSize": 18,
+        "fontWeight": "bold",
+        "color": "#FFC76A",
+        "textAlign": "right",
+        "lineLimit": 1,
+        "height": 20
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 6
+     },
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 18,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "stack",
+        "width": 79,
+        "height": 18,
+        "direction": "vertical",
+        "children": [
+         {
+          "type": "text",
+          "text": "100 TO GO",
+          "fontSize": 10,
+          "fontWeight": "bold",
+          "color": "#FFC76A",
+          "textAlign": "center",
+          "lineLimit": 1,
+          "height": 12
+         }
+        ],
+        "borderRadius": 9,
+        "padding": [
+         3,
+         10,
+         3,
+         10
+        ],
+        "backgroundGradient": {
+         "colors": [
+          "#2A1E08",
+          "#2A1E08"
+         ],
+         "startPoint": {
+          "x": 0,
+          "y": 0
+         },
+         "endPoint": {
+          "x": 1,
+          "y": 1
+         },
+         "locations": [
+          0,
+          1
+         ]
+        }
+       },
+       {
+        "type": "spacer",
+        "width": 10
+       },
+       {
+        "type": "text",
+        "text": "10.4K NEXT",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#C9D4EE",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 14
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 6
+     },
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 8,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "stack",
+        "width": 150,
+        "height": 8,
+        "direction": "vertical",
+        "children": [],
+        "borderRadius": 4,
+        "backgroundGradient": {
+         "colors": [
+          "#FFC76A",
+          "#FFC76A"
+         ],
+         "startPoint": {
+          "x": 0,
+          "y": 0
+         },
+         "endPoint": {
+          "x": 1,
+          "y": 1
+         },
+         "locations": [
+          0,
+          1
+         ]
+        }
+       },
+       {
+        "type": "spacer",
+        "width": 150
+       }
+      ]
+     },
+     {
+      "type": "spacer",
+      "height": 6
+     },
+     {
+      "type": "stack",
+      "width": 300,
+      "height": 12,
+      "direction": "horizontal",
+      "children": [
+       {
+        "type": "text",
+        "text": "10.2K",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#5B6680",
+        "textAlign": "left",
+        "lineLimit": 1,
+        "height": 10
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "text",
+        "text": "10.4K",
+        "fontSize": 9,
+        "fontWeight": "regular",
+        "color": "#5B6680",
+        "textAlign": "right",
+        "lineLimit": 1,
+        "height": 10
+       }
+      ]
+     }
+    ],
+    "url": "https://www.youtube.com/@exitfrequency",
+    "borderRadius": 14,
+    "padding": [
+     8,
+     12,
+     8,
+     12
+    ],
+    "backgroundGradient": {
+     "colors": [
+      "#0E1430",
+      "#05070D"
+     ],
+     "startPoint": {
+      "x": 0,
+      "y": 0
+     },
+     "endPoint": {
+      "x": 1,
+      "y": 1
+     },
+     "locations": [
+      0,
+      1
+     ]
+    }
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 16,
+    "direction": "horizontal",
+    "children": [
+     {
+      "type": "spacer"
+     },
+     {
+      "type": "text",
+      "text": "10.30K",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#8B96B5",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 14,
+      "url": "https://www.youtube.com/@exitfrequency"
+     },
+     {
+      "type": "spacer",
+      "width": 16
+     },
+     {
+      "type": "text",
+      "text": "QUIET",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#8B96B5",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 14,
+      "url": "https://mail.google.com"
+     },
+     {
+      "type": "spacer",
+      "width": 16
+     },
+     {
+      "type": "text",
+      "text": "OCT 25 RALLY",
+      "fontSize": 10,
+      "fontWeight": "regular",
+      "color": "#8B96B5",
+      "textAlign": "left",
+      "lineLimit": 1,
+      "height": 14,
+      "url": "https://www.google.com/maps/search/Stern+Grove+San+Francisco"
+     },
+     {
+      "type": "spacer"
+     }
+    ]
+   }
+  ],
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ]
+ }
+}
