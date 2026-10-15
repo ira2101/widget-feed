@@ -1,18 +1,18 @@
 {
   "mode": "native",
   "version": 5,
-  "contentRevision": 1468,
-  "updatedAt": "2026-10-15T16:39:47Z",
+  "contentRevision": 1469,
+  "updatedAt": "2026-10-15T17:39:38Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "root": {
     "type": "stack",
     "width": 324,
     "height": 138,
-    "backgroundColor": "#0D1117",
+    "backgroundColor": "#0A0F1E",
     "backgroundGradient": {
       "colors": [
-        "#2E3B55",
-        "#0D1117"
+        "#1B2440",
+        "#0A0F1E"
       ]
     },
     "padding": [
@@ -54,7 +54,7 @@
           },
           {
             "type": "text",
-            "text": "9:39A",
+            "text": "10:38A",
             "fontSize": 9,
             "color": "#9AA7C4"
           }
@@ -65,51 +65,52 @@
         "height": 10
       },
       {
-        "type": "stack",
+        "type": "row",
         "width": 324,
         "height": 84,
-        "backgroundColor": "#1E2A45",
-        "backgroundGradient": {
-          "colors": [
-            "#2A3A5E",
-            "#121A30"
-          ]
-        },
-        "cornerRadius": 12,
-        "padding": [
-          10,
-          14,
-          10,
-          14
-        ],
-        "tapUrl": "https://www.youtube.com/@exitfrequency",
         "children": [
           {
-            "type": "row",
-            "width": 296,
-            "height": 30,
-            "alignItems": "center",
-            "justifyContent": "space-between",
+            "type": "stack",
+            "width": 194,
+            "height": 84,
+            "backgroundColor": "#121A30",
+            "backgroundGradient": {
+              "colors": [
+                "#2A3A5E",
+                "#121A30"
+              ]
+            },
+            "cornerRadius": 12,
+            "padding": [
+              10,
+              14,
+              10,
+              14
+            ],
+            "tapUrl": "https://www.youtube.com/@exitfrequency",
             "children": [
               {
-                "type": "column",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "EXIT FREQUENCY",
-                    "fontSize": 9,
-                    "fontWeight": "bold",
-                    "color": "#9AA7C4",
-                    "letterSpacing": 1.5
-                  },
-                  {
-                    "type": "text",
-                    "text": "10.30K",
-                    "fontSize": 20,
-                    "fontWeight": "bold",
-                    "color": "#E8B84B"
-                  }
-                ]
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#9AA7C4",
+                "letterSpacing": 1.5
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "10.30K",
+                "fontSize": 22,
+                "fontWeight": "bold",
+                "color": "#E8B84B"
+              },
+              {
+                "type": "spacer",
+                "height": 6
               },
               {
                 "type": "stack",
@@ -135,193 +136,70 @@
           },
           {
             "type": "spacer",
-            "height": 4
+            "width": 10
           },
           {
-            "type": "row",
-            "width": 296,
-            "height": 25,
-            "alignItems": "center",
-            "justifyContent": "center",
+            "type": "stack",
+            "width": 120,
+            "height": 84,
+            "backgroundColor": "#101B2E",
+            "backgroundGradient": {
+              "colors": [
+                "#1D2C4B",
+                "#101B2E"
+              ]
+            },
+            "cornerRadius": 12,
+            "padding": [
+              10,
+              8,
+              10,
+              8
+            ],
             "children": [
               {
-                "type": "row",
-                "height": 25,
-                "alignItems": "flex-end",
-                "children": [
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 8,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 11,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 14,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 17,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 19,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 21,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 22,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 23,
-                    "backgroundColor": "#E8B84B",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 22,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 21,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 19,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 17,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 15,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 13,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 11,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 4
-                  },
-                  {
-                    "type": "rect",
-                    "width": 12,
-                    "height": 9,
-                    "backgroundColor": "#3A4660",
-                    "cornerRadius": 6
-                  }
-                ]
+                "type": "text",
+                "text": "ALERTS",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#9AA7C4",
+                "letterSpacing": 1.5
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "MAIL QUIET",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#7DD3C0",
+                "tapUrl": "https://mail.google.com"
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "AMEX $120",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#FFFFFF",
+                "tapUrl": "https://www.americanexpress.com"
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "SAT 10A",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#9AA7C4",
+                "tapUrl": "https://maps.apple.com/?q=Bay+Padel+SF"
               }
             ]
           }
@@ -348,15 +226,7 @@
           },
           {
             "type": "text",
-            "text": "TAX TODAY",
-            "fontSize": 9,
-            "fontWeight": "bold",
-            "color": "#F2A35E",
-            "tapUrl": "https://turbotax.intuit.com"
-          },
-          {
-            "type": "text",
-            "text": "MAIL QUIET",
+            "text": "MAIL ->",
             "fontSize": 9,
             "fontWeight": "bold",
             "color": "#7DD3C0",
@@ -364,7 +234,15 @@
           },
           {
             "type": "text",
-            "text": "SAT 10A",
+            "text": "TAX ->",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "color": "#F2A35E",
+            "tapUrl": "https://turbotax.intuit.com"
+          },
+          {
+            "type": "text",
+            "text": "SAT 10A ->",
             "fontSize": 9,
             "fontWeight": "bold",
             "color": "#9AA7C4",
