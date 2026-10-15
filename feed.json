@@ -1,7 +1,7 @@
 {
- "contentRevision": 1458,
+ "contentRevision": 1459,
  "mode": "native",
- "updatedAt": "2026-10-15T06:39:25Z",
+ "updatedAt": "2026-10-15T07:39:15Z",
  "version": 5,
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "widget": {
@@ -17,8 +17,8 @@
   ],
   "backgroundGradient": {
    "colors": [
-    "#101A30",
-    "#070A14"
+    "#1C1226",
+    "#0A0612"
    ],
    "startPoint": {
     "x": 0,
@@ -43,10 +43,10 @@
     "children": [
      {
       "type": "text",
-      "text": "TORNADO \u2022 WED 10.14",
+      "text": "TORNADO \u2022 THU 10.15",
       "fontSize": 11,
       "fontWeight": "bold",
-      "color": "#DCE6FF",
+      "color": "#E5DDF5",
       "lineLimit": 1
      },
      {
@@ -54,10 +54,10 @@
      },
      {
       "type": "text",
-      "text": "11:39P",
+      "text": "12:39A",
       "fontSize": 11,
       "fontWeight": "regular",
-      "color": "#8FA0C9",
+      "color": "#A99CC9",
       "lineLimit": 1
      }
     ]
@@ -68,14 +68,14 @@
    },
    {
     "type": "stack",
-    "direction": "horizontal",
+    "direction": "vertical",
     "width": 324,
-    "height": 37,
-    "cornerRadius": 12,
+    "height": 84,
+    "cornerRadius": 14,
     "backgroundGradient": {
      "colors": [
-      "#1E2652",
-      "#0C1128"
+      "#2A1B3D",
+      "#120B1E"
      ],
      "startPoint": {
       "x": 0,
@@ -92,118 +92,254 @@
     },
     "padding": [
      8,
-     10,
-     8,
-     10
+     12,
+     12,
+     12
     ],
     "url": "https://www.youtube.com/@exitfrequency",
     "children": [
      {
-      "type": "text",
-      "text": "EXIT FREQUENCY",
-      "fontSize": 10,
-      "fontWeight": "bold",
-      "color": "#8FA0C9",
-      "lineLimit": 1
+      "type": "stack",
+      "direction": "horizontal",
+      "width": 300,
+      "height": 16,
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#A99CC9",
+        "lineLimit": 1
+       },
+       {
+        "type": "spacer"
+       },
+       {
+        "type": "stack",
+        "direction": "horizontal",
+        "cornerRadius": 8,
+        "backgroundColor": "#6E4E12",
+        "padding": [
+         3,
+         9,
+         3,
+         9
+        ],
+        "children": [
+         {
+          "type": "text",
+          "text": "100 TO GO",
+          "fontSize": 9,
+          "fontWeight": "bold",
+          "color": "#FFE9B8",
+          "lineLimit": 1
+         }
+        ]
+       }
+      ]
      },
      {
-      "type": "spacer"
+      "type": "spacer",
+      "height": 3
      },
      {
       "type": "text",
       "text": "10.30K",
-      "fontSize": 18,
+      "fontSize": 20,
       "fontWeight": "bold",
       "color": "#FFE9B8",
       "lineLimit": 1
      },
      {
-      "type": "spacer"
+      "type": "spacer",
+      "height": 3
      },
      {
       "type": "stack",
       "direction": "horizontal",
-      "cornerRadius": 9,
-      "backgroundColor": "#8A6A1F",
-      "padding": [
-       4,
-       10,
-       4,
-       10
-      ],
+      "width": 300,
+      "height": 18,
       "children": [
        {
-        "type": "text",
-        "text": "100 TO GO",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#FFE9B8",
-        "lineLimit": 1
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 10
-   },
-   {
-    "type": "stack",
-    "direction": "horizontal",
-    "width": 324,
-    "height": 37,
-    "children": [
-     {
-      "type": "stack",
-      "direction": "horizontal",
-      "width": 152,
-      "height": 37,
-      "cornerRadius": 12,
-      "backgroundColor": "#12303A",
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "url": "https://mail.google.com/",
-      "children": [
+        "type": "spacer",
+        "width": 24
+       },
        {
-        "type": "text",
-        "text": "MAIL QUIET",
-        "fontSize": 11,
-        "fontWeight": "bold",
-        "color": "#9FE8D8",
-        "lineLimit": 1
-       }
-      ]
-     },
-     {
-      "type": "spacer"
-     },
-     {
-      "type": "stack",
-      "direction": "horizontal",
-      "width": 152,
-      "height": 37,
-      "cornerRadius": 12,
-      "backgroundColor": "#33230F",
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "url": "https://maps.apple.com/?q=Bay+Padel+San+Francisco",
-      "children": [
+        "type": "stack",
+        "width": 12,
+        "height": 5,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
        {
-        "type": "text",
-        "text": "SAT 10A 17 LEFT",
-        "fontSize": 11,
-        "fontWeight": "bold",
-        "color": "#FFD98A",
-        "lineLimit": 1
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 7,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 8,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 11,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 13,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 16,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 17,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 18,
+        "cornerRadius": 6,
+        "backgroundColor": "#E8B64C"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 18,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 17,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 16,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 13,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 11,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 8,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 7,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 4
+       },
+       {
+        "type": "stack",
+        "width": 12,
+        "height": 5,
+        "cornerRadius": 6,
+        "backgroundColor": "#4A3F63"
+       },
+       {
+        "type": "spacer",
+        "width": 24
        }
       ]
      }
@@ -222,10 +358,10 @@
     "children": [
      {
       "type": "text",
-      "text": "10.30K \u2022 TAX 10/15 \u2022 RALLY 10/25",
+      "text": "MAIL QUIET \u2022 TAX TODAY \u2022 SAT 10A",
       "fontSize": 9,
       "fontWeight": "regular",
-      "color": "#8FA0C9",
+      "color": "#A99CC9",
       "lineLimit": 1
      }
     ]
