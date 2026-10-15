@@ -1,1 +1,321 @@
-{"contentRevision": 1452, "mode": "native", "version": 5, "updatedAt": "2026-10-15T00:42:18Z", "widget": {"type": "stack", "direction": "vertical", "width": 324, "height": 138, "padding": [8, 10, 8, 10], "backgroundGradient": {"colors": ["#241A3F", "#0B0716"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "children": [{"type": "stack", "direction": "horizontal", "width": 324, "height": 18, "children": [{"type": "text", "text": "TORNADO \u2022 WED 10.14", "fontSize": 11, "fontWeight": "bold", "color": "#F2E9FF", "lineLimit": 1, "textAlign": "left"}, {"type": "spacer"}, {"type": "text", "text": "5:42P", "fontSize": 11, "fontWeight": "regular", "color": "#B9A8D9", "lineLimit": 1, "textAlign": "right"}]}, {"type": "spacer", "height": 10}, {"type": "stack", "direction": "vertical", "width": 324, "height": 84, "cornerRadius": 12, "backgroundGradient": {"colors": ["#33255A", "#17102E"], "startPoint": {"x": 0, "y": 0}, "endPoint": {"x": 1, "y": 1}, "locations": [0, 1]}, "padding": [8, 12, 8, 12], "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "stack", "direction": "horizontal", "width": 300, "height": 18, "children": [{"type": "text", "text": "EXIT FREQUENCY", "fontSize": 10, "fontWeight": "bold", "color": "#D9B8FF", "lineLimit": 1, "textAlign": "left"}, {"type": "spacer"}, {"type": "text", "text": "10.30K", "fontSize": 16, "fontWeight": "bold", "color": "#FFE9B8", "lineLimit": 1, "textAlign": "right"}, {"type": "spacer", "width": 8}, {"type": "text", "text": "100 TO GO", "fontSize": 10, "fontWeight": "bold", "color": "#FFD47A", "lineLimit": 1, "textAlign": "right"}]}, {"type": "spacer", "height": 6}, {"type": "stack", "direction": "horizontal", "width": 300, "height": 28, "children": [{"type": "spacer", "width": 9}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 7, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 7, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 7, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 8, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 8, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 9, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 10, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 11, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 12, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 14, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 15, "cornerRadius": 2, "backgroundColor": "#FFC857"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 16, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 17, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 19, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 20, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 21, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 22, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 23, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 23, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 24, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 24, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 4}, {"type": "stack", "direction": "vertical", "width": 9, "height": 28, "children": [{"type": "spacer"}, {"type": "stack", "width": 9, "height": 24, "cornerRadius": 2, "backgroundColor": "#4A4A6A"}]}, {"type": "spacer", "width": 9}]}, {"type": "spacer"}]}, {"type": "spacer", "height": 10}, {"type": "stack", "direction": "horizontal", "width": 324, "height": 16, "alignItems": "center", "children": [{"type": "stack", "direction": "vertical", "url": "https://www.youtube.com/@exitfrequency", "children": [{"type": "text", "text": "10.30K", "fontSize": 10, "fontWeight": "bold", "color": "#FFD47A", "lineLimit": 1, "textAlign": "center", "height": 16}]}, {"type": "spacer"}, {"type": "stack", "direction": "vertical", "url": "https://turbotax.intuit.com", "children": [{"type": "text", "text": "TAX TMRW", "fontSize": 10, "fontWeight": "bold", "color": "#FFB08A", "lineLimit": 1, "textAlign": "center", "height": 16}]}, {"type": "spacer"}, {"type": "stack", "direction": "vertical", "url": "https://www.google.com/maps/search/?api=1&query=Bay+Padel+San+Francisco", "children": [{"type": "text", "text": "SAT 10A", "fontSize": 10, "fontWeight": "bold", "color": "#9FE8C4", "lineLimit": 1, "textAlign": "center", "height": 16}]}]}]}, "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 1453,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-10-15T01:40:46Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "widget": {
+    "type": "stack",
+    "direction": "vertical",
+    "width": 324,
+    "height": 138,
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "backgroundGradient": {
+      "colors": [
+        "#1E1638",
+        "#0B0716"
+      ],
+      "startPoint": {
+        "x": 0,
+        "y": 0
+      },
+      "endPoint": {
+        "x": 1,
+        "y": 1
+      },
+      "locations": [
+        0,
+        1
+      ]
+    },
+    "children": [
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 18,
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO • WED 10.14",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#F2E9FF",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "6:40P",
+            "fontSize": 11,
+            "fontWeight": "regular",
+            "color": "#B9A8D9",
+            "lineLimit": 1
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 84,
+        "children": [
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 100,
+            "height": 84,
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "backgroundGradient": {
+              "colors": [
+                "#33255A",
+                "#17102E"
+              ],
+              "startPoint": {
+                "x": 0,
+                "y": 0
+              },
+              "endPoint": {
+                "x": 1,
+                "y": 1
+              },
+              "locations": [
+                0,
+                1
+              ]
+            },
+            "url": "https://www.youtube.com/@exitfrequency",
+            "children": [
+              {
+                "type": "text",
+                "text": "EXIT",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#D9B8FF",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "10.30K",
+                "fontSize": 18,
+                "fontWeight": "bold",
+                "color": "#FFE9B8",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 3
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#FFD47A",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer"
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 100,
+            "height": 84,
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "backgroundGradient": {
+              "colors": [
+                "#1E4453",
+                "#0C1E26"
+              ],
+              "startPoint": {
+                "x": 0,
+                "y": 0
+              },
+              "endPoint": {
+                "x": 1,
+                "y": 1
+              },
+              "locations": [
+                0,
+                1
+              ]
+            },
+            "url": "https://mail.google.com/mail/u/0/",
+            "children": [
+              {
+                "type": "text",
+                "text": "MAIL",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#A8D8E6",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "201",
+                "fontSize": 18,
+                "fontWeight": "bold",
+                "color": "#EAF7FF",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 3
+              },
+              {
+                "type": "text",
+                "text": "QUIET DAY",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#9FD4E3",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer"
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 108,
+            "height": 84,
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "backgroundGradient": {
+              "colors": [
+                "#4A2C1A",
+                "#1E130B"
+              ],
+              "startPoint": {
+                "x": 0,
+                "y": 0
+              },
+              "endPoint": {
+                "x": 1,
+                "y": 1
+              },
+              "locations": [
+                0,
+                1
+              ]
+            },
+            "url": "https://www.google.com/maps/search/?api=1&query=Bay+Padel+San+Francisco",
+            "children": [
+              {
+                "type": "text",
+                "text": "BAY PADEL",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#F5C99A",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "SAT",
+                "fontSize": 18,
+                "fontWeight": "bold",
+                "color": "#FFF3E2",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 3
+              },
+              {
+                "type": "text",
+                "text": "10A LADDER",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#E8B47E",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 16,
+        "alignItems": "center",
+        "url": "https://turbotax.intuit.com",
+        "children": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "TAX TMRW • SAT 10A PICKLE",
+            "fontSize": 10,
+            "fontWeight": "bold",
+            "color": "#D8C9F2",
+            "lineLimit": 1
+          },
+          {
+            "type": "spacer"
+          }
+        ]
+      }
+    ]
+  }
+}
