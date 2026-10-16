@@ -1,1 +1,309 @@
-{"contentRevision":1481,"mode":"native","root":{"alignItems":"center","backgroundGradient":{"colors":["#141B29","#090D16"]},"children":[{"alignItems":"center","children":[{"alignItems":"center","children":[{"color":"#FFFFFF","fontSize":10,"fontWeight":"bold","text":"TORNADO","type":"text"},{"type":"spacer","width":8},{"color":"#A9BDD8","fontSize":9,"fontWeight":"regular","text":"THU 10.15","type":"text"}],"height":18,"justifyContent":"flex-start","type":"stack","width":200},{"alignItems":"center","children":[{"color":"#A9BDD8","fontSize":9,"fontWeight":"regular","text":"10:38P","type":"text"}],"height":18,"justifyContent":"flex-end","type":"stack","width":124}],"height":18,"justifyContent":"center","type":"stack","width":324},{"height":10,"type":"spacer"},{"alignItems":"center","children":[{"alignItems":"center","backgroundGradient":{"colors":["#2A3A4D","#131C28"]},"children":[{"color":"#F5C96B","fontSize":8,"fontWeight":"bold","lineLimit":1,"text":"EXIT FREQUENCY","type":"text"},{"height":3,"type":"spacer"},{"color":"#FFFFFF","fontSize":24,"fontWeight":"bold","lineLimit":1,"text":"10.30K","type":"text"},{"height":3,"type":"spacer"},{"color":"#F5C96B","fontSize":9,"fontWeight":"bold","lineLimit":1,"text":"100 TO GO","type":"text"}],"cornerRadius":11,"height":84,"justifyContent":"center","padding":[8,10,8,10],"type":"stack","url":"https://www.youtube.com/@exitfrequency","width":194},{"type":"spacer","width":10},{"alignItems":"center","children":[{"alignItems":"center","backgroundGradient":{"colors":["#1F3A3A","#0F2222"]},"children":[{"color":"#8FD8C8","fontSize":8,"fontWeight":"bold","lineLimit":1,"text":"LADDER","type":"text"},{"color":"#FFFFFF","fontSize":14,"fontWeight":"bold","lineLimit":1,"text":"SAT 10A","type":"text"}],"cornerRadius":11,"height":37,"justifyContent":"center","padding":[4,10,4,10],"type":"stack","url":"https://www.google.com/maps/search/?api=1&query=Bay+Padel+Dogpatch+San+Francisco","width":120},{"height":10,"type":"spacer"},{"alignItems":"center","backgroundGradient":{"colors":["#1E2A45","#0F1626"]},"children":[{"color":"#A9BDD8","fontSize":8,"fontWeight":"bold","lineLimit":1,"text":"MAIL","type":"text"},{"color":"#FFFFFF","fontSize":14,"fontWeight":"bold","lineLimit":1,"text":"QUIET","type":"text"}],"cornerRadius":11,"height":37,"justifyContent":"center","padding":[4,10,4,10],"type":"stack","url":"https://mail.google.com","width":120}],"height":84,"justifyContent":"center","type":"stack","width":120}],"height":84,"justifyContent":"center","type":"stack","width":324},{"height":10,"type":"spacer"},{"alignItems":"center","children":[{"color":"#8EA3BE","fontSize":8,"fontWeight":"regular","lineLimit":1,"text":"EXIT 100 LEFT • SAT 10A LADDER","type":"text"}],"height":16,"justifyContent":"center","type":"stack","width":324}],"height":138,"justifyContent":"center","padding":[8,10,8,10],"type":"stack","width":324},"updatedAt":"2026-10-16T05:38:48Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 1482,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-10-16T06:40:16Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "children": [
+      {
+        "type": "stack",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "children": [
+          {
+            "type": "stack",
+            "alignItems": "center",
+            "justifyContent": "flex-start",
+            "children": [
+              {
+                "type": "text",
+                "text": "TORNADO",
+                "color": "#FFFFFF",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "width": 8
+              },
+              {
+                "type": "text",
+                "text": "THU 10.15",
+                "color": "#A9BDD8",
+                "fontSize": 9,
+                "fontWeight": "regular",
+                "lineLimit": 1
+              }
+            ],
+            "width": 200,
+            "height": 18
+          },
+          {
+            "type": "stack",
+            "alignItems": "center",
+            "justifyContent": "flex-end",
+            "children": [
+              {
+                "type": "text",
+                "text": "11:38P",
+                "color": "#A9BDD8",
+                "fontSize": 9,
+                "fontWeight": "regular",
+                "lineLimit": 1
+              }
+            ],
+            "width": 124,
+            "height": 18
+          }
+        ],
+        "width": 324,
+        "height": 18
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "children": [
+          {
+            "type": "stack",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "children": [
+              {
+                "type": "text",
+                "text": "LADDER",
+                "color": "#8FD8C8",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "SAT 10A",
+                "color": "#FFFFFF",
+                "fontSize": 15,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "8-WK LADDER",
+                "color": "#8FD8C8",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              }
+            ],
+            "width": 100,
+            "height": 84,
+            "padding": [
+              8,
+              8,
+              8,
+              8
+            ],
+            "backgroundGradient": {
+              "colors": [
+                "#1F3A3A",
+                "#0F2222"
+              ]
+            },
+            "cornerRadius": 11,
+            "url": "https://www.google.com/maps/search/?api=1&query=Bay+Padel+Dogpatch+San+Francisco"
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "children": [
+              {
+                "type": "stack",
+                "alignItems": "center",
+                "justifyContent": "center",
+                "children": [
+                  {
+                    "type": "stack",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "EXIT",
+                        "color": "#F5C96B",
+                        "fontSize": 7,
+                        "fontWeight": "bold",
+                        "lineLimit": 1
+                      },
+                      {
+                        "type": "spacer",
+                        "height": 2
+                      },
+                      {
+                        "type": "text",
+                        "text": "10.30K",
+                        "color": "#FFFFFF",
+                        "fontSize": 13,
+                        "fontWeight": "bold",
+                        "lineLimit": 1
+                      }
+                    ],
+                    "width": 56,
+                    "height": 56,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#2A2113",
+                        "#120E07"
+                      ]
+                    },
+                    "cornerRadius": 28
+                  }
+                ],
+                "width": 64,
+                "height": 64,
+                "backgroundGradient": {
+                  "colors": [
+                    "#F5C96B",
+                    "#8A6420"
+                  ]
+                },
+                "cornerRadius": 32,
+                "url": "https://www.youtube.com/@exitfrequency"
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "color": "#F5C96B",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              }
+            ],
+            "width": 108,
+            "height": 84
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "children": [
+              {
+                "type": "text",
+                "text": "ZILLOW",
+                "color": "#7FB3E8",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "2 NEW",
+                "color": "#FFFFFF",
+                "fontSize": 15,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 4
+              },
+              {
+                "type": "text",
+                "text": "94109",
+                "color": "#7FB3E8",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              }
+            ],
+            "width": 100,
+            "height": 84,
+            "padding": [
+              8,
+              8,
+              8,
+              8
+            ],
+            "backgroundGradient": {
+              "colors": [
+                "#1E2A45",
+                "#0F1626"
+              ]
+            },
+            "cornerRadius": 11,
+            "url": "https://www.zillow.com"
+          }
+        ],
+        "width": 324,
+        "height": 84
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "children": [
+          {
+            "type": "text",
+            "text": "EXIT 100 LEFT • SAT 10A • QUIET",
+            "color": "#8EA3BE",
+            "fontSize": 8,
+            "fontWeight": "regular",
+            "lineLimit": 1
+          }
+        ],
+        "width": 324,
+        "height": 16
+      }
+    ],
+    "width": 324,
+    "height": 138,
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "backgroundGradient": {
+      "colors": [
+        "#131A2B",
+        "#080C15"
+      ]
+    }
+  }
+}
