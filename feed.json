@@ -1,8 +1,8 @@
 {
-  "contentRevision": 1506,
+  "contentRevision": 1507,
   "mode": "native",
   "version": 5,
-  "updatedAt": "2026-10-17T06:39:20Z",
+  "updatedAt": "2026-10-17T07:39:15Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "root": {
     "type": "stack",
@@ -18,22 +18,22 @@
     ],
     "backgroundGradient": {
       "colors": [
-        "#09090B",
-        "#131216"
+        "#14100B",
+        "#0A0807"
       ]
     },
     "children": [
       {
         "type": "stack",
         "width": 324,
-        "height": 16,
+        "height": 18,
         "alignItems": "center",
         "justifyContent": "center",
         "children": [
           {
             "type": "stack",
             "width": 200,
-            "height": 16,
+            "height": 18,
             "alignItems": "center",
             "justifyContent": "flex-start",
             "children": [
@@ -51,8 +51,8 @@
               },
               {
                 "type": "text",
-                "text": "DARK GLASS",
-                "color": "#8E93A0",
+                "text": "MIDNIGHT COPPER",
+                "color": "#8A7A66",
                 "fontSize": 9,
                 "fontWeight": "regular",
                 "lineLimit": 1
@@ -62,14 +62,14 @@
           {
             "type": "stack",
             "width": 124,
-            "height": 16,
+            "height": 18,
             "alignItems": "center",
             "justifyContent": "flex-end",
             "children": [
               {
                 "type": "text",
-                "text": "FRI 10.16 11:38P",
-                "color": "#8E93A0",
+                "text": "SAT 10.17 12:38A",
+                "color": "#8A7A66",
                 "fontSize": 9,
                 "fontWeight": "regular",
                 "lineLimit": 1
@@ -85,378 +85,234 @@
       {
         "type": "stack",
         "width": 324,
-        "height": 84,
+        "height": 82,
         "alignItems": "center",
         "justifyContent": "center",
-        "padding": [
-          6,
-          10,
-          6,
-          10
-        ],
-        "backgroundGradient": {
-          "colors": [
-            "#232327",
-            "#17171C"
-          ]
-        },
-        "borderRadius": 12,
-        "url": "https://www.youtube.com/@exitfrequency",
         "children": [
           {
             "type": "stack",
-            "width": 140,
-            "height": 72,
-            "alignItems": "flex-start",
+            "width": 100,
+            "height": 82,
+            "alignItems": "center",
             "justifyContent": "center",
+            "padding": [
+              6,
+              8,
+              4,
+              8
+            ],
+            "cornerRadius": 12,
+            "backgroundGradient": {
+              "colors": [
+                "#2B1D10",
+                "#1D1309"
+              ]
+            },
+            "url": "https://mail.google.com/",
             "children": [
               {
-                "type": "text",
-                "text": "EXIT FREQUENCY",
-                "color": "#8E93A0",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "lineLimit": 1
+                "type": "stack",
+                "width": 84,
+                "height": 12,
+                "alignItems": "center",
+                "justifyContent": "flex-start",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\u25cf",
+                    "color": "#FF5A5A",
+                    "fontSize": 8,
+                    "lineLimit": 1
+                  },
+                  {
+                    "type": "spacer",
+                    "width": 4
+                  },
+                  {
+                    "type": "text",
+                    "text": "GMAIL",
+                    "color": "#E8A04C",
+                    "fontSize": 9,
+                    "fontWeight": "bold",
+                    "lineLimit": 1
+                  }
+                ]
               },
               {
                 "type": "spacer",
-                "height": 4
+                "height": 6
               },
               {
                 "type": "text",
-                "text": "10.30K",
+                "text": "Trade conf.",
                 "color": "#FFFFFF",
-                "fontSize": 24,
+                "fontSize": 11,
                 "fontWeight": "bold",
                 "lineLimit": 1
               },
               {
                 "type": "spacer",
-                "height": 4
+                "height": 2
               },
               {
                 "type": "text",
-                "text": "100 TO GO",
-                "color": "#FFD166",
-                "fontSize": 10,
-                "fontWeight": "bold",
+                "text": "Raymond James",
+                "color": "#B7A88F",
+                "fontSize": 9,
+                "fontWeight": "regular",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 2
+              },
+              {
+                "type": "text",
+                "text": "\u25b8 inbox",
+                "color": "#8A7A66",
+                "fontSize": 9,
+                "fontWeight": "regular",
                 "lineLimit": 1
               }
             ]
           },
           {
             "type": "spacer",
-            "width": 10
+            "width": 8
           },
           {
             "type": "stack",
-            "width": 164,
-            "height": 72,
+            "width": 100,
+            "height": 82,
             "alignItems": "center",
             "justifyContent": "center",
+            "padding": [
+              4,
+              8,
+              4,
+              8
+            ],
+            "cornerRadius": 12,
+            "backgroundGradient": {
+              "colors": [
+                "#171310",
+                "#0E0C0A"
+              ]
+            },
+            "url": "https://www.youtube.com/@exitfrequency",
             "children": [
               {
-                "type": "stack",
-                "width": 162,
-                "height": 30,
-                "alignItems": "flex-end",
-                "justifyContent": "flex-start",
-                "children": [
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 8,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 12,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 18,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 24,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 28,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 30,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 28,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 24,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 18,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#FFD166",
-                        "#FFD166"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 14,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 10,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 8,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 10,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 14,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 18,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 22,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 26,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  },
-                  {
-                    "type": "spacer",
-                    "width": 3
-                  },
-                  {
-                    "type": "stack",
-                    "width": 6,
-                    "height": 28,
-                    "backgroundGradient": {
-                      "colors": [
-                        "#4A4F5A",
-                        "#4A4F5A"
-                      ]
-                    },
-                    "borderRadius": 3
-                  }
-                ]
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "color": "#E8A04C",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "lineLimit": 1
               },
               {
                 "type": "spacer",
                 "height": 4
               },
               {
+                "type": "stack",
+                "width": 58,
+                "height": 58,
+                "alignItems": "center",
+                "justifyContent": "center",
+                "cornerRadius": 29,
+                "backgroundGradient": {
+                  "colors": [
+                    "#E8A04C",
+                    "#B96A1F"
+                  ]
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "10.30K",
+                    "color": "#1A1208",
+                    "fontSize": 12,
+                    "fontWeight": "bold",
+                    "lineLimit": 1
+                  },
+                  {
+                    "type": "text",
+                    "text": "100 to go",
+                    "color": "#1A1208",
+                    "fontSize": 8,
+                    "fontWeight": "regular",
+                    "lineLimit": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "width": 108,
+            "height": 82,
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": [
+              6,
+              8,
+              4,
+              8
+            ],
+            "cornerRadius": 12,
+            "backgroundGradient": {
+              "colors": [
+                "#1B2A1A",
+                "#101A10"
+              ]
+            },
+            "url": "https://mail.google.com/mail/u/0/#search/San%20Francisco%20-%20Thursday%20Pickup%20Spikeball",
+            "children": [
+              {
                 "type": "text",
-                "text": "10.2K -> 10.4K",
-                "color": "#8E93A0",
-                "fontSize": 8,
+                "text": "SPIKEBALL",
+                "color": "#7BD88A",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "Thu pickup",
+                "color": "#FFFFFF",
+                "fontSize": 11,
+                "fontWeight": "bold",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 2
+              },
+              {
+                "type": "text",
+                "text": "RSVP in inbox",
+                "color": "#A8C4AC",
+                "fontSize": 9,
+                "fontWeight": "regular",
+                "lineLimit": 1
+              },
+              {
+                "type": "spacer",
+                "height": 2
+              },
+              {
+                "type": "text",
+                "text": "\u25b8 open mail",
+                "color": "#6E8A72",
+                "fontSize": 9,
                 "fontWeight": "regular",
                 "lineLimit": 1
               }
@@ -473,71 +329,15 @@
         "width": 324,
         "height": 18,
         "alignItems": "center",
-        "justifyContent": "space-between",
+        "justifyContent": "center",
         "children": [
           {
-            "type": "stack",
-            "alignItems": "center",
-            "justifyContent": "center",
-            "url": "https://www.youtube.com/@exitfrequency",
-            "children": [
-              {
-                "type": "text",
-                "text": "EXIT->YT",
-                "color": "#8E93A0",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "lineLimit": 1
-              }
-            ]
-          },
-          {
-            "type": "stack",
-            "alignItems": "center",
-            "justifyContent": "center",
-            "url": "https://www.meetup.com",
-            "children": [
-              {
-                "type": "text",
-                "text": "THU SPIKEBALL",
-                "color": "#8E93A0",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "lineLimit": 1
-              }
-            ]
-          },
-          {
-            "type": "stack",
-            "alignItems": "center",
-            "justifyContent": "center",
-            "url": "https://www.google.com/maps/search/Half+Moon+Bay",
-            "children": [
-              {
-                "type": "text",
-                "text": "SAT 12P",
-                "color": "#8E93A0",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "lineLimit": 1
-              }
-            ]
-          },
-          {
-            "type": "stack",
-            "alignItems": "center",
-            "justifyContent": "center",
-            "url": "https://mail.google.com",
-            "children": [
-              {
-                "type": "text",
-                "text": "MAIL->GMAIL",
-                "color": "#8E93A0",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "lineLimit": 1
-              }
-            ]
+            "type": "text",
+            "text": "2 notes \u00b7 Exit 100 to go",
+            "color": "#8A7A66",
+            "fontSize": 9,
+            "fontWeight": "regular",
+            "lineLimit": 1
           }
         ]
       }
