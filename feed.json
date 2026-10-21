@@ -1,1 +1,770 @@
-{"mode":"native","version":5,"contentRevision":1612,"updatedAt":"2026-10-21T19:39:04Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","widget":{"type":"stack","layout":"vertical","children":[{"type":"stack","layout":"horizontal","children":[{"type":"text","text":"TORNADO","fontSize":10,"fontWeight":"bold","textColor":"#F5C66B","textAlign":"left","lineLimit":1,"width":200,"height":16,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"},{"type":"text","text":"WED 10.21 / 12:38P","fontSize":10,"fontWeight":"regular","textColor":"#9AA5C4","textAlign":"right","lineLimit":1,"width":124,"height":16,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}],"width":324,"height":18,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"},{"type":"stack","layout":"vertical","children":[],"width":324,"height":10},{"type":"stack","layout":"vertical","children":[{"type":"stack","layout":"horizontal","children":[{"type":"text","text":"EXIT FREQUENCY","fontSize":9,"fontWeight":"bold","textColor":"#F5C66B","textAlign":"left","lineLimit":1,"width":140,"height":40,"url":"https://youtube.com/@exitfrequency"},{"type":"text","text":"10.30K","fontSize":16,"fontWeight":"bold","textColor":"#FFFFFF","textAlign":"center","lineLimit":1,"width":100,"height":40,"url":"https://youtube.com/@exitfrequency"},{"type":"text","text":"100 TO GO","fontSize":10,"fontWeight":"bold","textColor":"#F5C66B","textAlign":"right","lineLimit":1,"width":84,"height":40,"url":"https://youtube.com/@exitfrequency"}],"width":324,"height":40,"backgroundColor":"#4A3815","cornerRadius":10,"url":"https://youtube.com/@exitfrequency"},{"type":"stack","layout":"vertical","children":[],"width":324,"height":6},{"type":"stack","layout":"horizontal","children":[{"type":"text","text":"UPS PACKAGE","fontSize":9,"fontWeight":"bold","textColor":"#7FD1C0","textAlign":"left","lineLimit":1,"width":110,"height":38,"url":"https://www.ups.com/track?loc=en_US&Requester=SBN&tracknum=1Z6R90510332398848&AgreeToTermsAndConditions=yes"},{"type":"text","text":"THU BY 9P","fontSize":11,"fontWeight":"bold","textColor":"#FFFFFF","textAlign":"left","lineLimit":1,"width":110,"height":38,"url":"https://www.ups.com/track?loc=en_US&Requester=SBN&tracknum=1Z6R90510332398848&AgreeToTermsAndConditions=yes"},{"type":"text","text":"BONSAI JACK","fontSize":9,"fontWeight":"regular","textColor":"#9AA5C4","textAlign":"right","lineLimit":1,"width":104,"height":38,"url":"https://www.ups.com/track?loc=en_US&Requester=SBN&tracknum=1Z6R90510332398848&AgreeToTermsAndConditions=yes"}],"width":324,"height":38,"backgroundColor":"#14384A","cornerRadius":10,"url":"https://www.ups.com/track?loc=en_US&Requester=SBN&tracknum=1Z6R90510332398848&AgreeToTermsAndConditions=yes"}],"width":324,"height":84},{"type":"stack","layout":"vertical","children":[],"width":324,"height":10},{"type":"stack","layout":"horizontal","children":[{"type":"text","text":"100 TO GO \u00b7 UPS THU BY 9P","fontSize":10,"fontWeight":"regular","textColor":"#9AA5C4","textAlign":"left","lineLimit":1,"width":324,"height":16,"url":"https://youtube.com/@exitfrequency"}],"width":324,"height":16,"url":"https://youtube.com/@exitfrequency"}],"width":324,"height":138,"backgroundColor":"#1C2A55","cornerRadius":12,"url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","backgroundGradient":{"colors":["#1C2A55","#0B0F22"],"locations":[0,1]}}}
+{
+  "mode": "native",
+  "version": 5,
+  "contentRevision": 1613,
+  "updatedAt": "2026-10-21T20:39:44Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "widget": {
+    "type": "stack",
+    "layout": "vertical",
+    "children": [
+      {
+        "type": "stack",
+        "layout": "horizontal",
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO",
+            "fontSize": 10,
+            "fontWeight": "bold",
+            "textColor": "#0E6E6D",
+            "textAlign": "left",
+            "lineLimit": 1,
+            "width": 200,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "text": "WED 10.21 / 1:38P",
+            "fontSize": 10,
+            "fontWeight": "regular",
+            "textColor": "#5C6B8A",
+            "textAlign": "right",
+            "lineLimit": 1,
+            "width": 124,
+            "height": 16
+          }
+        ],
+        "width": 324,
+        "height": 18,
+        "url": "https://x.com/search?q=Messenger+Android"
+      },
+      {
+        "type": "stack",
+        "layout": "vertical",
+        "children": [],
+        "width": 324,
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "layout": "horizontal",
+        "children": [
+          {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 4,
+            "height": 84
+          },
+          {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 132,
+                "height": 12
+              },
+              {
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "textColor": "#F5C66B",
+                "textAlign": "left",
+                "lineLimit": 1,
+                "width": 132,
+                "height": 14
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 132,
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "10.30K",
+                "fontSize": 18,
+                "fontWeight": "bold",
+                "textColor": "#FFFFFF",
+                "textAlign": "left",
+                "lineLimit": 1,
+                "width": 132,
+                "height": 24
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 132,
+                "height": 6
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "textColor": "#F5C66B",
+                "textAlign": "left",
+                "lineLimit": 1,
+                "width": 132,
+                "height": 16
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 132,
+                "height": 6
+              }
+            ],
+            "width": 132,
+            "height": 84
+          },
+          {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 10,
+            "height": 84
+          },
+          {
+            "type": "stack",
+            "layout": "horizontal",
+            "children": [
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 8,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 60
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 24,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#4FA3A1",
+                        "#2E6E6B"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 54
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 30,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#5CAFA8",
+                        "#346F6D"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 48
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 36,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#69BBA0",
+                        "#3A6E66"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 42
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 42,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#77C797",
+                        "#416D5F"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 50
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 34,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#84D38D",
+                        "#486C58"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 38
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 46,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#92DF84",
+                        "#4F6B51"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 32
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 52,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#A0EB7A",
+                        "#566A4A"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 40
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 44,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#ADE772",
+                        "#5D6943"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 28
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 56,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#BBE36A",
+                        "#64683C"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 34
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 50,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#C8DF62",
+                        "#6B6735"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 24
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 60,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#D5DB5A",
+                        "#72662E"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 30
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 54,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#E2D752",
+                        "#797527"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 20
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 64,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#EFD34A",
+                        "#807420"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [],
+                "width": 2,
+                "height": 84
+              },
+              {
+                "type": "stack",
+                "layout": "vertical",
+                "children": [
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 14
+                  },
+                  {
+                    "type": "stack",
+                    "layout": "vertical",
+                    "children": [],
+                    "width": 10,
+                    "height": 70,
+                    "backgroundGradient": {
+                      "colors": [
+                        "#F5C66B",
+                        "#8A6B2A"
+                      ],
+                      "locations": [
+                        0,
+                        1
+                      ]
+                    },
+                    "cornerRadius": 4
+                  }
+                ],
+                "width": 10,
+                "height": 84
+              }
+            ],
+            "width": 174,
+            "height": 84
+          },
+          {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 4,
+            "height": 84
+          }
+        ],
+        "width": 324,
+        "height": 84,
+        "backgroundGradient": {
+          "colors": [
+            "#0E3742",
+            "#071E26"
+          ],
+          "locations": [
+            0,
+            1
+          ]
+        },
+        "cornerRadius": 12,
+        "url": "https://www.youtube.com/@exitfrequency"
+      },
+      {
+        "type": "stack",
+        "layout": "vertical",
+        "children": [],
+        "width": 324,
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "layout": "horizontal",
+        "children": [
+          {
+            "type": "text",
+            "text": "UPS THU BY 9P \u00b7 BONSAI JACK \u00b7 1:38P",
+            "fontSize": 10,
+            "fontWeight": "regular",
+            "textColor": "#5C6B8A",
+            "textAlign": "left",
+            "lineLimit": 1,
+            "width": 324,
+            "height": 16
+          }
+        ],
+        "width": 324,
+        "height": 16,
+        "url": "https://www.ups.com/track?loc=en_US&Requester=SBN&tracknum=1Z6R90510332398848&AgreeToTermsAndConditions=yes"
+      }
+    ],
+    "width": 324,
+    "height": 138,
+    "backgroundGradient": {
+      "colors": [
+        "#EAF3F7",
+        "#D9EAF1"
+      ],
+      "locations": [
+        0,
+        1
+      ]
+    },
+    "cornerRadius": 12,
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+  }
+}
