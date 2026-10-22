@@ -1,8 +1,8 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1634,
- "updatedAt": "2026-10-22T17:39:09Z",
+ "contentRevision": 1635,
+ "updatedAt": "2026-10-22T18:39:17Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "widget": {
   "type": "stack",
@@ -26,7 +26,7 @@
      },
      {
       "type": "text",
-      "text": "THU 10.22 10:38A",
+      "text": "THU 10.22 11:38A",
       "fontSize": 10,
       "fontWeight": "regular",
       "textColor": "#5A6B8C",
@@ -65,7 +65,7 @@
         "textColor": "#5A6B8C",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 178,
         "height": 12,
         "url": "https://youtube.com/@exitfrequency"
        },
@@ -77,51 +77,234 @@
         "textColor": "#16233F",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 178,
         "height": 24,
         "url": "https://youtube.com/@exitfrequency"
        },
        {
         "type": "text",
-        "text": "100 TO GO",
-        "fontSize": 10,
+        "text": "100 TO GO TO 10.5K",
+        "fontSize": 9,
         "fontWeight": "bold",
         "textColor": "#8A5A1E",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
-        "height": 13,
+        "width": 178,
+        "height": 12,
         "url": "https://youtube.com/@exitfrequency"
        },
        {
         "type": "stack",
         "layout": "vertical",
-        "children": [],
-        "width": 84,
-        "height": 6
-       },
-       {
-        "type": "stack",
-        "layout": "horizontal",
         "children": [
          {
           "type": "stack",
-          "layout": "horizontal",
+          "layout": "vertical",
           "children": [],
-          "width": 83,
-          "height": 6,
-          "cornerRadius": 3,
-          "backgroundColor": "#F2B33D"
+          "width": 177,
+          "height": 3
+         },
+         {
+          "type": "stack",
+          "layout": "horizontal",
+          "children": [
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 8,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 9,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 10,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 11,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 12,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 13,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 14,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 15,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 16,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 17,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 18,
+            "cornerRadius": 3,
+            "backgroundColor": "#F2B33D"
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 3,
+            "height": 18
+           },
+           {
+            "type": "stack",
+            "layout": "vertical",
+            "children": [],
+            "width": 12,
+            "height": 9,
+            "cornerRadius": 3,
+            "backgroundColor": "#E8DCC3"
+           }
+          ],
+          "width": 177,
+          "height": 18,
+          "alignItems": "end",
+          "justifyContent": "center"
          }
         ],
-        "width": 84,
-        "height": 6,
-        "cornerRadius": 3,
-        "url": "https://youtube.com/@exitfrequency",
-        "backgroundColor": "#E4E0D2"
+        "width": 177,
+        "height": 21
        }
       ],
-      "width": 100,
+      "width": 194,
       "height": 84,
       "padding": [
        6,
@@ -135,75 +318,6 @@
       ],
       "cornerRadius": 10,
       "url": "https://youtube.com/@exitfrequency",
-      "justifyContent": "center"
-     },
-     {
-      "type": "stack",
-      "layout": "vertical",
-      "children": [],
-      "width": 8,
-      "height": 84
-     },
-     {
-      "type": "stack",
-      "layout": "vertical",
-      "children": [
-       {
-        "type": "stack",
-        "layout": "vertical",
-        "children": [
-         {
-          "type": "text",
-          "text": "10.40K",
-          "fontSize": 18,
-          "fontWeight": "bold",
-          "textColor": "#2B2110",
-          "textAlign": "center",
-          "lineLimit": 1,
-          "width": 70,
-          "height": 22,
-          "url": "https://youtube.com/@exitfrequency"
-         },
-         {
-          "type": "text",
-          "text": "100 TO GO",
-          "fontSize": 9,
-          "fontWeight": "bold",
-          "textColor": "#5A4018",
-          "textAlign": "center",
-          "lineLimit": 1,
-          "width": 70,
-          "height": 12,
-          "url": "https://youtube.com/@exitfrequency"
-         },
-         {
-          "type": "text",
-          "text": "OF 10.5K",
-          "fontSize": 8,
-          "fontWeight": "regular",
-          "textColor": "#5A4018",
-          "textAlign": "center",
-          "lineLimit": 1,
-          "width": 70,
-          "height": 11,
-          "url": "https://youtube.com/@exitfrequency"
-         }
-        ],
-        "width": 84,
-        "height": 84,
-        "backgroundGradient": [
-         "#F5C66B",
-         "#D98E1F"
-        ],
-        "cornerRadius": 42,
-        "url": "https://youtube.com/@exitfrequency",
-        "justifyContent": "center",
-        "alignItems": "center"
-       }
-      ],
-      "width": 108,
-      "height": 84,
-      "url": "https://youtube.com/@exitfrequency",
       "justifyContent": "center",
       "alignItems": "center"
      },
@@ -211,7 +325,7 @@
       "type": "stack",
       "layout": "vertical",
       "children": [],
-      "width": 8,
+      "width": 10,
       "height": 84
      },
      {
@@ -226,7 +340,7 @@
         "textColor": "#5A6B8C",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 104,
         "height": 12,
         "url": "https://www.ups.com/track?tracknum=1Z6R90510332398848"
        },
@@ -238,7 +352,7 @@
         "textColor": "#16233F",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 104,
         "height": 24,
         "url": "https://www.ups.com/track?tracknum=1Z6R90510332398848"
        },
@@ -250,7 +364,7 @@
         "textColor": "#2E6E57",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 104,
         "height": 12,
         "url": "https://www.ups.com/track?tracknum=1Z6R90510332398848"
        },
@@ -262,12 +376,12 @@
         "textColor": "#8A97B3",
         "textAlign": "center",
         "lineLimit": 1,
-        "width": 84,
+        "width": 104,
         "height": 11,
         "url": "https://www.ups.com/track?tracknum=1Z6R90510332398848"
        }
       ],
-      "width": 100,
+      "width": 120,
       "height": 84,
       "padding": [
        6,
@@ -394,8 +508,8 @@
    10
   ],
   "backgroundGradient": [
-   "#F2F7FE",
-   "#DCE9FB"
+   "#EAF2FF",
+   "#D8E7FD"
   ],
   "cornerRadius": 12
  }
