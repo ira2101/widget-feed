@@ -1,8 +1,8 @@
 {
  "mode": "native",
  "version": 5,
- "contentRevision": 1685,
- "updatedAt": "2026-10-24T19:39:15Z",
+ "contentRevision": 1686,
+ "updatedAt": "2026-10-24T20:39:05Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "root": {
   "type": "stack",
@@ -19,8 +19,8 @@
    "gradient": {
     "angle": 155,
     "colors": [
-     "#27605A",
-     "#141B2E"
+     "#4E2F4A",
+     "#1B1B30"
     ]
    }
   },
@@ -38,14 +38,14 @@
       "type": "text",
       "text": "TORNADO",
       "fontSize": 13,
-      "fontWeight": "bold",
-      "color": "#F4F2EC"
+      "color": "#F4F2EC",
+      "fontWeight": "bold"
      },
      {
       "type": "text",
-      "text": "SAT 10.24 - 12:38P",
+      "text": "SAT 10.24 - 1:38P",
       "fontSize": 11,
-      "color": "#A7ABC9"
+      "color": "#C9B8C6"
      }
     ]
    },
@@ -57,385 +57,143 @@
     "type": "stack",
     "width": 324,
     "height": 84,
+    "direction": "horizontal",
+    "alignItems": "center",
     "children": [
      {
       "type": "stack",
-      "width": 324,
-      "height": 20,
-      "direction": "horizontal",
-      "justifyContent": "space-between",
+      "width": 104,
+      "height": 84,
+      "background": "#2E2130",
+      "cornerRadius": 12,
       "alignItems": "center",
-      "url": "https://www.youtube.com/@exitfrequency",
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 12,
-        "fontWeight": "bold",
-        "color": "#F4F2EC"
-       },
-       {
-        "type": "text",
-        "text": "10.40K SUBS",
-        "fontSize": 12,
-        "fontWeight": "semibold",
-        "color": "#F2C14E"
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 324,
-      "height": 40,
-      "direction": "horizontal",
       "justifyContent": "center",
-      "alignItems": "end",
-      "children": [
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 12,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 16,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 14,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 20,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 18,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 24,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 22,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 28,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 26,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 32,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 30,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 36,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 34,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#16283A",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 40,
-          "background": "#F2C14E",
-          "cornerRadius": 9
-         }
-        ]
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 324,
-      "height": 12,
-      "direction": "horizontal",
-      "justifyContent": "center",
-      "alignItems": "center",
-      "url": "https://www.youtube.com/@exitfrequency",
       "children": [
        {
         "type": "text",
-        "text": "99% OF 10.5K - 100 TO GO",
+        "text": "EXIT FREQ",
+        "fontSize": 11,
+        "color": "#F4F2EC",
+        "fontWeight": "bold"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "fontSize": 14,
+        "color": "#F2C14E",
+        "fontWeight": "bold"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "TO 10.5K",
         "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#F2C14E"
+        "color": "#C9B8C6"
+       }
+      ],
+      "url": "https://www.youtube.com/@exitfrequency"
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "width": 100,
+      "height": 84,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "stack",
+        "width": 84,
+        "height": 84,
+        "cornerRadius": 42,
+        "background": {
+         "gradient": {
+          "angle": 155,
+          "colors": [
+           "#F2C14E",
+           "#C99434"
+          ]
+         }
+        },
+        "alignItems": "center",
+        "justifyContent": "center",
+        "children": [
+         {
+          "type": "text",
+          "text": "10.40K",
+          "fontSize": 17,
+          "color": "#1B1B30",
+          "fontWeight": "bold"
+         },
+         {
+          "type": "spacer",
+          "height": 3
+         },
+         {
+          "type": "text",
+          "text": "SUBS",
+          "fontSize": 10,
+          "color": "#1B1B30",
+          "fontWeight": "bold"
+         }
+        ]
        }
       ]
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "type": "stack",
+      "width": 104,
+      "height": 84,
+      "background": "#22332A",
+      "cornerRadius": 12,
+      "alignItems": "center",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "text",
+        "text": "SUNDAY",
+        "fontSize": 11,
+        "color": "#F4F2EC",
+        "fontWeight": "bold"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "PUMPKIN",
+        "fontSize": 14,
+        "color": "#8FD0A0",
+        "fontWeight": "bold"
+       },
+       {
+        "type": "spacer",
+        "height": 4
+       },
+       {
+        "type": "text",
+        "text": "PICNIC",
+        "fontSize": 10,
+        "color": "#C9B8C6"
+       }
+      ],
+      "url": "https://www.meetup.com"
      }
     ]
    },
@@ -450,19 +208,19 @@
     "direction": "horizontal",
     "justifyContent": "space-between",
     "alignItems": "center",
-    "url": "https://mail.google.com",
+    "url": "https://www.youtube.com/@exitfrequency",
     "children": [
      {
       "type": "text",
-      "text": "BAGELETTO CANCELED",
+      "text": "EXIT 10.40K - 100 TO GO",
       "fontSize": 11,
-      "color": "#A7ABC9"
+      "color": "#C9B8C6"
      },
      {
       "type": "text",
-      "text": "12:38P",
+      "text": "1:38P",
       "fontSize": 11,
-      "color": "#A7ABC9"
+      "color": "#C9B8C6"
      }
     ]
    }
