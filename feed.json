@@ -1,12 +1,214 @@
 {
+ "contentRevision": 1678,
  "mode": "native",
- "version": 5,
- "contentRevision": 1677,
- "updatedAt": "2026-10-24T11:38:59Z",
- "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "root": {
-  "type": "stack",
-  "width": 324,
+  "background": {
+   "gradient": {
+    "angle": 160,
+    "colors": [
+     "#241B4D",
+     "#0B1026"
+    ]
+   }
+  },
+  "children": [
+   {
+    "alignItems": "center",
+    "children": [
+     {
+      "color": "#F4F2EC",
+      "fontSize": 13,
+      "fontWeight": "bold",
+      "text": "TORNADO",
+      "type": "text"
+     },
+     {
+      "color": "#A7ABC9",
+      "fontSize": 11,
+      "text": "SAT 10.24 - 5:38A",
+      "type": "text"
+     }
+    ],
+    "direction": "horizontal",
+    "height": 18,
+    "justifyContent": "space-between",
+    "type": "stack",
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "width": 324
+   },
+   {
+    "height": 10,
+    "type": "spacer"
+   },
+   {
+    "alignItems": "center",
+    "children": [
+     {
+      "alignItems": "center",
+      "background": "#1E2A5A",
+      "children": [
+       {
+        "color": "#A7ABC9",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "EXIT",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F4F2EC",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "text": "10.40K",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F2C14E",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "100 TO GO",
+        "type": "text"
+       }
+      ],
+      "cornerRadius": 12,
+      "height": 84,
+      "justifyContent": "center",
+      "type": "stack",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "width": 100
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "alignItems": "center",
+      "background": "#2A1E4D",
+      "children": [
+       {
+        "color": "#A7ABC9",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "GOAL",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F4F2EC",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "text": "99%",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F2C14E",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "OF 10.5K",
+        "type": "text"
+       }
+      ],
+      "cornerRadius": 12,
+      "height": 84,
+      "justifyContent": "center",
+      "type": "stack",
+      "url": "https://www.youtube.com/@exitfrequency",
+      "width": 100
+     },
+     {
+      "type": "spacer",
+      "width": 8
+     },
+     {
+      "alignItems": "center",
+      "background": "#3A2A12",
+      "children": [
+       {
+        "color": "#A7ABC9",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "MUSIC",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F4F2EC",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "text": "KERALA",
+        "type": "text"
+       },
+       {
+        "height": 6,
+        "type": "spacer"
+       },
+       {
+        "color": "#F2C14E",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "text": "TAP TO PLAY",
+        "type": "text"
+       }
+      ],
+      "cornerRadius": 12,
+      "height": 84,
+      "justifyContent": "center",
+      "type": "stack",
+      "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+      "width": 108
+     }
+    ],
+    "direction": "horizontal",
+    "height": 84,
+    "type": "stack",
+    "width": 324
+   },
+   {
+    "height": 10,
+    "type": "spacer"
+   },
+   {
+    "alignItems": "center",
+    "children": [
+     {
+      "color": "#A7ABC9",
+      "fontSize": 11,
+      "text": "SUN: PUMPKIN PICNIC",
+      "type": "text"
+     },
+     {
+      "color": "#A7ABC9",
+      "fontSize": 11,
+      "text": "MAIL",
+      "type": "text"
+     }
+    ],
+    "direction": "horizontal",
+    "height": 16,
+    "justifyContent": "space-between",
+    "type": "stack",
+    "url": "https://mail.google.com",
+    "width": 324
+   }
+  ],
+  "cornerRadius": 14,
   "height": 138,
   "padding": [
    8,
@@ -14,458 +216,10 @@
    8,
    10
   ],
-  "background": {
-   "gradient": {
-    "colors": [
-     "#1A2348",
-     "#0A0C1E"
-    ],
-    "angle": 160
-   }
-  },
-  "cornerRadius": 14,
-  "children": [
-   {
-    "type": "stack",
-    "width": 324,
-    "height": 18,
-    "direction": "horizontal",
-    "justifyContent": "space-between",
-    "alignItems": "center",
-    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-    "children": [
-     {
-      "type": "text",
-      "text": "TORNADO",
-      "fontSize": 13,
-      "fontWeight": "bold",
-      "color": "#F4F2EC"
-     },
-     {
-      "type": "text",
-      "text": "SAT 10.24 - 4:38A",
-      "fontSize": 11,
-      "color": "#A7ABC9"
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 10
-   },
-   {
-    "type": "stack",
-    "width": 324,
-    "height": 84,
-    "children": [
-     {
-      "type": "stack",
-      "width": 324,
-      "height": 20,
-      "direction": "horizontal",
-      "justifyContent": "space-between",
-      "alignItems": "center",
-      "url": "https://www.youtube.com/@exitfrequency",
-      "children": [
-       {
-        "type": "text",
-        "text": "EXIT FREQUENCY",
-        "fontSize": 12,
-        "fontWeight": "bold",
-        "color": "#F4F2EC"
-       },
-       {
-        "type": "text",
-        "text": "10.40K SUBS",
-        "fontSize": 12,
-        "fontWeight": "semibold",
-        "color": "#F2C14E"
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 324,
-      "height": 40,
-      "direction": "horizontal",
-      "justifyContent": "center",
-      "alignItems": "end",
-      "children": [
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 12,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 16,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 14,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 20,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 18,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 24,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 22,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 28,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 26,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 32,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 30,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 36,
-          "background": "#E0A93B",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 34,
-          "background": "#C99434",
-          "cornerRadius": 9
-         }
-        ]
-       },
-       {
-        "type": "spacer",
-        "width": 4
-       },
-       {
-        "type": "stack",
-        "width": 18,
-        "height": 40,
-        "background": "#121A36",
-        "cornerRadius": 9,
-        "alignItems": "end",
-        "justifyContent": "center",
-        "url": "https://www.youtube.com/@exitfrequency",
-        "children": [
-         {
-          "type": "stack",
-          "width": 18,
-          "height": 40,
-          "background": "#F2C14E",
-          "cornerRadius": 9
-         }
-        ]
-       }
-      ]
-     },
-     {
-      "type": "spacer",
-      "height": 6
-     },
-     {
-      "type": "stack",
-      "width": 324,
-      "height": 12,
-      "direction": "horizontal",
-      "justifyContent": "center",
-      "alignItems": "center",
-      "url": "https://www.youtube.com/@exitfrequency",
-      "children": [
-       {
-        "type": "text",
-        "text": "99% OF 10.5K - 100 TO GO",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#F2C14E"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "type": "spacer",
-    "height": 10
-   },
-   {
-    "type": "stack",
-    "width": 324,
-    "height": 16,
-    "direction": "horizontal",
-    "justifyContent": "space-between",
-    "alignItems": "center",
-    "url": "https://mail.google.com",
-    "children": [
-     {
-      "type": "text",
-      "text": "INBOX QUIET - SPIKEBALL THU",
-      "fontSize": 11,
-      "color": "#A7ABC9"
-     },
-     {
-      "type": "text",
-      "text": "4:38A",
-      "fontSize": 11,
-      "color": "#A7ABC9"
-     }
-    ]
-   }
-  ]
- }
+  "type": "stack",
+  "width": 324
+ },
+ "updatedAt": "2026-10-24T12:39:09Z",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
 }
