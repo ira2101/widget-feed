@@ -1,1 +1,208 @@
-{"contentRevision":1772,"mode":"native","version":5,"updatedAt":"2026-10-28T10:39:01Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","root":{"type":"stack","width":324,"height":138,"padding":[8,10,8,10],"cornerRadius":14,"direction":"vertical","background":{"gradient":{"angle":135,"colors":["#111827","#312E81"]}},"children":[{"type":"stack","width":324,"height":18,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"text","text":"TORNADO","fontSize":13,"fontWeight":"bold","color":"#F8FAFC"},{"type":"text","text":"WED 3:38A","fontSize":11,"color":"#C7D2FE"}]},{"type":"spacer","height":10},{"type":"stack","width":324,"height":84,"direction":"vertical","justifyContent":"center","cornerRadius":12,"padding":[10,14,10,14],"background":{"gradient":{"angle":140,"colors":["#F59E0B","#B45309"]}},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT FREQUENCY","fontSize":10,"color":"#FFFBEB","fontWeight":"bold"},{"type":"spacer","height":5},{"type":"text","text":"10.40K SUBS","fontSize":20,"color":"#FFFFFF","fontWeight":"bold"},{"type":"spacer","height":5},{"type":"text","text":"100 TO GO - 99% OF 10.5K","fontSize":10,"color":"#FEF3C7","fontWeight":"bold"}]},{"type":"spacer","height":10},{"type":"stack","width":324,"height":16,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","url":"https://mail.google.com/","children":[{"type":"text","text":"VIDEOGPT: CANCEL TODAY","fontSize":11,"color":"#C7D2FE"},{"type":"text","text":"WED OCT 28","fontSize":11,"color":"#C7D2FE"}]}]}}
+{
+  "contentRevision": 1773,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-10-28T11:39:37Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "cornerRadius": 14,
+    "direction": "vertical",
+    "background": {
+      "gradient": {
+        "angle": 135,
+        "colors": [
+          "#18181B",
+          "#3B0764"
+        ]
+      }
+    },
+    "children": [
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 18,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO",
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "color": "#FAFAF9"
+          },
+          {
+            "type": "text",
+            "text": "WED 4:38A",
+            "fontSize": 11,
+            "color": "#D8B4FE"
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 84,
+        "direction": "horizontal",
+        "children": [
+          {
+            "type": "stack",
+            "width": 194,
+            "height": 84,
+            "direction": "vertical",
+            "justifyContent": "center",
+            "cornerRadius": 12,
+            "padding": [
+              10,
+              12,
+              10,
+              12
+            ],
+            "background": {
+              "gradient": {
+                "angle": 140,
+                "colors": [
+                  "#0891B2",
+                  "#164E63"
+                ]
+              }
+            },
+            "url": "https://www.youtube.com/@exitfrequency",
+            "children": [
+              {
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "fontSize": 9,
+                "color": "#CFFAFE",
+                "fontWeight": "bold"
+              },
+              {
+                "type": "spacer",
+                "height": 5
+              },
+              {
+                "type": "text",
+                "text": "10.40K SUBS",
+                "fontSize": 19,
+                "color": "#FFFFFF",
+                "fontWeight": "bold"
+              },
+              {
+                "type": "spacer",
+                "height": 5
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "fontSize": 10,
+                "color": "#A5F3FC",
+                "fontWeight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "spacer",
+            "width": 10
+          },
+          {
+            "type": "stack",
+            "width": 120,
+            "height": 84,
+            "direction": "vertical",
+            "justifyContent": "center",
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "background": {
+              "gradient": {
+                "angle": 140,
+                "colors": [
+                  "#DC2626",
+                  "#7F1D1D"
+                ]
+              }
+            },
+            "url": "https://mail.google.com/",
+            "children": [
+              {
+                "type": "text",
+                "text": "VIDEOGPT",
+                "fontSize": 10,
+                "color": "#FECACA",
+                "fontWeight": "bold"
+              },
+              {
+                "type": "spacer",
+                "height": 5
+              },
+              {
+                "type": "text",
+                "text": "CANCEL",
+                "fontSize": 16,
+                "color": "#FFFFFF",
+                "fontWeight": "bold"
+              },
+              {
+                "type": "spacer",
+                "height": 5
+              },
+              {
+                "type": "text",
+                "text": "TODAY",
+                "fontSize": 10,
+                "color": "#FEE2E2",
+                "fontWeight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "spacer",
+        "height": 10
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 16,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "url": "https://mail.google.com/",
+        "children": [
+          {
+            "type": "text",
+            "text": "PAYMENT CONFIRMED",
+            "fontSize": 11,
+            "color": "#D8B4FE"
+          },
+          {
+            "type": "text",
+            "text": "WED OCT 28",
+            "fontSize": 11,
+            "color": "#D8B4FE"
+          }
+        ]
+      }
+    ]
+  }
+}
