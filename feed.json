@@ -1,9 +1,9 @@
 {
-  "contentRevision": 1826,
+  "contentRevision": 1827,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-10-30T17:39:44Z",
+  "updatedAt": "2026-10-30T18:40:48Z",
   "root": {
     "type": "stack",
     "direction": "vertical",
@@ -20,8 +20,8 @@
       "gradient": {
         "angle": 135,
         "colors": [
-          "#0F172A",
-          "#7C2D12"
+          "#111827",
+          "#134E4A"
         ]
       }
     },
@@ -43,8 +43,8 @@
           },
           {
             "type": "text",
-            "text": "FRI 10:38A",
-            "color": "#FBBF24",
+            "text": "FRI 11:40A",
+            "color": "#5EEAD4",
             "fontSize": 11,
             "fontWeight": "bold"
           }
@@ -64,7 +64,7 @@
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 100,
+            "width": 157,
             "height": 84,
             "cornerRadius": 14,
             "background": {
@@ -111,63 +111,12 @@
           },
           {
             "type": "spacer",
-            "width": 8
+            "width": 10
           },
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 100,
-            "height": 84,
-            "cornerRadius": 14,
-            "background": {
-              "gradient": {
-                "angle": 140,
-                "colors": [
-                  "#065F46",
-                  "#0E7490"
-                ]
-              }
-            },
-            "alignItems": "center",
-            "justifyContent": "center",
-            "padding": [
-              6,
-              8,
-              6,
-              8
-            ],
-            "children": [
-              {
-                "type": "text",
-                "text": "VENMO",
-                "color": "#A7F3D0",
-                "fontSize": 10,
-                "fontWeight": "bold"
-              },
-              {
-                "type": "text",
-                "text": "$20",
-                "color": "#FFFFFF",
-                "fontSize": 20,
-                "fontWeight": "bold"
-              },
-              {
-                "type": "text",
-                "text": "FROM ROBIN",
-                "color": "#A7F3D0",
-                "fontSize": 9,
-                "fontWeight": "bold"
-              }
-            ]
-          },
-          {
-            "type": "spacer",
-            "width": 8
-          },
-          {
-            "type": "stack",
-            "direction": "vertical",
-            "width": 108,
+            "width": 157,
             "height": 84,
             "cornerRadius": 14,
             "background": {
@@ -175,7 +124,7 @@
                 "angle": 140,
                 "colors": [
                   "#312E81",
-                  "#6D28D9"
+                  "#7C3AED"
                 ]
               }
             },
@@ -190,27 +139,27 @@
             "children": [
               {
                 "type": "text",
-                "text": "KERALA",
+                "text": "THU NOV 5",
                 "color": "#DDD6FE",
                 "fontSize": 10,
                 "fontWeight": "bold"
               },
               {
                 "type": "text",
-                "text": "PLAY",
+                "text": "AI SUMMIT",
                 "color": "#FFFFFF",
                 "fontSize": 20,
                 "fontWeight": "bold"
               },
               {
                 "type": "text",
-                "text": "TAP HERE",
+                "text": "9AM ONLINE",
                 "color": "#DDD6FE",
                 "fontSize": 10,
                 "fontWeight": "bold"
               }
             ],
-            "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+            "url": "https://events.aiunleashedglobalsummit.com/aias-registration-aff?am_id=IPOGLOBALWORLDNOW"
           }
         ]
       },
@@ -235,8 +184,8 @@
           },
           {
             "type": "text",
-            "text": "EXIT 10.40K",
-            "color": "#FBBF24",
+            "text": "KERALA TAP",
+            "color": "#5EEAD4",
             "fontSize": 10,
             "fontWeight": "bold"
           }
