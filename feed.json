@@ -1,9 +1,9 @@
 {
- "contentRevision": 1830,
+ "contentRevision": 1831,
  "mode": "native",
  "version": 5,
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
- "updatedAt": "2026-10-30T21:40:05Z",
+ "updatedAt": "2026-10-30T22:39:53Z",
  "root": {
   "type": "stack",
   "direction": "vertical",
@@ -44,7 +44,7 @@
      },
      {
       "type": "text",
-      "text": "FRI 2:40P",
+      "text": "FRI 3:38P",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#67E8F9"
@@ -57,19 +57,18 @@
    },
    {
     "type": "stack",
-    "direction": "horizontal",
+    "direction": "vertical",
     "width": 324,
     "height": 84,
-    "justifyContent": "space-between",
     "children": [
      {
       "type": "stack",
-      "direction": "vertical",
-      "width": 194,
-      "height": 84,
-      "justifyContent": "center",
-      "alignItems": "center",
+      "direction": "horizontal",
+      "width": 324,
+      "height": 37,
       "cornerRadius": 14,
+      "justifyContent": "space-between",
+      "alignItems": "center",
       "padding": [
        6,
        10,
@@ -97,7 +96,7 @@
        {
         "type": "text",
         "text": "10.40K",
-        "fontSize": 26,
+        "fontSize": 18,
         "fontWeight": "bold",
         "color": "#FFFFFF"
        },
@@ -111,50 +110,85 @@
       ]
      },
      {
+      "type": "spacer",
+      "height": 10
+     },
+     {
       "type": "stack",
-      "direction": "vertical",
-      "width": 120,
-      "height": 84,
-      "justifyContent": "center",
-      "alignItems": "center",
-      "cornerRadius": 14,
-      "padding": [
-       6,
-       10,
-       6,
-       10
-      ],
-      "background": {
-       "gradient": {
-        "angle": 140,
-        "colors": [
-         "#1E293B",
-         "#0E7490"
-        ]
-       }
-      },
-      "url": "https://www.meetup.com/",
+      "direction": "horizontal",
+      "width": 324,
+      "height": 37,
+      "justifyContent": "space-between",
       "children": [
        {
-        "type": "text",
-        "text": "THU NOV 5",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#99F6E4"
+        "type": "stack",
+        "direction": "vertical",
+        "width": 157,
+        "height": 37,
+        "cornerRadius": 14,
+        "justifyContent": "center",
+        "alignItems": "center",
+        "background": {
+         "gradient": {
+          "angle": 140,
+          "colors": [
+           "#1E293B",
+           "#0E7490"
+          ]
+         }
+        },
+        "url": "https://www.meetup.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "THU NOV 5",
+          "fontSize": 10,
+          "fontWeight": "bold",
+          "color": "#99F6E4"
+         },
+         {
+          "type": "text",
+          "text": "AI SUMMIT 9AM",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#FFFFFF"
+         }
+        ]
        },
        {
-        "type": "text",
-        "text": "AI SUMMIT",
-        "fontSize": 15,
-        "fontWeight": "bold",
-        "color": "#FFFFFF"
-       },
-       {
-        "type": "text",
-        "text": "9AM ONLINE",
-        "fontSize": 11,
-        "fontWeight": "bold",
-        "color": "#67E8F9"
+        "type": "stack",
+        "direction": "vertical",
+        "width": 157,
+        "height": 37,
+        "cornerRadius": 14,
+        "justifyContent": "center",
+        "alignItems": "center",
+        "background": {
+         "gradient": {
+          "angle": 140,
+          "colors": [
+           "#312E81",
+           "#7C3AED"
+          ]
+         }
+        },
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+         {
+          "type": "text",
+          "text": "FRI OCT 30",
+          "fontSize": 10,
+          "fontWeight": "bold",
+          "color": "#DDD6FE"
+         },
+         {
+          "type": "text",
+          "text": "TAP FOR KERALA",
+          "fontSize": 11,
+          "fontWeight": "bold",
+          "color": "#FFFFFF"
+         }
+        ]
        }
       ]
      }
@@ -175,14 +209,14 @@
     "children": [
      {
       "type": "text",
-      "text": "FRI OCT 30",
+      "text": "EXIT: 10,400 SUBS",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#E2E8F0"
      },
      {
       "type": "text",
-      "text": "TAP FOR KERALA",
+      "text": "100 TO 10.5K",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#5EEAD4"
