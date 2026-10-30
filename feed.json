@@ -1,9 +1,9 @@
 {
-  "contentRevision": 1821,
+  "contentRevision": 1822,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-10-30T12:39:25Z",
+  "updatedAt": "2026-10-30T13:39:25Z",
   "root": {
     "type": "stack",
     "direction": "vertical",
@@ -20,8 +20,8 @@
       "gradient": {
         "angle": 135,
         "colors": [
-          "#0F172A",
-          "#312E81"
+          "#111827",
+          "#3730A3"
         ]
       }
     },
@@ -43,7 +43,7 @@
           },
           {
             "type": "text",
-            "text": "FRI 5:38A",
+            "text": "FRI 6:39A",
             "color": "#A5B4FC",
             "fontSize": 11,
             "fontWeight": "bold"
@@ -64,7 +64,7 @@
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 194,
+            "width": 100,
             "height": 84,
             "cornerRadius": 14,
             "background": {
@@ -87,7 +87,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "EXIT FREQUENCY",
+                "text": "EXIT",
                 "color": "#E0E7FF",
                 "fontSize": 11,
                 "fontWeight": "bold"
@@ -96,14 +96,14 @@
                 "type": "text",
                 "text": "10.40K",
                 "color": "#FFFFFF",
-                "fontSize": 24,
+                "fontSize": 20,
                 "fontWeight": "bold"
               },
               {
                 "type": "text",
                 "text": "100 TO GO",
                 "color": "#FDE68A",
-                "fontSize": 11,
+                "fontSize": 10,
                 "fontWeight": "bold"
               }
             ],
@@ -111,12 +111,64 @@
           },
           {
             "type": "spacer",
-            "width": 10
+            "width": 8
           },
           {
             "type": "stack",
             "direction": "vertical",
-            "width": 120,
+            "width": 100,
+            "height": 84,
+            "cornerRadius": 14,
+            "background": {
+              "gradient": {
+                "angle": 140,
+                "colors": [
+                  "#059669",
+                  "#0EA5E9"
+                ]
+              }
+            },
+            "alignItems": "center",
+            "justifyContent": "center",
+            "padding": [
+              6,
+              8,
+              6,
+              8
+            ],
+            "children": [
+              {
+                "type": "text",
+                "text": "VENMO",
+                "color": "#D1FAE5",
+                "fontSize": 11,
+                "fontWeight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "$20 IN",
+                "color": "#FFFFFF",
+                "fontSize": 20,
+                "fontWeight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "FROM ROBIN",
+                "color": "#FDE68A",
+                "fontSize": 10,
+                "fontWeight": "bold"
+              }
+            ],
+            "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"
+          },
+          {
+            "type": "spacer",
+            "width": 8
+          },
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 108,
             "height": 84,
             "cornerRadius": 14,
             "background": {
@@ -139,23 +191,23 @@
             "children": [
               {
                 "type": "text",
-                "text": "AUTOPAY",
+                "text": "TODAY",
                 "color": "#FEF3C7",
                 "fontSize": 11,
                 "fontWeight": "bold"
               },
               {
                 "type": "text",
-                "text": "$116.89",
+                "text": "FRI 30",
                 "color": "#FFFFFF",
                 "fontSize": 20,
                 "fontWeight": "bold"
               },
               {
                 "type": "text",
-                "text": "TODAY",
+                "text": "OCT \u2022 SF",
                 "color": "#FDE68A",
-                "fontSize": 11,
+                "fontSize": 10,
                 "fontWeight": "bold"
               }
             ],
@@ -177,7 +229,7 @@
         "children": [
           {
             "type": "text",
-            "text": "WED LIT CLUB",
+            "text": "FRI MORNING",
             "color": "#BFDBFE",
             "fontSize": 11,
             "fontWeight": "bold"
