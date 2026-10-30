@@ -1,1 +1,194 @@
-{"contentRevision": 1829, "mode": "native", "root": {"background": {"gradient": {"angle": 135, "colors": ["#0F172A", "#134E4A"]}}, "children": [{"alignItems": "center", "children": [{"color": "#F8FAFC", "fontSize": 13, "fontWeight": "bold", "text": "TORNADO", "type": "text"}, {"color": "#5EEAD4", "fontSize": 11, "fontWeight": "bold", "text": "FRI 1:38P", "type": "text"}], "direction": "horizontal", "height": 18, "justifyContent": "space-between", "type": "stack", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "width": 324}, {"height": 10, "type": "spacer"}, {"children": [{"alignItems": "center", "background": {"gradient": {"angle": 140, "colors": ["#F59E0B", "#DC2626"]}}, "children": [{"color": "#FEF3C7", "fontSize": 10, "fontWeight": "bold", "text": "EXIT FREQUENCY", "type": "text"}, {"color": "#FFFFFF", "fontSize": 26, "fontWeight": "bold", "text": "10.40K", "type": "text"}, {"color": "#FDE68A", "fontSize": 11, "fontWeight": "bold", "text": "100 TO GO", "type": "text"}], "cornerRadius": 14, "direction": "vertical", "height": 84, "justifyContent": "center", "padding": [6, 10, 6, 10], "type": "stack", "url": "https://www.youtube.com/@exitfrequency", "width": 157}, {"alignItems": "center", "background": {"gradient": {"angle": 140, "colors": ["#1E293B", "#0E7490"]}}, "children": [{"color": "#99F6E4", "fontSize": 10, "fontWeight": "bold", "text": "FRIDAY IN SF", "type": "text"}, {"color": "#FFFFFF", "fontSize": 22, "fontWeight": "bold", "text": "Kerala", "type": "text"}, {"color": "#67E8F9", "fontSize": 11, "fontWeight": "bold", "text": "TAP TO PLAY", "type": "text"}], "cornerRadius": 14, "direction": "vertical", "height": 84, "justifyContent": "center", "padding": [6, 10, 6, 10], "type": "stack", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "width": 157}], "direction": "horizontal", "height": 84, "justifyContent": "space-between", "type": "stack", "width": 324}, {"height": 10, "type": "spacer"}, {"alignItems": "center", "children": [{"color": "#E2E8F0", "fontSize": 11, "fontWeight": "bold", "text": "EXIT 10.40K", "type": "text"}, {"color": "#5EEAD4", "fontSize": 11, "fontWeight": "bold", "text": "TAP FOR KERALA", "type": "text"}], "direction": "horizontal", "height": 16, "justifyContent": "space-between", "type": "stack", "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072", "width": 324}], "cornerRadius": 14, "direction": "vertical", "height": 138, "padding": [8, 10, 8, 10], "type": "stack", "width": 324}, "updatedAt": "2026-10-30T20:39:51Z", "version": 5, "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+ "contentRevision": 1830,
+ "mode": "native",
+ "version": 5,
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-10-30T21:40:05Z",
+ "root": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "cornerRadius": 14,
+  "background": {
+   "gradient": {
+    "angle": 135,
+    "colors": [
+     "#0F172A",
+     "#164E63"
+    ]
+   }
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "children": [
+     {
+      "type": "text",
+      "text": "TORNADO",
+      "fontSize": 13,
+      "fontWeight": "bold",
+      "color": "#F8FAFC"
+     },
+     {
+      "type": "text",
+      "text": "FRI 2:40P",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#67E8F9"
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "justifyContent": "space-between",
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 194,
+      "height": 84,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "cornerRadius": 14,
+      "padding": [
+       6,
+       10,
+       6,
+       10
+      ],
+      "background": {
+       "gradient": {
+        "angle": 140,
+        "colors": [
+         "#F59E0B",
+         "#DC2626"
+        ]
+       }
+      },
+      "url": "https://www.youtube.com/@exitfrequency",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQUENCY",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FEF3C7"
+       },
+       {
+        "type": "text",
+        "text": "10.40K",
+        "fontSize": 26,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#FDE68A"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 120,
+      "height": 84,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "cornerRadius": 14,
+      "padding": [
+       6,
+       10,
+       6,
+       10
+      ],
+      "background": {
+       "gradient": {
+        "angle": 140,
+        "colors": [
+         "#1E293B",
+         "#0E7490"
+        ]
+       }
+      },
+      "url": "https://www.meetup.com/",
+      "children": [
+       {
+        "type": "text",
+        "text": "THU NOV 5",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#99F6E4"
+       },
+       {
+        "type": "text",
+        "text": "AI SUMMIT",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "9AM ONLINE",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#67E8F9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "spacer",
+    "height": 10
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 16,
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+    "children": [
+     {
+      "type": "text",
+      "text": "FRI OCT 30",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#E2E8F0"
+     },
+     {
+      "type": "text",
+      "text": "TAP FOR KERALA",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#5EEAD4"
+     }
+    ]
+   }
+  ]
+ }
+}
