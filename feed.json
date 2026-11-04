@@ -1,1 +1,132 @@
-{"contentRevision":1945,"mode":"native","root":{"background":{"gradient":{"angle":135,"colors":["#1E1B4B","#9A3412"]}},"children":[{"alignItems":"center","children":[{"color":"#FFFFFF","fontSize":13,"fontWeight":"bold","text":"TORNADO","type":"text"},{"color":"#FED7AA","fontSize":11,"fontWeight":"bold","text":"WED 7:38A","type":"text"}],"direction":"horizontal","height":18,"justifyContent":"space-between","type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":324},{"alignItems":"center","children":[{"alignItems":"center","background":{"gradient":{"angle":135,"colors":["#DC2626","#F97316"]}},"children":[{"color":"#FFFFFF","fontSize":11,"fontWeight":"bold","text":"EXIT FREQUENCY","type":"text"},{"color":"#FFFFFF","fontSize":26,"fontWeight":"bold","text":"10,400","type":"text"},{"color":"#FDE68A","fontSize":10,"fontWeight":"bold","text":"100 TO GO","type":"text"}],"cornerRadius":12,"direction":"vertical","height":84,"justifyContent":"center","type":"stack","url":"https://www.youtube.com/@exitfrequency","width":194},{"alignItems":"center","background":{"gradient":{"angle":135,"colors":["#0F766E","#14B8A6"]}},"children":[{"color":"#FFFFFF","fontSize":13,"fontWeight":"bold","text":"KERALA","type":"text"},{"color":"#CCFBF1","fontSize":9,"fontWeight":"bold","text":"TAP TO PLAY","type":"text"},{"color":"#FFFFFF","fontSize":9,"fontWeight":"bold","text":"BONOBO","type":"text"}],"cornerRadius":12,"direction":"vertical","height":84,"justifyContent":"center","type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":120}],"direction":"horizontal","height":84,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","children":[{"color":"#FFFFFF","fontSize":9,"fontWeight":"bold","text":"EXIT 10,400","type":"text"},{"color":"#FED7AA","fontSize":9,"fontWeight":"bold","text":"99% TO 10.5K","type":"text"},{"color":"#FFFFFF","fontSize":9,"fontWeight":"bold","text":"WED NOV 4","type":"text"}],"direction":"horizontal","height":18,"justifyContent":"space-between","type":"stack","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","width":324}],"cornerRadius":14,"direction":"vertical","height":138,"justifyContent":"space-between","padding":[8,10,8,10],"type":"stack","width":324},"updatedAt":"2026-11-04T15:39:17Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 1946,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-11-04T16:39:04Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "direction": "vertical",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "cornerRadius": 14,
+    "background": {
+      "gradient": {
+        "angle": 135,
+        "colors": [
+          "#0F172A",
+          "#7C2D12"
+        ]
+      }
+    },
+    "children": [
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 18,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO",
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "WED 8:38A",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#FED7AA"
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 84,
+        "direction": "vertical",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "cornerRadius": 12,
+        "background": {
+          "gradient": {
+            "angle": 135,
+            "colors": [
+              "#DC2626",
+              "#F97316"
+            ]
+          }
+        },
+        "url": "https://www.youtube.com/@exitfrequency",
+        "children": [
+          {
+            "type": "text",
+            "text": "EXIT FREQUENCY",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "10,400",
+            "fontSize": 28,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "100 TO GO \u2022 99% TO 10.5K",
+            "fontSize": 10,
+            "fontWeight": "bold",
+            "color": "#FDE68A"
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 18,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "INBOX QUIET",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "KERALA TAP",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "color": "#99F6E4"
+          },
+          {
+            "type": "text",
+            "text": "WED NOV 4",
+            "fontSize": 9,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          }
+        ]
+      }
+    ]
+  }
+}
