@@ -1,1 +1,191 @@
-{"contentRevision":2021,"mode":"native","root":{"background":{"gradient":{"angle":135,"colors":["#0F172A","#312E81"]}},"children":[{"alignItems":"center","children":[{"color":"#F8FAFC","fontSize":13,"fontWeight":"bold","text":"TORNADO","type":"text"},{"color":"#C4B5FD","fontSize":11,"fontWeight":"bold","text":"SAT 11:39A","type":"text"}],"direction":"horizontal","height":18,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","children":[{"alignItems":"center","background":{"gradient":{"angle":135,"colors":["#0369A1","#0D9488"]}},"children":[{"color":"#E0F2FE","fontSize":8,"fontWeight":"bold","text":"FLIGHT","type":"text"},{"color":"#FFFFFF","fontSize":17,"fontWeight":"bold","text":"JB 278","type":"text"},{"color":"#A5F3FC","fontSize":10,"fontWeight":"bold","text":"TUE 11:25P","type":"text"},{"color":"#A5F3FC","fontSize":9,"fontWeight":"bold","text":"SFO→FLL 26C","type":"text"}],"cornerRadius":12,"direction":"vertical","height":84,"justifyContent":"center","padding":[8,8,8,8],"type":"stack","width":100},{"alignItems":"center","children":[{"alignItems":"center","background":{"gradient":{"angle":135,"colors":["#7C3AED","#DB2777"]}},"children":[{"color":"#EDE9FE","fontSize":8,"fontWeight":"bold","text":"EXIT","type":"text"},{"color":"#FFFFFF","fontSize":15,"fontWeight":"bold","text":"10,400","type":"text"},{"color":"#FDE68A","fontSize":8,"fontWeight":"bold","text":"100 TO GO","type":"text"}],"cornerRadius":38,"direction":"vertical","height":76,"justifyContent":"center","type":"stack","width":76}],"direction":"vertical","height":84,"justifyContent":"center","type":"stack","width":104},{"alignItems":"center","background":{"gradient":{"angle":135,"colors":["#15803D","#059669"]}},"children":[{"color":"#DCFCE7","fontSize":8,"fontWeight":"bold","text":"VENMO","type":"text"},{"color":"#FFFFFF","fontSize":17,"fontWeight":"bold","text":"+$20","type":"text"},{"color":"#BBF7D0","fontSize":9,"fontWeight":"bold","text":"FROM ROBIN","type":"text"}],"cornerRadius":12,"direction":"vertical","height":84,"justifyContent":"center","padding":[8,8,8,8],"type":"stack","width":100}],"direction":"horizontal","height":84,"justifyContent":"space-between","type":"stack","width":324},{"alignItems":"center","children":[{"color":"#C4B5FD","fontSize":11,"fontWeight":"bold","text":"SUN REDWOOD · 38 GOING","type":"text"},{"color":"#FBBF24","fontSize":11,"fontWeight":"bold","text":"INBOX 201","type":"text"}],"direction":"horizontal","height":16,"justifyContent":"space-between","type":"stack","width":324}],"cornerRadius":14,"direction":"vertical","height":138,"justifyContent":"space-between","padding":[8,10,8,10],"type":"stack","width":324},"updatedAt":"2026-11-07T19:39:36Z","version":5,"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072"}
+{
+  "contentRevision": 2022,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-11-07T20:39:36Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "cornerRadius": 14,
+    "direction": "vertical",
+    "justifyContent": "space-between",
+    "background": {
+      "gradient": {
+        "angle": 135,
+        "colors": [
+          "#0F172A",
+          "#312E81"
+        ]
+      }
+    },
+    "children": [
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 18,
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO",
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "color": "#F8FAFC"
+          },
+          {
+            "type": "text",
+            "text": "SAT 12:39P",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#C4B5FD"
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 84,
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "children": [
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 194,
+            "height": 84,
+            "justifyContent": "center",
+            "alignItems": "center",
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "background": {
+              "gradient": {
+                "angle": 135,
+                "colors": [
+                  "#1E3A8A",
+                  "#0E7490"
+                ]
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "text": "FLIGHT",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "color": "#BFDBFE"
+              },
+              {
+                "type": "text",
+                "text": "JB 278",
+                "fontSize": 17,
+                "fontWeight": "bold",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "TUE 11:25P \u00b7 SFO\u2192FLL",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#A5F3FC"
+              },
+              {
+                "type": "text",
+                "text": "SEAT 26C",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#A5F3FC"
+              }
+            ]
+          },
+          {
+            "type": "stack",
+            "direction": "vertical",
+            "width": 120,
+            "height": 84,
+            "justifyContent": "center",
+            "alignItems": "center",
+            "cornerRadius": 12,
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "background": {
+              "gradient": {
+                "angle": 135,
+                "colors": [
+                  "#7C3AED",
+                  "#DB2777"
+                ]
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "text": "EXIT",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "color": "#EDE9FE"
+              },
+              {
+                "type": "text",
+                "text": "10,400",
+                "fontSize": 17,
+                "fontWeight": "bold",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO",
+                "fontSize": 9,
+                "fontWeight": "bold",
+                "color": "#FDE68A"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "direction": "horizontal",
+        "width": 324,
+        "height": 16,
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "children": [
+          {
+            "type": "text",
+            "text": "BAGELS DELIVERED",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#C4B5FD"
+          },
+          {
+            "type": "text",
+            "text": "INBOX 201",
+            "fontSize": 11,
+            "fontWeight": "bold",
+            "color": "#FBBF24"
+          }
+        ]
+      }
+    ]
+  }
+}
