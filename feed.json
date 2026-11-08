@@ -1,8 +1,8 @@
 {
- "contentRevision": 2040,
+ "contentRevision": 2041,
  "mode": "native",
  "version": 5,
- "updatedAt": "2026-11-08T14:39:22Z",
+ "updatedAt": "2026-11-08T15:38:53Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "root": {
   "type": "stack",
@@ -22,7 +22,7 @@
     "angle": 135,
     "colors": [
      "#0F172A",
-     "#1E1B4B"
+     "#312E81"
     ]
    }
   },
@@ -44,7 +44,7 @@
      },
      {
       "type": "text",
-      "text": "SUN 6:38A",
+      "text": "SUN 7:38A",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#C4B5FD"
@@ -58,27 +58,11 @@
     "direction": "horizontal",
     "justifyContent": "space-between",
     "alignItems": "center",
-    "cornerRadius": 12,
-    "background": {
-     "gradient": {
-      "angle": 120,
-      "colors": [
-       "#7C3AED",
-       "#0D9488"
-      ]
-     }
-    },
-    "padding": [
-     10,
-     14,
-     10,
-     14
-    ],
     "children": [
      {
       "type": "stack",
-      "width": 150,
-      "height": 64,
+      "width": 110,
+      "height": 84,
       "direction": "vertical",
       "justifyContent": "center",
       "children": [
@@ -92,14 +76,14 @@
        {
         "type": "text",
         "text": "10,400",
-        "fontSize": 24,
+        "fontSize": 22,
         "fontWeight": "bold",
         "color": "#FFFFFF"
        },
        {
         "type": "text",
-        "text": "100 TO GO · 10.5K",
-        "fontSize": 10,
+        "text": "10.5K GOAL",
+        "fontSize": 9,
         "fontWeight": "bold",
         "color": "#FBBF24"
        }
@@ -107,39 +91,72 @@
      },
      {
       "type": "stack",
-      "width": 1,
-      "height": 56,
-      "background": {
-       "color": "#FFFFFF33"
-      }
-     },
-     {
-      "type": "stack",
-      "width": 128,
-      "height": 64,
+      "width": 84,
+      "height": 84,
       "direction": "vertical",
       "justifyContent": "center",
+      "alignItems": "center",
+      "cornerRadius": 42,
+      "background": {
+       "gradient": {
+        "angle": 120,
+        "colors": [
+         "#7C3AED",
+         "#4F46E5"
+        ]
+       }
+      },
       "children": [
        {
         "type": "text",
-        "text": "JB 278",
-        "fontSize": 13,
+        "text": "100",
+        "fontSize": 20,
         "fontWeight": "bold",
         "color": "#FFFFFF"
        },
        {
         "type": "text",
-        "text": "TUE 11:25P",
-        "fontSize": 11,
+        "text": "TO GO",
+        "fontSize": 8,
         "fontWeight": "bold",
-        "color": "#F0FDFA"
+        "color": "#DDD6FE"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "width": 110,
+      "height": 84,
+      "direction": "vertical",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "text",
+        "text": "JB 278 \u00b7 TUE",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#5EEAD4"
        },
        {
         "type": "text",
-        "text": "SFO → FLL · 26C",
+        "text": "11:25P SFO",
         "fontSize": 10,
         "fontWeight": "bold",
-        "color": "#CCFBF1"
+        "color": "#F8FAFC"
+       },
+       {
+        "type": "text",
+        "text": "FLL \u00b7 SEAT 26C",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#CBD5E1"
+       },
+       {
+        "type": "text",
+        "text": "INBOX 201",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#FBBF24"
        }
       ]
      }
@@ -150,19 +167,12 @@
     "width": 324,
     "height": 16,
     "direction": "horizontal",
-    "justifyContent": "space-between",
+    "justifyContent": "center",
     "alignItems": "center",
     "children": [
      {
       "type": "text",
-      "text": "INBOX 201 · NFL 6:19A",
-      "fontSize": 10,
-      "fontWeight": "bold",
-      "color": "#E0E7FF"
-     },
-     {
-      "type": "text",
-      "text": "MEETUP FRI POET",
+      "text": "MEETUP FRI POET \u00b7 NFL 6:19A",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#94A3B8"
