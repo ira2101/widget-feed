@@ -1,1 +1,245 @@
-{"contentRevision":2038,"mode":"native","version":5,"updatedAt":"2026-11-08T12:38:43Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","root":{"type":"stack","width":324,"height":138,"direction":"vertical","justifyContent":"space-between","padding":[8,10,8,10],"cornerRadius":14,"background":{"gradient":{"angle":135,"colors":["#0F172A","#1E1B4B"]}},"children":[{"type":"stack","width":324,"height":18,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO","fontSize":13,"fontWeight":"bold","color":"#F8FAFC"},{"type":"text","text":"SUN 4:38A","fontSize":11,"fontWeight":"bold","color":"#C4B5FD"}]},{"type":"stack","width":324,"height":84,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"stack","width":194,"height":84,"direction":"vertical","justifyContent":"center","padding":[8,10,8,10],"cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#7C3AED","#4C1D95"]}},"children":[{"type":"text","text":"EXIT FREQ","fontSize":8,"fontWeight":"bold","color":"#DDD6FE"},{"type":"text","text":"10,400","fontSize":22,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"100 TO GO","fontSize":11,"fontWeight":"bold","color":"#FBBF24"},{"type":"text","text":"10.5K NEXT","fontSize":9,"fontWeight":"bold","color":"#EDE9FE"}]},{"type":"stack","width":120,"height":84,"direction":"vertical","justifyContent":"center","padding":[8,8,8,8],"cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#0D9488","#134E4A"]}},"children":[{"type":"text","text":"JB 278","fontSize":12,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"TUE 11:25P","fontSize":10,"fontWeight":"bold","color":"#CCFBF1"},{"type":"text","text":"SFO \u2192 FLL","fontSize":10,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"SEAT 26C","fontSize":9,"fontWeight":"bold","color":"#99F6E4"}]}]},{"type":"stack","width":324,"height":16,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"MEETUP FRI POET","fontSize":10,"fontWeight":"bold","color":"#E0E7FF"},{"type":"text","text":"INBOX 201","fontSize":10,"fontWeight":"bold","color":"#94A3B8"}]}]}}
+{
+ "contentRevision": 2039,
+ "mode": "native",
+ "version": 5,
+ "updatedAt": "2026-11-08T13:38:48Z",
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "root": {
+  "type": "stack",
+  "width": 324,
+  "height": 138,
+  "direction": "vertical",
+  "justifyContent": "space-between",
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "cornerRadius": 14,
+  "background": {
+   "gradient": {
+    "angle": 135,
+    "colors": [
+     "#0F172A",
+     "#1E1B4B"
+    ]
+   }
+  },
+  "children": [
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 18,
+    "direction": "horizontal",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "children": [
+     {
+      "type": "text",
+      "text": "TORNADO",
+      "fontSize": 13,
+      "fontWeight": "bold",
+      "color": "#F8FAFC"
+     },
+     {
+      "type": "text",
+      "text": "SUN 5:38A",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#C4B5FD"
+     }
+    ]
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 84,
+    "direction": "horizontal",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "children": [
+     {
+      "type": "stack",
+      "width": 170,
+      "height": 84,
+      "direction": "vertical",
+      "justifyContent": "center",
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQ",
+        "fontSize": 8,
+        "fontWeight": "bold",
+        "color": "#DDD6FE"
+       },
+       {
+        "type": "text",
+        "text": "10,400",
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#FBBF24"
+       },
+       {
+        "type": "text",
+        "text": "10.5K NEXT",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#EDE9FE"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "width": 140,
+      "height": 84,
+      "direction": "horizontal",
+      "justifyContent": "space-between",
+      "alignItems": "flex-end",
+      "children": [
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 22,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#8B5CF6"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 28,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#7C3AED"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 34,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#8B5CF6"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 40,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#7C3AED"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 46,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#8B5CF6"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 52,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#7C3AED"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 58,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#8B5CF6"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 64,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#7C3AED"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 70,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#8B5CF6"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 76,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#FBBF24"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 82,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#FBBF24"
+        }
+       },
+       {
+        "type": "stack",
+        "width": 8,
+        "height": 84,
+        "cornerRadius": 4,
+        "background": {
+         "color": "#FBBF24"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "stack",
+    "width": 324,
+    "height": 16,
+    "direction": "horizontal",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "children": [
+     {
+      "type": "text",
+      "text": "JB 278 TUE 11:25P",
+      "fontSize": 10,
+      "fontWeight": "bold",
+      "color": "#E0E7FF"
+     },
+     {
+      "type": "text",
+      "text": "INBOX 201 \u00b7 MEETUP 8:40P",
+      "fontSize": 10,
+      "fontWeight": "bold",
+      "color": "#94A3B8"
+     }
+    ]
+   }
+  ]
+ }
+}
