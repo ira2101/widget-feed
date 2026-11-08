@@ -1,8 +1,8 @@
 {
- "contentRevision": 2039,
+ "contentRevision": 2040,
  "mode": "native",
  "version": 5,
- "updatedAt": "2026-11-08T13:38:48Z",
+ "updatedAt": "2026-11-08T14:39:22Z",
  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
  "root": {
   "type": "stack",
@@ -44,7 +44,7 @@
      },
      {
       "type": "text",
-      "text": "SUN 5:38A",
+      "text": "SUN 6:38A",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#C4B5FD"
@@ -58,11 +58,27 @@
     "direction": "horizontal",
     "justifyContent": "space-between",
     "alignItems": "center",
+    "cornerRadius": 12,
+    "background": {
+     "gradient": {
+      "angle": 120,
+      "colors": [
+       "#7C3AED",
+       "#0D9488"
+      ]
+     }
+    },
+    "padding": [
+     10,
+     14,
+     10,
+     14
+    ],
     "children": [
      {
       "type": "stack",
-      "width": 170,
-      "height": 84,
+      "width": 150,
+      "height": 64,
       "direction": "vertical",
       "justifyContent": "center",
       "children": [
@@ -82,135 +98,48 @@
        },
        {
         "type": "text",
-        "text": "100 TO GO",
-        "fontSize": 11,
+        "text": "100 TO GO · 10.5K",
+        "fontSize": 10,
         "fontWeight": "bold",
         "color": "#FBBF24"
-       },
-       {
-        "type": "text",
-        "text": "10.5K NEXT",
-        "fontSize": 9,
-        "fontWeight": "bold",
-        "color": "#EDE9FE"
        }
       ]
      },
      {
       "type": "stack",
-      "width": 140,
-      "height": 84,
-      "direction": "horizontal",
-      "justifyContent": "space-between",
-      "alignItems": "flex-end",
+      "width": 1,
+      "height": 56,
+      "background": {
+       "color": "#FFFFFF33"
+      }
+     },
+     {
+      "type": "stack",
+      "width": 128,
+      "height": 64,
+      "direction": "vertical",
+      "justifyContent": "center",
       "children": [
        {
-        "type": "stack",
-        "width": 8,
-        "height": 22,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#8B5CF6"
-        }
+        "type": "text",
+        "text": "JB 278",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
        },
        {
-        "type": "stack",
-        "width": 8,
-        "height": 28,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#7C3AED"
-        }
+        "type": "text",
+        "text": "TUE 11:25P",
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "#F0FDFA"
        },
        {
-        "type": "stack",
-        "width": 8,
-        "height": 34,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#8B5CF6"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 40,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#7C3AED"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 46,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#8B5CF6"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 52,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#7C3AED"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 58,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#8B5CF6"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 64,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#7C3AED"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 70,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#8B5CF6"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 76,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#FBBF24"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 82,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#FBBF24"
-        }
-       },
-       {
-        "type": "stack",
-        "width": 8,
-        "height": 84,
-        "cornerRadius": 4,
-        "background": {
-         "color": "#FBBF24"
-        }
+        "type": "text",
+        "text": "SFO → FLL · 26C",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#CCFBF1"
        }
       ]
      }
@@ -226,14 +155,14 @@
     "children": [
      {
       "type": "text",
-      "text": "JB 278 TUE 11:25P",
+      "text": "INBOX 201 · NFL 6:19A",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#E0E7FF"
      },
      {
       "type": "text",
-      "text": "INBOX 201 \u00b7 MEETUP 8:40P",
+      "text": "MEETUP FRI POET",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#94A3B8"
