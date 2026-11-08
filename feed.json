@@ -1,9 +1,9 @@
 {
-  "contentRevision": 2026,
+  "contentRevision": 2027,
   "mode": "native",
   "version": 5,
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-11-08T00:39:09Z",
+  "updatedAt": "2026-11-08T01:39:19Z",
   "root": {
     "type": "stack",
     "width": 324,
@@ -21,8 +21,8 @@
       "gradient": {
         "angle": 135,
         "colors": [
-          "#111827",
-          "#4C1D95"
+          "#0B1220",
+          "#1E3A8A"
         ]
       }
     },
@@ -44,10 +44,10 @@
           },
           {
             "type": "text",
-            "text": "SAT 4:38P",
+            "text": "SAT 5:39P",
             "fontSize": 11,
             "fontWeight": "bold",
-            "color": "#C4B5FD"
+            "color": "#93C5FD"
           }
         ]
       },
@@ -61,7 +61,54 @@
         "children": [
           {
             "type": "stack",
-            "width": 108,
+            "width": 194,
+            "height": 84,
+            "direction": "vertical",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "padding": [
+              8,
+              10,
+              8,
+              10
+            ],
+            "cornerRadius": 12,
+            "background": {
+              "gradient": {
+                "angle": 120,
+                "colors": [
+                  "#0D9488",
+                  "#1D4ED8"
+                ]
+              }
+            },
+            "children": [
+              {
+                "type": "text",
+                "text": "EXIT FREQUENCY",
+                "fontSize": 8,
+                "fontWeight": "bold",
+                "color": "#CCFBF1"
+              },
+              {
+                "type": "text",
+                "text": "10,400",
+                "fontSize": 26,
+                "fontWeight": "bold",
+                "color": "#FFFFFF"
+              },
+              {
+                "type": "text",
+                "text": "100 TO GO · 10,500",
+                "fontSize": 10,
+                "fontWeight": "bold",
+                "color": "#FDE68A"
+              }
+            ]
+          },
+          {
+            "type": "stack",
+            "width": 120,
             "height": 84,
             "direction": "vertical",
             "justifyContent": "center",
@@ -73,60 +120,6 @@
               6
             ],
             "cornerRadius": 12,
-            "background": {
-              "gradient": {
-                "angle": 120,
-                "colors": [
-                  "#0D9488",
-                  "#0369A1"
-                ]
-              }
-            },
-            "children": [
-              {
-                "type": "text",
-                "text": "JB 278",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "color": "#CCFBF1"
-              },
-              {
-                "type": "text",
-                "text": "TUE 11:25P",
-                "fontSize": 13,
-                "fontWeight": "bold",
-                "color": "#FFFFFF"
-              },
-              {
-                "type": "text",
-                "text": "SFO \u2192 FLL",
-                "fontSize": 11,
-                "fontWeight": "bold",
-                "color": "#CCFBF1"
-              },
-              {
-                "type": "text",
-                "text": "SEAT 26C",
-                "fontSize": 10,
-                "fontWeight": "bold",
-                "color": "#FDE68A"
-              }
-            ]
-          },
-          {
-            "type": "stack",
-            "width": 84,
-            "height": 84,
-            "direction": "vertical",
-            "justifyContent": "center",
-            "alignItems": "center",
-            "padding": [
-              6,
-              4,
-              6,
-              4
-            ],
-            "cornerRadius": 42,
             "background": {
               "gradient": {
                 "angle": 120,
@@ -139,78 +132,31 @@
             "children": [
               {
                 "type": "text",
-                "text": "EXIT FREQ",
-                "fontSize": 7,
+                "text": "JB 278",
+                "fontSize": 8,
                 "fontWeight": "bold",
                 "color": "#EDE9FE"
               },
               {
                 "type": "text",
-                "text": "10,400",
-                "fontSize": 17,
+                "text": "TUE 11:25P",
+                "fontSize": 13,
                 "fontWeight": "bold",
                 "color": "#FFFFFF"
               },
               {
                 "type": "text",
-                "text": "100 TO GO",
-                "fontSize": 9,
+                "text": "SFO → FLL",
+                "fontSize": 11,
                 "fontWeight": "bold",
                 "color": "#FDE68A"
-              }
-            ]
-          },
-          {
-            "type": "stack",
-            "width": 108,
-            "height": 84,
-            "direction": "vertical",
-            "justifyContent": "center",
-            "alignItems": "center",
-            "padding": [
-              8,
-              6,
-              8,
-              6
-            ],
-            "cornerRadius": 12,
-            "background": {
-              "gradient": {
-                "angle": 120,
-                "colors": [
-                  "#1D4ED8",
-                  "#7C3AED"
-                ]
-              }
-            },
-            "children": [
-              {
-                "type": "text",
-                "text": "INBOX",
-                "fontSize": 8,
-                "fontWeight": "bold",
-                "color": "#DBEAFE"
               },
               {
                 "type": "text",
-                "text": "201",
-                "fontSize": 20,
+                "text": "SEAT 26C",
+                "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#FFFFFF"
-              },
-              {
-                "type": "text",
-                "text": "LINKEDIN",
-                "fontSize": 10,
-                "fontWeight": "bold",
-                "color": "#FDE68A"
-              },
-              {
-                "type": "text",
-                "text": "3:50P",
-                "fontSize": 10,
-                "fontWeight": "bold",
-                "color": "#DBEAFE"
               }
             ]
           }
@@ -226,14 +172,14 @@
         "children": [
           {
             "type": "text",
-            "text": "EXIT TARGET 10,500",
+            "text": "INBOX 201 UNREAD",
             "fontSize": 11,
             "fontWeight": "bold",
-            "color": "#C4B5FD"
+            "color": "#93C5FD"
           },
           {
             "type": "text",
-            "text": "SAT NOV 7",
+            "text": "ZILLOW 4:41P",
             "fontSize": 11,
             "fontWeight": "bold",
             "color": "#FBBF24"
