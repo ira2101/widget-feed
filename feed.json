@@ -1,1 +1,73 @@
-{"contentRevision":2077,"mode":"native","version":5,"updatedAt":"2026-11-10T02:39:32Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","root":{"type":"stack","width":324,"height":138,"padding":[8,10,8,10],"cornerRadius":14,"direction":"vertical","justifyContent":"space-between","background":{"gradient":{"angle":135,"colors":["#0F172A","#1E293B"]}},"children":[{"type":"stack","width":324,"height":18,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"TORNADO","fontSize":13,"fontWeight":"bold","color":"#F8FAFC"},{"type":"text","text":"MON 6:38P","fontSize":11,"fontWeight":"bold","color":"#5EEAD4"}]},{"type":"stack","width":324,"height":84,"direction":"vertical","justifyContent":"space-between","padding":[8,10,8,10],"cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#6D28D9","#312E81"]}},"children":[{"type":"stack","width":304,"height":14,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"EXIT FREQUENCY","fontSize":11,"fontWeight":"bold","color":"#EDE9FE"},{"type":"text","text":"100 TO GO","fontSize":11,"fontWeight":"bold","color":"#FDE68A"}]},{"type":"stack","width":304,"height":28,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"10,400","fontSize":26,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"99% TO 10.5K","fontSize":11,"fontWeight":"bold","color":"#C7D2FE"}]},{"type":"stack","width":304,"height":18,"direction":"horizontal","justifyContent":"space-between","alignItems":"flex-end","children":[{"type":"stack","width":18,"height":5,"cornerRadius":2,"background":{"color":"#8B5CF6"}},{"type":"stack","width":18,"height":7,"cornerRadius":2,"background":{"color":"#8B5CF6"}},{"type":"stack","width":18,"height":8,"cornerRadius":2,"background":{"color":"#8B5CF6"}},{"type":"stack","width":18,"height":9,"cornerRadius":2,"background":{"color":"#A78BFA"}},{"type":"stack","width":18,"height":10,"cornerRadius":2,"background":{"color":"#A78BFA"}},{"type":"stack","width":18,"height":11,"cornerRadius":2,"background":{"color":"#A78BFA"}},{"type":"stack","width":18,"height":12,"cornerRadius":2,"background":{"color":"#C4B5FD"}},{"type":"stack","width":18,"height":13,"cornerRadius":2,"background":{"color":"#C4B5FD"}},{"type":"stack","width":18,"height":14,"cornerRadius":2,"background":{"color":"#C4B5FD"}},{"type":"stack","width":18,"height":15,"cornerRadius":2,"background":{"color":"#FDE68A"}},{"type":"stack","width":18,"height":16,"cornerRadius":2,"background":{"color":"#FDE68A"}},{"type":"stack","width":18,"height":18,"cornerRadius":2,"background":{"color":"#FDE68A"}}]}]},{"type":"stack","width":324,"height":16,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"JB 278 TUE 11:25P SFO-FLL 26C","fontSize":10,"fontWeight":"bold","color":"#F8FAFC"},{"type":"text","text":"INBOX 20K","fontSize":10,"fontWeight":"bold","color":"#94A3B8"}]}]}}
+{
+  "contentRevision": 2078,
+  "mode": "native",
+  "version": 5,
+  "updatedAt": "2026-11-10T03:38:32Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "padding": [8, 10, 8, 10],
+    "cornerRadius": 14,
+    "direction": "vertical",
+    "justifyContent": "space-between",
+    "background": {"gradient": {"angle": 135, "colors": ["#0F172A", "#1E293B"]}},
+    "children": [
+      {
+        "type": "stack", "width": 324, "height": 18, "direction": "horizontal",
+        "justifyContent": "space-between", "alignItems": "center",
+        "children": [
+          {"type": "text", "text": "TORNADO", "fontSize": 13, "fontWeight": "bold", "color": "#F8FAFC"},
+          {"type": "text", "text": "MON 7:38P", "fontSize": 11, "fontWeight": "bold", "color": "#5EEAD4"}
+        ]
+      },
+      {
+        "type": "stack", "width": 324, "height": 84, "direction": "horizontal",
+        "justifyContent": "space-between", "alignItems": "center",
+        "children": [
+          {
+            "type": "stack", "width": 194, "height": 84, "direction": "vertical",
+            "justifyContent": "space-between", "padding": [8, 10, 8, 10], "cornerRadius": 12,
+            "background": {"gradient": {"angle": 135, "colors": ["#6D28D9", "#312E81"]}},
+            "children": [
+              {"type": "stack", "width": 174, "height": 14, "direction": "horizontal", "justifyContent": "space-between", "alignItems": "center",
+               "children": [
+                 {"type": "text", "text": "EXIT FREQUENCY", "fontSize": 11, "fontWeight": "bold", "color": "#EDE9FE"},
+                 {"type": "text", "text": "100 TO GO", "fontSize": 11, "fontWeight": "bold", "color": "#FDE68A"}
+               ]},
+              {"type": "stack", "width": 174, "height": 28, "direction": "horizontal", "justifyContent": "space-between", "alignItems": "center",
+               "children": [
+                 {"type": "text", "text": "10,400", "fontSize": 26, "fontWeight": "bold", "color": "#FFFFFF"},
+                 {"type": "text", "text": "99% TO 10.5K", "fontSize": 11, "fontWeight": "bold", "color": "#C7D2FE"}
+               ]},
+              {"type": "stack", "width": 174, "height": 6, "cornerRadius": 3, "background": {"color": "#4C1D95"},
+               "children": [
+                 {"type": "stack", "width": 172, "height": 6, "cornerRadius": 3, "background": {"color": "#FDE68A"}}
+               ]}
+            ]
+          },
+          {
+            "type": "stack", "width": 120, "height": 84, "direction": "vertical",
+            "justifyContent": "space-between", "padding": [8, 10, 8, 10], "cornerRadius": 12,
+            "background": {"gradient": {"angle": 135, "colors": ["#0F766E", "#134E4A"]}},
+            "children": [
+              {"type": "text", "text": "GMAIL", "fontSize": 11, "fontWeight": "bold", "color": "#99F6E4"},
+              {"type": "text", "text": "Owen Smith", "fontSize": 13, "fontWeight": "bold", "color": "#FFFFFF"},
+              {"type": "text", "text": "IG follow request", "fontSize": 10, "fontWeight": "bold", "color": "#CCFBF1"},
+              {"type": "text", "text": "6:46 PM", "fontSize": 10, "fontWeight": "bold", "color": "#5EEAD4"}
+            ]
+          }
+        ]
+      },
+      {
+        "type": "stack", "width": 324, "height": 16, "direction": "horizontal",
+        "justifyContent": "space-between", "alignItems": "center",
+        "children": [
+          {"type": "text", "text": "JB 278 · TUE 11:25P · SFO-FLL", "fontSize": 10, "fontWeight": "bold", "color": "#F8FAFC"},
+          {"type": "text", "text": "SEAT 26C", "fontSize": 10, "fontWeight": "bold", "color": "#94A3B8"}
+        ]
+      }
+    ]
+  }
+}
