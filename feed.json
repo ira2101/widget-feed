@@ -1,5 +1,5 @@
 {
- "contentRevision": 2106,
+ "contentRevision": 2107,
  "mode": "native",
  "version": 5,
  "outerPadding": [
@@ -27,7 +27,7 @@
     "angle": 135,
     "colors": [
      "#0B1026",
-     "#312E81"
+     "#1E1B4B"
     ]
    }
   },
@@ -49,7 +49,7 @@
      },
      {
       "type": "text",
-      "text": "TUE 11:38P",
+      "text": "WED 12:38A",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#A5B4FC"
@@ -67,7 +67,7 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 194,
+      "width": 112,
       "height": 84,
       "justifyContent": "space-between",
       "padding": [
@@ -97,20 +97,13 @@
        {
         "type": "text",
         "text": "SFO \u2192 FLL",
-        "fontSize": 18,
+        "fontSize": 15,
         "fontWeight": "bold",
         "color": "#FFFFFF"
        },
        {
         "type": "text",
-        "text": "TONIGHT 11:25P",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#E0E7FF"
-       },
-       {
-        "type": "text",
-        "text": "LANDS 7:45A EST \u00b7 26C",
+        "text": "IN THE AIR",
         "fontSize": 10,
         "fontWeight": "bold",
         "color": "#FDE68A"
@@ -120,7 +113,48 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 120,
+      "width": 84,
+      "height": 84,
+      "justifyContent": "center",
+      "alignItems": "center",
+      "cornerRadius": 42,
+      "background": {
+       "gradient": {
+        "angle": 135,
+        "colors": [
+         "#0F766E",
+         "#155E75"
+        ]
+       }
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT",
+        "fontSize": 7,
+        "fontWeight": "bold",
+        "color": "#99F6E4"
+       },
+       {
+        "type": "text",
+        "text": "10,400",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO",
+        "fontSize": 9,
+        "fontWeight": "bold",
+        "color": "#FDE68A"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 112,
       "height": 84,
       "justifyContent": "space-between",
       "padding": [
@@ -134,39 +168,32 @@
        "gradient": {
         "angle": 135,
         "colors": [
-         "#0F766E",
-         "#155E75"
+         "#7C2D12",
+         "#BE185D"
         ]
        }
       },
       "children": [
        {
         "type": "text",
-        "text": "EXIT FREQ",
+        "text": "RACHEL IG",
         "fontSize": 8,
         "fontWeight": "bold",
-        "color": "#99F6E4"
+        "color": "#FECDD3"
        },
        {
         "type": "text",
-        "text": "10,400",
-        "fontSize": 18,
+        "text": "2 NEW",
+        "fontSize": 15,
         "fontWeight": "bold",
         "color": "#FFFFFF"
        },
        {
         "type": "text",
-        "text": "100 TO GO",
+        "text": "DMs WAITING",
         "fontSize": 10,
         "fontWeight": "bold",
         "color": "#FDE68A"
-       },
-       {
-        "type": "text",
-        "text": "10.5K NEXT",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#A7F3D0"
        }
       ]
      }
@@ -182,14 +209,14 @@
     "children": [
      {
       "type": "text",
-      "text": "RACHEL IG \u00b7 2 NEW",
+      "text": "LANDS 7:45A EST \u00b7 26C",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#C4B5FD"
      },
      {
       "type": "text",
-      "text": "UBER \u2713 SFO",
+      "text": "EXIT 10.5K NEXT",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#E2E8F0"
@@ -198,5 +225,5 @@
    }
   ]
  },
- "updatedAt": "2026-11-11T07:39:36Z"
+ "updatedAt": "2026-11-11T08:39:13Z"
 }
