@@ -1,5 +1,5 @@
 {
- "contentRevision": 2105,
+ "contentRevision": 2106,
  "mode": "native",
  "version": 5,
  "outerPadding": [
@@ -27,7 +27,7 @@
     "angle": 135,
     "colors": [
      "#0B1026",
-     "#1E1B4B"
+     "#312E81"
     ]
    }
   },
@@ -49,7 +49,7 @@
      },
      {
       "type": "text",
-      "text": "TUE 10:39P",
+      "text": "TUE 11:38P",
       "fontSize": 11,
       "fontWeight": "bold",
       "color": "#A5B4FC"
@@ -67,7 +67,60 @@
      {
       "type": "stack",
       "direction": "vertical",
-      "width": 100,
+      "width": 194,
+      "height": 84,
+      "justifyContent": "space-between",
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "cornerRadius": 12,
+      "background": {
+       "gradient": {
+        "angle": 135,
+        "colors": [
+         "#1E3A8A",
+         "#6D28D9"
+        ]
+       }
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "JETBLUE 278",
+        "fontSize": 8,
+        "fontWeight": "bold",
+        "color": "#BFDBFE"
+       },
+       {
+        "type": "text",
+        "text": "SFO \u2192 FLL",
+        "fontSize": 18,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "TONIGHT 11:25P",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#E0E7FF"
+       },
+       {
+        "type": "text",
+        "text": "LANDS 7:45A EST \u00b7 26C",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FDE68A"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 120,
       "height": 84,
       "justifyContent": "space-between",
       "padding": [
@@ -116,103 +169,6 @@
         "color": "#A7F3D0"
        }
       ]
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 104,
-      "height": 84,
-      "justifyContent": "center",
-      "alignItems": "center",
-      "children": [
-       {
-        "type": "stack",
-        "direction": "vertical",
-        "width": 84,
-        "height": 84,
-        "justifyContent": "center",
-        "alignItems": "center",
-        "cornerRadius": 42,
-        "background": {
-         "gradient": {
-          "angle": 135,
-          "colors": [
-           "#2563EB",
-           "#7C3AED"
-          ]
-         }
-        },
-        "children": [
-         {
-          "type": "text",
-          "text": "46M",
-          "fontSize": 22,
-          "fontWeight": "bold",
-          "color": "#FFFFFF"
-         },
-         {
-          "type": "text",
-          "text": "TO TAKEOFF",
-          "fontSize": 8,
-          "fontWeight": "bold",
-          "color": "#E0E7FF"
-         }
-        ]
-       }
-      ]
-     },
-     {
-      "type": "stack",
-      "direction": "vertical",
-      "width": 100,
-      "height": 84,
-      "justifyContent": "space-between",
-      "padding": [
-       8,
-       10,
-       8,
-       10
-      ],
-      "cornerRadius": 12,
-      "background": {
-       "gradient": {
-        "angle": 135,
-        "colors": [
-         "#92400E",
-         "#7C2D12"
-        ]
-       }
-      },
-      "children": [
-       {
-        "type": "text",
-        "text": "EN ROUTE",
-        "fontSize": 8,
-        "fontWeight": "bold",
-        "color": "#FDE68A"
-       },
-       {
-        "type": "text",
-        "text": "UBER",
-        "fontSize": 18,
-        "fontWeight": "bold",
-        "color": "#FFFFFF"
-       },
-       {
-        "type": "text",
-        "text": "TO SFO",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#FED7AA"
-       },
-       {
-        "type": "text",
-        "text": "10:07P",
-        "fontSize": 10,
-        "fontWeight": "bold",
-        "color": "#FDBA74"
-       }
-      ]
      }
     ]
    },
@@ -226,21 +182,21 @@
     "children": [
      {
       "type": "text",
-      "text": "JB 278 \u00b7 11:25P",
-      "fontSize": 10,
-      "fontWeight": "bold",
-      "color": "#E2E8F0"
-     },
-     {
-      "type": "text",
       "text": "RACHEL IG \u00b7 2 NEW",
       "fontSize": 10,
       "fontWeight": "bold",
       "color": "#C4B5FD"
+     },
+     {
+      "type": "text",
+      "text": "UBER \u2713 SFO",
+      "fontSize": 10,
+      "fontWeight": "bold",
+      "color": "#E2E8F0"
      }
     ]
    }
   ]
  },
- "updatedAt": "2026-11-11T06:40:19Z"
+ "updatedAt": "2026-11-11T07:39:36Z"
 }
