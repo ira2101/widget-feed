@@ -1,5 +1,5 @@
 {
-  "contentRevision": 2125,
+  "contentRevision": 2126,
   "mode": "native",
   "version": 5,
   "outerPadding": [
@@ -9,7 +9,7 @@
     8
   ],
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
-  "updatedAt": "2026-11-12T02:39:05Z",
+  "updatedAt": "2026-11-12T03:39:55Z",
   "root": {
     "type": "stack",
     "direction": "vertical",
@@ -28,7 +28,7 @@
         "angle": 135,
         "colors": [
           "#0B1220",
-          "#1E1B4B"
+          "#312E81"
         ]
       }
     },
@@ -50,7 +50,7 @@
           },
           {
             "type": "text",
-            "text": "WED 9:38P",
+            "text": "WED 10:38P",
             "fontSize": 11,
             "fontWeight": "bold",
             "color": "#A5B4FC"
@@ -59,28 +59,34 @@
       },
       {
         "type": "stack",
-        "direction": "horizontal",
+        "direction": "vertical",
         "width": 324,
         "height": 84,
+        "cornerRadius": 12,
+        "padding": [
+          10,
+          14,
+          10,
+          14
+        ],
         "justifyContent": "space-between",
+        "background": {
+          "gradient": {
+            "angle": 135,
+            "colors": [
+              "#7C3AED",
+              "#0E7490"
+            ]
+          }
+        },
         "children": [
           {
             "type": "stack",
-            "direction": "vertical",
-            "width": 100,
-            "height": 84,
-            "cornerRadius": 12,
+            "direction": "horizontal",
+            "width": 296,
+            "height": 12,
             "alignItems": "center",
-            "justifyContent": "center",
-            "background": {
-              "gradient": {
-                "angle": 135,
-                "colors": [
-                  "#7C3AED",
-                  "#4F46E5"
-                ]
-              }
-            },
+            "justifyContent": "space-between",
             "children": [
               {
                 "type": "text",
@@ -91,56 +97,39 @@
               },
               {
                 "type": "text",
-                "text": "10,400",
-                "fontSize": 18,
+                "text": "JB 278 \u00b7 LANDED",
+                "fontSize": 10,
                 "fontWeight": "bold",
-                "color": "#FFFFFF"
-              },
-              {
-                "type": "text",
-                "text": "100 TO GO",
-                "fontSize": 9,
-                "fontWeight": "bold",
-                "color": "#FDE68A"
+                "color": "#99F6E4"
               }
             ]
           },
           {
+            "type": "text",
+            "text": "10,400",
+            "fontSize": 26,
+            "fontWeight": "bold",
+            "color": "#FFFFFF"
+          },
+          {
             "type": "stack",
-            "direction": "vertical",
-            "width": 100,
-            "height": 84,
-            "cornerRadius": 12,
+            "direction": "horizontal",
+            "width": 296,
+            "height": 12,
             "alignItems": "center",
-            "justifyContent": "center",
-            "background": {
-              "gradient": {
-                "angle": 135,
-                "colors": [
-                  "#0F766E",
-                  "#0E7490"
-                ]
-              }
-            },
+            "justifyContent": "space-between",
             "children": [
               {
                 "type": "text",
-                "text": "FLORIDA",
+                "text": "100 TO GO \u00b7 10.5K",
                 "fontSize": 10,
                 "fontWeight": "bold",
-                "color": "#99F6E4"
+                "color": "#FDE68A"
               },
               {
                 "type": "text",
-                "text": "LANDED",
-                "fontSize": 18,
-                "fontWeight": "bold",
-                "color": "#FFFFFF"
-              },
-              {
-                "type": "text",
-                "text": "JB 278 \u00b7 7:45A",
-                "fontSize": 9,
+                "text": "FLL 7:45A",
+                "fontSize": 10,
                 "fontWeight": "bold",
                 "color": "#CCFBF1"
               }
@@ -148,42 +137,24 @@
           },
           {
             "type": "stack",
-            "direction": "vertical",
-            "width": 108,
-            "height": 84,
-            "cornerRadius": 12,
-            "alignItems": "center",
-            "justifyContent": "center",
+            "direction": "horizontal",
+            "width": 296,
+            "height": 6,
+            "cornerRadius": 3,
             "background": {
-              "gradient": {
-                "angle": 135,
-                "colors": [
-                  "#B45309",
-                  "#92400E"
-                ]
-              }
+              "color": "#FFFFFF40"
             },
             "children": [
               {
-                "type": "text",
-                "text": "INBOX",
-                "fontSize": 10,
-                "fontWeight": "bold",
-                "color": "#FDE68A"
-              },
-              {
-                "type": "text",
-                "text": "201",
-                "fontSize": 18,
-                "fontWeight": "bold",
-                "color": "#FFFFFF"
-              },
-              {
-                "type": "text",
-                "text": "UNREAD",
-                "fontSize": 9,
-                "fontWeight": "bold",
-                "color": "#FDE68A"
+                "type": "stack",
+                "direction": "horizontal",
+                "width": 293,
+                "height": 6,
+                "cornerRadius": 3,
+                "background": {
+                  "color": "#FDE68A"
+                },
+                "children": []
               }
             ]
           }
@@ -199,14 +170,14 @@
         "children": [
           {
             "type": "text",
-            "text": "NOV 11 \u00b7 9:38 PM",
+            "text": "WEATHER CH 8:03P",
             "fontSize": 10,
             "fontWeight": "bold",
             "color": "#E2E8F0"
           },
           {
             "type": "text",
-            "text": "10.5K NEXT",
+            "text": "201 UNREAD",
             "fontSize": 10,
             "fontWeight": "bold",
             "color": "#94A3B8"
