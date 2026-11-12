@@ -1,1 +1,188 @@
-{"contentRevision":2128,"mode":"native","version":5,"outerPadding":[8,8,8,8],"widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","updatedAt":"2026-11-12T05:38:55Z","root":{"type":"stack","direction":"vertical","width":324,"height":138,"padding":[8,10,8,10],"cornerRadius":14,"justifyContent":"space-between","background":{"gradient":{"angle":135,"colors":["#0B1220","#312E81"]}},"children":[{"type":"stack","direction":"horizontal","width":324,"height":18,"alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"TORNADO","fontSize":13,"fontWeight":"bold","color":"#F8FAFC"},{"type":"text","text":"THU 12:38A","fontSize":11,"fontWeight":"bold","color":"#A5B4FC"}]},{"type":"stack","direction":"horizontal","width":324,"height":84,"alignItems":"center","justifyContent":"space-between","children":[{"type":"stack","direction":"vertical","width":194,"height":84,"cornerRadius":12,"padding":[8,10,8,10],"justifyContent":"space-between","background":{"gradient":{"angle":135,"colors":["#7C3AED","#4F46E5"]}},"children":[{"type":"stack","direction":"horizontal","width":174,"height":12,"alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"EXIT FREQ","fontSize":9,"fontWeight":"bold","color":"#DDD6FE"},{"type":"text","text":"99% THERE","fontSize":9,"fontWeight":"bold","color":"#FDE68A"}]},{"type":"text","text":"10,400","fontSize":22,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"100 TO GO \u00b7 10.5K NEXT","fontSize":10,"fontWeight":"bold","color":"#E0E7FF"},{"type":"stack","direction":"horizontal","width":174,"height":6,"cornerRadius":3,"background":{"gradient":{"angle":90,"colors":["#312E81","#312E81"]}},"children":[{"type":"stack","direction":"horizontal","width":172,"height":6,"cornerRadius":3,"background":{"gradient":{"angle":90,"colors":["#F59E0B","#FBBF24"]}},"children":[]}]}]},{"type":"stack","direction":"vertical","width":120,"height":84,"cornerRadius":12,"padding":[8,10,8,10],"justifyContent":"space-between","background":{"gradient":{"angle":135,"colors":["#0F766E","#155E75"]}},"children":[{"type":"text","text":"JB 278","fontSize":9,"fontWeight":"bold","color":"#99F6E4"},{"type":"text","text":"LANDED","fontSize":16,"fontWeight":"bold","color":"#FFFFFF"},{"type":"text","text":"FLL 7:45A","fontSize":10,"fontWeight":"bold","color":"#CCFBF1"},{"type":"text","text":"SEAT 26C","fontSize":10,"fontWeight":"bold","color":"#A7F3D0"}]}]},{"type":"stack","direction":"horizontal","width":324,"height":16,"alignItems":"center","justifyContent":"space-between","children":[{"type":"text","text":"WEATHER CH 8:03P","fontSize":10,"fontWeight":"bold","color":"#E2E8F0"},{"type":"text","text":"201 UNREAD","fontSize":10,"fontWeight":"bold","color":"#94A3B8"}]}]}}
+{
+ "contentRevision": 2129,
+ "mode": "native",
+ "version": 5,
+ "outerPadding": [
+  8,
+  8,
+  8,
+  8
+ ],
+ "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+ "updatedAt": "2026-11-12T06:38:53Z",
+ "root": {
+  "type": "stack",
+  "direction": "vertical",
+  "width": 324,
+  "height": 138,
+  "padding": [
+   8,
+   10,
+   8,
+   10
+  ],
+  "cornerRadius": 14,
+  "justifyContent": "space-between",
+  "background": {
+   "gradient": {
+    "angle": 135,
+    "colors": [
+     "#0B1220",
+     "#312E81"
+    ]
+   }
+  },
+  "children": [
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 18,
+    "alignItems": "center",
+    "justifyContent": "space-between",
+    "children": [
+     {
+      "type": "text",
+      "text": "TORNADO",
+      "fontSize": 13,
+      "fontWeight": "bold",
+      "color": "#F8FAFC"
+     },
+     {
+      "type": "text",
+      "text": "THU 1:38A",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#A5B4FC"
+     }
+    ]
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 84,
+    "alignItems": "center",
+    "justifyContent": "space-between",
+    "children": [
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 157,
+      "height": 84,
+      "cornerRadius": 12,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "justifyContent": "space-between",
+      "background": {
+       "gradient": {
+        "angle": 135,
+        "colors": [
+         "#6D28D9",
+         "#4F46E5"
+        ]
+       }
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "EXIT FREQ",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#DDD6FE"
+       },
+       {
+        "type": "text",
+        "text": "10,400",
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "100 TO GO \u00b7 10.5K",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#FDE68A"
+       }
+      ]
+     },
+     {
+      "type": "stack",
+      "direction": "vertical",
+      "width": 157,
+      "height": 84,
+      "cornerRadius": 12,
+      "padding": [
+       8,
+       10,
+       8,
+       10
+      ],
+      "justifyContent": "space-between",
+      "background": {
+       "gradient": {
+        "angle": 135,
+        "colors": [
+         "#0F766E",
+         "#0E7490"
+        ]
+       }
+      },
+      "children": [
+       {
+        "type": "text",
+        "text": "INSTAGRAM",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#99F6E4"
+       },
+       {
+        "type": "text",
+        "text": "OWEN SMITH",
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "text",
+        "text": "WANTS TO FOLLOW",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "color": "#CCFBF1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "stack",
+    "direction": "horizontal",
+    "width": 324,
+    "height": 16,
+    "alignItems": "center",
+    "justifyContent": "space-between",
+    "children": [
+     {
+      "type": "text",
+      "text": "JB 278 \u00b7 FLL LANDED 7:45A",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#E0E7FF"
+     },
+     {
+      "type": "text",
+      "text": "201 UNREAD",
+      "fontSize": 11,
+      "fontWeight": "bold",
+      "color": "#A5B4FC"
+     }
+    ]
+   }
+  ]
+ }
+}
