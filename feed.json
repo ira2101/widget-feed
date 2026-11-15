@@ -1,1 +1,277 @@
-{"contentRevision":2213,"mode":"native","version":5,"outerPadding":[8,8,8,8],"updatedAt":"2026-11-15T18:39:23Z","widgetURL":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","root":{"type":"stack","width":324,"height":138,"direction":"vertical","padding":[8,10,8,10],"cornerRadius":14,"background":{"gradient":{"angle":135,"colors":["#0F172A","#4C1D95"]}},"children":[{"type":"stack","width":324,"height":18,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","url":"https://music.apple.com/us/album/kerala/1169245868?i=1169246072","children":[{"type":"text","text":"TORNADO","color":"#F8FAFC","fontSize":13,"fontWeight":"bold"},{"type":"text","text":"SUN 1:38P","color":"#FDE68A","fontSize":11,"fontWeight":"bold"}]},{"type":"stack","width":324,"height":84,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"stack","width":100,"height":84,"direction":"vertical","justifyContent":"center","alignItems":"center","cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#7C3AED","#4C1D95"]}},"url":"https://www.youtube.com/@exitfrequency","children":[{"type":"text","text":"EXIT FREQ","color":"#C4B5FD","fontSize":8,"fontWeight":"bold"},{"type":"text","text":"10,400","color":"#FFFFFF","fontSize":18,"fontWeight":"bold"},{"type":"text","text":"100 TO GO","color":"#FDE68A","fontSize":9,"fontWeight":"bold"}]},{"type":"stack","width":100,"height":84,"direction":"vertical","justifyContent":"center","alignItems":"center","cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#0F766E","#134E4A"]}},"url":"https://mail.google.com/mail/u/0/#inbox","children":[{"type":"text","text":"BYLT","color":"#5EEAD4","fontSize":8,"fontWeight":"bold"},{"type":"text","text":"GIFT GUIDE","color":"#FFFFFF","fontSize":11,"fontWeight":"bold"},{"type":"text","text":"ENDS TOMORROW","color":"#FDE68A","fontSize":8,"fontWeight":"bold"}]},{"type":"stack","width":108,"height":84,"direction":"vertical","justifyContent":"center","alignItems":"center","cornerRadius":12,"background":{"gradient":{"angle":135,"colors":["#1D4ED8","#1E3A8A"]}},"url":"https://mail.google.com/mail/u/0/#inbox","children":[{"type":"text","text":"MESSAGES","color":"#BFDBFE","fontSize":8,"fontWeight":"bold"},{"type":"text","text":"ROBIN","color":"#FFFFFF","fontSize":14,"fontWeight":"bold"},{"type":"text","text":"MSG 9:01A","color":"#F8FAFC","fontSize":9,"fontWeight":"bold"},{"type":"text","text":"RACHEL 2 NEW","color":"#FDE68A","fontSize":8,"fontWeight":"bold"}]}]},{"type":"stack","width":324,"height":16,"direction":"horizontal","justifyContent":"space-between","alignItems":"center","children":[{"type":"text","text":"NFL SUNDAY \u00b7 ZILLOW 5 NEW","color":"#F8FAFC","fontSize":9,"fontWeight":"bold"},{"type":"text","text":"SUN NOV 15","color":"#FDE68A","fontSize":9,"fontWeight":"bold"}]}]}}
+{
+  "contentRevision": 2214,
+  "mode": "native",
+  "version": 5,
+  "outerPadding": [
+    8,
+    8,
+    8,
+    8
+  ],
+  "updatedAt": "2026-11-15T19:40:00Z",
+  "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+  "root": {
+    "type": "stack",
+    "width": 324,
+    "height": 138,
+    "direction": "vertical",
+    "padding": [
+      8,
+      10,
+      8,
+      10
+    ],
+    "cornerRadius": 14,
+    "background": {
+      "gradient": {
+        "angle": 135,
+        "colors": [
+          "#111827",
+          "#6D28D9"
+        ]
+      }
+    },
+    "children": [
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 18,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "url": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
+        "children": [
+          {
+            "type": "text",
+            "text": "TORNADO",
+            "color": "#F8FAFC",
+            "fontSize": 13,
+            "fontWeight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "SUN 2:39P",
+            "color": "#FDE68A",
+            "fontSize": 11,
+            "fontWeight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 84,
+        "direction": "vertical",
+        "justifyContent": "space-between",
+        "children": [
+          {
+            "type": "stack",
+            "width": 324,
+            "height": 44,
+            "direction": "vertical",
+            "justifyContent": "center",
+            "cornerRadius": 12,
+            "background": {
+              "gradient": {
+                "angle": 135,
+                "colors": [
+                  "#7C3AED",
+                  "#0F766E"
+                ]
+              }
+            },
+            "url": "https://www.youtube.com/@exitfrequency",
+            "children": [
+              {
+                "type": "stack",
+                "width": 304,
+                "height": 12,
+                "direction": "horizontal",
+                "justifyContent": "space-between",
+                "alignItems": "center",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "EXIT FREQUENCY",
+                    "color": "#C4B5FD",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
+                  },
+                  {
+                    "type": "text",
+                    "text": "100 TO GO",
+                    "color": "#FDE68A",
+                    "fontSize": 9,
+                    "fontWeight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 304,
+                "height": 22,
+                "direction": "horizontal",
+                "justifyContent": "space-between",
+                "alignItems": "center",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "10,400",
+                    "color": "#FFFFFF",
+                    "fontSize": 18,
+                    "fontWeight": "bold"
+                  },
+                  {
+                    "type": "stack",
+                    "width": 200,
+                    "height": 6,
+                    "cornerRadius": 3,
+                    "background": {
+                      "color": "#FFFFFF33"
+                    },
+                    "children": [
+                      {
+                        "type": "stack",
+                        "width": 198,
+                        "height": 6,
+                        "cornerRadius": 3,
+                        "background": {
+                          "color": "#FDE68A"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "10.5K",
+                    "color": "#FDE68A",
+                    "fontSize": 9,
+                    "fontWeight": "bold"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "stack",
+            "width": 324,
+            "height": 30,
+            "direction": "horizontal",
+            "justifyContent": "space-between",
+            "alignItems": "center",
+            "children": [
+              {
+                "type": "stack",
+                "width": 100,
+                "height": 30,
+                "direction": "vertical",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "cornerRadius": 10,
+                "background": {
+                  "gradient": {
+                    "angle": 135,
+                    "colors": [
+                      "#0F766E",
+                      "#134E4A"
+                    ]
+                  }
+                },
+                "url": "https://www.instagram.com/direct/inbox/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "RACHEL 2 NEW",
+                    "color": "#FFFFFF",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 100,
+                "height": 30,
+                "direction": "vertical",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "cornerRadius": 10,
+                "background": {
+                  "gradient": {
+                    "angle": 135,
+                    "colors": [
+                      "#1D4ED8",
+                      "#1E3A8A"
+                    ]
+                  }
+                },
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "ZILLOW 5 NEW",
+                    "color": "#FFFFFF",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 108,
+                "height": 30,
+                "direction": "vertical",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "cornerRadius": 10,
+                "background": {
+                  "gradient": {
+                    "angle": 135,
+                    "colors": [
+                      "#92400E",
+                      "#78350F"
+                    ]
+                  }
+                },
+                "url": "https://mail.google.com/mail/u/0/#inbox",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "VENMO $20",
+                    "color": "#FFFFFF",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "stack",
+        "width": 324,
+        "height": 16,
+        "direction": "horizontal",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "children": [
+          {
+            "type": "text",
+            "text": "BYLT ENDS MON \u00b7 PG&E DEC 3",
+            "color": "#F8FAFC",
+            "fontSize": 9,
+            "fontWeight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "SUN NOV 15",
+            "color": "#FDE68A",
+            "fontSize": 9,
+            "fontWeight": "bold"
+          }
+        ]
+      }
+    ]
+  }
+}
