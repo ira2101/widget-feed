@@ -1,5 +1,5 @@
 {
-  "contentRevision": 2214,
+  "contentRevision": 2215,
   "mode": "native",
   "version": 5,
   "outerPadding": [
@@ -8,7 +8,7 @@
     8,
     8
   ],
-  "updatedAt": "2026-11-15T19:40:00Z",
+  "updatedAt": "2026-11-15T20:39:34Z",
   "widgetURL": "https://music.apple.com/us/album/kerala/1169245868?i=1169246072",
   "root": {
     "type": "stack",
@@ -26,8 +26,8 @@
       "gradient": {
         "angle": 135,
         "colors": [
-          "#111827",
-          "#6D28D9"
+          "#0F172A",
+          "#4C1D95"
         ]
       }
     },
@@ -50,7 +50,7 @@
           },
           {
             "type": "text",
-            "text": "SUN 2:39P",
+            "text": "SUN 3:38P",
             "color": "#FDE68A",
             "fontSize": 11,
             "fontWeight": "bold"
@@ -61,13 +61,13 @@
         "type": "stack",
         "width": 324,
         "height": 84,
-        "direction": "vertical",
+        "direction": "horizontal",
         "justifyContent": "space-between",
         "children": [
           {
             "type": "stack",
-            "width": 324,
-            "height": 44,
+            "width": 157,
+            "height": 84,
             "direction": "vertical",
             "justifyContent": "center",
             "cornerRadius": 12,
@@ -84,7 +84,7 @@
             "children": [
               {
                 "type": "stack",
-                "width": 304,
+                "width": 137,
                 "height": 12,
                 "direction": "horizontal",
                 "justifyContent": "space-between",
@@ -101,15 +101,15 @@
                     "type": "text",
                     "text": "100 TO GO",
                     "color": "#FDE68A",
-                    "fontSize": 9,
+                    "fontSize": 8,
                     "fontWeight": "bold"
                   }
                 ]
               },
               {
                 "type": "stack",
-                "width": 304,
-                "height": 22,
+                "width": 137,
+                "height": 26,
                 "direction": "horizontal",
                 "justifyContent": "space-between",
                 "alignItems": "center",
@@ -122,30 +122,54 @@
                     "fontWeight": "bold"
                   },
                   {
+                    "type": "text",
+                    "text": "99% THERE",
+                    "color": "#FDE68A",
+                    "fontSize": 9,
+                    "fontWeight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 137,
+                "height": 6,
+                "cornerRadius": 3,
+                "background": {
+                  "color": "#FFFFFF33"
+                },
+                "children": [
+                  {
                     "type": "stack",
-                    "width": 200,
+                    "width": 135,
                     "height": 6,
                     "cornerRadius": 3,
                     "background": {
-                      "color": "#FFFFFF33"
-                    },
-                    "children": [
-                      {
-                        "type": "stack",
-                        "width": 198,
-                        "height": 6,
-                        "cornerRadius": 3,
-                        "background": {
-                          "color": "#FDE68A"
-                        }
-                      }
-                    ]
+                      "color": "#FDE68A"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 137,
+                "height": 12,
+                "direction": "horizontal",
+                "justifyContent": "space-between",
+                "alignItems": "center",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "10.5K TARGET",
+                    "color": "#C4B5FD",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
                   },
                   {
                     "type": "text",
-                    "text": "10.5K",
-                    "color": "#FDE68A",
-                    "fontSize": 9,
+                    "text": "GAIN +100",
+                    "color": "#FFFFFF",
+                    "fontSize": 8,
                     "fontWeight": "bold"
                   }
                 ]
@@ -154,95 +178,66 @@
           },
           {
             "type": "stack",
-            "width": 324,
-            "height": 30,
-            "direction": "horizontal",
-            "justifyContent": "space-between",
-            "alignItems": "center",
+            "width": 157,
+            "height": 84,
+            "direction": "vertical",
+            "justifyContent": "center",
+            "cornerRadius": 12,
+            "background": {
+              "gradient": {
+                "angle": 135,
+                "colors": [
+                  "#1E3A8A",
+                  "#0F172A"
+                ]
+              }
+            },
+            "url": "https://mail.google.com/mail/u/0/#inbox",
             "children": [
               {
                 "type": "stack",
-                "width": 100,
-                "height": 30,
-                "direction": "vertical",
-                "justifyContent": "center",
+                "width": 137,
+                "height": 12,
+                "direction": "horizontal",
+                "justifyContent": "space-between",
                 "alignItems": "center",
-                "cornerRadius": 10,
-                "background": {
-                  "gradient": {
-                    "angle": 135,
-                    "colors": [
-                      "#0F766E",
-                      "#134E4A"
-                    ]
-                  }
-                },
-                "url": "https://www.instagram.com/direct/inbox/",
                 "children": [
                   {
                     "type": "text",
-                    "text": "RACHEL 2 NEW",
-                    "color": "#FFFFFF",
+                    "text": "TODAY'S MAIL",
+                    "color": "#93C5FD",
+                    "fontSize": 8,
+                    "fontWeight": "bold"
+                  },
+                  {
+                    "type": "text",
+                    "text": "FRESH TODAY",
+                    "color": "#FDE68A",
                     "fontSize": 8,
                     "fontWeight": "bold"
                   }
                 ]
               },
               {
-                "type": "stack",
-                "width": 100,
-                "height": 30,
-                "direction": "vertical",
-                "justifyContent": "center",
-                "alignItems": "center",
-                "cornerRadius": 10,
-                "background": {
-                  "gradient": {
-                    "angle": 135,
-                    "colors": [
-                      "#1D4ED8",
-                      "#1E3A8A"
-                    ]
-                  }
-                },
-                "url": "https://mail.google.com/mail/u/0/#inbox",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "ZILLOW 5 NEW",
-                    "color": "#FFFFFF",
-                    "fontSize": 8,
-                    "fontWeight": "bold"
-                  }
-                ]
+                "type": "text",
+                "text": "BYLT ENDS MON",
+                "color": "#FFFFFF",
+                "fontSize": 11,
+                "fontWeight": "bold"
               },
               {
-                "type": "stack",
-                "width": 108,
-                "height": 30,
-                "direction": "vertical",
-                "justifyContent": "center",
-                "alignItems": "center",
-                "cornerRadius": 10,
-                "background": {
-                  "gradient": {
-                    "angle": 135,
-                    "colors": [
-                      "#92400E",
-                      "#78350F"
-                    ]
-                  }
-                },
-                "url": "https://mail.google.com/mail/u/0/#inbox",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "VENMO $20",
-                    "color": "#FFFFFF",
-                    "fontSize": 8,
-                    "fontWeight": "bold"
-                  }
-                ]
+                "type": "text",
+                "text": "VENMO $20 \u00b7 ROBIN",
+                "color": "#FFFFFF",
+                "fontSize": 11,
+                "fontWeight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "RACHEL 2 NEW",
+                "color": "#FDE68A",
+                "fontSize": 11,
+                "fontWeight": "bold"
               }
             ]
           }
@@ -258,7 +253,7 @@
         "children": [
           {
             "type": "text",
-            "text": "BYLT ENDS MON \u00b7 PG&E DEC 3",
+            "text": "ZILLOW 5 NEW RENTALS",
             "color": "#F8FAFC",
             "fontSize": 9,
             "fontWeight": "bold"
